@@ -1,6 +1,77 @@
 {
-  "updated": "2026-10-29T10:59:38.979076+00:00",
+  "updated": "2026-10-29T13:15:33.594445+00:00",
   "offers": [
+    {
+      "title": "Zanzibar za 24 690 Kč z Prahy i Bratislavy, 4* resort se soukromou pláží",
+      "summary": "Už 8. listopadu můžete vyrazit z Prahy nebo Bratislavy na Zanzibar. Čeká vás týden u bílé pláže s All Inclusive za 24 690 Kč. Prohlédněte si nabídku Čedoku.",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/zanzibar-za-24-690-kc-z-prahy-i-bratislavy-4-resort-se-soukromou-plazi?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-10-29T13:08:49+00:00",
+      "dateLabel": "29. 10. 2026",
+      "price": 24690,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/zanzibar-za-24-690-kc-z-prahy-i-bratislavy-4-resort-se-soukromou-plazi?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-10-29T13:15:33.594445+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "B&B stay at beachfront 4* Dusit Buncha Koh Tao in Thailand 🌴 🥥 from €51/double",
+      "summary": "Hotel bargain for your tropical escape! Book a bed and breakfast stay at the 4* resort starting at only €43 per night.",
+      "url": "https://www.fly4free.com/flight-deals/europe/4-star-resort-on-koh-tao-e51/",
+      "source": "Fly4free.com",
+      "date": "2026-10-29T13:00:19+00:00",
+      "dateLabel": "29. 10. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/4-star-resort-on-koh-tao-e51/",
+      "firstSeen": "2026-10-29T13:15:33.594445+00:00",
+      "priceOrig": {
+        "amount": 51,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "Poslední letošní zájezdy na Porto Santo z Prahy s all-inclusive. Zájezd od 13 590 Kč",
+      "summary": "Ještě letos si můžete dopřát dovolenou s all-inclusive za super cenu a užít si trochu teplejšího počasí! CK Čedok má další várku zájezdů na portugalský ostrov Porto Santo, kde se i v listopadu teploty pohybují kolem 20 °C.",
+      "url": "https://www.cestujlevne.com/akcni-letenky/posledni-letosni-zajezdy-na-porto-santo-z-prahy-s-all-inclusive",
+      "source": "CestujLevne.com",
+      "date": "2026-10-29T12:07:33+00:00",
+      "dateLabel": "29. 10. 2026",
+      "price": 13590,
+      "image": "",
+      "id": "https://www.cestujlevne.com/akcni-letenky/posledni-letosni-zajezdy-na-porto-santo-z-prahy-s-all-inclusive",
+      "firstSeen": "2026-10-29T13:15:33.594445+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Crazy-low prices! 😲 Cheap full-service open-jaw flights from European cities to many Asian destinations from €242",
+      "summary": "Explore the wonders of Asia without breaking the bank! These incredible China Eastern Airlines deal connects European cities with a wide range of Asian destinations, with fares starting at just €242 return. Even better, open-jaw itineraries",
+      "url": "https://www.fly4free.com/flight-deals/europe/open-jaw-flights-from-europe-to-asia-e242/",
+      "source": "Fly4free.com",
+      "date": "2026-10-29T12:00:51+00:00",
+      "dateLabel": "29. 10. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/open-jaw-flights-from-europe-to-asia-e242/",
+      "firstSeen": "2026-10-29T13:15:33.594445+00:00",
+      "priceOrig": {
+        "amount": 242,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "Exotická dovolená v Keni ve Watamu s All Inclusive z Prahy za 18 990 Kč",
+      "summary": "Exotická dovolená ve Watamu v Keni! 4* resort AHG Lion Beach, All Inclusive a odlet z Prahy jen za 18 990 Kč. Dopřejte si slunce, moře i památky Gede.",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/exoticka-dovolena-v-keni-ve-watamu-s-all-inclusive-z-prahy-za-18-990-kc?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-10-29T11:14:14+00:00",
+      "dateLabel": "29. 10. 2026",
+      "price": 18990,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/exoticka-dovolena-v-keni-ve-watamu-s-all-inclusive-z-prahy-za-18-990-kc?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-10-29T13:15:33.594445+00:00",
+      "priceOrig": null
+    },
     {
       "title": "5* THAJSKO přímým letem - 21 490 Kč",
       "summary": "Levný zájezd do Thajska pořídíme u CK Čedok. CK Čedok nabízí levný zájezd z Prahy na Phuket. Za týdenní zájezd do 5* hotelu se snídaní a přímým letem bez přestupu zaplatíme 21 490 Kč. V ceně zájezdu je také odbavené zavazadlo, transfery v c",
@@ -16,7 +87,7 @@
     },
     {
       "title": "Price cut 💥 Cheap last minute direct flights from Poland to Cape Verde 🏝️ from €231",
-      "summary": "Looking for a spontaneous getaway? Fly non-stop from Warsaw or Katowice to the sun-soaked island of Sal in Cape Verde!",
+      "summary": "Discover a tropical paradise in the Atlantic Ocean, where golden beaches, turquoise waters and spectacular volcanic landscapes await! Enter Air is offering discounted direct flights from Warsaw or Katowice to the sun-soaked island of Sal st",
       "url": "https://www.fly4free.com/flight-deals/europe/flights-from-poland-to-cape-verde-e231/",
       "source": "Fly4free.com",
       "date": "2026-10-29T10:55:27+00:00",
@@ -3051,71 +3122,6 @@
       "price": 39290,
       "image": "",
       "id": "https://levnocestovani.cz/akcni-zajezdy/vietnam-na-15-dni-za-39-290-kc-vila-v-5-resortu-a-primy-let-z-prahy?utm_source=rss&utm_medium=feed",
-      "firstSeen": "2026-10-27T15:35:38.688065+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Prosincové letenky do Maroka. Od 2 133 Kč.",
-      "summary": "Prosincové letenky do Maroka od 2 133 Kč.",
-      "url": "https://www.obletsvet.cz/akcni-letenka/prosincove-letenky-do-maroka",
-      "source": "Obletsvet.cz",
-      "date": "2026-10-22T13:15:30+00:00",
-      "dateLabel": "22. 10. 2026",
-      "price": 2133,
-      "image": "",
-      "id": "https://www.obletsvet.cz/akcni-letenka/prosincove-letenky-do-maroka",
-      "firstSeen": "2026-10-27T15:35:38.688065+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Air Arabia: Praha - Phuket - 11 658 Kč",
-      "summary": "",
-      "url": "https://www.akcniletenky.com",
-      "source": "AkčníLetenky.com",
-      "date": "2026-10-22T13:00:00+00:00",
-      "dateLabel": "22. 10. 2026",
-      "price": 11658,
-      "image": "",
-      "id": "638",
-      "firstSeen": "2026-10-27T15:30:19.910133+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Dovolená na Zanzibaru v 5* hotelu přímo u bílé pláže za 27 490 Kč",
-      "summary": "Vyměňte povinnosti za bílý písek! Luxusní 5* resort Jaz Amaluna na Zanzibaru od 27 490 Kč. Užijte si šnorchlování, Stone Town a relax.",
-      "url": "https://levnocestovani.cz/akcni-zajezdy/dovolena-na-zanzibaru-v-5-hotelu-primo-u-bile-plaze-za-27-490-kc?utm_source=rss&utm_medium=feed",
-      "source": "Levnocestovani.cz",
-      "date": "2026-10-22T12:56:33+00:00",
-      "dateLabel": "22. 10. 2026",
-      "price": 27490,
-      "image": "",
-      "id": "https://levnocestovani.cz/akcni-zajezdy/dovolena-na-zanzibaru-v-5-hotelu-primo-u-bile-plaze-za-27-490-kc?utm_source=rss&utm_medium=feed",
-      "firstSeen": "2026-10-27T15:35:38.688065+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Z Prahy do Bangkoku s LOTem od dubna do června. Letenky od 12 507 Kč",
-      "summary": "Zpáteční letenky z Prahy do Bangkoku s aerolinkou LOT aktuálně pořídíte za 12 507 Kč. Výhodné termíny najdete od dubna do června. V ceně letenky máte malou tašku pod sedadlo i kabinové zavazadlo.",
-      "url": "https://www.cestujlevne.com/akcni-letenky/z-prahy-do-bangkoku-s-lotem-od-dubna-do-cervna",
-      "source": "CestujLevne.com",
-      "date": "2026-10-22T12:11:39+00:00",
-      "dateLabel": "22. 10. 2026",
-      "price": 12507,
-      "image": "",
-      "id": "https://www.cestujlevne.com/akcni-letenky/z-prahy-do-bangkoku-s-lotem-od-dubna-do-cervna",
-      "firstSeen": "2026-10-27T15:35:38.688065+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Keňa za 22 990 Kč. Týden s All Inclusive přímo u vyhlášené Diani Beach",
-      "summary": "Objevte Keňu během týdenní dovolené s All Inclusive ve skvěle hodnoceném resortu přímo u nádherné Diani Beach! Mrkněte na nabídku EXIM tours a Fischer.",
-      "url": "https://levnocestovani.cz/akcni-zajezdy/kena-za-22-990-kc-tyden-s-all-inclusive-primo-u-vyhlasene-diani-beach?utm_source=rss&utm_medium=feed",
-      "source": "Levnocestovani.cz",
-      "date": "2026-10-22T11:20:52+00:00",
-      "dateLabel": "22. 10. 2026",
-      "price": 22990,
-      "image": "",
-      "id": "https://levnocestovani.cz/akcni-zajezdy/kena-za-22-990-kc-tyden-s-all-inclusive-primo-u-vyhlasene-diani-beach?utm_source=rss&utm_medium=feed",
       "firstSeen": "2026-10-27T15:35:38.688065+00:00",
       "priceOrig": null
     }
