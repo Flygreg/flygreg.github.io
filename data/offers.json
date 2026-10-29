@@ -1,6 +1,35 @@
 {
-  "updated": "2026-10-29T19:06:51.978716+00:00",
+  "updated": "2026-10-29T20:57:40.776886+00:00",
   "offers": [
+    {
+      "title": "Luxusní dovolená ve Vietnamu za 25 190 Kč. 5* resort u pláže a přímý let",
+      "summary": "Začněte listopad na tropickém ostrově Phu Quoc! Čeká vás 5* resort se soukromou pláží, bazény a All Inclusive. Podívejte se na podrobnosti tohoto zájezdu.",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/luxusni-dovolena-ve-vietnamu-za-25-190-kc-5-resort-u-plaze-a-primy-let?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-10-29T20:22:36+00:00",
+      "dateLabel": "29. 10. 2026",
+      "price": 25190,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/luxusni-dovolena-ve-vietnamu-za-25-190-kc-5-resort-u-plaze-a-primy-let?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-10-29T20:57:40.776886+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Cheap flights from Vienna to Mumbai, India for €325",
+      "summary": "Discover the vibrant energy of Mumbai with this exceptional AZAL flight deal from Vienna. Travelers can fly to India’s largest city from just €325 return, making it an excellent opportunity to experience one of Asia’s most dynamic destinati",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-vienna-to-mumbai-e325/",
+      "source": "Fly4free.com",
+      "date": "2026-10-29T20:00:10+00:00",
+      "dateLabel": "29. 10. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-vienna-to-mumbai-e325/",
+      "firstSeen": "2026-10-29T20:57:40.776886+00:00",
+      "priceOrig": {
+        "amount": 325,
+        "cur": "EUR"
+      }
+    },
     {
       "title": "Podzimní letenky do EDINBURGHU - 1 451 Kč",
       "summary": "Levné letenky do Edinburghu koupíme u Ryanair. U aerolinky Ryanair najdeme levné letenky z Prahy do Edinburghu. Za nejlevnější zpáteční letenky zaplatíme 1 451 Kč. Za tuto nebo podobnou cenu pořídíme letenky na týdenní termíny v listopadu a",
@@ -3234,19 +3263,6 @@
       "price": 2248,
       "image": "",
       "id": "https://www.cestujlevne.com/akcni-letenky/marrakes-z-prahy-s-eurowings-v-prosinci",
-      "firstSeen": "2026-10-27T15:35:38.688065+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Madeira z Brna za 11 690 Kč: Ostrov věčného jara a ubytování ve Funchalu",
-      "summary": "Leťte z Brna na Madeiru už od 11 690 Kč! Ubytování v Hotelu Jardins D’Ajuda ve Funchalu s bazénem. Objevte levády, krásné hory i delfíny. Rezervujte si zájezd!",
-      "url": "https://levnocestovani.cz/akcni-zajezdy/madeira-z-brna-za-11-690-kc-ostrov-vecneho-jara-a-ubytovani-ve-funchalu?utm_source=rss&utm_medium=feed",
-      "source": "Levnocestovani.cz",
-      "date": "2026-10-22T19:40:31+00:00",
-      "dateLabel": "22. 10. 2026",
-      "price": 11690,
-      "image": "",
-      "id": "https://levnocestovani.cz/akcni-zajezdy/madeira-z-brna-za-11-690-kc-ostrov-vecneho-jara-a-ubytovani-ve-funchalu?utm_source=rss&utm_medium=feed",
       "firstSeen": "2026-10-27T15:35:38.688065+00:00",
       "priceOrig": null
     }

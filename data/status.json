@@ -5,8 +5,7 @@
       "ok": true,
       "items": 10,
       "attempts": [
-        "FlightTipsFeedReader: TimeoutError: The read operation timed out",
-        "browser: HTTP 200, 108211 B"
+        "FlightTipsFeedReader: HTTP 200, 108211 B"
       ],
       "error": ""
     },
@@ -51,7 +50,7 @@
       "ok": true,
       "items": 50,
       "attempts": [
-        "FlightTipsFeedReader: HTTP 200, 62189 B"
+        "FlightTipsFeedReader: HTTP 200, 62124 B"
       ],
       "error": ""
     },
@@ -69,7 +68,7 @@
       "ok": true,
       "items": 50,
       "attempts": [
-        "FlightTipsFeedReader: HTTP 200, 51026 B"
+        "FlightTipsFeedReader: HTTP 200, 51032 B"
       ],
       "error": ""
     }
