@@ -123,7 +123,7 @@ function vEmail(){return head('Hlídač')+'<p>Zadej e-mail, nastav, co tě zají
  `<label for="pe">Tvůj e-mail</label><input id="pe" class="pin" type="email" inputmode="email" autocomplete="email" placeholder="jmeno@email.cz" value="${E(st.email)}"><button type="button" class="pb w" data-act="send"${dis()}>${busy?'Odesílám…':'Pokračovat'}</button>`+
  '<p class="psm">Pošleme ti odkaz, kterým se k nastavení dostaneš odkudkoli. Adresu použijeme jen pro upozornění a odhlásit se můžeš kdykoli.</p>'}
 function vSent(){return head('Zkontroluj schránku')+`<p>Poslali jsme odkaz na <b>${E(st.sentTo)}</b>. Kliknutím se dostaneš k nastavení hlídání. Odkaz platí 30 minut.</p>`+msgs()+
- `<button type="button" class="pb g w" data-act="resend"${dis()}>Poslat znovu</button><p class="psm">Nic nepřišlo? Podívej se do spamu nebo zkus jinou adresu. <a href="#" data-act="other">Změnit adresu</a></p>`}
+ `<button type="button" class="pb g w" data-act="resend"${dis()}>Poslat znovu</button><p class="psm">Nic nepřišlo? <b>Podívej se do spamu</b> nebo zkus jinou adresu. <a href="#" data-act="other">Změnit adresu</a></p>`}
 function vLoad(){return head('Hlídač')+'<p>Načítám…</p>'}
 function ruleCard(r){
   const cc=Object.keys(r.origins||{}),oc=cc.flatMap(k=>(r.origins[k]&&r.origins[k].length)?r.origins[k]:[(ORI.find(x=>x[0]===k)||[])[1]||k]);
