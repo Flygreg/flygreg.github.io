@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T13:15:33.594445+00:00",
+  "updated": "2026-10-29T13:33:06.674315+00:00",
   "offers": [
     {
       "title": "Zanzibar za 24 690 Kč z Prahy i Bratislavy, 4* resort se soukromou pláží",
@@ -29,6 +29,19 @@
         "amount": 51,
         "cur": "EUR"
       }
+    },
+    {
+      "title": "Buzz: Bratislava - Bari - 780 Kč",
+      "summary": "",
+      "url": "https://www.akcniletenky.com",
+      "source": "AkčníLetenky.com",
+      "date": "2026-10-29T13:00:00+00:00",
+      "dateLabel": "29. 10. 2026",
+      "price": 780,
+      "image": "",
+      "id": "666",
+      "firstSeen": "2026-10-29T13:33:06.674315+00:00",
+      "priceOrig": null
     },
     {
       "title": "Poslední letošní zájezdy na Porto Santo z Prahy s all-inclusive. Zájezd od 13 590 Kč",

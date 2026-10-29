@@ -23,9 +23,19 @@
       "ok": true,
       "items": 60,
       "attempts": [
-        "FlightTipsFeedReader: HTTP 200, 141114 B"
+        "FlightTipsFeedReader: HTTP 200, 141319 B"
       ],
       "error": ""
+    },
+    {
+      "name": "LevnéLetenky.org",
+      "ok": false,
+      "items": 0,
+      "attempts": [
+        "FlightTipsFeedReader: HTTPError: HTTP Error 403: Forbidden",
+        "browser: HTTPError: HTTP Error 403: Forbidden"
+      ],
+      "error": "HTTPError: HTTP Error 403: Forbidden"
     },
     {
       "name": "Honzovy letenky",
