@@ -1,0 +1,76 @@
+{
+  "sources": [
+    {
+      "name": "Zaleťsi.cz",
+      "ok": true,
+      "items": 10,
+      "attempts": [
+        "FlightTipsFeedReader: HTTP 200, 108211 B"
+      ],
+      "error": ""
+    },
+    {
+      "name": "Levné letenky z Prahy",
+      "ok": true,
+      "items": 20,
+      "attempts": [
+        "FlightTipsFeedReader: HTTP 200, 15714 B"
+      ],
+      "error": ""
+    },
+    {
+      "name": "AkčníLetenky.com",
+      "ok": true,
+      "items": 60,
+      "attempts": [
+        "FlightTipsFeedReader: HTTP 200, 141114 B"
+      ],
+      "error": ""
+    },
+    {
+      "name": "Honzovy letenky",
+      "ok": true,
+      "items": 10,
+      "attempts": [
+        "FlightTipsFeedReader: HTTP 200, 12805 B"
+      ],
+      "error": ""
+    },
+    {
+      "name": "CestujLevne.com",
+      "ok": true,
+      "items": 20,
+      "attempts": [
+        "FlightTipsFeedReader: HTTP 200, 39983 B"
+      ],
+      "error": ""
+    },
+    {
+      "name": "Fly4free.com",
+      "ok": true,
+      "items": 50,
+      "attempts": [
+        "FlightTipsFeedReader: HTTP 200, 62508 B"
+      ],
+      "error": ""
+    },
+    {
+      "name": "Obletsvet.cz",
+      "ok": true,
+      "items": 10,
+      "attempts": [
+        "FlightTipsFeedReader: HTTP 200, 8265 B"
+      ],
+      "error": ""
+    },
+    {
+      "name": "Levnocestovani.cz",
+      "ok": true,
+      "items": 50,
+      "attempts": [
+        "FlightTipsFeedReader: HTTP 200, 51024 B"
+      ],
+      "error": ""
+    }
+  ]
+}
