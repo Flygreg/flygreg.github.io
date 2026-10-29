@@ -152,7 +152,7 @@ function vEdit(){
   return head(d.id?'Upravit hlídání':'Nové hlídání',E(st.email))+msgs()+
   `<label>Odkud letím <small>(nic nevybráno = odkudkoli)</small></label><div class="pcs">${ctry}</div>${cities}`+
   `<div class="p2"><div><label>Co hledám</label>${seg('kind',d.kind,[['letenka','Letenky',KPLN],['zajezd','Zájezdy',KBAG],['','Obojí']])}</div><div><label for="pp">Cena do (Kč)</label><input id="pp" class="pin" type="number" inputmode="numeric" min="0" step="100" value="${d.maxPrice||''}" placeholder="bez omezení"></div></div>`+
-  `<label for="pk">Cíl nebo klíčová slova <small>(volitelné, odděl čárkou)</small></label><input id="pk" class="pin" maxlength="100" value="${E(d.keywords)}" placeholder="Island, Norsko">`+
+  `<label for="pk">Cíl nebo klíčová slova <small>(volitelné, odděl čárkou)</small></label><input id="pk" class="pin" maxlength="100" value="${E(d.keywords)}" placeholder="Island, Norsko, Kamkoli">`+
   `<div class="pacts"><button type="button" class="pb" data-act="save"${dis()}>${busy?'Ukládám…':'Uložit hlídání'}</button><button type="button" class="pb g" data-act="back">Zrušit</button></div>`}
 
 function paint(){
