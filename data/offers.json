@@ -1,6 +1,109 @@
 {
-  "updated": "2026-10-29T17:06:50.484076+00:00",
+  "updated": "2026-10-29T19:06:51.978716+00:00",
   "offers": [
+    {
+      "title": "Podzimní letenky do EDINBURGHU - 1 451 Kč",
+      "summary": "Levné letenky do Edinburghu koupíme u Ryanair. U aerolinky Ryanair najdeme levné letenky z Prahy do Edinburghu. Za nejlevnější zpáteční letenky zaplatíme 1 451 Kč. Za tuto nebo podobnou cenu pořídíme letenky na týdenní termíny v listopadu a",
+      "url": "https://honzovyletenky.cz/podzimni-letenky-do-edinburghu/",
+      "source": "Honzovy letenky",
+      "date": "2026-10-29T19:17:08+00:00",
+      "dateLabel": "29. 10. 2026",
+      "price": 1451,
+      "image": "",
+      "id": "https://honzovyletenky.cz/podzimni-letenky-do-edinburghu/",
+      "firstSeen": "2026-10-29T19:06:51.978716+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Explore Australia! 🐨 🦘 Cheap full-service flights from London to Melbourne & Sydney from £480",
+      "summary": "Score an incredible long-haul flight deal with cheap Air China flights to Sydney or Melbourne starting at just £480 return. If Australia has been on your bucket list, this is the kind of fare worth jumping on, especially considering the hug",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-australia-p480/",
+      "source": "Fly4free.com",
+      "date": "2026-10-29T19:00:33+00:00",
+      "dateLabel": "29. 10. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-australia-p480/",
+      "firstSeen": "2026-10-29T19:06:51.978716+00:00",
+      "priceOrig": {
+        "amount": 480,
+        "cur": "GBP"
+      }
+    },
+    {
+      "title": "Na Mauricius za 26 180 Kč: Týden v resortu poblíž jedné z nejkrásnějších pláží ostrova",
+      "summary": "Poznejte Mauricius, ostrov zelených hor, vodopádů a nádherných pláží. Už 7. listopadu můžete odletět z Prahy na týden s polopenzí. Prohlédněte si nabídku.",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/na-mauricius-za-26-180-kc-tyden-v-resortu-pobliz-jedne-z-nejkrasnejsich-plazi-ostrova?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-10-29T18:29:43+00:00",
+      "dateLabel": "29. 10. 2026",
+      "price": 26180,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/na-mauricius-za-26-180-kc-tyden-v-resortu-pobliz-jedne-z-nejkrasnejsich-plazi-ostrova?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-10-29T19:06:51.978716+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "HIGH SEASON ☀️ 🌊 Qatar Airways flights from Warsaw to South East Asia from €579",
+      "summary": "Swap grey skies for tropical coastlines, bustling night markets, lush rice terraces, and unforgettable island adventures. Qatar Airways are offering discounted flights to Thailand, Malaysia, Indonesia, and Singapore starting at just €579 re",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-warsaw-to-south-east-asia-e579/",
+      "source": "Fly4free.com",
+      "date": "2026-10-29T18:00:03+00:00",
+      "dateLabel": "29. 10. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-warsaw-to-south-east-asia-e579/",
+      "firstSeen": "2026-10-29T19:06:51.978716+00:00",
+      "priceOrig": {
+        "amount": 579,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "Na 8 dní do Egypta za 13 990 Kč s odletem z Bratislavy",
+      "summary": "Soukromá pláž, bazény s tobogány a možnost šnorchlování v Rudém moři. Užijte si listopad v Hurghadě ve 4* resortu. Prohlédněte si nabídku Čedoku.",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/na-8-dni-do-egypta-za-13-990-kc-s-odletem-z-bratislavy?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-10-29T17:55:25+00:00",
+      "dateLabel": "29. 10. 2026",
+      "price": 13990,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/na-8-dni-do-egypta-za-13-990-kc-s-odletem-z-bratislavy?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-10-29T19:06:51.978716+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Tanzania Tightens Entry Rules for Tourists: Health Forms, Airport Screening and $44 Insurance",
+      "summary": "Planning a safari in Tanzania or dreaming of Zanzibar's white-sand beaches? Travellers now have a few extra formalities to deal with alongside their passports, flight tickets and hotel bookings. In response to the threat of Ebola spreading,",
+      "url": "https://www.fly4free.com/news/tanzania-tightens-entry-rules-for-tourists-health-forms-airport-screening-and-44-insurance/",
+      "source": "Fly4free.com",
+      "date": "2026-10-29T17:30:19+00:00",
+      "dateLabel": "29. 10. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/news/tanzania-tightens-entry-rules-for-tourists-health-forms-airport-screening-and-44-insurance/",
+      "firstSeen": "2026-10-29T19:06:51.978716+00:00",
+      "priceOrig": {
+        "amount": 44,
+        "cur": "USD"
+      }
+    },
+    {
+      "title": "4🌟 Tower Hotel Wrocław in picturesque Wroclaw, Poland, for €56/double",
+      "summary": "Discover the charm of Wrocław, Poland, with a stay at the 4-star Tower Hotel Wrocław for only €56 per double room! This lovely city is perfect for a budget-friendly getaway, combining colourful architecture, historic streets, atmospheric sq",
+      "url": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-wroclaw-e56/",
+      "source": "Fly4free.com",
+      "date": "2026-10-29T17:00:56+00:00",
+      "dateLabel": "29. 10. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-wroclaw-e56/",
+      "firstSeen": "2026-10-29T19:06:51.978716+00:00",
+      "priceOrig": {
+        "amount": 56,
+        "cur": "EUR"
+      }
+    },
     {
       "title": "Sicílie z Prahy v lednu. Na víkend, týden nebo s příletem do Palerma a návratem z Catanie. Letenky od 1 145 Kč",
       "summary": "U Ryanairu teď pořídíte levné letenky z Prahy do sicilské Catanie na leden 2027. Vyrazit můžete na celý týden nebo jen na víkend od pátku do neděle. Zpáteční letenky pořídíte už od 1 144 Kč.",
@@ -3144,32 +3247,6 @@
       "price": 11690,
       "image": "",
       "id": "https://levnocestovani.cz/akcni-zajezdy/madeira-z-brna-za-11-690-kc-ostrov-vecneho-jara-a-ubytovani-ve-funchalu?utm_source=rss&utm_medium=feed",
-      "firstSeen": "2026-10-27T15:35:38.688065+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Zanzibar na týden přes státní svátek s all inclusive. Od 24 490 Kč.",
-      "summary": "Zanzibar na týden přes státní svátek s all inclusive za 24 490 Kč.",
-      "url": "https://www.obletsvet.cz/akcni-letenka/zanzibar-na-tyden-pres-statni-svatek-s-all-inclusive",
-      "source": "Obletsvet.cz",
-      "date": "2026-10-22T18:35:11+00:00",
-      "dateLabel": "22. 10. 2026",
-      "price": 24490,
-      "image": "",
-      "id": "https://www.obletsvet.cz/akcni-letenka/zanzibar-na-tyden-pres-statni-svatek-s-all-inclusive",
-      "firstSeen": "2026-10-27T15:35:38.688065+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Keňa s All Inclusive za 20 990 Kč. Skvěle hodnocený resort u Diani Beach",
-      "summary": "Bílé pláže, palmy a Indický oceán za 20 990 Kč na osobu – vyrazte na týden do Keni s All Inclusive ve skvěle hodnoceném resortu přímo u Diani Beach.",
-      "url": "https://levnocestovani.cz/akcni-zajezdy/kena-s-all-inclusive-za-20-990-kc-skvele-hodnoceny-resort-u-diani-beach?utm_source=rss&utm_medium=feed",
-      "source": "Levnocestovani.cz",
-      "date": "2026-10-22T17:55:01+00:00",
-      "dateLabel": "22. 10. 2026",
-      "price": 20990,
-      "image": "",
-      "id": "https://levnocestovani.cz/akcni-zajezdy/kena-s-all-inclusive-za-20-990-kc-skvele-hodnoceny-resort-u-diani-beach?utm_source=rss&utm_medium=feed",
       "firstSeen": "2026-10-27T15:35:38.688065+00:00",
       "priceOrig": null
     }
