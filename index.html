@@ -195,7 +195,7 @@ async function act(a,el){
       
       busy=true;paint();const r=await api({a:'save',s:getS(),rule:ruleFromEd()});busy=false;
       if(r.ok){st.rules=r.rules;go('list')}else if(r.error==='auth'){setS('');go('email',{msg:'Přihlášení vypršelo. Zadej e-mail znovu.'})}else{st.msg=r.error||'Uložení se nepovedlo.';paint()}return}
-    case'toggle':{const r=st.rules.find(x=>x.id===id);if(!r)return;busy=true;const res=await api({a:'toggle',s:getS(),id,active:!r.active});busy=false;if(res.ok){st.rules=res.rules;saveC();paint()}else{st.msg=res.error;paint()}return}
+    case'toggle':{const r=st.rules.find(x=>x.id===id);if(!r)return;const to=!r.active;r.active=to;saveC();paint();let res;try{res=await api({a:'toggle',s:getS(),id,active:to})}catch(e){res={ok:false,error:'Nepodařilo se uložit, zkus to znovu.'}}if(!res||!res.ok){const q=st.rules.find(x=>x.id===id);if(q)q.active=!to;saveC();st.msg=(res&&res.error)||'Nepodařilo se uložit, zkus to znovu.';paint()}return}
     case'del':{if(!confirm('Opravdu smazat toto hlídání?'))return;busy=true;const res=await api({a:'del',s:getS(),id});busy=false;if(res.ok){st.rules=res.rules;saveC();paint()}else{st.msg=res.error;paint()}return}
     case'logout':await api({a:'logout',s:getS()});setS('');return go('email',{email:'',sentTo:'',rules:[],ed:null,tok:'',ok:'Toto zařízení je odhlášené.'});
     case'wipeask':return go('wipe');
