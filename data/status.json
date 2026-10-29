@@ -28,16 +28,6 @@
       "error": ""
     },
     {
-      "name": "LevnéLetenky.org",
-      "ok": false,
-      "items": 0,
-      "attempts": [
-        "FlightTipsFeedReader: HTTPError: HTTP Error 403: Forbidden",
-        "browser: HTTPError: HTTP Error 403: Forbidden"
-      ],
-      "error": "HTTPError: HTTP Error 403: Forbidden"
-    },
-    {
       "name": "Honzovy letenky",
       "ok": true,
       "items": 10,
