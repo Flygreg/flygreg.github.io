@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-29T20:57:40.776886+00:00",
+  "updated": "2026-10-29T22:54:22.492505+00:00",
   "offers": [
+    {
+      "title": "HOT DEAL🔥 Open-jaw flights from Europe to New Zealand and Australia from only €490",
+      "summary": "Australia and New Zealand are usually expensive long-haul destinations, so flying all the way from Europe for less than €500 is an absolute bargain!",
+      "url": "https://www.fly4free.com/flight-deals/europe/lights-from-europe-to-new-zealand-e490/",
+      "source": "Fly4free.com",
+      "date": "2026-10-29T21:30:46+00:00",
+      "dateLabel": "29. 10. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/lights-from-europe-to-new-zealand-e490/",
+      "firstSeen": "2026-10-29T22:54:22.492505+00:00",
+      "priceOrig": {
+        "amount": 490,
+        "cur": "EUR"
+      }
+    },
     {
       "title": "Luxusní dovolená ve Vietnamu za 25 190 Kč. 5* resort u pláže a přímý let",
       "summary": "Začněte listopad na tropickém ostrově Phu Quoc! Čeká vás 5* resort se soukromou pláží, bazény a All Inclusive. Podívejte se na podrobnosti tohoto zájezdu.",
@@ -57,6 +73,22 @@
       "priceOrig": {
         "amount": 480,
         "cur": "GBP"
+      }
+    },
+    {
+      "title": "Full-service flights from London & Stockholm to New Zealand from €647",
+      "summary": "Looking for an unforgettable long-haul getaway? Take advantage of this amazing deal: fly to Auckland with China Eastern Airlines for just €647 roundtrip! Full-service means your fare includes meals, drinks, checked baggage, and in-flight en",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-london-stockholm-to-new-zealand/",
+      "source": "Fly4free.com",
+      "date": "2026-10-29T18:30:18+00:00",
+      "dateLabel": "29. 10. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-london-stockholm-to-new-zealand/",
+      "firstSeen": "2026-10-29T22:54:22.492505+00:00",
+      "priceOrig": {
+        "amount": 647,
+        "cur": "EUR"
       }
     },
     {
