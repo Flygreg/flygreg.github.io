@@ -1,6 +1,48 @@
 {
-  "updated": "2026-10-29T22:54:22.492505+00:00",
+  "updated": "2026-10-30T07:15:34.122861+00:00",
   "offers": [
+    {
+      "title": "Letenky Alicante, Španělsko z Prahy za 1057 Kč",
+      "summary": "Z Prahy do Alicante se teď dostanete s easyJetem za pouhých 1 057 Kč – a to je cena, která stojí za pozornost. Alicante je přístavní město na jihovýchodě Španělska, které si lidé oblíbili mimo jiné pro hrad Santa Bárbara tyčící se přímo nad",
+      "url": "https://www.levneletenkyzprahy.cz/2743_letenky-alicante,-spanelsko-z-prahy-za-1057-kc",
+      "source": "Levné letenky z Prahy",
+      "date": "2026-10-30T07:56:14+00:00",
+      "dateLabel": "30. 10. 2026",
+      "price": 1057,
+      "image": "",
+      "id": "https://www.levneletenkyzprahy.cz/2743_letenky-alicante,-spanelsko-z-prahy-za-1057-kc",
+      "firstSeen": "2026-10-30T07:15:34.122861+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "HIGH SEASON ☀️ Cheap full-service flights from Brussels to Vietnam from €388",
+      "summary": "This is a seriously good long-haul fare to Southeast Asia! Juneyao Airlines is offering discounted return flights to Hanoi or Ho Chi Minh from only €388, with checked baggage, meals and onboard entertainment included — making it an especial",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-brussels-to-vietnam-e388-2/",
+      "source": "Fly4free.com",
+      "date": "2026-10-30T07:00:40+00:00",
+      "dateLabel": "30. 10. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-brussels-to-vietnam-e388-2/",
+      "firstSeen": "2026-10-30T07:15:34.122861+00:00",
+      "priceOrig": {
+        "amount": 388,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "Wizz Air: Praha - Poprad - 805 Kč",
+      "summary": "",
+      "url": "https://www.akcniletenky.com",
+      "source": "AkčníLetenky.com",
+      "date": "2026-10-30T06:00:00+00:00",
+      "dateLabel": "30. 10. 2026",
+      "price": 805,
+      "image": "",
+      "id": "668",
+      "firstSeen": "2026-10-30T07:15:34.122861+00:00",
+      "priceOrig": null
+    },
     {
       "title": "HOT DEAL🔥 Open-jaw flights from Europe to New Zealand and Australia from only €490",
       "summary": "Australia and New Zealand are usually expensive long-haul destinations, so flying all the way from Europe for less than €500 is an absolute bargain!",
@@ -3219,83 +3261,6 @@
       "image": "",
       "id": "641",
       "firstSeen": "2026-10-27T15:30:19.910133+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Akční letenky: Florencie, Itálie za 1490 Kč",
-      "summary": "Zpáteční letenka z Prahy do Florencie vyjde s Voloteou od 1 490 Kč – a to je slušná příležitost vyrazit do města, kde večer nezačíná dřív než ve dvacet hodin. Florencie totiž není jen o galeriích a renesančních palácích, i když Uffizi, Pont",
-      "url": "https://www.levneletenkyzprahy.cz/2736_akcni-letenky:-florencie,-italie-za-1490-kc",
-      "source": "Levné letenky z Prahy",
-      "date": "2026-10-23T07:08:15+00:00",
-      "dateLabel": "23. 10. 2026",
-      "price": 1490,
-      "image": "",
-      "id": "https://www.levneletenkyzprahy.cz/2736_akcni-letenky:-florencie,-italie-za-1490-kc",
-      "firstSeen": "2026-10-27T13:31:28.797751+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Za příjemnými teplotami na Kypr: Pafos z Bratislavy od 1 292 Kč",
-      "summary": "Rezervuj: přes náš vyhledávač Zavazadla: příruční bágl o rozměrech do 40 × 30 × 20 cm Dostupnost: listopad 2026 – březen 2027 Termíny od 1 292 Kč: 22. 11. – 27. 11. → Zobrazit let 6. 12. – 13. 12. → Zobrazit let 8. 1. – 17. 1. → Zobrazit le",
-      "url": "https://zaletsi.cz/akce/za-prijemnymi-teplotami-na-kypr-pafos-z-bratislavy/",
-      "source": "Zaleťsi.cz",
-      "date": "2026-10-23T07:00:13+00:00",
-      "dateLabel": "23. 10. 2026",
-      "price": 1292,
-      "image": "",
-      "firstSeen": "2026-10-27T10:16:20.698591+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Dominikána přímým letem: HM Alma de Bayahibe jen pro dospělé od 29 990 Kč",
-      "summary": "Odpočiňte si ve dvou v Karibiku! HM Alma de Bayahibe s All Inclusive, bazény a výlety na ostrov Saona od 29 990 Kč. Zaleťte si do Dominikány přímým letem.",
-      "url": "https://levnocestovani.cz/akcni-zajezdy/dominikana-primym-letem-hm-alma-de-bayahibe-jen-pro-dospele-od-29-990-kc?utm_source=rss&utm_medium=feed",
-      "source": "Levnocestovani.cz",
-      "date": "2026-10-23T06:50:16+00:00",
-      "dateLabel": "23. 10. 2026",
-      "price": 29990,
-      "image": "",
-      "id": "https://levnocestovani.cz/akcni-zajezdy/dominikana-primym-letem-hm-alma-de-bayahibe-jen-pro-dospele-od-29-990-kc?utm_source=rss&utm_medium=feed",
-      "firstSeen": "2026-10-27T15:35:38.688065+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Madeira na týden se snídaní přes říjnový svátek. Zájezd od 11 690 Kč",
-      "summary": "Už příští úterý můžete vyrazit z Brna na Madeiru! Čedok nabízí týdenní zájezd za 11 690 Kč na osobu s ubytováním ve čtyřhvězdičkovém hotelu Jardins D'Ajuda se snídaní.",
-      "url": "https://www.cestujlevne.com/akcni-letenky/madeira-na-tyden-se-snidani-pres-rijnovy-svatek",
-      "source": "CestujLevne.com",
-      "date": "2026-10-23T06:06:55+00:00",
-      "dateLabel": "23. 10. 2026",
-      "price": 11690,
-      "image": "",
-      "id": "https://www.cestujlevne.com/akcni-letenky/madeira-na-tyden-se-snidani-pres-rijnovy-svatek",
-      "firstSeen": "2026-10-27T15:35:38.688065+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Buzz: Bratislava - Barcelona - 970 Kč",
-      "summary": "",
-      "url": "https://www.akcniletenky.com",
-      "source": "AkčníLetenky.com",
-      "date": "2026-10-23T06:00:00+00:00",
-      "dateLabel": "23. 10. 2026",
-      "price": 970,
-      "image": "",
-      "id": "640",
-      "firstSeen": "2026-10-27T15:30:19.910133+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Marrákeš z Prahy s Eurowings v prosinci. Letenky od 2 248 Kč",
-      "summary": "Na jediný prosincový termín 12.-19.12. ulovíte na webu eurowings.com akční zpáteční letenky z Prahy do Maroka za 2 248 Kč.",
-      "url": "https://www.cestujlevne.com/akcni-letenky/marrakes-z-prahy-s-eurowings-v-prosinci",
-      "source": "CestujLevne.com",
-      "date": "2026-10-23T05:49:59+00:00",
-      "dateLabel": "23. 10. 2026",
-      "price": 2248,
-      "image": "",
-      "id": "https://www.cestujlevne.com/akcni-letenky/marrakes-z-prahy-s-eurowings-v-prosinci",
-      "firstSeen": "2026-10-27T15:35:38.688065+00:00",
       "priceOrig": null
     }
   ]
