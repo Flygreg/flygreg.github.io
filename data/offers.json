@@ -1,6 +1,48 @@
 {
-  "updated": "2026-10-30T19:00:04.784646+00:00",
+  "updated": "2026-10-30T20:54:59.725578+00:00",
   "offers": [
+    {
+      "title": "Tenerife z Prahy: Týden v Puerto de la Cruz s All Inclusive od 16 490 Kč",
+      "summary": "Dopřejte týden v Puerto de la Cruz na Tenerife! 4* hotel, All Inclusive a skvělá lokalita jen 250 m od pláže Martiánez. Na Čedoku nebo Invii od 16 490 Kč.",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/tenerife-z-prahy-tyden-v-puerto-de-la-cruz-s-all-inclusive-od-16-490-kc?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-10-30T20:47:53+00:00",
+      "dateLabel": "30. 10. 2026",
+      "price": 16490,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/tenerife-z-prahy-tyden-v-puerto-de-la-cruz-s-all-inclusive-od-16-490-kc?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-10-30T20:54:59.725578+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Akční letenky na MAURICIUS - 13 990 Kč",
+      "summary": "Levné letenky na Mauricius nabízí Fischer i se zavazadlem. CK Fischer nabízí nyní levné letenky z Prahy na Mauricius. Ve svém rezervačním systému nabízí letenky od Turkish Airlines za 13 990 Kč. Po cestě máme jeden přestup v Istanbulu. Za t",
+      "url": "https://honzovyletenky.cz/akcni-letenky-na-mauricius-4/",
+      "source": "Honzovy letenky",
+      "date": "2026-10-30T20:25:44+00:00",
+      "dateLabel": "30. 10. 2026",
+      "price": 13990,
+      "image": "",
+      "id": "https://honzovyletenky.cz/akcni-letenky-na-mauricius-4/",
+      "firstSeen": "2026-10-30T20:54:59.725578+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "🌴 WINTER SUN + SAFARI! Cheap flights from Europe to Mombasa from €383 return",
+      "summary": "Why choose between a beach holiday and a safari when you can do both? Condor is offering return flights from several European cities to Mombasa from just €383, making Kenya’s Indian Ocean coast a very tempting winter escape.",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-mombasa-e383/",
+      "source": "Fly4free.com",
+      "date": "2026-10-30T20:00:00+00:00",
+      "dateLabel": "30. 10. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-mombasa-e383/",
+      "firstSeen": "2026-10-30T20:54:59.725578+00:00",
+      "priceOrig": {
+        "amount": 383,
+        "cur": "EUR"
+      }
+    },
     {
       "title": "Lednový Omán z Prahy na týden v oblíbeném resortu s all-inclusive. Zájezd od 20 990 Kč",
       "summary": "V lednu můžete přímým letem z Prahy vyrazit ohřát se do Ománu. CK Čedok má aktuálně v nabídce týdenní zájezdy do oblíbeného čtyřhvězdičkového hotelu Barceló Mussanah Resort přímo u moře. S all-inclusive vás dovolená vyjde na 20 990 Kč za os",
@@ -3456,19 +3498,6 @@
       "image": "",
       "id": "644",
       "firstSeen": "2026-10-27T15:30:19.910133+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Podzim na Turecké riviéře: 5* Grand Kolibri Prestige & Spa s Ultra All Inclusive za 13 790 Kč",
-      "summary": "Dopřejte si podzimní relax v 5* hotelu Grand Kolibri Prestige & Spa jen 50 m od pláže. Ultra All Inclusive, sauna i wellness v ceně od 13 790 Kč.",
-      "url": "https://levnocestovani.cz/akcni-zajezdy/podzim-na-turecke-riviere-5-grand-kolibri-prestige-and-spa-s-ultra-all-inclusive-za-13-790-kc?utm_source=rss&utm_medium=feed",
-      "source": "Levnocestovani.cz",
-      "date": "2026-10-23T19:58:27+00:00",
-      "dateLabel": "23. 10. 2026",
-      "price": 13790,
-      "image": "",
-      "id": "https://levnocestovani.cz/akcni-zajezdy/podzim-na-turecke-riviere-5-grand-kolibri-prestige-and-spa-s-ultra-all-inclusive-za-13-790-kc?utm_source=rss&utm_medium=feed",
-      "firstSeen": "2026-10-27T15:35:38.688065+00:00",
       "priceOrig": null
     }
   ]
