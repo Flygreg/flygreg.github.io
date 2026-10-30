@@ -1,6 +1,48 @@
 {
-  "updated": "2026-10-30T15:08:03.639228+00:00",
+  "updated": "2026-10-30T16:58:59.500122+00:00",
   "offers": [
+    {
+      "title": "Zanzibar za 24 990 Kč: All Inclusive v 5* Kiwengwa Beach Resort přímo u bílé pláže",
+      "summary": "Bílý písek, tyrkysový oceán a tropická atmosféra Zanzibaru. Užijte si týden v 5* resortu s All Inclusive a odletem z Prahy či Bratislavy. Nabízí Čedok.",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/zanzibar-za-24-990-kc-all-inclusive-v-5-kiwengwa-beach-resort-primo-u-bile-plaze?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-10-30T16:30:04+00:00",
+      "dateLabel": "30. 10. 2026",
+      "price": 24990,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/zanzibar-za-24-990-kc-all-inclusive-v-5-kiwengwa-beach-resort-primo-u-bile-plaze?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-10-30T16:58:59.500122+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Keňa v listopadu na týden. Od 23 490 Kč.",
+      "summary": "Keňa v listopadu na týden za 23 490 Kč.",
+      "url": "https://www.obletsvet.cz/akcni-letenka/kena-v-listopadu-na-tyden",
+      "source": "Obletsvet.cz",
+      "date": "2026-10-30T15:56:17+00:00",
+      "dateLabel": "30. 10. 2026",
+      "price": 23490,
+      "image": "",
+      "id": "https://www.obletsvet.cz/akcni-letenka/kena-v-listopadu-na-tyden",
+      "firstSeen": "2026-10-30T16:58:59.500122+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "LAST MINUTE ☀️ 🌴 Direct full-service flights from several cities in Poland to Sri Lanka for €501",
+      "summary": "Enter Air is offering direct return flights from several Polish cities to Colombo from just €501, making Sri Lanka an easy last-minute option for anyone craving beaches, jungle, tea country and a completely different climate.",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-poland-to-sri-lanka-e501/",
+      "source": "Fly4free.com",
+      "date": "2026-10-30T15:30:30+00:00",
+      "dateLabel": "30. 10. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-poland-to-sri-lanka-e501/",
+      "firstSeen": "2026-10-30T16:58:59.500122+00:00",
+      "priceOrig": {
+        "amount": 501,
+        "cur": "EUR"
+      }
+    },
     {
       "title": "Podzimní dovolená na Lanzarote: 4* hotel THB Tropical Island s polopenzí od 15 590 Kč",
       "summary": "Užijte si podzim na Lanzarote! 8 dní ve 4* hotelu THB Tropical Island s polopenzí a odletem z Prahy za 15 590 Kč. Zarezervujte si svou dovolenou ještě dnes.",
@@ -3355,45 +3397,6 @@
       "price": 13790,
       "image": "",
       "id": "https://levnocestovani.cz/akcni-zajezdy/podzim-na-turecke-riviere-5-grand-kolibri-prestige-and-spa-s-ultra-all-inclusive-za-13-790-kc?utm_source=rss&utm_medium=feed",
-      "firstSeen": "2026-10-27T15:35:38.688065+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Maledivy s All Inclusive za 39 480 Kč: Přímý let a luxusní 5* resort",
-      "summary": "Splňte si sen o Maledivách za 39 480 Kč. Přímý let, All Inclusive a ubytování v 5* resortu přímo u pláže. Dopřejte si zasloužený relax v tropech ještě dnes!",
-      "url": "https://levnocestovani.cz/akcni-zajezdy/maledivy-s-all-inclusive-za-39-480-kc-primy-let-a-luxusni-5-resort?utm_source=rss&utm_medium=feed",
-      "source": "Levnocestovani.cz",
-      "date": "2026-10-23T16:42:49+00:00",
-      "dateLabel": "23. 10. 2026",
-      "price": 39480,
-      "image": "",
-      "id": "https://levnocestovani.cz/akcni-zajezdy/maledivy-s-all-inclusive-za-39-480-kc-primy-let-a-luxusni-5-resort?utm_source=rss&utm_medium=feed",
-      "firstSeen": "2026-10-27T15:35:38.688065+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Pegasus Airlines: Praha - Abú Dhabí - 5 390 Kč",
-      "summary": "",
-      "url": "https://www.akcniletenky.com",
-      "source": "AkčníLetenky.com",
-      "date": "2026-10-23T16:00:00+00:00",
-      "dateLabel": "23. 10. 2026",
-      "price": 5390,
-      "image": "",
-      "id": "643",
-      "firstSeen": "2026-10-27T15:30:19.910133+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Nice během dubna a května. Od 1 584 Kč.",
-      "summary": "Nice během dubna a května od 1 499 Kč.",
-      "url": "https://www.obletsvet.cz/akcni-letenka/nice-behem-dubna-a-kvetna",
-      "source": "Obletsvet.cz",
-      "date": "2026-10-23T15:08:30+00:00",
-      "dateLabel": "23. 10. 2026",
-      "price": 1584,
-      "image": "",
-      "id": "https://www.obletsvet.cz/akcni-letenka/nice-behem-dubna-a-kvetna",
       "firstSeen": "2026-10-27T15:35:38.688065+00:00",
       "priceOrig": null
     }
