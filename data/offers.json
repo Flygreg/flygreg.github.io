@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-30T20:54:59.725578+00:00",
+  "updated": "2026-10-30T22:51:03.216619+00:00",
   "offers": [
+    {
+      "title": "🇩🇪 Design-led 4-star 25hours Hotel in Frankfurt from just €66/double (including Xmas🎄)",
+      "summary": "If you prefer hotels with personality over generic business-chain interiors, 25hours Hotel Frankfurt The Goldman is a very different kind of Frankfurt stay. Set in the creative Ostend district, close to the European Central Bank and the Mai",
+      "url": "https://www.fly4free.com/flight-deals/europe/25hotels-frankfurt-4-star-hotel/",
+      "source": "Fly4free.com",
+      "date": "2026-10-30T21:00:17+00:00",
+      "dateLabel": "30. 10. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/25hotels-frankfurt-4-star-hotel/",
+      "firstSeen": "2026-10-30T22:51:03.216619+00:00",
+      "priceOrig": {
+        "amount": 66,
+        "cur": "EUR"
+      }
+    },
     {
       "title": "Tenerife z Prahy: Týden v Puerto de la Cruz s All Inclusive od 16 490 Kč",
       "summary": "Dopřejte týden v Puerto de la Cruz na Tenerife! 4* hotel, All Inclusive a skvělá lokalita jen 250 m od pláže Martiánez. Na Čedoku nebo Invii od 16 490 Kč.",
@@ -141,6 +157,19 @@
       "priceOrig": null
     },
     {
+      "title": "Tchaj-wan: akční letenky z Mnichova do Tchaj-peje (vč. odbaveného zavazadla) za 11 601 Kč",
+      "summary": "Rezervuj: přes náš vyhledávač Zavazadla: odbavený bágl do 23 kg + příručák Dostupnost: listopad 2026 – březen 2027 Termíny za 11 601 Kč → Zobrazit kalendář Uvedená cena platí při použití kódu „ZALETSI“ v posledním kroku rezervace. O akci S",
+      "url": "https://zaletsi.cz/akce/tchaj-wan-akcni-letenky-z-mnichova-do-tchaj-peje-vc-odbaveneho-zavazadla/",
+      "source": "Zaleťsi.cz",
+      "date": "2026-10-30T15:46:03+00:00",
+      "dateLabel": "30. 10. 2026",
+      "price": 11601,
+      "image": "",
+      "id": "https://zaletsi.cz/akce/tchaj-wan-akcni-letenky-z-mnichova-do-tchaj-peje-vc-odbaveneho-zavazadla/",
+      "firstSeen": "2026-10-30T22:51:03.216619+00:00",
+      "priceOrig": null
+    },
+    {
       "title": "LAST MINUTE ☀️ 🌴 Direct full-service flights from several cities in Poland to Sri Lanka for €501",
       "summary": "Enter Air is offering direct return flights from several Polish cities to Colombo from just €501, making Sri Lanka an easy last-minute option for anyone craving beaches, jungle, tea country and a completely different climate.",
       "url": "https://www.fly4free.com/flight-deals/europe/flights-from-poland-to-sri-lanka-e501/",
@@ -167,6 +196,19 @@
       "image": "",
       "id": "https://levnocestovani.cz/akcni-zajezdy/podzimni-dovolena-na-lanzarote-4-hotel-thb-tropical-island-s-polopenzi-od-15-590-kc?utm_source=rss&utm_medium=feed",
       "firstSeen": "2026-10-30T15:08:03.639228+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Tenerife z Prahy: zájezdy do 4* hotelů s all inclusive od 14 790 Kč",
+      "summary": "Zajisti si dovolenou: REZERVUJ ONLINE nebo telefonicky na čísle +420 770 104 598 Termín: 26. listopad – 3. prosinec 2026 Hotely: 4* Hotel Blue Sea Puerto Resort – all inclusive | 14 790 Kč 4* Hotel Las Piramides – all inclusive | 15 490 Kč",
+      "url": "https://zaletsi.cz/zajezdy/tenerife-z-prahy-zajezdy-do-4-hotelu-s-all-inclusive/",
+      "source": "Zaleťsi.cz",
+      "date": "2026-10-30T14:14:08+00:00",
+      "dateLabel": "30. 10. 2026",
+      "price": 14790,
+      "image": "",
+      "id": "https://zaletsi.cz/zajezdy/tenerife-z-prahy-zajezdy-do-4-hotelu-s-all-inclusive/",
+      "firstSeen": "2026-10-30T22:51:03.216619+00:00",
       "priceOrig": null
     },
     {
@@ -293,6 +335,19 @@
       "priceOrig": null
     },
     {
+      "title": "Last minute zájezdy na Madeiru z Prahy vč. stravy od 10 990 Kč",
+      "summary": "Zajisti si dovolenou: REZERVUJ ONLINE nebo telefonicky na čísle +420 770 104 598 Termín: 3. – 10. listopad 2026 Hotely: 4* Hotel Vila Gale Santa Cruz – snídaně | 10 990 Kč 4* Hotelový komplex Dorisol – snídaně | 11 690 Kč 4* Hotel Jardim At",
+      "url": "https://zaletsi.cz/zajezdy/last-minute-zajezdy-na-madeiru-z-prahy-vc-stravy/",
+      "source": "Zaleťsi.cz",
+      "date": "2026-10-30T10:53:34+00:00",
+      "dateLabel": "30. 10. 2026",
+      "price": 10990,
+      "image": "",
+      "id": "https://zaletsi.cz/zajezdy/last-minute-zajezdy-na-madeiru-z-prahy-vc-stravy/",
+      "firstSeen": "2026-10-30T22:51:03.216619+00:00",
+      "priceOrig": null
+    },
+    {
       "title": "Panama z Prahy na 9 nocí s all-inclusive ve skvěle hodnoceném resortu u pláže. Zájezd od 27 420 Kč",
       "summary": "Krásná písečná pláž, palmy, tropické teplo, několik bazénů a all-inclusive. Přesně takovou dovolenou si můžete užít v Panamě. CK Exim Tours a Fischer mají v nabídce zájezd na 9 nocí za 27 420 Kč za osobu.",
       "url": "https://www.cestujlevne.com/akcni-letenky/panama-z-prahy-na-9-noci-s-all-inclusive-ve-skvele-hodnocenem-resortu-u-plaze",
@@ -320,6 +375,19 @@
         "amount": 405,
         "cur": "GBP"
       }
+    },
+    {
+      "title": "Přímé lety z Prahy do Maroka – přes celou zimu do Marrákeše od 2 248 Kč",
+      "summary": "Rezervuj: přes náš vyhledávač Zavazadla: příručák o max. rozměrech 45 × 36 × 20 cm (resp. 40 × 30 × 25 cm u Eurowings) Dostupnost: prosinec 2026 – březen 2027 Termíny a ceny od 2 248 Kč: 6. – 13. 12. → Zobrazit let 6. – 16. 12. → Zobrazit l",
+      "url": "https://zaletsi.cz/akce/prime-lety-z-prahy-do-maroka-pres-celou-zimu-do-marrakese/",
+      "source": "Zaleťsi.cz",
+      "date": "2026-10-30T09:49:17+00:00",
+      "dateLabel": "30. 10. 2026",
+      "price": 2248,
+      "image": "",
+      "id": "https://zaletsi.cz/akce/prime-lety-z-prahy-do-maroka-pres-celou-zimu-do-marrakese/",
+      "firstSeen": "2026-10-30T22:51:03.216619+00:00",
+      "priceOrig": null
     },
     {
       "title": "Thajsko bez přestupu z Prahy: 5* Graceland Resort u pláže Patong za 19 990 Kč",
@@ -400,6 +468,19 @@
       "image": "",
       "id": "https://honzovyletenky.cz/levna-sicilie-z-bratislavy-2/",
       "firstSeen": "2026-10-30T09:05:20.670023+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Zimní letenky do Ázerbájdžánu: z Bratislavy do Baku od 2 166 Kč",
+      "summary": "Rezervuj: přes náš vyhledávač Zavazadla: příruční zavazadlo s limitem 40 × 30 × 20 cm Dostupnost: prosinec 2026 – únor 2027 Příkladové termíny a ceny: 5. – 9. 12. za 2 569 Kč → Zobrazit let 5. – 12. 12. za 2 569 Kč → Zobrazit let 13. – 16.",
+      "url": "https://zaletsi.cz/akce/zimni-letenky-do-azerbajdzanu-z-bratislavy-do-baku/",
+      "source": "Zaleťsi.cz",
+      "date": "2026-10-30T08:01:53+00:00",
+      "dateLabel": "30. 10. 2026",
+      "price": 2166,
+      "image": "",
+      "id": "https://zaletsi.cz/akce/zimni-letenky-do-azerbajdzanu-z-bratislavy-do-baku/",
+      "firstSeen": "2026-10-30T22:51:03.216619+00:00",
       "priceOrig": null
     },
     {
@@ -667,6 +748,19 @@
       }
     },
     {
+      "title": "Stopover s Turkish Airlines: Proměň přestup v Istanbulu v malou dovolenou",
+      "summary": "Co kdybys během jediné dovolené poznal hned dvě destinace? S Turkish Airlines si můžeš při cestě do Asie, Afriky nebo jiné vzdálené destinace naplánovat delší přestup v Istanbulu a v rámci programu Stopover in Istanbul získat za splnění pod",
+      "url": "https://zaletsi.cz/magazin/stopover-turkish-airlines/",
+      "source": "Zaleťsi.cz",
+      "date": "2026-10-29T15:38:35+00:00",
+      "dateLabel": "29. 10. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://zaletsi.cz/magazin/stopover-turkish-airlines/",
+      "firstSeen": "2026-10-30T22:51:03.216619+00:00",
+      "priceOrig": null
+    },
+    {
       "title": "High Season ☀️ Top-rated 5* Grand Mercure in Da Nang, Vietnam for €57/double",
       "summary": "Planning a trip to Vietnam? We've got a great hotel deal for you! Book a double room at the 5* hotel with a rooftop swimming pool for only €57 per night!",
       "url": "https://www.fly4free.com/flight-deals/europe/5-star-hotel-in-da-nang-vietnam-e57-2/",
@@ -683,6 +777,19 @@
       }
     },
     {
+      "title": "Poznávací zájezd z Prahy do západní Austrálie za 49 990 Kč",
+      "summary": "Rezervuj: na webu cestovní kanceláře nebo e-mailem na petra.chvalkova@avetour.cz Termín: 2. – 17. 11. 2026 Cena: 49 990 Kč O akci EDIT (30. října, 12:00): Obě místa jsou prodána. Výjimečně pro Tebe máme nabídku zájezdu od cestovní kanceláře",
+      "url": "https://zaletsi.cz/akce/poznavaci-zajezd-z-prahy-do-zapadni-australie/",
+      "source": "Zaleťsi.cz",
+      "date": "2026-10-29T15:00:06+00:00",
+      "dateLabel": "29. 10. 2026",
+      "price": 49990,
+      "image": "",
+      "id": "https://zaletsi.cz/akce/poznavaci-zajezd-z-prahy-do-zapadni-australie/",
+      "firstSeen": "2026-10-30T22:51:03.216619+00:00",
+      "priceOrig": null
+    },
+    {
       "title": "Air Arabia: Praha - Bangkok - 12 178 Kč",
       "summary": "",
       "url": "https://www.akcniletenky.com",
@@ -693,6 +800,19 @@
       "image": "",
       "id": "667",
       "firstSeen": "2026-10-29T17:06:50.484076+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Zájezdy na Maledivy přímákem z Prahy: 4* a 5* resorty s plnou penzí od 34 490 Kč",
+      "summary": "Zajisti si dovolenou: REZERVUJ ONLINE nebo telefonicky na čísle +420 770 104 598 Termín: 25. listopad – 3. prosinec 2026 Hotely: 4* Hotel Fihalhohi Maldives – plná penze | 34 490 Kč 4* Gangehi Island Resort – plná penze | 35 490 Kč 5* Villa",
+      "url": "https://zaletsi.cz/zajezdy/zajezdy-na-maledivy-primakem-z-prahy-4-a-5-resorty-s-plnou-penzi/",
+      "source": "Zaleťsi.cz",
+      "date": "2026-10-29T14:18:19+00:00",
+      "dateLabel": "29. 10. 2026",
+      "price": 34490,
+      "image": "",
+      "id": "https://zaletsi.cz/zajezdy/zajezdy-na-maledivy-primakem-z-prahy-4-a-5-resorty-s-plnou-penzi/",
+      "firstSeen": "2026-10-30T22:51:03.216619+00:00",
       "priceOrig": null
     },
     {
@@ -851,6 +971,19 @@
       "priceOrig": null
     },
     {
+      "title": "Týdenní last minute zájezdy v Keni s all inclusive z Prahy od 18 990 Kč",
+      "summary": "Zajisti si dovolenou: REZERVUJ ONLINE nebo telefonicky na čísle +420 770 104 598 Termín: 3. – 10. listopad 2026 Hotely: 4* Hotel AHG Lion Beach Resort – all inclusive | 18 990 Kč 4* Hotel Blue Bay Village – all inclusive | 19 990 Kč 5* Hote",
+      "url": "https://zaletsi.cz/zajezdy/tydenni-last-minute-zajezdy-v-keni-s-all-inclusive-z-prahy/",
+      "source": "Zaleťsi.cz",
+      "date": "2026-10-29T10:03:36+00:00",
+      "dateLabel": "29. 10. 2026",
+      "price": 18990,
+      "image": "",
+      "id": "https://zaletsi.cz/zajezdy/tydenni-last-minute-zajezdy-v-keni-s-all-inclusive-z-prahy/",
+      "firstSeen": "2026-10-30T22:51:03.216619+00:00",
+      "priceOrig": null
+    },
+    {
       "title": "Cheap full-service flights from Budapest to Vietnam for €463",
       "summary": "Whether you dream of exploring the bustling streets of Hanoi, drifting along Halong Bay’s limestone cliffs, or relaxing on the golden shores of Da Nang, now is the time to book these discounte China Eastern Airlines flights to Hanoi startin",
       "url": "https://www.fly4free.com/flight-deals/europe/flights-from-budapest-to-vietnam-e463-2/",
@@ -958,6 +1091,19 @@
       "image": "",
       "id": "https://www.levneletenkyzprahy.cz/2742_letenky-do-belfastu,-anglie-z-prahy-za-913-kc",
       "firstSeen": "2026-10-29T09:05:23.451979+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Z Prahy do Japonska s Korean Air – 10 destinací od 16 295 Kč",
+      "summary": "Rezervuj: přes náš vyhledávač Zavazadla: odbavený bágl do 23 kg + příručák Dostupnost: leden – březen 2027 Destinace a termíny: ostrov Honšú Komatsu za 16 295 Kč → Zobrazit kalendář Niigata za 16 308 Kč → Zobrazit kalendář Okajama za 16 230",
+      "url": "https://zaletsi.cz/akce/cele-japonsko-z-prahy-na-palube-korean-air/",
+      "source": "Zaleťsi.cz",
+      "date": "2026-10-29T08:21:41+00:00",
+      "dateLabel": "29. 10. 2026",
+      "price": 16295,
+      "image": "",
+      "id": "https://zaletsi.cz/akce/cele-japonsko-z-prahy-na-palube-korean-air/",
+      "firstSeen": "2026-10-30T22:51:03.216619+00:00",
       "priceOrig": null
     },
     {
