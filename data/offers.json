@@ -1,6 +1,48 @@
 {
-  "updated": "2026-10-30T13:11:45.426618+00:00",
+  "updated": "2026-10-30T15:08:03.639228+00:00",
   "offers": [
+    {
+      "title": "Podzimní dovolená na Lanzarote: 4* hotel THB Tropical Island s polopenzí od 15 590 Kč",
+      "summary": "Užijte si podzim na Lanzarote! 8 dní ve 4* hotelu THB Tropical Island s polopenzí a odletem z Prahy za 15 590 Kč. Zarezervujte si svou dovolenou ještě dnes.",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/podzimni-dovolena-na-lanzarote-4-hotel-thb-tropical-island-s-polopenzi-od-15-590-kc?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-10-30T14:22:49+00:00",
+      "dateLabel": "30. 10. 2026",
+      "price": 15590,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/podzimni-dovolena-na-lanzarote-4-hotel-thb-tropical-island-s-polopenzi-od-15-590-kc?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-10-30T15:08:03.639228+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "WOW 🌴 🚢 15 days of Transatlantic cruise from Barcelona to the Dominican Republic for just €473 p.p",
+      "summary": "This is not your typical one-week Mediterranean cruise. Costa Fascinosa takes you on a proper 15-day / 14-night transatlantic journey from Barcelona to La Romana, starting with Spain and the Canary Islands before spending almost a week cros",
+      "url": "https://www.fly4free.com/flight-deals/europe/15-day-transatlantic-cruise-from-barcelona-to-dominican-republic-costa-cruise/",
+      "source": "Fly4free.com",
+      "date": "2026-10-30T14:00:41+00:00",
+      "dateLabel": "30. 10. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/15-day-transatlantic-cruise-from-barcelona-to-dominican-republic-costa-cruise/",
+      "firstSeen": "2026-10-30T15:08:03.639228+00:00",
+      "priceOrig": {
+        "amount": 473,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "Týden na Madeiře se snídaní za 10 990 Kč ve 4* hotelu u pláže",
+      "summary": "Objevte krásy Madeiry! Čeká vás hotel s bazény a wellness, výlety do hor i procházky podél oceánu. Prohlédněte si nabídku od Čedoku.",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/tyden-na-madeire-se-snidani-za-10-990-kc-ve-4-hotelu-u-plaze?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-10-30T13:13:33+00:00",
+      "dateLabel": "30. 10. 2026",
+      "price": 10990,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/tyden-na-madeire-se-snidani-za-10-990-kc-ve-4-hotelu-u-plaze?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-10-30T15:08:03.639228+00:00",
+      "priceOrig": null
+    },
     {
       "title": "Jarní letenky na pobřeží COSTA BRAVA - 1 971 Kč",
       "summary": "První levnější letenky na pobřeží Costa Brava na příští jaro koupíme z Ostravy. U aerolinky Ryanair najdeme levné letenky z Ostravy do Girony. Na první jarní termíny vyjdou nejlevnější letenky na 1 971 Kč, lehce přes 2 000 Kč pak najdeme da",
@@ -3352,19 +3394,6 @@
       "price": 1584,
       "image": "",
       "id": "https://www.obletsvet.cz/akcni-letenka/nice-behem-dubna-a-kvetna",
-      "firstSeen": "2026-10-27T15:35:38.688065+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Dominikánská republika od 25 690 Kč: All Inclusive v hotelu HM Alma de Bayahibe",
-      "summary": "Dominikánská republika bez dětí zlevnila na 25 690 Kč. Dopřejte si All Inclusive v HM Alma de Bayahibe u tyrkysového moře. Rezervujte ještě dnes!",
-      "url": "https://levnocestovani.cz/akcni-zajezdy/dominikanska-republika-od-25-690-kc-all-inclusive-v-hotelu-hm-alma-de-bayahibe?utm_source=rss&utm_medium=feed",
-      "source": "Levnocestovani.cz",
-      "date": "2026-10-23T14:29:13+00:00",
-      "dateLabel": "23. 10. 2026",
-      "price": 25690,
-      "image": "",
-      "id": "https://levnocestovani.cz/akcni-zajezdy/dominikanska-republika-od-25-690-kc-all-inclusive-v-hotelu-hm-alma-de-bayahibe?utm_source=rss&utm_medium=feed",
       "firstSeen": "2026-10-27T15:35:38.688065+00:00",
       "priceOrig": null
     }
