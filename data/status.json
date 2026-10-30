@@ -14,7 +14,7 @@
       "ok": true,
       "items": 20,
       "attempts": [
-        "FlightTipsFeedReader: HTTP 200, 15712 B"
+        "FlightTipsFeedReader: HTTP 200, 15714 B"
       ],
       "error": ""
     },
