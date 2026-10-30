@@ -1,6 +1,90 @@
 {
-  "updated": "2026-10-30T07:15:34.122861+00:00",
+  "updated": "2026-10-30T09:05:20.670023+00:00",
   "offers": [
+    {
+      "title": "Qatar Airways flights from Helsinki to Thailand & Vietnam from €572",
+      "summary": "Ready for your Vietnam adventure? Qatar Airways are offering full-service flights to Hanoi and Bangkok starting at just €572 for a round trip!",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-helsinki-to-vietnam-thailand/",
+      "source": "Fly4free.com",
+      "date": "2026-10-30T09:00:31+00:00",
+      "dateLabel": "30. 10. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-helsinki-to-vietnam-thailand/",
+      "firstSeen": "2026-10-30T09:05:20.670023+00:00",
+      "priceOrig": {
+        "amount": 572,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "Lauda: Vídeň - Catania - 980 Kč",
+      "summary": "",
+      "url": "https://www.akcniletenky.com",
+      "source": "AkčníLetenky.com",
+      "date": "2026-10-30T09:00:00+00:00",
+      "dateLabel": "30. 10. 2026",
+      "price": 980,
+      "image": "",
+      "id": "669",
+      "firstSeen": "2026-10-30T09:05:20.670023+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Mauricius z Prahy s Turkish Airlines na 9 nocí s polopenzí. Zájezd od 31 870 Kč",
+      "summary": "Na Mauricius za super cenu, a rovnou na 9 nocí. Exim Tours a Fischer mají v nabídce zájezd do tříhvězdičkového hotelu Coral Azur Beach *** na severu ostrova. S polopenzí vás dovolená vyjde na 31 870 Kč za osobu.",
+      "url": "https://www.cestujlevne.com/akcni-letenky/mauricius-z-prahy-s-turkish-airlines-na-9-noci-v-hotelu-u-plaze-s-polopenzi",
+      "source": "CestujLevne.com",
+      "date": "2026-10-30T08:52:45+00:00",
+      "dateLabel": "30. 10. 2026",
+      "price": 31870,
+      "image": "",
+      "id": "https://www.cestujlevne.com/akcni-letenky/mauricius-z-prahy-s-turkish-airlines-na-9-noci-v-hotelu-u-plaze-s-polopenzi",
+      "firstSeen": "2026-10-30T09:05:20.670023+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Travellers Trust AI to Find Cheaper Hotels, but Not to Plan Their Holidays, Study Finds",
+      "summary": "Artificial intelligence can find a cheaper hotel, translate a menu in an unfamiliar language and answer questions in the middle of the night. But are travellers ready to let it decide where they should go and how they should spend their hol",
+      "url": "https://www.fly4free.com/news/travellers-trust-ai-to-find-cheaper-hotels-but-not-to-plan-their-holidays/",
+      "source": "Fly4free.com",
+      "date": "2026-10-30T08:44:22+00:00",
+      "dateLabel": "30. 10. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/news/travellers-trust-ai-to-find-cheaper-hotels-but-not-to-plan-their-holidays/",
+      "firstSeen": "2026-10-30T09:05:20.670023+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Levná SICÍLIE z Bratislavy - 850 Kč",
+      "summary": "Za výhodnou cenu pořídíme letenky na západní pobřeží Sicílie. Zpáteční letenky z Bratislavy do Trapani pořídíme už za 34 €, tedy asi 850 Kč. Nejvýhodnější letenky jsou v nabídce na listopadové termíny 2026. V ceně nejlevnějšího tarifu od ae",
+      "url": "https://honzovyletenky.cz/levna-sicilie-z-bratislavy-2/",
+      "source": "Honzovy letenky",
+      "date": "2026-10-30T08:24:25+00:00",
+      "dateLabel": "30. 10. 2026",
+      "price": 850,
+      "image": "",
+      "id": "https://honzovyletenky.cz/levna-sicilie-z-bratislavy-2/",
+      "firstSeen": "2026-10-30T09:05:20.670023+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Cheap non-stop flights from London to Calgary – gateway to amazing Banff National Park in Canada 🍁 for £387",
+      "summary": "Admire the scenic landscapes of Western Canada! Air Canada is offering cheap airfares to Calgary starting at only £387 for a round trip.",
+      "url": "https://www.fly4free.com/flight-deals/europe/direct-flights-from-london-to-calgary-p387/",
+      "source": "Fly4free.com",
+      "date": "2026-10-30T08:00:30+00:00",
+      "dateLabel": "30. 10. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/direct-flights-from-london-to-calgary-p387/",
+      "firstSeen": "2026-10-30T09:05:20.670023+00:00",
+      "priceOrig": {
+        "amount": 387,
+        "cur": "GBP"
+      }
+    },
     {
       "title": "Letenky Alicante, Španělsko z Prahy za 1057 Kč",
       "summary": "Z Prahy do Alicante se teď dostanete s easyJetem za pouhých 1 057 Kč – a to je cena, která stojí za pozornost. Alicante je přístavní město na jihovýchodě Španělska, které si lidé oblíbili mimo jiné pro hrad Santa Bárbara tyčící se přímo nad",
@@ -12,6 +96,19 @@
       "image": "",
       "id": "https://www.levneletenkyzprahy.cz/2743_letenky-alicante,-spanelsko-z-prahy-za-1057-kc",
       "firstSeen": "2026-10-30T07:15:34.122861+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Lednové víkendy v Ženevě z Prahy. Letenky od 1 593 Kč",
+      "summary": "Do Ženevy se můžete v lednu vydat na víkend, aniž byste si museli brát dovolenou. Zpáteční letenky s easyJetem pořídíte už za 1 593 Kč, s odletem v pátek večer a návratem v neděli odpoledne.",
+      "url": "https://www.cestujlevne.com/akcni-letenky/lednove-vikendy-v-zeneve-z-prahy",
+      "source": "CestujLevne.com",
+      "date": "2026-10-30T07:42:57+00:00",
+      "dateLabel": "30. 10. 2026",
+      "price": 1593,
+      "image": "",
+      "id": "https://www.cestujlevne.com/akcni-letenky/lednove-vikendy-v-zeneve-z-prahy",
+      "firstSeen": "2026-10-30T09:05:20.670023+00:00",
       "priceOrig": null
     },
     {
@@ -3235,32 +3332,6 @@
       "image": "",
       "id": "https://levnocestovani.cz/akcni-zajezdy/ostrov-vecneho-jara-levady-a-4-komfort-tyden-na-madeire-za-11-990-kc?utm_source=rss&utm_medium=feed",
       "firstSeen": "2026-10-27T15:35:38.688065+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Omán na týden v lednu s all inclusive. Od 21 990 Kč.",
-      "summary": "Omán na týden v lednu s all inclusive za 21 990 Kč.",
-      "url": "https://www.obletsvet.cz/akcni-letenka/oman-na-tyden-v-lednu-s-all-inclusive",
-      "source": "Obletsvet.cz",
-      "date": "2026-10-23T09:02:48+00:00",
-      "dateLabel": "23. 10. 2026",
-      "price": 21990,
-      "image": "",
-      "id": "https://www.obletsvet.cz/akcni-letenka/oman-na-tyden-v-lednu-s-all-inclusive",
-      "firstSeen": "2026-10-27T15:35:38.688065+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Ryanair: Norimberk - Agadir - 980 Kč",
-      "summary": "",
-      "url": "https://www.akcniletenky.com",
-      "source": "AkčníLetenky.com",
-      "date": "2026-10-23T09:00:00+00:00",
-      "dateLabel": "23. 10. 2026",
-      "price": 980,
-      "image": "",
-      "id": "641",
-      "firstSeen": "2026-10-27T15:30:19.910133+00:00",
       "priceOrig": null
     }
   ]
