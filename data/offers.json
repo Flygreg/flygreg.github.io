@@ -1,6 +1,77 @@
 {
-  "updated": "2026-10-30T16:58:59.500122+00:00",
+  "updated": "2026-10-30T19:00:04.784646+00:00",
   "offers": [
+    {
+      "title": "Lednový Omán z Prahy na týden v oblíbeném resortu s all-inclusive. Zájezd od 20 990 Kč",
+      "summary": "V lednu můžete přímým letem z Prahy vyrazit ohřát se do Ománu. CK Čedok má aktuálně v nabídce týdenní zájezdy do oblíbeného čtyřhvězdičkového hotelu Barceló Mussanah Resort přímo u moře. S all-inclusive vás dovolená vyjde na 20 990 Kč za os",
+      "url": "https://www.cestujlevne.com/akcni-letenky/lednovy-oman-z-prahy-na-tyden-v-oblibenem-resortu-s-all-inclusive",
+      "source": "CestujLevne.com",
+      "date": "2026-10-30T18:45:07+00:00",
+      "dateLabel": "30. 10. 2026",
+      "price": 20990,
+      "image": "",
+      "id": "https://www.cestujlevne.com/akcni-letenky/lednovy-oman-z-prahy-na-tyden-v-oblibenem-resortu-s-all-inclusive",
+      "firstSeen": "2026-10-30T19:00:04.784646+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Cheap flights from London to Bangkok, Thailand 🌴 from £367",
+      "summary": "Thinking about a proper Thailand adventure rather than just a week in one resort? China Southern is showing return flights from London to Bangkok from just £367, with one connection in Guangzhou each way. And Bangkok is one of the best star",
+      "url": "https://www.fly4free.com/flight-deals/europe/cheap-flights-from-london-to-thailand-2/",
+      "source": "Fly4free.com",
+      "date": "2026-10-30T18:30:56+00:00",
+      "dateLabel": "30. 10. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/cheap-flights-from-london-to-thailand-2/",
+      "firstSeen": "2026-10-30T19:00:04.784646+00:00",
+      "priceOrig": {
+        "amount": 367,
+        "cur": "GBP"
+      }
+    },
+    {
+      "title": "Saudia Airlines: Vídeň - Kuala Lumpur - 12 990 Kč",
+      "summary": "",
+      "url": "https://www.akcniletenky.com",
+      "source": "AkčníLetenky.com",
+      "date": "2026-10-30T18:00:00+00:00",
+      "dateLabel": "30. 10. 2026",
+      "price": 12990,
+      "image": "",
+      "id": "671",
+      "firstSeen": "2026-10-30T19:00:04.784646+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Týdenní relax v ráji: Maledivy z Prahy za 34 990 Kč s plnou penzí",
+      "summary": "Chcete týden bez stresu? Užijte si Maledivy za 34 990 Kč s plnou penzí a přímým letem z Prahy. Resort Fihalhohi vás nadchne. Prohlédněte si nabídku!",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/tydenni-relax-v-raji-maledivy-z-prahy-za-34-990-kc-s-plnou-penzi?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-10-30T17:47:48+00:00",
+      "dateLabel": "30. 10. 2026",
+      "price": 34990,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/tydenni-relax-v-raji-maledivy-z-prahy-za-34-990-kc-s-plnou-penzi?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-10-30T19:00:04.784646+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "LAST PARADISE ON EARTH😍 4-in-1 trip from Vienna to stunning Raja Ampat, Jakarta, Bali, and Singapore from €922",
+      "summary": "This is not the usual Bali holiday. This itinerary takes you from the energy of Jakarta to one of the most remote and biodiverse corners of Indonesia — Raja Ampat — before finishing with nine relaxed days in Bali. You'll also have a day in",
+      "url": "https://www.fly4free.com/flight-deals/europe/4-in-1-trip-from-vienna-to-raja-ampat-indonesia-bali-singapore/",
+      "source": "Fly4free.com",
+      "date": "2026-10-30T17:00:42+00:00",
+      "dateLabel": "30. 10. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/4-in-1-trip-from-vienna-to-raja-ampat-indonesia-bali-singapore/",
+      "firstSeen": "2026-10-30T19:00:04.784646+00:00",
+      "priceOrig": {
+        "amount": 922,
+        "cur": "EUR"
+      }
+    },
     {
       "title": "Zanzibar za 24 990 Kč: All Inclusive v 5* Kiwengwa Beach Resort přímo u bílé pláže",
       "summary": "Bílý písek, tyrkysový oceán a tropická atmosféra Zanzibaru. Užijte si týden v 5* resortu s All Inclusive a odletem z Prahy či Bratislavy. Nabízí Čedok.",
