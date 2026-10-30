@@ -257,6 +257,17 @@ document.addEventListener('keydown',e=>{if(e.key==='Escape'&&ov.classList.contai
 ['pointerenter','touchstart','focus'].forEach(ev=>fab.addEventListener(ev,warm,{once:true,passive:true}));
 fab.onclick=()=>{open();if(!API)return go('soon');if(getS())loadList();else go('email')};
 
+// automatická aktualizace: když je na webu novější verze stránky než ta, kterou má prohlížeč v paměti, stránka se jednou sama načte znovu
+const BUILD='2026-10-30-n';
+async function checkBuild(){
+  try{
+    if(ov.classList.contains('on')||document.hidden)return;
+    const t=await (await fetch(location.pathname+'?_='+Date.now(),{cache:'no-store'})).text();
+    const m=t.match(/const BUILD='([^']+)'/);
+    if(m&&m[1]!==BUILD&&sessionStorage.getItem('pesRl')!==m[1]){sessionStorage.setItem('pesRl',m[1]);location.reload()}
+  }catch(e){}
+}
+setTimeout(checkBuild,2500);document.addEventListener('visibilitychange',()=>{if(!document.hidden)setTimeout(checkBuild,800)});
 if(API&&getS())setTimeout(prefetch,250);
 // odkazy z e-mailu: #pes=… (přihlášení) a #odhlasit=… (odhlášení)
 async function fromHash(){
