@@ -1,9 +1,64 @@
 {
-  "updated": "2026-10-30T09:05:20.670023+00:00",
+  "updated": "2026-10-30T10:57:37.881504+00:00",
   "offers": [
     {
+      "title": "Akční zájezd na Madeiru: 4* hotel s polopenzí a odletem z Prahy jen za 12 990 Kč",
+      "summary": "Zájezd na Madeiru z Prahy za 12 990 Kč. Čeká vás 4* hotel Montemar Palace s polopenzí, bazénem a skvělou polohou pro výlety po ostrově. Objevte krásy Madeiry!",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/akcni-zajezd-na-madeiru-4-hotel-s-polopenzi-a-odletem-z-prahy-jen-za-12-990-kc?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-10-30T10:56:27+00:00",
+      "dateLabel": "30. 10. 2026",
+      "price": 12990,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/akcni-zajezd-na-madeiru-4-hotel-s-polopenzi-a-odletem-z-prahy-jen-za-12-990-kc?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-10-30T10:57:37.881504+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Panama z Prahy na 9 nocí s all-inclusive ve skvěle hodnoceném resortu u pláže. Zájezd od 27 420 Kč",
+      "summary": "Krásná písečná pláž, palmy, tropické teplo, několik bazénů a all-inclusive. Přesně takovou dovolenou si můžete užít v Panamě. CK Exim Tours a Fischer mají v nabídce zájezd na 9 nocí za 27 420 Kč za osobu.",
+      "url": "https://www.cestujlevne.com/akcni-letenky/panama-z-prahy-na-9-noci-s-all-inclusive-ve-skvele-hodnocenem-resortu-u-plaze",
+      "source": "CestujLevne.com",
+      "date": "2026-10-30T10:17:54+00:00",
+      "dateLabel": "30. 10. 2026",
+      "price": 27420,
+      "image": "",
+      "id": "https://www.cestujlevne.com/akcni-letenky/panama-z-prahy-na-9-noci-s-all-inclusive-ve-skvele-hodnocenem-resortu-u-plaze",
+      "firstSeen": "2026-10-30T10:57:37.881504+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Cheap full-service flights from London to Seoul, South Korea for £405",
+      "summary": "Looking for a unique, full-service getaway in Asia? Fly to Seoul starting at £405 round trip with China Southern Airlines. This means checked luggage, meals, and comfortable seating are included - no hidden fees or budget-airline surprises.",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-seoul-p405/",
+      "source": "Fly4free.com",
+      "date": "2026-10-30T10:00:06+00:00",
+      "dateLabel": "30. 10. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-seoul-p405/",
+      "firstSeen": "2026-10-30T10:57:37.881504+00:00",
+      "priceOrig": {
+        "amount": 405,
+        "cur": "GBP"
+      }
+    },
+    {
+      "title": "Thajsko bez přestupu z Prahy: 5* Graceland Resort u pláže Patong za 19 990 Kč",
+      "summary": "Výhodná dovolená v Thajsku s přímým letem z Prahy. 5* resort Graceland na Phuketu přímo u pláže Patong za 19 990 Kč. Užijte si luxus, pláž a skvělé jídlo!",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/thajsko-bez-prestupu-z-prahy-5-graceland-resort-u-plaze-patong-za-19-990-kc?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-10-30T09:16:33+00:00",
+      "dateLabel": "30. 10. 2026",
+      "price": 19990,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/thajsko-bez-prestupu-z-prahy-5-graceland-resort-u-plaze-patong-za-19-990-kc?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-10-30T10:57:37.881504+00:00",
+      "priceOrig": null
+    },
+    {
       "title": "Qatar Airways flights from Helsinki to Thailand & Vietnam from €572",
-      "summary": "Ready for your Vietnam adventure? Qatar Airways are offering full-service flights to Hanoi and Bangkok starting at just €572 for a round trip!",
+      "summary": "Ready for an adventure in South East Asia? Qatar Airways are offering full-service flights to Hanoi and Bangkok starting at just €572 for a round trip!",
       "url": "https://www.fly4free.com/flight-deals/europe/flights-from-helsinki-to-vietnam-thailand/",
       "source": "Fly4free.com",
       "date": "2026-10-30T09:00:31+00:00",
@@ -3281,57 +3336,6 @@
       "image": "",
       "id": "642",
       "firstSeen": "2026-10-27T15:30:19.910133+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Exotický Zanzibar v listopadu: 7 nocí v 5* resortu s All Inclusive za 27 490 Kč",
-      "summary": "Užijte si listopad na bílých plážích Zanzibaru. 5* All Inclusive resort, bazény i výlety do Stone Townu od 27 490 Kč. Rezervujte si podzimní únik do ráje!",
-      "url": "https://levnocestovani.cz/akcni-zajezdy/exoticky-zanzibar-v-listopadu-7-noci-v-5-resortu-s-all-inclusive-za-27-490-kc?utm_source=rss&utm_medium=feed",
-      "source": "Levnocestovani.cz",
-      "date": "2026-10-23T10:41:12+00:00",
-      "dateLabel": "23. 10. 2026",
-      "price": 27490,
-      "image": "",
-      "id": "https://levnocestovani.cz/akcni-zajezdy/exoticky-zanzibar-v-listopadu-7-noci-v-5-resortu-s-all-inclusive-za-27-490-kc?utm_source=rss&utm_medium=feed",
-      "firstSeen": "2026-10-27T15:35:38.688065+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Přímé letenky z Prahy do Dominikánské republiky na dva týdny. Letenky od 14 990 Kč",
-      "summary": "Na přelomu října a listopadu se můžete vydat na dva týdny do Dominikánské republiky. Exim Tours má aktuálně v nabídce zpáteční letenky z Prahy do La Romany za 14 990 Kč na osobu.",
-      "url": "https://www.cestujlevne.com/akcni-letenky/prime-lety-z-prahy-do-dominikanske-republiky-na-dva-tydny",
-      "source": "CestujLevne.com",
-      "date": "2026-10-23T09:40:48+00:00",
-      "dateLabel": "23. 10. 2026",
-      "price": 14990,
-      "image": "",
-      "id": "https://www.cestujlevne.com/akcni-letenky/prime-lety-z-prahy-do-dominikanske-republiky-na-dva-tydny",
-      "firstSeen": "2026-10-27T15:35:38.688065+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Island z Prahy – termíny až do května 2027 za 5 706 Kč",
-      "summary": "Rezervuj: přes náš vyhledávač Zavazadla: příruční bágl o rozměrech do 55 × 40 × 23 cm + osobní věc Dostupnost: leden – květen 2027 Termíny za 5 708 Kč → Zobrazit kalendář Uvedená cena platí při použití kódu „ZALETSI“ v posledním kroku rezer",
-      "url": "https://zaletsi.cz/akce/island-z-prahy-terminy-az-do-kvetna-2027/",
-      "source": "Zaleťsi.cz",
-      "date": "2026-10-23T09:37:57+00:00",
-      "dateLabel": "23. 10. 2026",
-      "price": 5706,
-      "image": "",
-      "firstSeen": "2026-10-27T10:16:20.698591+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Ostrov věčného jara, levády a 4* komfort: Týden na Madeiře za 11 990 Kč",
-      "summary": "Vyměňte shon za výhled na Atlantik! 7 nocí v 4* hotelu Montemar Palace s polopenzí od 11 990 Kč. Čekají vás levády, delfíni i relax. Rezervujte si pobyt!",
-      "url": "https://levnocestovani.cz/akcni-zajezdy/ostrov-vecneho-jara-levady-a-4-komfort-tyden-na-madeire-za-11-990-kc?utm_source=rss&utm_medium=feed",
-      "source": "Levnocestovani.cz",
-      "date": "2026-10-23T09:28:34+00:00",
-      "dateLabel": "23. 10. 2026",
-      "price": 11990,
-      "image": "",
-      "id": "https://levnocestovani.cz/akcni-zajezdy/ostrov-vecneho-jara-levady-a-4-komfort-tyden-na-madeire-za-11-990-kc?utm_source=rss&utm_medium=feed",
-      "firstSeen": "2026-10-27T15:35:38.688065+00:00",
       "priceOrig": null
     }
   ]
