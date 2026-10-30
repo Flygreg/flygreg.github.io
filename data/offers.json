@@ -1,6 +1,87 @@
 {
-  "updated": "2026-10-30T10:57:37.881504+00:00",
+  "updated": "2026-10-30T13:11:45.426618+00:00",
   "offers": [
+    {
+      "title": "Jarní letenky na pobřeží COSTA BRAVA - 1 971 Kč",
+      "summary": "První levnější letenky na pobřeží Costa Brava na příští jaro koupíme z Ostravy. U aerolinky Ryanair najdeme levné letenky z Ostravy do Girony. Na první jarní termíny vyjdou nejlevnější letenky na 1 971 Kč, lehce přes 2 000 Kč pak najdeme da",
+      "url": "https://honzovyletenky.cz/jarni-letenky-na-pobrezi-costa-brava/",
+      "source": "Honzovy letenky",
+      "date": "2026-10-30T12:47:23+00:00",
+      "dateLabel": "30. 10. 2026",
+      "price": 1971,
+      "image": "",
+      "id": "https://honzovyletenky.cz/jarni-letenky-na-pobrezi-costa-brava/",
+      "firstSeen": "2026-10-30T13:11:45.426618+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "High season in the Caribbean 🌊 Cheap flights from Paris to Martinique 🏝️ from €487",
+      "summary": "Trade European winter for warm Caribbean water, palm-fringed beaches and volcanic landscapes. Corsair is offering return flights from Paris to Fort-de-France from just €487, making this a very tempting fare for one of the Caribbean’s most d",
+      "url": "https://www.fly4free.com/flight-deals/europe/cheap-flights-from-paris-to-martinique-e487/",
+      "source": "Fly4free.com",
+      "date": "2026-10-30T12:35:34+00:00",
+      "dateLabel": "30. 10. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/cheap-flights-from-paris-to-martinique-e487/",
+      "firstSeen": "2026-10-30T13:11:45.426618+00:00",
+      "priceOrig": {
+        "amount": 487,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "Lednové Alicante z Pardubic. Letenky od 1 362 Kč",
+      "summary": "Během zimy můžete u Ryanairu ulovit levné zpáteční letenky z Pardubic do španělského Alicante. Nejlevněji vychází leden, kdy letenky pořídíte už za 1 362 Kč. Vyrazit můžete na celý týden nebo třeba jen od pátku do neděle.",
+      "url": "https://www.cestujlevne.com/akcni-letenky/lednove-alicante-z-pardubic",
+      "source": "CestujLevne.com",
+      "date": "2026-10-30T12:12:40+00:00",
+      "dateLabel": "30. 10. 2026",
+      "price": 1362,
+      "image": "",
+      "id": "https://www.cestujlevne.com/akcni-letenky/lednove-alicante-z-pardubic",
+      "firstSeen": "2026-10-30T13:11:45.426618+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Buzz: Praha - Řím - 928 Kč",
+      "summary": "",
+      "url": "https://www.akcniletenky.com",
+      "source": "AkčníLetenky.com",
+      "date": "2026-10-30T12:00:00+00:00",
+      "dateLabel": "30. 10. 2026",
+      "price": 928,
+      "image": "",
+      "id": "670",
+      "firstSeen": "2026-10-30T13:11:45.426618+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Last Minute Egypt od 14 290 Kč: Resort Bella Vista s All Inclusive u pláže",
+      "summary": "Odleťte do Egypta už zítra! Týden ve4* resortu Bella Vista u písečné pláže s All Inclusive za 14 290 Kč. Zarezervujte si pobyt ještě dnes!",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/last-minute-egypt-od-14-290-kc-resort-bella-vista-s-all-inclusive-u-plaze?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-10-30T11:55:53+00:00",
+      "dateLabel": "30. 10. 2026",
+      "price": 14290,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/last-minute-egypt-od-14-290-kc-resort-bella-vista-s-all-inclusive-u-plaze?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-10-30T13:11:45.426618+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "City break in Stockholm! 🇸🇪 Design-led Ruby Frida Hotel by IHG from €68 per night",
+      "summary": "This hotel is a great option if you want to stay somewhere contemporary and atmospheric while still being within easy reach of Gamla Stan, Stockholm City Hall and the city centre.",
+      "url": "https://www.fly4free.com/flight-deals/europe/stockholm-ruby-ihg-hotel/",
+      "source": "Fly4free.com",
+      "date": "2026-10-30T11:00:20+00:00",
+      "dateLabel": "30. 10. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/stockholm-ruby-ihg-hotel/",
+      "firstSeen": "2026-10-30T13:11:45.426618+00:00",
+      "priceOrig": null
+    },
     {
       "title": "Akční zájezd na Madeiru: 4* hotel s polopenzí a odletem z Prahy jen za 12 990 Kč",
       "summary": "Zájezd na Madeiru z Prahy za 12 990 Kč. Čeká vás 4* hotel Montemar Palace s polopenzí, bazénem a skvělou polohou pro výlety po ostrově. Objevte krásy Madeiry!",
@@ -3285,57 +3366,6 @@
       "image": "",
       "id": "https://levnocestovani.cz/akcni-zajezdy/dominikanska-republika-od-25-690-kc-all-inclusive-v-hotelu-hm-alma-de-bayahibe?utm_source=rss&utm_medium=feed",
       "firstSeen": "2026-10-27T15:35:38.688065+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Vietnam na 14 nocí s all-inclusive a přímým letem z Prahy. Zájezd od 34 290 Kč",
-      "summary": "Skvělý last-minute zájezd do Vietnamu na 14 nocí s all-inclusive za 34 290 Kč na osobu nabízejí cestovní kanceláře Exim Tours a Fischer.",
-      "url": "https://www.cestujlevne.com/akcni-letenky/vietnam-na-14-noci-s-all-inclusive-a-primym-letem-z-prahy",
-      "source": "CestujLevne.com",
-      "date": "2026-10-23T12:54:40+00:00",
-      "dateLabel": "23. 10. 2026",
-      "price": 34290,
-      "image": "",
-      "id": "https://www.cestujlevne.com/akcni-letenky/vietnam-na-14-noci-s-all-inclusive-a-primym-letem-z-prahy",
-      "firstSeen": "2026-10-27T15:35:38.688065+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Thajsko z Vídně a Mnichova: Bangkok, Phuket a Chiang Mai i přes Vánoce od 12 583 Kč",
-      "summary": "Rezervuj: přes náš vyhledávač Zavazadla: odbavený bágl do 23 kg + příručák Dostupnost: konec října 2026 – březen 2027 Termíny z Mnichova Bangkok za 12 583 Kč → Zobrazit kalendář Phuket za 12 826 Kč → Zobrazit kalendář open-jaw s příletem do",
-      "url": "https://zaletsi.cz/akce/thajsko-z-vidne-a-mnichova-bangkok-phuket-a-chiang-mai-i-pres-vanoce/",
-      "source": "Zaleťsi.cz",
-      "date": "2026-10-23T12:10:18+00:00",
-      "dateLabel": "23. 10. 2026",
-      "price": 12583,
-      "image": "",
-      "firstSeen": "2026-10-27T10:16:20.698591+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Dovolená Vietnam, Phu Quoc: Vila se sdíleným bazénem a All Inclusive od 27 590 Kč",
-      "summary": "Zažijte dovolenou ve Vietnamu na Phu Quocu! Luxusní All Inclusive pobyt v Meliá Vinpearl, vila se sdíleným bazénem a pláž Bai Dai od 27 590 Kč.",
-      "url": "https://levnocestovani.cz/akcni-zajezdy/dovolena-vietnam-phu-quoc-vila-se-sdilenym-bazenem-a-all-inclusive-od-27-590-kc?utm_source=rss&utm_medium=feed",
-      "source": "Levnocestovani.cz",
-      "date": "2026-10-23T12:07:18+00:00",
-      "dateLabel": "23. 10. 2026",
-      "price": 27590,
-      "image": "",
-      "id": "https://levnocestovani.cz/akcni-zajezdy/dovolena-vietnam-phu-quoc-vila-se-sdilenym-bazenem-a-all-inclusive-od-27-590-kc?utm_source=rss&utm_medium=feed",
-      "firstSeen": "2026-10-27T15:35:38.688065+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Condor: Praha - Johannesburg - 12 990 Kč",
-      "summary": "",
-      "url": "https://www.akcniletenky.com",
-      "source": "AkčníLetenky.com",
-      "date": "2026-10-23T12:00:00+00:00",
-      "dateLabel": "23. 10. 2026",
-      "price": 12990,
-      "image": "",
-      "id": "642",
-      "firstSeen": "2026-10-27T15:30:19.910133+00:00",
       "priceOrig": null
     }
   ]
