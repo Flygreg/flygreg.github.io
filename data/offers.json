@@ -1,6 +1,48 @@
 {
-  "updated": "2026-10-31T13:03:52.548534+00:00",
+  "updated": "2026-10-31T14:49:47.604907+00:00",
   "offers": [
+    {
+      "title": "PEAK SEASON ☀️🌴 Cheap full-service flights from Barcelona to South East Asia from €489",
+      "summary": "China Eastern Airlines are offering discounted flights to Thailand, Singapore, Malaysia and Vietnam from just €489 return — making this one of the cheapest options to Southeast Asia right now.",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-barcelona-to-thailand-malaysia/",
+      "source": "Fly4free.com",
+      "date": "2026-10-31T14:00:15+00:00",
+      "dateLabel": "31. 10. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-barcelona-to-thailand-malaysia/",
+      "firstSeen": "2026-10-31T14:49:47.604907+00:00",
+      "priceOrig": {
+        "amount": 489,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "Lauda: Vídeň - Neapol - 980 Kč",
+      "summary": "",
+      "url": "https://www.akcniletenky.com",
+      "source": "AkčníLetenky.com",
+      "date": "2026-10-31T14:00:00+00:00",
+      "dateLabel": "31. 10. 2026",
+      "price": 980,
+      "image": "",
+      "id": "674",
+      "firstSeen": "2026-10-31T14:49:47.604907+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Dovolená na Madeiře s polopenzí: 8 dní ve 4* hotelu s výhledem na oceán za 12 490 Kč",
+      "summary": "Láká vás příroda a výhledy? Vyrazte na týden na Madeiru z Prahy za 12 490 Kč. Čeká vás 4* hotel s polopenzí, koupání v Calhetě i objevování západu ostrova.",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/dovolena-na-madeire-s-polopenzi-7-dni-ve-4-hotelu-s-vyhledem-na-ocean-za-12-490-kc?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-10-31T13:31:07+00:00",
+      "dateLabel": "31. 10. 2026",
+      "price": 12490,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/dovolena-na-madeire-s-polopenzi-7-dni-ve-4-hotelu-s-vyhledem-na-ocean-za-12-490-kc?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-10-31T14:49:47.604907+00:00",
+      "priceOrig": null
+    },
     {
       "title": "Fare drop 😉 Cheap direct flights from Paris to the island of Sao Vicente, Cape Verde 🏝️ for €171",
       "summary": "Transavia is offering discounted direct flights to Sao Vicente! Tickets available from €171 for a round trip.",
@@ -3684,48 +3726,6 @@
         "amount": 447,
         "cur": "GBP"
       }
-    },
-    {
-      "title": "✈️ Ryanair Expands Its Base at Memmingen Airport: Two New Routes To Sunny Destinations",
-      "summary": "Irish low-cost airline Ryanair has announced an expansion of its base at Memmingen Airport in southern Germany. During the 2026/2027 winter season, the carrier will station a fourth aircraft at the airport and operate 25 routes, including t",
-      "url": "https://www.fly4free.com/flight-deals/europe/ryanair-expands-its-base-at-germany-memmingen-airport/",
-      "source": "Fly4free.com",
-      "date": "2026-10-24T14:21:36+00:00",
-      "dateLabel": "24. 10. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/ryanair-expands-its-base-at-germany-memmingen-airport/",
-      "firstSeen": "2026-10-27T15:35:38.688065+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Well-rated and central 4* hotel in Lisbon for €63/double",
-      "summary": "Discover Lisbon with an incredible stay at a stylish 4-star hotel capital from just €63 per double room. This fantastic value makes it easy to experience one of Europe's most exciting city breaks without stretching your budget.",
-      "url": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-lisbon-e63-3/",
-      "source": "Fly4free.com",
-      "date": "2026-10-24T14:00:42+00:00",
-      "dateLabel": "24. 10. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-lisbon-e63-3/",
-      "firstSeen": "2026-10-27T15:35:38.688065+00:00",
-      "priceOrig": {
-        "amount": 63,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Dominikánská republika přímým letem za 29 390 Kč: 5* resort v Punta Caně u pláže s All Inclusive",
-      "summary": "Týdenní dovolená v Dominikánské republice za 29 390 Kč! Čeká vás 5* RIU Bambu přímo u pláže, All Inclusive bez starostí, bazény a přímý let z Prahy.",
-      "url": "https://levnocestovani.cz/akcni-zajezdy/dominikanska-republika-primym-letem-za-29-390-kc-5-resort-v-punta-cane-u-plaze-s-all-inclusive?utm_source=rss&utm_medium=feed",
-      "source": "Levnocestovani.cz",
-      "date": "2026-10-24T13:31:51+00:00",
-      "dateLabel": "24. 10. 2026",
-      "price": 29390,
-      "image": "",
-      "id": "https://levnocestovani.cz/akcni-zajezdy/dominikanska-republika-primym-letem-za-29-390-kc-5-resort-v-punta-cane-u-plaze-s-all-inclusive?utm_source=rss&utm_medium=feed",
-      "firstSeen": "2026-10-27T15:35:38.688065+00:00",
-      "priceOrig": null
     }
   ]
 }

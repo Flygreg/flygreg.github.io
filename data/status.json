@@ -11,19 +11,20 @@
     },
     {
       "name": "Levné letenky z Prahy",
-      "ok": true,
-      "items": 20,
+      "ok": false,
+      "items": 0,
       "attempts": [
-        "FlightTipsFeedReader: HTTP 200, 15651 B"
+        "FlightTipsFeedReader: URLError: <urlopen error timed out>",
+        "browser: URLError: <urlopen error timed out>"
       ],
-      "error": ""
+      "error": "URLError: <urlopen error timed out>"
     },
     {
       "name": "AkčníLetenky.com",
       "ok": true,
       "items": 60,
       "attempts": [
-        "FlightTipsFeedReader: HTTP 200, 142787 B"
+        "FlightTipsFeedReader: HTTP 200, 142992 B"
       ],
       "error": ""
     },
@@ -50,7 +51,7 @@
       "ok": true,
       "items": 50,
       "attempts": [
-        "FlightTipsFeedReader: HTTP 200, 62569 B"
+        "FlightTipsFeedReader: HTTP 200, 62750 B"
       ],
       "error": ""
     },
@@ -68,7 +69,7 @@
       "ok": true,
       "items": 50,
       "attempts": [
-        "FlightTipsFeedReader: HTTP 200, 50932 B"
+        "FlightTipsFeedReader: HTTP 200, 50996 B"
       ],
       "error": ""
     }
