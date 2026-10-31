@@ -1,6 +1,74 @@
 {
-  "updated": "2026-10-31T08:55:32.074228+00:00",
+  "updated": "2026-10-31T10:49:50.697561+00:00",
   "offers": [
+    {
+      "title": "Za 28 990 Kč do Dominikány: 5* resort přímo u pláže s All Inclusive a přímým letem z Prahy",
+      "summary": "Luxusní 5* resort v Dominikáně přímo u pláže! Líná řeka, aquapark, All Inclusive a přímý let z Prahy za 28 990 Kč. Pořiďte si dovolenou snů ještě dnes.",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/za-28-990-kc-do-dominikany-5-resort-primo-u-plaze-s-all-inclusive-a-primym-letem-z-prahy?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-10-31T10:48:49+00:00",
+      "dateLabel": "31. 10. 2026",
+      "price": 28990,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/za-28-990-kc-do-dominikany-5-resort-primo-u-plaze-s-all-inclusive-a-primym-letem-z-prahy?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-10-31T10:49:50.697561+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Vietnam z Vídně s návratem do Budapešti (kufr v ceně). Letenky od 9 297 Kč",
+      "summary": "China Eastern Airlines nabízejí tzv. open-jaw letenky z Vídně do Hanoje s návratem do Budapešti za super cenu 9 297 Kč.",
+      "url": "https://www.cestujlevne.com/akcni-letenky/vietnam-z-vidne-s-navratem-do-budapesti-kufr-v-cene",
+      "source": "CestujLevne.com",
+      "date": "2026-10-31T10:14:32+00:00",
+      "dateLabel": "31. 10. 2026",
+      "price": 9297,
+      "image": "",
+      "id": "https://www.cestujlevne.com/akcni-letenky/vietnam-z-vidne-s-navratem-do-budapesti-kufr-v-cene",
+      "firstSeen": "2026-10-31T10:49:50.697561+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Amazing fares! 😎 Cheap full-service flights from London to Hong Kong for £307",
+      "summary": "Experience the buzz of Hong Kong with this fantastic flight deal! Return fares start from just £307, flying China Eastern Airlines — a full-service airline that includes meals, checked baggage, and onboard entertainment, so you can enjoy a",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-hong-kong-p307/",
+      "source": "Fly4free.com",
+      "date": "2026-10-31T10:00:27+00:00",
+      "dateLabel": "31. 10. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-hong-kong-p307/",
+      "firstSeen": "2026-10-31T10:49:50.697561+00:00",
+      "priceOrig": {
+        "amount": 307,
+        "cur": "GBP"
+      }
+    },
+    {
+      "title": "Wizz Air: Bratislava - Jerevan - 980 Kč",
+      "summary": "",
+      "url": "https://www.akcniletenky.com",
+      "source": "AkčníLetenky.com",
+      "date": "2026-10-31T10:00:00+00:00",
+      "dateLabel": "31. 10. 2026",
+      "price": 980,
+      "image": "",
+      "id": "673",
+      "firstSeen": "2026-10-31T10:49:50.697561+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Keňa, Watamu: Týden ve 4* hotelu s All Inclusive z Prahy od 19 990 Kč",
+      "summary": "Zažijte exotiku v Keni! Týdenní All Inclusive dovolená ve 4* hotelu u oceánu ve Watamu z Prahy jen za 19 990 Kč. Prohlédněte si nabídku a rezervujte ještě dnes.",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/kena-watamu-tyden-ve-4-hotelu-s-all-inclusive-z-prahy-od-19-990-kc?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-10-31T09:26:58+00:00",
+      "dateLabel": "31. 10. 2026",
+      "price": 19990,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/kena-watamu-tyden-ve-4-hotelu-s-all-inclusive-z-prahy-od-19-990-kc?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-10-31T10:49:50.697561+00:00",
+      "priceOrig": null
+    },
     {
       "title": "Do LONDÝNA z Brna - 784 Kč",
       "summary": "Levné letenky do Londýna pořídíme i z Brna. Zpáteční letenky z Brna do Londýna pořídíme už za 784 Kč. Nejvýhodnější letenky jsou dostupné na listopadové termíny 2026. V ceně nejvýhodnějšího tarifu od aerolinky Ryanair máme malé příruční zav",
@@ -13,6 +81,22 @@
       "id": "https://honzovyletenky.cz/do-londyna-z-brna-3/",
       "firstSeen": "2026-10-31T08:55:32.074228+00:00",
       "priceOrig": null
+    },
+    {
+      "title": "Adventure time in Africa 🦓 Full-service flights from Vienna to Kenya for €459",
+      "summary": "Ready for your next great adventure? Fly to Nairobi with Saudia starting at just €459 return! Discover the heart of East Africa — from breathtaking safaris in the Maasai Mara to white-sand beaches along the Indian Ocean.",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-vienna-to-kenya-e459-2/",
+      "source": "Fly4free.com",
+      "date": "2026-10-31T09:00:52+00:00",
+      "dateLabel": "31. 10. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-vienna-to-kenya-e459-2/",
+      "firstSeen": "2026-10-31T10:49:50.697561+00:00",
+      "priceOrig": {
+        "amount": 459,
+        "cur": "EUR"
+      }
     },
     {
       "title": "Last minute LOT direct flights from Warsaw to Penang, Malaysia for €635",
@@ -3609,57 +3693,6 @@
       "image": "",
       "id": "https://levnocestovani.cz/akcni-zajezdy/zanzibar-z-bratislavy-za-25-490-kc-5-resort-s-all-inclusive-primo-u-plaze?utm_source=rss&utm_medium=feed",
       "firstSeen": "2026-10-27T15:35:38.688065+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Thajsko, Khao Lak: Přímý let a hotel přímo u pláže se snídaní od 25 790 Kč",
-      "summary": "Přímým letem do thajského Khao Lak za 25 790 Kč. Užijte si pobyt v hotelu Kantary Beach přímo u pláže se snídaní, bazény a veškerým komfortem.",
-      "url": "https://levnocestovani.cz/akcni-zajezdy/thajsko-khao-lak-primy-let-a-hotel-primo-u-plaze-se-snidani-od-25-790-kc?utm_source=rss&utm_medium=feed",
-      "source": "Levnocestovani.cz",
-      "date": "2026-10-24T10:34:26+00:00",
-      "dateLabel": "24. 10. 2026",
-      "price": 25790,
-      "image": "",
-      "id": "https://levnocestovani.cz/akcni-zajezdy/thajsko-khao-lak-primy-let-a-hotel-primo-u-plaze-se-snidani-od-25-790-kc?utm_source=rss&utm_medium=feed",
-      "firstSeen": "2026-10-27T15:35:38.688065+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Podzimní přímé lety z Norimberku do marockého Rabatu od 1 266 Kč",
-      "summary": "Rezervuj: přes náš vyhledávač Zavazadla: příruční bágl o rozměrech do 40 × 30 × 20 cm Dostupnost: listopad a prosinec 2026 Termíny od 1 266 Kč: 6. 11. – 15. 11. → Zobrazit let 8. 11. – 22. 11. → Zobrazit let 13. 11. – 20. 11. → Zobrazit let",
-      "url": "https://zaletsi.cz/akce/podzimni-prime-lety-z-norimberku-do-marockeho-rabatu/",
-      "source": "Zaleťsi.cz",
-      "date": "2026-10-24T09:49:20+00:00",
-      "dateLabel": "24. 10. 2026",
-      "price": 1266,
-      "image": "",
-      "firstSeen": "2026-10-27T10:16:20.698591+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Londýn, Anglie – akční letenky z Prahy za 1426 Kč, z Ostravy za 1152 Kč",
-      "summary": "Londýn má tu vlastnost, že ho nikdy nemáte celý přečtený – a přitom víte přesně, co tam čeká: Tower Bridge, Temže, Westminsterské opatství a čtvrti jako Brixton nebo Bethnal Green, každá úplně jiná. K tomu muzea zdarma a gastronomická scéna",
-      "url": "https://www.levneletenkyzprahy.cz/2737_londyn,-anglie-–-akcni-letenky-z-prahy-za-1426-kc,-z-ostravy-za-1152-kc",
-      "source": "Levné letenky z Prahy",
-      "date": "2026-10-24T09:03:17+00:00",
-      "dateLabel": "24. 10. 2026",
-      "price": 1426,
-      "image": "",
-      "id": "https://www.levneletenkyzprahy.cz/2737_londyn,-anglie-–-akcni-letenky-z-prahy-za-1426-kc,-z-ostravy-za-1152-kc",
-      "firstSeen": "2026-10-27T13:31:28.797751+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Ryanair: Norimberk - Porto - 970 Kč",
-      "summary": "",
-      "url": "https://www.akcniletenky.com",
-      "source": "AkčníLetenky.com",
-      "date": "2026-10-24T09:00:00+00:00",
-      "dateLabel": "24. 10. 2026",
-      "price": 970,
-      "image": "",
-      "id": "645",
-      "firstSeen": "2026-10-27T15:30:19.910133+00:00",
       "priceOrig": null
     }
   ]
