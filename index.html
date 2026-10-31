@@ -175,7 +175,7 @@ function vEdit(){
   const ctry=ORI.map(([cc,name])=>{const on=cc in d.origins;return `<button type="button" class="pc${on?' on':''}" data-act="ctry" data-cc="${cc}" aria-pressed="${on}">${flag(cc,true)}${E(name)}</button>`}).join('');
   const cities=Object.keys(d.origins).map(cc=>{const o=ORI.find(x=>x[0]===cc);if(!o||!o[2].length)return'';return `<div class="pcity"><span>${flag(cc,true)} Města v zemi ${E(o[1])} <small>(volitelné)</small></span>${o[2].map(([c])=>{const on=d.origins[cc].includes(c);return `<button type="button" class="pc s${on?' on':''}" data-act="city" data-cc="${cc}" data-c="${E(c)}" aria-pressed="${on}">${E(c)}</button>`}).join('')}</div>`}).join('');
   const selL=[];ORI.forEach(([cc,name])=>{if(!(cc in d.origins))return;const L=d.origins[cc]||[];if(L.length)L.forEach(c=>selL.push([cc,c]));else selL.push([cc,name])});
-  const odd=`<div class="odd"><button type="button" class="ddbtn" data-act="odd" aria-expanded="${!!st.oOpen}"><span class="g">Odkud:</span>${selL.length?flag(selL[0][0],true)+'<span class="v">'+E(selL[0][1])+(selL.length>1?' +'+(selL.length-1):'')+'</span>':'<span class="v">Odkudkoli</span>'}<span class="arr">${st.oOpen?'▴':'▾'}</span></button><div class="opanel"${st.oOpen?'':' hidden'}>`+
+  const odd=`<div class="odd"><button type="button" class="ddbtn" data-act="odd" aria-expanded="${!!st.oOpen}">${selL.length?flag(selL[0][0],true)+'<span class="v">'+E(selL[0][1])+(selL.length>1?' +'+(selL.length-1):'')+'</span>':'<span class="v">Odkudkoli</span>'}<span class="arr">${st.oOpen?'▴':'▾'}</span></button><div class="opanel"${st.oOpen?'':' hidden'}>`+
     ORI.map(([cc,name,cs])=>{const on=cc in d.origins,L=d.origins[cc]||[];return `<label class="bgrp"><input type="checkbox" data-act="octry" data-cc="${cc}"${on&&!L.length?' checked':''} data-ind="${on&&L.length?1:0}">${flag(cc,true)}${E(name)}</label>`+cs.map(([c])=>`<label class="bopt"><input type="checkbox" data-act="ocity" data-cc="${cc}" data-c="${E(c)}"${L.includes(c)?' checked':''}>${E(c)}</label>`).join('')}).join('')+
     `<div class="bfoot"><span>Vybráno: ${selL.length}</span><span class="bfa"><button type="button" data-act="oclear">Zrušit výběr</button><button type="button" class="bdone" data-act="oclose">Hotovo</button></span></div></div></div>`;
   const seg=(act,cur,opts)=>`<div class="pseg" role="group">${opts.map(([v,l,ic])=>`<button type="button" class="${cur===v?'on':''}" data-act="${act}" data-v="${v}" aria-pressed="${cur===v}">${ic||''}${l}</button>`).join('')}</div>`;
@@ -283,7 +283,7 @@ document.addEventListener('keydown',e=>{if(e.key==='Escape'&&ov.classList.contai
 fab.onclick=()=>{open();if(!API)return go('soon');if(getS())loadList();else go('email')};
 
 // automatická aktualizace: když je na webu novější verze stránky než ta, kterou má prohlížeč v paměti, stránka se jednou sama načte znovu
-const BUILD='2026-10-31-b';
+const BUILD='2026-10-31-c';
 async function checkBuild(){
   try{
     if(ov.classList.contains('on')||document.hidden)return;
