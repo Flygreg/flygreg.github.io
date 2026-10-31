@@ -1,12 +1,3 @@
-# Licence vlajek
-
-Většina vlajek vychází z kresby **EmojiTwo / Emoji One** (https://github.com/EmojiTwo/emojitwo),
-licence **CC BY 4.0** (https://creativecommons.org/licenses/by/4.0/), s upravenými barvami podle
-sady **flag-icons** (Panayiotis Lipiridis, licence MIT).
-Vlajky EU, Maroka a Černé Hory jsou z **flag-icons** (MIT, https://github.com/lipis/flag-icons).
-
-Původní licence flag-icons:
-
 The MIT License (MIT)
 
 Copyright (c) 2013 Panayiotis Lipiridis
