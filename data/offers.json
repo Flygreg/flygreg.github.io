@@ -1,6 +1,35 @@
 {
-  "updated": "2026-10-31T20:50:10.214404+00:00",
+  "updated": "2026-10-31T22:49:14.412551+00:00",
   "offers": [
+    {
+      "title": "European Airlines Cut Winter Schedules: Ryanair Removes 5.7 Million Seats, LOT Nearly 600,000",
+      "summary": "European airlines are preparing for a challenging winter — and they have already begun revising their plans. In just a few weeks, Ryanair cut its planned seat capacity by 5.7 million, LOT by nearly 600,000, while some smaller carriers slash",
+      "url": "https://www.fly4free.com/news/european-airlines-cut-winter-schedules-ryanair/",
+      "source": "Fly4free.com",
+      "date": "2026-10-31T21:37:20+00:00",
+      "dateLabel": "31. 10. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/news/european-airlines-cut-winter-schedules-ryanair/",
+      "firstSeen": "2026-10-31T22:49:14.412551+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Price Cut! Last minute direct full-service flights from several cities in Poland to Sri Lanka ☀️ 🌴 from €453",
+      "summary": "Enter Air is offering direct return flights from several Polish cities to Colombo from just €453, making Sri Lanka an easy last-minute option for anyone craving beaches, jungle, tea country and a completely different climate.",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-poland-to-sri-lanka-e454/",
+      "source": "Fly4free.com",
+      "date": "2026-10-31T21:00:27+00:00",
+      "dateLabel": "31. 10. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-poland-to-sri-lanka-e454/",
+      "firstSeen": "2026-10-31T22:49:14.412551+00:00",
+      "priceOrig": {
+        "amount": 453,
+        "cur": "EUR"
+      }
+    },
     {
       "title": "Přímým letem z Prahy do Karibiku: Dominikánská republika ve 4* resortu přímo u pláže s All Inclusive za 26 990 Kč",
       "summary": "Odleťte přímým letem z Prahy do Karibiku! Čeká vás Dominikánská republika, 4* resort přímo u písečné pláže a All Inclusive za 26 990 Kč. Zamluvte si zájezd!",
