@@ -1,6 +1,19 @@
 {
-  "updated": "2026-10-30T22:51:03.216619+00:00",
+  "updated": "2026-10-31T07:10:01.405956+00:00",
   "offers": [
+    {
+      "title": "Akční letenky: Turin, Itálie za 990 Kč",
+      "summary": "Turín bývá někdy přezdíván italskou verzí Paříže – a když projdete jeho barokními bulváry a elegantnými arkádami, pochopíte proč. Tohle město na severozápadě Itálie má ale svůj vlastní charakter: najdete tu Turínské plátno, jednu z nejzáhad",
+      "url": "https://www.levneletenkyzprahy.cz/2744_akcni-letenky:-turin,-italie-za-990-kc",
+      "source": "Levné letenky z Prahy",
+      "date": "2026-10-31T07:23:16+00:00",
+      "dateLabel": "31. 10. 2026",
+      "price": 990,
+      "image": "",
+      "id": "https://www.levneletenkyzprahy.cz/2744_akcni-letenky:-turin,-italie-za-990-kc",
+      "firstSeen": "2026-10-31T07:10:01.405956+00:00",
+      "priceOrig": null
+    },
     {
       "title": "🇩🇪 Design-led 4-star 25hours Hotel in Frankfurt from just €66/double (including Xmas🎄)",
       "summary": "If you prefer hotels with personality over generic business-chain interiors, 25hours Hotel Frankfurt The Goldman is a very different kind of Frankfurt stay. Set in the creative Ostend district, close to the European Central Bank and the Mai",
@@ -3631,19 +3644,6 @@
       "image": "",
       "id": "https://www.cestujlevne.com/akcni-letenky/prime-lety-z-vidne-na-korsiku-i-behem-letnich-prazdnin",
       "firstSeen": "2026-10-27T15:35:38.688065+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Lauda: Vídeň - Catania - 930 Kč",
-      "summary": "",
-      "url": "https://www.akcniletenky.com",
-      "source": "AkčníLetenky.com",
-      "date": "2026-10-24T06:00:00+00:00",
-      "dateLabel": "24. 10. 2026",
-      "price": 930,
-      "image": "",
-      "id": "644",
-      "firstSeen": "2026-10-27T15:30:19.910133+00:00",
       "priceOrig": null
     }
   ]
