@@ -1,6 +1,35 @@
 {
-  "updated": "2026-10-31T07:10:01.405956+00:00",
+  "updated": "2026-10-31T08:55:32.074228+00:00",
   "offers": [
+    {
+      "title": "Do LONDÝNA z Brna - 784 Kč",
+      "summary": "Levné letenky do Londýna pořídíme i z Brna. Zpáteční letenky z Brna do Londýna pořídíme už za 784 Kč. Nejvýhodnější letenky jsou dostupné na listopadové termíny 2026. V ceně nejvýhodnějšího tarifu od aerolinky Ryanair máme malé příruční zav",
+      "url": "https://honzovyletenky.cz/do-londyna-z-brna-3/",
+      "source": "Honzovy letenky",
+      "date": "2026-10-31T09:11:48+00:00",
+      "dateLabel": "31. 10. 2026",
+      "price": 784,
+      "image": "",
+      "id": "https://honzovyletenky.cz/do-londyna-z-brna-3/",
+      "firstSeen": "2026-10-31T08:55:32.074228+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Last minute LOT direct flights from Warsaw to Penang, Malaysia for €635",
+      "summary": "Delicious street food, golden beaches, and rich culture await — all with comfort and style included in your journey! Book affordable LOT flights to Penang starting at €635 for a round trip.",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-warsaw-to-penang-e635/",
+      "source": "Fly4free.com",
+      "date": "2026-10-31T08:00:57+00:00",
+      "dateLabel": "31. 10. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-warsaw-to-penang-e635/",
+      "firstSeen": "2026-10-31T08:55:32.074228+00:00",
+      "priceOrig": {
+        "amount": 635,
+        "cur": "EUR"
+      }
+    },
     {
       "title": "Akční letenky: Turin, Itálie za 990 Kč",
       "summary": "Turín bývá někdy přezdíván italskou verzí Paříže – a když projdete jeho barokními bulváry a elegantnými arkádami, pochopíte proč. Tohle město na severozápadě Itálie má ale svůj vlastní charakter: najdete tu Turínské plátno, jednu z nejzáhad",
@@ -12,6 +41,19 @@
       "image": "",
       "id": "https://www.levneletenkyzprahy.cz/2744_akcni-letenky:-turin,-italie-za-990-kc",
       "firstSeen": "2026-10-31T07:10:01.405956+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Buzz: Bratislava - Agadir - 980 Kč",
+      "summary": "",
+      "url": "https://www.akcniletenky.com",
+      "source": "AkčníLetenky.com",
+      "date": "2026-10-31T07:00:00+00:00",
+      "dateLabel": "31. 10. 2026",
+      "price": 980,
+      "image": "",
+      "id": "672",
+      "firstSeen": "2026-10-31T08:55:32.074228+00:00",
       "priceOrig": null
     },
     {
@@ -3618,32 +3660,6 @@
       "image": "",
       "id": "645",
       "firstSeen": "2026-10-27T15:30:19.910133+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Týden na Madeiře z Brna za 12 490 Kč: Jardim do Atlantico s polopenzí",
-      "summary": "Vyrazte z Brna na Madeiru! Čeká vás týden v hotelu Jardim do Atlantico s polopenzí za 12 490 Kč. Odpočívejte u bazénu, objevujte levády i pláž v Calhetě.",
-      "url": "https://levnocestovani.cz/akcni-zajezdy/tyden-na-madeire-z-brna-za-12-490-kc-jardim-do-atlantico-s-polopenzi?utm_source=rss&utm_medium=feed",
-      "source": "Levnocestovani.cz",
-      "date": "2026-10-24T08:36:05+00:00",
-      "dateLabel": "24. 10. 2026",
-      "price": 12490,
-      "image": "",
-      "id": "https://levnocestovani.cz/akcni-zajezdy/tyden-na-madeire-z-brna-za-12-490-kc-jardim-do-atlantico-s-polopenzi?utm_source=rss&utm_medium=feed",
-      "firstSeen": "2026-10-27T15:35:38.688065+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Přímé lety z Vídně na Korsiku i během letních prázdnin. Letenky od 4 820 Kč",
-      "summary": "Letecká společnost Air Corsica má stále v nabídce výhodné letenky na Korsiku, a to i na příští letní prázdniny. Z Vídně můžete letět přímo do Ajaccia nebo Bastie za 198 EUR zpátečně.",
-      "url": "https://www.cestujlevne.com/akcni-letenky/prime-lety-z-vidne-na-korsiku-i-behem-letnich-prazdnin",
-      "source": "CestujLevne.com",
-      "date": "2026-10-24T07:35:48+00:00",
-      "dateLabel": "24. 10. 2026",
-      "price": 4820,
-      "image": "",
-      "id": "https://www.cestujlevne.com/akcni-letenky/prime-lety-z-vidne-na-korsiku-i-behem-letnich-prazdnin",
-      "firstSeen": "2026-10-27T15:35:38.688065+00:00",
       "priceOrig": null
     }
   ]
