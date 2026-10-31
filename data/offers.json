@@ -1,6 +1,80 @@
 {
-  "updated": "2026-10-31T10:49:50.697561+00:00",
+  "updated": "2026-10-31T13:03:52.548534+00:00",
   "offers": [
+    {
+      "title": "Fare drop 😉 Cheap direct flights from Paris to the island of Sao Vicente, Cape Verde 🏝️ for €171",
+      "summary": "Transavia is offering discounted direct flights to Sao Vicente! Tickets available from €171 for a round trip.",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-paris-to-sao-vicente-e171/",
+      "source": "Fly4free.com",
+      "date": "2026-10-31T13:00:50+00:00",
+      "dateLabel": "31. 10. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-paris-to-sao-vicente-e171/",
+      "firstSeen": "2026-10-31T13:03:52.548534+00:00",
+      "priceOrig": {
+        "amount": 171,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "Maledivy za 37 990 Kč: Plážová vila v 5* resortu s hodnocením 9,4/10 a přímý let",
+      "summary": "Soukromá terasa s výhledem na oceán, západy slunce přímo od vilky a šnorchlování v tyrkysových vodách. Mrkněte na nabídku a užijte si týden na Maledivách.",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/maledivy-za-37-990-kc-plazova-vila-v-5-resortu-s-hodnocenim-9410-a-primy-let?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-10-31T12:16:23+00:00",
+      "dateLabel": "31. 10. 2026",
+      "price": 37990,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/maledivy-za-37-990-kc-plazova-vila-v-5-resortu-s-hodnocenim-9410-a-primy-let?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-10-31T13:03:52.548534+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Well-rated 4* Czar Lisbon Hotel 💕 for €65/double",
+      "summary": "Discover Lisbon with an incredible stay at a stylish 4-star hotel capital from just €65 per double room. This fantastic value makes it easy to experience one of Europe's most exciting city breaks without stretching your budget.",
+      "url": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-lisbon-e65/",
+      "source": "Fly4free.com",
+      "date": "2026-10-31T12:00:24+00:00",
+      "dateLabel": "31. 10. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-lisbon-e65/",
+      "firstSeen": "2026-10-31T13:03:52.548534+00:00",
+      "priceOrig": {
+        "amount": 65,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "Lufthansa Changes Online Check-In Rules: Passengers Will Need to Create an Account",
+      "summary": "Checking in for a Lufthansa flight using just your surname and booking reference will soon no longer be enough. Lufthansa Group is gradually making Travel ID accounts mandatory for online check-in across seven of its airlines. The new rules",
+      "url": "https://www.fly4free.com/flight-deals/europe/lufthansa-changes-online-check-in-rules-passengers-will-need-to-create-an-account/",
+      "source": "Fly4free.com",
+      "date": "2026-10-31T11:45:07+00:00",
+      "dateLabel": "31. 10. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/lufthansa-changes-online-check-in-rules-passengers-will-need-to-create-an-account/",
+      "firstSeen": "2026-10-31T13:03:52.548534+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Fares down! 💥 Cheap full-service flights from several Europeam cities to Bali, Indonesia🌴 from €447",
+      "summary": "Escape to paradise without breaking the bank — discover stunning Bali with round-trip China Eastern Airlines flights to Denpasar starting at just €447. Your tropical adventure awaits!",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-bali-e447/",
+      "source": "Fly4free.com",
+      "date": "2026-10-31T11:00:03+00:00",
+      "dateLabel": "31. 10. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-bali-e447/",
+      "firstSeen": "2026-10-31T13:03:52.548534+00:00",
+      "priceOrig": {
+        "amount": 447,
+        "cur": "EUR"
+      }
+    },
     {
       "title": "Za 28 990 Kč do Dominikány: 5* resort přímo u pláže s All Inclusive a přímým letem z Prahy",
       "summary": "Luxusní 5* resort v Dominikáně přímo u pláže! Líná řeka, aquapark, All Inclusive a přímý let z Prahy za 28 990 Kč. Pořiďte si dovolenou snů ještě dnes.",
@@ -3650,48 +3724,6 @@
       "price": 29390,
       "image": "",
       "id": "https://levnocestovani.cz/akcni-zajezdy/dominikanska-republika-primym-letem-za-29-390-kc-5-resort-v-punta-cane-u-plaze-s-all-inclusive?utm_source=rss&utm_medium=feed",
-      "firstSeen": "2026-10-27T15:35:38.688065+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Full-service flights from many European cities to Sri Lanka 🌴 from €517",
-      "summary": "It’s your moment to discover paradise! Take advantage of discounted Gulf Air flights to Colombo starting at just €517 return. Step into a world of adventure, history, and natural beauty.",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-europe-to-sri-lanka-e517/",
-      "source": "Fly4free.com",
-      "date": "2026-10-24T13:00:09+00:00",
-      "dateLabel": "24. 10. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/flights-europe-to-sri-lanka-e517/",
-      "firstSeen": "2026-10-27T15:35:38.688065+00:00",
-      "priceOrig": {
-        "amount": 517,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Hainan Airlines: Vídeň - Hainan - 11 490 Kč",
-      "summary": "",
-      "url": "https://www.akcniletenky.com",
-      "source": "AkčníLetenky.com",
-      "date": "2026-10-24T12:00:00+00:00",
-      "dateLabel": "24. 10. 2026",
-      "price": 11490,
-      "image": "",
-      "id": "646",
-      "firstSeen": "2026-10-27T15:30:19.910133+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Zanzibar z Bratislavy za 25 490 Kč – 5* resort s All Inclusive přímo u pláže",
-      "summary": "Bílý písek, palmy a teplý Indický oceán místo listopadového chladu? Už 1. listopadu můžete vyrazit na dovolenou. Prohlédněte si výhodnou nabídku od Čedoku.",
-      "url": "https://levnocestovani.cz/akcni-zajezdy/zanzibar-z-bratislavy-za-25-490-kc-5-resort-s-all-inclusive-primo-u-plaze?utm_source=rss&utm_medium=feed",
-      "source": "Levnocestovani.cz",
-      "date": "2026-10-24T11:58:45+00:00",
-      "dateLabel": "24. 10. 2026",
-      "price": 25490,
-      "image": "",
-      "id": "https://levnocestovani.cz/akcni-zajezdy/zanzibar-z-bratislavy-za-25-490-kc-5-resort-s-all-inclusive-primo-u-plaze?utm_source=rss&utm_medium=feed",
       "firstSeen": "2026-10-27T15:35:38.688065+00:00",
       "priceOrig": null
     }
