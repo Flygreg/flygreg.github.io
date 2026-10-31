@@ -1,6 +1,64 @@
 {
-  "updated": "2026-10-31T16:51:24.167165+00:00",
+  "updated": "2026-10-31T18:58:07.980187+00:00",
   "offers": [
+    {
+      "title": "Cheap direct flights from Amsterdam to the island of Sal, Cape Verde 🏝️ for €199",
+      "summary": "Sun, sea, and adventure await — don’t miss this excellent deal! Easyjet is offering discounted flights to the island of Sal starting at only €199 for a round trip.",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-cape-verde-e199/",
+      "source": "Fly4free.com",
+      "date": "2026-10-31T18:00:57+00:00",
+      "dateLabel": "31. 10. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-cape-verde-e199/",
+      "firstSeen": "2026-10-31T18:58:07.980187+00:00",
+      "priceOrig": {
+        "amount": 199,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "China Eastern Airlines: Vídeň - Soul - 12 990 Kč",
+      "summary": "",
+      "url": "https://www.akcniletenky.com",
+      "source": "AkčníLetenky.com",
+      "date": "2026-10-31T18:00:00+00:00",
+      "dateLabel": "31. 10. 2026",
+      "price": 12990,
+      "image": "",
+      "id": "675",
+      "firstSeen": "2026-10-31T18:58:07.980187+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Thajsko z Prahy: 5* Pullman Khao Lak Resort se snídaní od 22 990 Kč",
+      "summary": "5* Pullman Khao Lak se snídaní a přímým letem z Prahy jen za 22 990 Kč. Koupání v Andamanském moři i poznávání chrámu Wat Nam Khem. Prohlédněte si nabídku!",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/thajsko-z-prahy-5-pullman-khao-lak-resort-se-snidani-od-22-990-kc?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-10-31T17:39:00+00:00",
+      "dateLabel": "31. 10. 2026",
+      "price": 22990,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/thajsko-z-prahy-5-pullman-khao-lak-resort-se-snidani-od-22-990-kc?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-10-31T18:58:07.980187+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "BEST SEASON 😎 🍹 B&B stay at top-rated & beachfront 4* hotel in Zanzibar for €40/double",
+      "summary": "Imagine waking up close to the ocean, spending your days relaxing on sandy beaches, and discovering Zanzibar's unique blend of Swahili culture, tropical scenery, and island charm. Enjoy a bed-and-breakfast stay at a well-rated 4-star beachf",
+      "url": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-zanzibar-e56-2/",
+      "source": "Fly4free.com",
+      "date": "2026-10-31T17:00:01+00:00",
+      "dateLabel": "31. 10. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-zanzibar-e56-2/",
+      "firstSeen": "2026-10-31T18:58:07.980187+00:00",
+      "priceOrig": {
+        "amount": 40,
+        "cur": "EUR"
+      }
+    },
     {
       "title": "Holiday in Sharm El Sheikh for €388 p.p. 🏖️ Direct flights from Budapest + 7-night All Inclusive stay at 5* resort",
       "summary": "Take advantage of this super cheap package deal and spend 7 nights in Egypt! Book Wizz Air flights from Hungary and all-inclusive stay at 5* resort from only €388 per person (based on 2 people sharing).",
@@ -3667,51 +3725,6 @@
       "priceOrig": {
         "amount": 366,
         "cur": "GBP"
-      }
-    },
-    {
-      "title": "Dominikána (La Romana) na týden s all-inclusive a přímým letem z Prahy. Zájezd od 25 690 Kč",
-      "summary": "Do Dominikánské republiky můžete vyrazit nejen po vlastní ose díky akčním letenkám z Prahy. Zajímavě teď vychází také týdenní zájezd s all-inclusive za 25 690 Kč na osobu.",
-      "url": "https://www.cestujlevne.com/akcni-letenky/dominikana-la-romana-na-tyden-s-all-inclusive-a-primym-letem-z-prahy",
-      "source": "CestujLevne.com",
-      "date": "2026-10-24T18:44:17+00:00",
-      "dateLabel": "24. 10. 2026",
-      "price": 25690,
-      "image": "",
-      "id": "https://www.cestujlevne.com/akcni-letenky/dominikana-la-romana-na-tyden-s-all-inclusive-a-primym-letem-z-prahy",
-      "firstSeen": "2026-10-27T15:35:38.688065+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Holiday in Madeira for €422 p.p. ☀️ 🌊 Direct flights from Budapest + car hire & 7-night B&B stay at sea view 4* hotel",
-      "summary": "Discover the scenic Portuguese island of Madeira! Book cheap direct Wizz Air flights to Funchal and accommodation at well-rated hotel for only €422 per person (based on 2 people sharing).",
-      "url": "https://www.fly4free.com/flight-deals/europe/holiday-in-madeira-from-budapest-e422/",
-      "source": "Fly4free.com",
-      "date": "2026-10-24T18:00:02+00:00",
-      "dateLabel": "24. 10. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/holiday-in-madeira-from-budapest-e422/",
-      "firstSeen": "2026-10-27T15:35:38.688065+00:00",
-      "priceOrig": {
-        "amount": 422,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Cheap non-stop flights from Paris to New York for €374",
-      "summary": "Experience the magic of NYC — Broadway lights, Central Park strolls, and skyline views await! Book discounted FrenchBee flights starting at only €374 for a round trip.",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-paris-to-new-york-e374/",
-      "source": "Fly4free.com",
-      "date": "2026-10-24T17:00:13+00:00",
-      "dateLabel": "24. 10. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-paris-to-new-york-e374/",
-      "firstSeen": "2026-10-27T15:35:38.688065+00:00",
-      "priceOrig": {
-        "amount": 374,
-        "cur": "EUR"
       }
     }
   ]
