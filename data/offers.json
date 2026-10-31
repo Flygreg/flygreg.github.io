@@ -1,6 +1,51 @@
 {
-  "updated": "2026-10-31T14:49:47.604907+00:00",
+  "updated": "2026-10-31T16:51:24.167165+00:00",
   "offers": [
+    {
+      "title": "Holiday in Sharm El Sheikh for €388 p.p. 🏖️ Direct flights from Budapest + 7-night All Inclusive stay at 5* resort",
+      "summary": "Take advantage of this super cheap package deal and spend 7 nights in Egypt! Book Wizz Air flights from Hungary and all-inclusive stay at 5* resort from only €388 per person (based on 2 people sharing).",
+      "url": "https://www.fly4free.com/flight-deals/europe/holiday-in-egypt-from-budapest-e388/",
+      "source": "Fly4free.com",
+      "date": "2026-10-31T16:00:56+00:00",
+      "dateLabel": "31. 10. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/holiday-in-egypt-from-budapest-e388/",
+      "firstSeen": "2026-10-31T16:51:24.167165+00:00",
+      "priceOrig": {
+        "amount": 388,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "Objevte sopečné Lanzarote: Týdenní All Inclusive dovolená z Prahy za 16 690 Kč",
+      "summary": "Objevte krásy Lanzarote! Užijte si týdenní All Inclusive dovolenou v aparthotelu Morromar jen 400 m od pláže. Odlet z Prahy za 16 690 Kč. Rezervujte ještě dnes!",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/objevte-sopecne-lanzarote-tydenni-all-inclusive-dovolena-z-prahy-za-16-690-kc?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-10-31T15:06:06+00:00",
+      "dateLabel": "31. 10. 2026",
+      "price": 16690,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/objevte-sopecne-lanzarote-tydenni-all-inclusive-dovolena-z-prahy-za-16-690-kc?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-10-31T16:51:24.167165+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "B&B stay at highly rated 4✨ hotel in the Garda Lake, Italy from €59/double",
+      "summary": "Enjoy a relaxing getaway on the shores of Lake Garda, Italy, with a stay at a charming 4-star hotel offering beautiful lake views! Starting at just €59 per double room, this affordable B&B deal is a great opportunity to discover one of Ital",
+      "url": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-garda-lake-italy-e59/",
+      "source": "Fly4free.com",
+      "date": "2026-10-31T15:00:07+00:00",
+      "dateLabel": "31. 10. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-garda-lake-italy-e59/",
+      "firstSeen": "2026-10-31T16:51:24.167165+00:00",
+      "priceOrig": {
+        "amount": 59,
+        "cur": "EUR"
+      }
+    },
     {
       "title": "PEAK SEASON ☀️🌴 Cheap full-service flights from Barcelona to South East Asia from €489",
       "summary": "China Eastern Airlines are offering discounted flights to Thailand, Singapore, Malaysia and Vietnam from just €489 return — making this one of the cheapest options to Southeast Asia right now.",
@@ -102,7 +147,7 @@
       "priceOrig": null
     },
     {
-      "title": "Fares down! 💥 Cheap full-service flights from several Europeam cities to Bali, Indonesia🌴 from €447",
+      "title": "Fares down! 💥 Cheap full-service flights from several European cities to Bali, Indonesia🌴 from €447",
       "summary": "Escape to paradise without breaking the bank — discover stunning Bali with round-trip China Eastern Airlines flights to Denpasar starting at just €447. Your tropical adventure awaits!",
       "url": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-bali-e447/",
       "source": "Fly4free.com",
@@ -3667,64 +3712,6 @@
       "priceOrig": {
         "amount": 374,
         "cur": "EUR"
-      }
-    },
-    {
-      "title": "Podzimní dovolená na Tenerife za 18 590 Kč v Be Live Experience Orotava s All Inclusive",
-      "summary": "Podzimní dovolená na Tenerife za 18 590 Kč! Ubytování s All Inclusive v hotelu Be Live Experience Orotava v Puerto de la Cruz. Rezervujte si pobyt.",
-      "url": "https://levnocestovani.cz/akcni-zajezdy/podzimni-dovolena-na-tenerife-za-18-590-kc-v-be-live-experience-orotava-s-all-inclusive?utm_source=rss&utm_medium=feed",
-      "source": "Levnocestovani.cz",
-      "date": "2026-10-24T16:44:51+00:00",
-      "dateLabel": "24. 10. 2026",
-      "price": 18590,
-      "image": "",
-      "id": "https://levnocestovani.cz/akcni-zajezdy/podzimni-dovolena-na-tenerife-za-18-590-kc-v-be-live-experience-orotava-s-all-inclusive?utm_source=rss&utm_medium=feed",
-      "firstSeen": "2026-10-27T15:35:38.688065+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "BEST SEASON 😎 🍹 B&B stay at well-rated & beachfront 4* hotel in Zanzibar for €57/double",
-      "summary": "Imagine waking up close to the ocean, spending your days relaxing on sandy beaches, and discovering Zanzibar's unique blend of Swahili culture, tropical scenery, and island charm. Enjoy a bed-and-breakfast stay at a well-rated 4-star beachf",
-      "url": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-zanzibar-e57-2/",
-      "source": "Fly4free.com",
-      "date": "2026-10-24T16:00:41+00:00",
-      "dateLabel": "24. 10. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-zanzibar-e57-2/",
-      "firstSeen": "2026-10-27T15:35:38.688065+00:00",
-      "priceOrig": {
-        "amount": 57,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Etihad Airways Launches Direct Flights Between Abu Dhabi and Luxembourg: Four Weekly Services and Connections to Asia",
-      "summary": "Etihad Airways launched direct flights between Abu Dhabi and Luxembourg on October 21. This is the only nonstop route connecting Luxembourg with the United Arab Emirates. Flights will operate four times a week, allowing passengers to travel",
-      "url": "https://www.fly4free.com/news/etihad-airways-launches-direct-flights-between-abu-dhabi-and-luxembourg-four-weekly-services-and-connections-to-asia/",
-      "source": "Fly4free.com",
-      "date": "2026-10-24T15:14:49+00:00",
-      "dateLabel": "24. 10. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/news/etihad-airways-launches-direct-flights-between-abu-dhabi-and-luxembourg-four-weekly-services-and-connections-to-asia/",
-      "firstSeen": "2026-10-27T15:35:38.688065+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Cheap full-service flights from Manchester to South Korea 🍁 for £447",
-      "summary": "Looking for a unique, full-service getaway in Asia? Now’s your chance! Fly to Seoul for just £447 round trip with Asiana & Hainan Airlines. This means checked luggage, meals, and comfortable seating are included—no hidden fees or budget-air",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-manchester-to-seoul-p447-5/",
-      "source": "Fly4free.com",
-      "date": "2026-10-24T15:00:34+00:00",
-      "dateLabel": "24. 10. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-manchester-to-seoul-p447-5/",
-      "firstSeen": "2026-10-27T15:35:38.688065+00:00",
-      "priceOrig": {
-        "amount": 447,
-        "cur": "GBP"
       }
     }
   ]
