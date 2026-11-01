@@ -306,7 +306,7 @@ document.addEventListener('keydown',e=>{if(e.key==='Escape'&&ov.classList.contai
 fab.onclick=()=>{open();if(!API)return go('soon');if(getS())loadList();else go('email')};
 
 // automatická aktualizace: když je na webu novější verze stránky než ta, kterou má prohlížeč v paměti, stránka se jednou sama načte znovu
-const BUILD='2026-11-01-c';
+const BUILD='2026-11-01-d';
 async function checkBuild(){
   try{
     if(ov.classList.contains('on')||document.hidden)return;
@@ -337,6 +337,7 @@ async function fromHash(){
   if(type==='odhlasit')return go('wipe',{tok:t,email:''});
   go('load');const r=await api({a:'exchange',t});
   if(r.ok&&r.confirm)return go('confirm',{tok:t,email:r.email});
+  if(r.ok&&!r.session)return go('email',{msg:'Přihlášení se nepovedlo. Zkus to prosím znovu.'});
   if(r.ok){setS(r.session);if(Array.isArray(r.rules)){st.email=r.email;st.rules=r.rules;st.max=r.max||MAXR;go('list');fetchCounts()}else loadList()}else go('email',{msg:r.error||'Odkaz už nefunguje. Nech si poslat nový.'})
 }
 fromHash();
