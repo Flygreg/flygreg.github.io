@@ -1,0 +1,12 @@
+{
+  "name": "greg – Váš agregátor letenek",
+  "short_name": "greg",
+  "start_url": "./",
+  "scope": "./",
+  "display": "browser",
+  "background_color": "#092b58",
+  "theme_color": "#092b58",
+  "icons": [
+    { "src": "apple-touch-icon.png", "sizes": "180x180", "type": "image/png" }
+  ]
+}
