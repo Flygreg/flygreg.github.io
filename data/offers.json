@@ -1,6 +1,51 @@
 {
-  "updated": "2026-11-01T16:50:53.457254+00:00",
+  "updated": "2026-11-01T18:58:15.412361+00:00",
   "offers": [
+    {
+      "title": "Dovolená v 5* plážové vile na Maledivách za 33 990 Kč včetně přímého letu",
+      "summary": "Užijte si dovolenou na Maledivách ve vlastní vile v 5* resortu s výhledem na oceán, nádhernými západy slunce a All Inclusive – prohlédněte si nabídku Čedoku.",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/dovolena-v-5-plazove-vile-na-maledivach-za-33-990-kc-vcetne-primeho-letu?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-11-01T18:07:01+00:00",
+      "dateLabel": "1. 11. 2026",
+      "price": 33990,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/dovolena-v-5-plazove-vile-na-maledivach-za-33-990-kc-vcetne-primeho-letu?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-11-01T18:58:15.412361+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Full-service flights from Budapest & Vienna to Cambodia from €569",
+      "summary": "Cambodia offers far more than just Angkor Wat — and now you can get there for less! Air China is offering discounted full-service flights to Phnom Penh from only €569 return, making it a great time to start planning your next big adventure.",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-budapest-vienna-to-cambodia-e569/",
+      "source": "Fly4free.com",
+      "date": "2026-11-01T18:00:12+00:00",
+      "dateLabel": "1. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-budapest-vienna-to-cambodia-e569/",
+      "firstSeen": "2026-11-01T18:58:15.412361+00:00",
+      "priceOrig": {
+        "amount": 569,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "Charming hotel in the heart of Barcelona 🥰 for €69/double",
+      "summary": "Fantastic opportunity to discover Barcelona from the heart of the action with this charming hotel stay from just €69 per double room. Wander through atmospheric streets, admire Gaudí’s spectacular architecture, relax with tapas and sangria,",
+      "url": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-barcelona-e69/",
+      "source": "Fly4free.com",
+      "date": "2026-11-01T17:00:44+00:00",
+      "dateLabel": "1. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-barcelona-e69/",
+      "firstSeen": "2026-11-01T18:58:15.412361+00:00",
+      "priceOrig": {
+        "amount": 69,
+        "cur": "EUR"
+      }
+    },
     {
       "title": "Tenerife za 15 990 Kč: Týden s All Inclusive v centru Playa de las Américas",
       "summary": "Užijte si listopad na Kanárech! Čekají vás čtyři bazény, dvě pláže i slavný Siam Park v pěší vzdálenosti. Vyrazte s Čedokem z Prahy na týden s All Inclusive.",
@@ -3692,77 +3737,6 @@
       "firstSeen": "2026-10-27T15:35:38.688065+00:00",
       "priceOrig": {
         "amount": 631,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "PALERMO za tisícovku - 1 076 Kč",
-      "summary": "Levné letenky na Sicílii nabízí také Wizz Air. Zpáteční letenky z Prahy do Palerma pořídíme už za 1 076 Kč. Nejvýhodnější letenky jsou dostupné na termíny v lednu 2027. Na nejnižší cenu dosáhnou členové klubu WDC, ostatní si připlatí asi 25",
-      "url": "https://honzovyletenky.cz/palermo-za-tisicovku/",
-      "source": "Honzovy letenky",
-      "date": "2026-10-25T18:08:59+00:00",
-      "dateLabel": "25. 10. 2026",
-      "price": 1076,
-      "image": "",
-      "id": "https://honzovyletenky.cz/palermo-za-tisicovku/",
-      "firstSeen": "2026-10-27T15:35:38.688065+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "PRICE DROP 💥 Cheap flights from many European cities to Baja California, Mexico 🌊 🌵 from €427",
-      "summary": "Dreaming of sun-soaked beaches, dramatic desert landscapes, and unforgettable Pacific Ocean views? Now is your chance to explore Mexico’s spectacular Baja California peninsula, with Condor flights starting at just €427 return.",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-baja-california-e427/",
-      "source": "Fly4free.com",
-      "date": "2026-10-25T18:00:54+00:00",
-      "dateLabel": "25. 10. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-baja-california-e427/",
-      "firstSeen": "2026-10-27T15:35:38.688065+00:00",
-      "priceOrig": {
-        "amount": 427,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "United Airlines: Praha - Rio de Janeiro - 12 490 Kč",
-      "summary": "",
-      "url": "https://www.akcniletenky.com",
-      "source": "AkčníLetenky.com",
-      "date": "2026-10-25T18:00:00+00:00",
-      "dateLabel": "25. 10. 2026",
-      "price": 12490,
-      "image": "",
-      "id": "649",
-      "firstSeen": "2026-10-27T15:30:19.910133+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Last Minute Egypt: 15 dní ve 4* resortu s All Inclusive za 21 290 Kč",
-      "summary": "Last minute dovolená v Egyptě za 21 290 Kč! 15 dní ve 4* resortu s All Inclusive v Marsa Alam. Šnorchlování, plážový volejbal i relax u bazénu. Odlet už zítra!",
-      "url": "https://levnocestovani.cz/akcni-zajezdy/last-minute-egypt-15-dni-ve-4-resortu-s-all-inclusive-za-21-290-kc?utm_source=rss&utm_medium=feed",
-      "source": "Levnocestovani.cz",
-      "date": "2026-10-25T17:44:14+00:00",
-      "dateLabel": "25. 10. 2026",
-      "price": 21290,
-      "image": "",
-      "id": "https://levnocestovani.cz/akcni-zajezdy/last-minute-egypt-15-dni-ve-4-resortu-s-all-inclusive-za-21-290-kc?utm_source=rss&utm_medium=feed",
-      "firstSeen": "2026-10-27T15:35:38.688065+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Well-rated 4* Sercotel Rosaleda Málaga ☀️ for €69/double",
-      "summary": "Enjoy Málaga’s sunny weather, charming old town, lively tapas bars and beautiful Mediterranean coastline without stretching your travel budget. The well-rated 4-star Sercotel Rosaleda Málaga is a great option for discovering one of Andalusi",
-      "url": "https://www.fly4free.com/flight-deals/europe/4-star-resort-in-malaga-e69/",
-      "source": "Fly4free.com",
-      "date": "2026-10-25T17:00:26+00:00",
-      "dateLabel": "25. 10. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/4-star-resort-in-malaga-e69/",
-      "firstSeen": "2026-10-27T15:35:38.688065+00:00",
-      "priceOrig": {
-        "amount": 69,
         "cur": "EUR"
       }
     }
