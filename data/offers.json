@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-01T20:50:33.134263+00:00",
+  "updated": "2026-11-01T22:48:53.164916+00:00",
   "offers": [
+    {
+      "title": "Cheap flights from London to Seattle for £367 or £391 over Summer ☀️",
+      "summary": "Quick escape or epic adventure? Your Seattle story starts now! Explore the vibrant streets of Pike Place, get lost in the rhythm of the Emerald City, and sip coffee where it all began — book discounted Icelandair or British Airways flights",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-seattle-p367/",
+      "source": "Fly4free.com",
+      "date": "2026-11-01T21:00:16+00:00",
+      "dateLabel": "1. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-seattle-p367/",
+      "firstSeen": "2026-11-01T22:48:53.164916+00:00",
+      "priceOrig": {
+        "amount": 367,
+        "cur": "GBP"
+      }
+    },
     {
       "title": "HIGH SEASON ☀️ KLM flights from the Baltic countries to Singapore from €587",
       "summary": "Whether you’re traveling for the food, the architecture, or just the energy of a world-class city, Singapore delivers a perfect mix of modern innovation and rich cultural heritage. With this KLM deal, you can fly from just €587 return.",
@@ -305,8 +321,8 @@
       "priceOrig": null
     },
     {
-      "title": "Non-stop flights from Madrid to Recife, Brazil ☀️ 🏖️ for €551",
-      "summary": "Sun, samba, and stunning beaches are just a flight away - Brazil is calling! Book your tropical getaway now with direct Azul Airlines flights starting at €551 for a round trip.",
+      "title": "Cheap non-stop flights from Madrid to Recife, Brazil ☀️ 🏖️ for €495",
+      "summary": "Sun, samba, and stunning beaches are just a flight away - Brazil is calling! Book your tropical getaway now with direct Azul Airlines flights starting at €495 for a round trip.",
       "url": "https://www.fly4free.com/flight-deals/europe/flights-from-madrid-to-recife-e551/",
       "source": "Fly4free.com",
       "date": "2026-11-01T10:00:09+00:00",
@@ -316,7 +332,7 @@
       "id": "https://www.fly4free.com/flight-deals/europe/flights-from-madrid-to-recife-e551/",
       "firstSeen": "2026-11-01T10:52:33.501607+00:00",
       "priceOrig": {
-        "amount": 551,
+        "amount": 495,
         "cur": "EUR"
       }
     },
@@ -3736,22 +3752,6 @@
       "id": "650",
       "firstSeen": "2026-10-27T15:30:19.910133+00:00",
       "priceOrig": null
-    },
-    {
-      "title": "DEAL ALERT 😎 Cheap direct flights from Scandinavia to Thailand from €145 one-way",
-      "summary": "Fly on the cheap to Thailand with this amazing Norse flight deal! Book tickets to Bangkok and Phuket starting at €145 one-way!",
-      "url": "https://www.fly4free.com/flight-deals/europe/one-way-flights-from-scandinavia-to-thailand-e145/",
-      "source": "Fly4free.com",
-      "date": "2026-10-25T21:00:57+00:00",
-      "dateLabel": "25. 10. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/one-way-flights-from-scandinavia-to-thailand-e145/",
-      "firstSeen": "2026-10-27T15:35:38.688065+00:00",
-      "priceOrig": {
-        "amount": 145,
-        "cur": "EUR"
-      }
     }
   ]
 }
