@@ -162,8 +162,10 @@ function vSoon(){return head('Hlídač')+'<p>Brzy ti pohlídá nabídky podle tv
 function vEmail(){return head('Hlídač')+'<p>Zadej e-mail, nastav, co tě zajímá, a pošleme ti jen odpovídající nabídky. Žádné heslo ani registrace.</p>'+msgs()+
  `<label for="pe">Tvůj e-mail</label><input id="pe" class="pin" type="email" inputmode="email" autocomplete="email" placeholder="jmeno@email.cz" value="${E(st.email)}"><button type="button" class="pb w" data-act="send"${dis()}>${busy?'Odesílám…':'Pokračovat'}</button>`+
  '<p class="psm">Pošleme ti odkaz, kterým se k nastavení dostaneš odkudkoli. Adresu použijeme jen pro upozornění a odhlásit se můžeš kdykoli.</p>'}
-function vSent(){return head('Zkontroluj schránku')+`<p>Poslali jsme odkaz na <b>${E(st.sentTo)}</b>. Kliknutím se dostaneš k nastavení hlídání. Odkaz platí 30 minut.</p>`+msgs()+
+function vSent(){return head('Zkontroluj schránku')+(st.rid?`<p>Poslali jsme e-mail na <b>${E(st.sentTo)}</b>. Klepni na tlačítko v něm, v Safari přihlášení potvrď a vrať se sem. Přihlásíme tě automaticky. Odkaz platí 30 minut.</p>`:`<p>Poslali jsme odkaz na <b>${E(st.sentTo)}</b>. Kliknutím se dostaneš k nastavení hlídání. Odkaz platí 30 minut.</p>`)+msgs()+
  `<button type="button" class="pb g w" data-act="resend"${dis()}>Poslat znovu</button><p class="psm">Nic nepřišlo? <b>Podívej se do spamu</b> nebo zkus jinou adresu. <a href="#" data-act="other">Změnit adresu</a></p>`}
+function vConfirm(){return head('Potvrdit přihlášení')+`<p>Někdo žádá o přihlášení do Hlídače jako <b>${E(st.email)}</b>. Potvrď jen tehdy, když jsi o přihlášení v aplikaci žádal(a) ty.</p>`+msgs()+`<button type="button" class="pb w" data-act="confirm"${dis()}>${busy?'Potvrzuji…':'Ano, přihlásit aplikaci'}</button><p class="psm">Nežádal(a) jsi o to? Okno zavři a nic se nestane.</p>`}
+function vHandoff(){return head('Hotovo')+`<p><b>Přihlášení je potvrzené.</b> Vrať se do aplikace na ploše, přihlásí se sama během pár sekund. Toto okno můžeš zavřít.</p>`}
 function vLoad(){return head('Hlídač')+`<div class="ld" role="status" aria-live="polite"><div class="sp"><div class="arc"></div><div class="mid">${KPLN}</div></div><span>Načítám hlídání…</span></div>`}
 const GEN={'Česko':'Česka','Slovensko':'Slovenska','Rakousko':'Rakouska','Německo':'Německa','Polsko':'Polska','Praha':'Prahy','Ostrava':'Ostravy','Brno':'Brna','Pardubice':'Pardubic','Bratislava':'Bratislavy','Vídeň':'Vídně','Salcburk':'Salcburku','Linz':'Linzu','Berlín':'Berlína','Norimberk':'Norimberku','Mnichov':'Mnichova','Drážďany':'Drážďan','Lipsko':'Lipska','Frankfurt':'Frankfurtu','Hamburk':'Hamburku','Düsseldorf':'Düsseldorfu','Memmingen':'Memmingenu','Kolín n. R.':'Kolína n. R.','Stuttgart':'Stuttgartu','Krakov':'Krakova','Katovice':'Katovic','Vratislav':'Vratislavi','Varšava':'Varšavy'};
 const zOd=l=>{const g=l.map(x=>GEN[x]||x),f=g[0]||'';return(/^[sszšž]/i.test(f)&&/^[sszšž][^aeiouyáéěíóúůýaeiou]/i.test(f)?'ze ':'z ')+g.join(', ')};
@@ -203,7 +205,7 @@ function vEdit(){
   `<div class="sbar"><button type="button" class="pb" data-act="save"${dis()}>${busy?'Ukládám…':'Uložit hlídání'}</button><button type="button" class="pb g" data-act="back">Zrušit</button></div>`+calHtml()}
 
 function paint(){
-  const v=({soon:vSoon,email:vEmail,sent:vSent,load:vLoad,list:vList,edit:vEdit,wipe:vWipe,done:vDone})[st.view]||vEmail;
+  const v=({soon:vSoon,email:vEmail,sent:vSent,load:vLoad,list:vList,edit:vEdit,wipe:vWipe,done:vDone,confirm:vConfirm,handoff:vHandoff})[st.view]||vEmail;
   const keep=document.activeElement&&document.activeElement.id,pos=getPos();
   box.innerHTML=v();box.querySelectorAll('.opanel input[data-ind="1"]').forEach(i=>{i.indeterminate=true});setPos(pos);
   if(keep){const el=document.getElementById(keep);if(el&&/^(pe|pn|pp|pk)$/.test(keep)){el.focus();try{el.setSelectionRange(el.value.length,el.value.length)}catch(e){}}}
@@ -258,8 +260,12 @@ async function act(a,el){
     case'send':case'resend':{
       const email=(a==='resend'?st.sentTo:(document.getElementById('pe')||{}).value||'').trim();
       st.email=email;busy=true;st.msg='';paint();
-      const r=await api({a:'login',email});busy=false;
-      if(r.ok)go('sent',{sentTo:email.toLowerCase(),ok:a==='resend'?'Poslali jsme nový odkaz.':''});else{st.msg=r.error||'Něco se nepovedlo.';paint()}return}
+      const rid=STANDALONE?newRid():'';
+      const r=await api({a:'login',email,rid});busy=false;
+      if(r.ok){go('sent',{sentTo:email.toLowerCase(),rid,ok:a==='resend'?'Poslali jsme nový odkaz.':''});if(rid)pollLogin(rid)}else{st.msg=r.error||'Něco se nepovedlo.';paint()}return}
+    case'confirm':{
+      busy=true;paint();const r=await api({a:'exchange',t:st.tok,confirm:true});busy=false;
+      if(r.ok&&r.handoff)go('handoff');else if(r.ok&&r.session){setS(r.session);loadList()}else{st.msg=r.error||'Odkaz už nefunguje. Nech si poslat nový.';paint()}return}
     case'other':return go('email',{email:''});
     case'new':st.ed={id:'',name:'',origins:{},kind:'',maxPrice:'',keywords:'',expires:'',freq:'hned'};st.pv='';go('edit');return schedulePreview();
     case'edit':{const r=st.rules.find(x=>x.id===id);if(!r)return;return openEdit(r)}
@@ -300,7 +306,7 @@ document.addEventListener('keydown',e=>{if(e.key==='Escape'&&ov.classList.contai
 fab.onclick=()=>{open();if(!API)return go('soon');if(getS())loadList();else go('email')};
 
 // automatická aktualizace: když je na webu novější verze stránky než ta, kterou má prohlížeč v paměti, stránka se jednou sama načte znovu
-const BUILD='2026-11-01-b';
+const BUILD='2026-11-01-c';
 async function checkBuild(){
   try{
     if(ov.classList.contains('on')||document.hidden)return;
@@ -311,12 +317,26 @@ async function checkBuild(){
 }
 setTimeout(checkBuild,2500);document.addEventListener('visibilitychange',()=>{if(!document.hidden)setTimeout(checkBuild,800)});
 if(API&&getS())setTimeout(prefetch,250);
+// aplikace na ploše má vlastní úložiště: odkaz z e-mailu se otevře v Safari, tady si přihlášení vyzvedneme dotazem
+const STANDALONE=(()=>{try{return matchMedia('(display-mode: standalone)').matches||navigator.standalone===true}catch(e){return false}})();
+const newRid=()=>{const a=new Uint8Array(16);(crypto.getRandomValues?crypto.getRandomValues(a):a.forEach((_,i)=>a[i]=Math.random()*256));return[...a].map(x=>x.toString(16).padStart(2,'0')).join('')};
+let pollT=0,pollRid='';
+function pollLogin(rid){
+  pollRid=rid;clearInterval(pollT);const t0=Date.now();let busyP=false;
+  const tick=async()=>{
+    if(pollRid!==rid||st.view!=='sent'||st.rid!==rid||Date.now()-t0>31*60000){if(pollRid===rid||st.view!=='sent')clearInterval(pollT);return}
+    if(busyP||document.hidden)return;busyP=true;
+    try{const r=await api({a:'poll',rid});if(r.ok&&r.session&&pollRid===rid){clearInterval(pollT);pollRid='';setS(r.session);if(Array.isArray(r.rules)){st.email=r.email;st.rules=r.rules;st.max=r.max||MAXR;go('list');fetchCounts()}else loadList()}}catch(e){}
+    busyP=false};
+  pollT=setInterval(tick,3000);document.addEventListener('visibilitychange',()=>{if(!document.hidden)tick()});
+}
 // odkazy z e-mailu: #pes=… (přihlášení) a #odhlasit=… (odhlášení)
 async function fromHash(){
   const m=location.hash.match(/^#(pes|odhlasit)=(t[0-9a-f]{20,})$/);if(!m||!API)return;
   const type=m[1],t=m[2];history.replaceState(null,'',location.pathname+location.search);open();
   if(type==='odhlasit')return go('wipe',{tok:t,email:''});
   go('load');const r=await api({a:'exchange',t});
+  if(r.ok&&r.confirm)return go('confirm',{tok:t,email:r.email});
   if(r.ok){setS(r.session);if(Array.isArray(r.rules)){st.email=r.email;st.rules=r.rules;st.max=r.max||MAXR;go('list');fetchCounts()}else loadList()}else go('email',{msg:r.error||'Odkaz už nefunguje. Nech si poslat nový.'})
 }
 fromHash();
