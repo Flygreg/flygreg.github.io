@@ -1,6 +1,77 @@
 {
-  "updated": "2026-11-01T08:59:01.793960+00:00",
+  "updated": "2026-11-01T10:52:33.501607+00:00",
   "offers": [
+    {
+      "title": "Lanzarote z Prahy na týden: 4* hotel THB Tropical Island s polopenzí za 12 990 Kč",
+      "summary": "Pláže, sopky i kompletní relax. Dopřejte si týden na Lanzarote ve 4* resortu s polopenzí za 12 990 Kč z Prahy. Zabalte plavky i boty a vyrazte na Kanáry!",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/lanzarote-z-prahy-na-tyden-4-hotel-thb-tropical-island-s-polopenzi-za-12-990-kc?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-11-01T10:37:35+00:00",
+      "dateLabel": "1. 11. 2026",
+      "price": 12990,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/lanzarote-z-prahy-na-tyden-4-hotel-thb-tropical-island-s-polopenzi-za-12-990-kc?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-11-01T10:52:33.501607+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Letenky do Londýna z Prahy za 1551 Kč, z Ostravy za 1152 Kč",
+      "summary": "Londýn se dá číst vrstvami – a architektura je jedna z těch nejzajímavějších. Gotická věž Westminsterského opatství stojí pár kroků od modernistické Tate Modern, viktoránské řadové domy střídají skleněné mrakodrapy ve čtvrti City a každá ul",
+      "url": "https://www.levneletenkyzprahy.cz/2745_letenky-do-londyna-z-prahy-za-1551-kc,-z-ostravy-za-1152-kc",
+      "source": "Levné letenky z Prahy",
+      "date": "2026-11-01T10:27:15+00:00",
+      "dateLabel": "1. 11. 2026",
+      "price": 1551,
+      "image": "",
+      "id": "https://www.levneletenkyzprahy.cz/2745_letenky-do-londyna-z-prahy-za-1551-kc,-z-ostravy-za-1152-kc",
+      "firstSeen": "2026-11-01T10:52:33.501607+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Non-stop flights from Madrid to Recife, Brazil ☀️ 🏖️ for €551",
+      "summary": "Sun, samba, and stunning beaches are just a flight away - Brazil is calling! Book your tropical getaway now with direct Azul Airlines flights starting at €551 for a round trip.",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-madrid-to-recife-e551/",
+      "source": "Fly4free.com",
+      "date": "2026-11-01T10:00:09+00:00",
+      "dateLabel": "1. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-madrid-to-recife-e551/",
+      "firstSeen": "2026-11-01T10:52:33.501607+00:00",
+      "priceOrig": {
+        "amount": 551,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "Ryanair: Ostrava - Malaga - 1 022 Kč",
+      "summary": "",
+      "url": "https://www.akcniletenky.com",
+      "source": "AkčníLetenky.com",
+      "date": "2026-11-01T10:00:00+00:00",
+      "dateLabel": "1. 11. 2026",
+      "price": 1022,
+      "image": "",
+      "id": "677",
+      "firstSeen": "2026-11-01T10:52:33.501607+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Cheap non-stop flights from Vienna to Singapore for €448",
+      "summary": "Escape to the vibrant heart of Southeast Asia with this unbeatable Scoot deal: fly non-stop to Singapore for just €448 return! A world of culture, cuisine, and adventure is just one flight away — don’t miss your chance to explore it for les",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-vienna-to-singapore-e448-4/",
+      "source": "Fly4free.com",
+      "date": "2026-11-01T09:00:50+00:00",
+      "dateLabel": "1. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-vienna-to-singapore-e448-4/",
+      "firstSeen": "2026-11-01T10:52:33.501607+00:00",
+      "priceOrig": {
+        "amount": 448,
+        "cur": "EUR"
+      }
+    },
     {
       "title": "Maledivy s plnou penzí ve 4* resortu za 33 990 Kč – přímý let z Prahy v ceně",
       "summary": "Splňte si sen o Maledivách! Týden ve 4* Fihalhohi s plnou penzí a korálovým útesem jen za 33 990 Kč. Přímý let z Prahy v ceně. Zamluvte si pobyt v ráji!",
@@ -3679,77 +3750,6 @@
       "firstSeen": "2026-10-27T15:35:38.688065+00:00",
       "priceOrig": {
         "amount": 65,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Francie: Marseille – letenky z Prahy za 1744 Kč",
-      "summary": "Marseille má tu zvláštní vlastnost, že vás překvapí dřív, než stačíte vytvořit jakákoliv očekávání. Z Prahy se tam dostanete s Ryanairem od 1 744 Kč. Architektura tu není jeden styl, ale vrstvení epoch – od starého přístavu Vieux-Port přes",
-      "url": "https://www.levneletenkyzprahy.cz/2738_francie:-marseille-–-letenky-z-prahy-za-1744-kc",
-      "source": "Levné letenky z Prahy",
-      "date": "2026-10-25T10:48:14+00:00",
-      "dateLabel": "25. 10. 2026",
-      "price": 1744,
-      "image": "",
-      "id": "https://www.levneletenkyzprahy.cz/2738_francie:-marseille-–-letenky-z-prahy-za-1744-kc",
-      "firstSeen": "2026-10-27T13:31:28.797751+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Cheap full-service flights from Paris to Macau 🇲🇴 from €456",
-      "summary": "This fascinating destination blends Portuguese heritage with Chinese traditions, creating a unique atmosphere you won't find anywhere else in Asia. Book now these discounted China Eastern Airlines flights to Macau before this deal takes off",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-paris-to-macau-e456/",
-      "source": "Fly4free.com",
-      "date": "2026-10-25T10:00:45+00:00",
-      "dateLabel": "25. 10. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-paris-to-macau-e456/",
-      "firstSeen": "2026-10-27T15:35:38.688065+00:00",
-      "priceOrig": {
-        "amount": 456,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Keňa na 7 nocí za 23 990 Kč v menším 4* resortu přímo u oceánu",
-      "summary": "Vyměňte listopadový chlad za pláže Indického oceánu a třeba i safari v Tsavo East. Odlet z Prahy už 3. listopadu. Prohlédněte si nabídku od Čedoku.",
-      "url": "https://levnocestovani.cz/akcni-zajezdy/kena-na-7-noci-za-23-990-kc-v-mensim-4-resortu-primo-u-oceanu?utm_source=rss&utm_medium=feed",
-      "source": "Levnocestovani.cz",
-      "date": "2026-10-25T09:50:03+00:00",
-      "dateLabel": "25. 10. 2026",
-      "price": 23990,
-      "image": "",
-      "id": "https://levnocestovani.cz/akcni-zajezdy/kena-na-7-noci-za-23-990-kc-v-mensim-4-resortu-primo-u-oceanu?utm_source=rss&utm_medium=feed",
-      "firstSeen": "2026-10-27T15:35:38.688065+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Ryanair Announced 26 New Routes from Sicily, Birmingham and Alicante",
-      "summary": "Irish low-cost airline Ryanair has announced an expansion of its route network across three European regions. The carrier is adding 17 routes from Sicily, five from Birmingham in the UK and four from Alicante in Spain. Most of the new servi",
-      "url": "https://www.fly4free.com/flight-deals/europe/ryanair-26-new-routes-from-sicily-birmingham-and-alicante/",
-      "source": "Fly4free.com",
-      "date": "2026-10-25T09:30:47+00:00",
-      "dateLabel": "25. 10. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/ryanair-26-new-routes-from-sicily-birmingham-and-alicante/",
-      "firstSeen": "2026-10-27T15:35:38.688065+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Etihad Airways flights from many European cities to the Seychelles 🏝️ from €533",
-      "summary": "Dreaming of white-sand beaches, turquoise waters, and lush island escapes? Now’s the perfect time to turn that dream into reality with this amazing flight deal! Fly Etihad Airways to Mahe for just €533 round-trip.",
-      "url": "https://www.fly4free.com/flight-deals/europe/etihad-flights-from-europe-to-the-seychelles-e533/",
-      "source": "Fly4free.com",
-      "date": "2026-10-25T09:00:39+00:00",
-      "dateLabel": "25. 10. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/etihad-flights-from-europe-to-the-seychelles-e533/",
-      "firstSeen": "2026-10-27T15:35:38.688065+00:00",
-      "priceOrig": {
-        "amount": 533,
         "cur": "EUR"
       }
     }
