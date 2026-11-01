@@ -307,7 +307,7 @@ document.addEventListener('keydown',e=>{if(e.key==='Escape'&&ov.classList.contai
 fab.onclick=()=>{open();if(!API)return go('soon');if(getS())loadList();else go('email')};
 
 // automatická aktualizace: když je na webu novější verze stránky než ta, kterou má prohlížeč v paměti, stránka se jednou sama načte znovu
-const BUILD='2026-11-01-n';
+const BUILD='2026-11-01-o';
 async function checkBuild(){
   try{
     if(ov.classList.contains('on')||document.hidden)return;
@@ -323,11 +323,11 @@ const STANDALONE=(()=>{try{return matchMedia('(display-mode: standalone)').match
 // stažení stránky dolů = obnovení (i v prohlížeči na mobilu; vestavěné obnovení se vypíná, aby se nezdvojilo)
 if(STANDALONE){document.documentElement.classList.add('ptrx');(()=>{
   const ind=document.createElement('div');ind.id='ptr';ind.setAttribute('aria-hidden','true');ind.innerHTML='<div class="sp"><div class="arc"></div><div class="mid">'+KPLN+'</div></div>';document.body.appendChild(ind);
-  const TH=80;let y0=0,d=0,on=false;
+  const TH=80;let y0=0,d=0,on=false,refreshing=false;
   const arc=ind.querySelector('.arc');const rest=()=>{ind.style.opacity=0;ind.style.transform='translateY(-80px)';arc.style.transform='';ind.style.display='none'};
-  addEventListener('touchstart',e=>{on=false;if(e.touches.length!==1||window.scrollY>0||ov.classList.contains('on'))return;y0=e.touches[0].clientY;d=0;on=true},{passive:true});
+  addEventListener('touchstart',e=>{on=false;if(refreshing||e.touches.length!==1||window.scrollY>0||ov.classList.contains('on'))return;y0=e.touches[0].clientY;d=0;on=true},{passive:true});
   addEventListener('touchmove',e=>{if(!on)return;d=e.touches[0].clientY-y0;if(d<=0||window.scrollY>0){d=0;rest();return}const k=Math.min(1,d/TH);ind.style.display='grid';ind.style.opacity=k;ind.style.transform='translateY('+(Math.min(d,TH+20)*.6-80+30)+'px)';arc.style.transform='rotate('+(d*3)+'deg)';if(e.cancelable)e.preventDefault()},{passive:false});
-  addEventListener('touchend',()=>{if(!on)return;on=false;if(d>=TH){arc.style.transform='';ind.style.display='grid';ind.classList.add('go');ind.style.transform='translateY(0)';ind.style.opacity=1;setTimeout(()=>location.reload(),150)}else rest()},{passive:true});
+  addEventListener('touchend',()=>{if(!on)return;on=false;if(d>=TH){arc.style.transform='';ind.style.display='grid';ind.classList.add('go');ind.style.transform='translateY(0)';ind.style.opacity=1;refreshing=true;Promise.all([start(),checkBuild(),new Promise(r=>setTimeout(r,800))]).catch(()=>{}).then(()=>{refreshing=false;ind.classList.remove('go');rest()})}else rest()},{passive:true});
   addEventListener('touchcancel',()=>{on=false;rest()},{passive:true});
 })()}
 const newRid=()=>{const a=new Uint8Array(16);(crypto.getRandomValues?crypto.getRandomValues(a):a.forEach((_,i)=>a[i]=Math.random()*256));return[...a].map(x=>x.toString(16).padStart(2,'0')).join('')};
