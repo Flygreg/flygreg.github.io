@@ -1,6 +1,48 @@
 {
-  "updated": "2026-11-01T07:16:46.084352+00:00",
+  "updated": "2026-11-01T08:59:01.793960+00:00",
   "offers": [
+    {
+      "title": "Maledivy s plnou penzí ve 4* resortu za 33 990 Kč – přímý let z Prahy v ceně",
+      "summary": "Splňte si sen o Maledivách! Týden ve 4* Fihalhohi s plnou penzí a korálovým útesem jen za 33 990 Kč. Přímý let z Prahy v ceně. Zamluvte si pobyt v ráji!",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/maledivy-s-plnou-penzi-ve-4-resortu-za-33-990-kc-primy-let-z-prahy-v-cene?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-11-01T08:28:58+00:00",
+      "dateLabel": "1. 11. 2026",
+      "price": 33990,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/maledivy-s-plnou-penzi-ve-4-resortu-za-33-990-kc-primy-let-z-prahy-v-cene?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-11-01T08:59:01.793960+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Cheap full-service flights from London to Bali, Indonesia 🌴 🥥 for £442",
+      "summary": "Escape to paradise without breaking the bank — discover stunning Bali with round-trip China Southern Airlines flights to Denpasar starting at just £442. Your tropical adventure awaits!",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-bali-p442/",
+      "source": "Fly4free.com",
+      "date": "2026-11-01T08:00:28+00:00",
+      "dateLabel": "1. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-bali-p442/",
+      "firstSeen": "2026-11-01T08:59:01.793960+00:00",
+      "priceOrig": {
+        "amount": 442,
+        "cur": "GBP"
+      }
+    },
+    {
+      "title": "Lauda: Norimberk - Mallorca - 830 Kč",
+      "summary": "",
+      "url": "https://www.akcniletenky.com",
+      "source": "AkčníLetenky.com",
+      "date": "2026-11-01T07:00:00+00:00",
+      "dateLabel": "1. 11. 2026",
+      "price": 830,
+      "image": "",
+      "id": "676",
+      "firstSeen": "2026-11-01T08:59:01.793960+00:00",
+      "priceOrig": null
+    },
     {
       "title": "European Airlines Cut Winter Schedules: Ryanair Removes 5.7 Million Seats, LOT Nearly 600,000",
       "summary": "European airlines are preparing for a challenging winter — and they have already begun revising their plans. In just a few weeks, Ryanair cut its planned seat capacity by 5.7 million, LOT by nearly 600,000, while some smaller carriers slash",
@@ -3710,35 +3752,6 @@
         "amount": 533,
         "cur": "EUR"
       }
-    },
-    {
-      "title": "Cheap full-service flights from Germany to Indonesia from €471",
-      "summary": "Now it's cheaper! Etihad Airways are offering discounted fares from Frankfurt and Munich to Jakarta. Tickets are available from €471 for a round trip!",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-germany-to-indonesia-e471/",
-      "source": "Fly4free.com",
-      "date": "2026-10-25T08:00:25+00:00",
-      "dateLabel": "25. 10. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-germany-to-indonesia-e471/",
-      "firstSeen": "2026-10-27T15:35:38.688065+00:00",
-      "priceOrig": {
-        "amount": 471,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Buzz: Bratislava - Sicílie - 840 Kč",
-      "summary": "",
-      "url": "https://www.akcniletenky.com",
-      "source": "AkčníLetenky.com",
-      "date": "2026-10-25T08:00:00+00:00",
-      "dateLabel": "25. 10. 2026",
-      "price": 840,
-      "image": "",
-      "id": "647",
-      "firstSeen": "2026-10-27T15:30:19.910133+00:00",
-      "priceOrig": null
     }
   ]
 }
