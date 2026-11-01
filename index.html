@@ -307,7 +307,7 @@ document.addEventListener('keydown',e=>{if(e.key==='Escape'&&ov.classList.contai
 fab.onclick=()=>{open();if(!API)return go('soon');if(getS())loadList();else go('email')};
 
 // automatická aktualizace: když je na webu novější verze stránky než ta, kterou má prohlížeč v paměti, stránka se jednou sama načte znovu
-const BUILD='2026-11-01-j';
+const BUILD='2026-11-01-k';
 async function checkBuild(){
   try{
     if(ov.classList.contains('on')||document.hidden)return;
@@ -321,7 +321,7 @@ if(API&&getS())setTimeout(prefetch,250);
 // aplikace na ploše má vlastní úložiště: odkaz z e-mailu se otevře v Safari, tady si přihlášení vyzvedneme dotazem
 const STANDALONE=(()=>{try{return matchMedia('(display-mode: standalone)').matches||navigator.standalone===true}catch(e){return false}})();
 // stažení stránky dolů = obnovení (i v prohlížeči na mobilu; vestavěné obnovení se vypíná, aby se nezdvojilo)
-if(STANDALONE||matchMedia('(pointer:coarse)').matches){document.documentElement.classList.add('ptrx');(()=>{
+if(STANDALONE){document.documentElement.classList.add('ptrx');(()=>{
   const ind=document.createElement('div');ind.id='ptr';ind.setAttribute('aria-hidden','true');ind.innerHTML='<div class="sp"><div class="arc"></div><div class="mid">'+KPLN+'</div></div>';document.body.appendChild(ind);
   const TH=80;let y0=0,d=0,on=false;
   const arc=ind.querySelector('.arc');const rest=()=>{ind.style.opacity=0;ind.style.transform='translateY(-80px)';arc.style.transform=''};
