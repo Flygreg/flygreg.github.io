@@ -1,6 +1,35 @@
 {
-  "updated": "2026-11-02T15:46:10.770810+00:00",
+  "updated": "2026-11-02T17:15:46.380755+00:00",
   "offers": [
+    {
+      "title": "Pristine beaches of the Seychelles + bustling Cape Town in one trip from London 🐧🏝️ for £758 with Qatar Airways",
+      "summary": "This itinerary combines a full week in tropical Seychelles with a completely different South African finale in Cape Town — beaches and granite-framed lagoons first, then Table Mountain, vineyards, dramatic coastal roads and city life.",
+      "url": "https://www.fly4free.com/flight-deals/europe/trip-from-london-seychelles-cape-town/",
+      "source": "Fly4free.com",
+      "date": "2026-11-02T17:00:45+00:00",
+      "dateLabel": "2. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/trip-from-london-seychelles-cape-town/",
+      "firstSeen": "2026-11-02T17:15:46.380755+00:00",
+      "priceOrig": {
+        "amount": 758,
+        "cur": "GBP"
+      }
+    },
+    {
+      "title": "Easyjet: Praha - Marrákeš - 2 139 Kč",
+      "summary": "",
+      "url": "https://www.akcniletenky.com",
+      "source": "AkčníLetenky.com",
+      "date": "2026-11-02T16:00:00+00:00",
+      "dateLabel": "2. 11. 2026",
+      "price": 2139,
+      "image": "",
+      "id": "682",
+      "firstSeen": "2026-11-02T17:15:46.380755+00:00",
+      "priceOrig": null
+    },
     {
       "title": "SPRING 2027🚢 Italy, Greece, and Turkey in one MSC cruise for just €179 p.p.",
       "summary": "Three nights, three countries and one spectacular cruise ship! Discover the beauty of the Mediterranean on a spring getaway aboard the elegant MSC Divina, sailing from Rome to the Greek island of Mykonos and the Turkish Riviera. Late April",
@@ -3736,22 +3765,6 @@
       "id": "https://levnocestovani.cz/akcni-zajezdy/zanzibar-v-5-resortu-za-23-990-kc-tyden-v-raji-s-all-inclusive-z-bratislavy?utm_source=rss&utm_medium=feed",
       "firstSeen": "2026-10-27T15:35:38.688065+00:00",
       "priceOrig": null
-    },
-    {
-      "title": "🔥 BUSINESS CLASS DEAL! Fly from Italy to Singapore and Bangkok with lie-flat seats from €1,371 return",
-      "summary": "This is a seriously attractive premium-cabin fare to Southeast Asia. Gulf Air is offering Business Class flights from Milan and Rome to Singapore and Bangkok from €1371 return, with availability stretching from late 2026 into spring 2027. T",
-      "url": "https://www.fly4free.com/flight-deals/europe/business-class-flights-from-italy-to-singapore-bangkok/",
-      "source": "Fly4free.com",
-      "date": "2026-10-26T17:00:53+00:00",
-      "dateLabel": "26. 10. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/business-class-flights-from-italy-to-singapore-bangkok/",
-      "firstSeen": "2026-10-27T15:35:38.688065+00:00",
-      "priceOrig": {
-        "amount": 1371,
-        "cur": "EUR"
-      }
     }
   ]
 }
