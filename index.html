@@ -51,6 +51,7 @@ html,body{overflow-x:clip;max-width:100%}.dgov{overflow:hidden;touch-action:pan-
 html.ptrx,html.ptrx body{overscroll-behavior-y:none}html.ptrx{background:#f4f7fb linear-gradient(#092b58,#092b58) no-repeat top/100% 400px}html.ptrx body{background:#f4f7fb}#ptr{display:none;position:fixed;top:calc(env(safe-area-inset-top) + 8px);left:50%;width:56px;height:56px;margin-left:-28px;border-radius:50%;background:#fff;box-shadow:0 4px 14px #092b5844;display:grid;place-items:center;z-index:60;opacity:0;transform:translateY(-80px);pointer-events:none;transition:opacity .15s}#ptr .sp{position:relative;width:40px;height:40px;color:#ffd23a}#ptr .arc{position:absolute;inset:0;border-radius:50%;border:3px solid #ffd23a30;border-top-color:#ffd23a}#ptr.go .arc{animation:pesrot .9s linear infinite}#ptr .mid{position:absolute;inset:0;display:flex;align-items:center;justify-content:center}#ptr .mid svg{width:20px;height:20px;transform:rotate(45deg)}#ptr.go .mid svg{animation:pesbob 1.8s ease-in-out infinite}@keyframes pesrot{to{transform:rotate(360deg)}}@keyframes pesbob{0%,100%{transform:rotate(45deg)}50%{transform:rotate(45deg) translate(2px,-2px)}}@media(prefers-reduced-motion:reduce){#ptr.go .arc,#ptr.go .mid svg{animation-duration:4s}}
 .lnk{font:inherit;color:#1169b6;font-weight:700;background:none;border:0;padding:0;cursor:pointer;text-decoration:underline dotted;text-underline-offset:3px}.lnk i{font-style:normal;font-size:.85em;color:#56677e;text-decoration:none}
 .pbox .offs{border-top:1px solid #edf1f7;background:#f4f7fb;padding:10px;display:flex;flex-direction:column;gap:8px}.pbox .orow{display:flex;align-items:center;gap:12px;padding:12px;background:#fff;border:1px solid #e3eaf3;border-radius:12px;text-decoration:none;color:inherit}.pbox .orow:active{background:#eef3fa}.pbox .orow .oi{flex:none;display:flex}.pbox .orow .oi svg{width:20px;height:20px;color:#ffd23a}.pbox .orow .t{flex:1;min-width:0}.pbox .orow b{display:block;color:#092b58;font-size:15px;line-height:1.3;overflow-wrap:anywhere}.pbox .orow small{color:#56677e;font-size:12.5px}.pbox .orow .p{font-weight:800;color:#092b58;white-space:nowrap;font-size:15px}.pbox .orow .go{color:#56677e;font-size:18px}.pbox .omore{padding:2px 4px 2px;color:#56677e;font-size:13px}
+.pbox .pushc{display:flex;align-items:center;gap:12px;background:#f4f7fb;border:1px solid #e3eaf3;border-radius:14px;padding:12px 14px;margin-top:14px}.pbox .pushc .pbl{flex:none;color:#e0a800;display:flex}.pbox .pushc .ptx{flex:1;min-width:0}.pbox .pushc b{display:block;color:#092b58;font-size:14px}.pbox .pushc small{display:block;color:#56677e;font-size:12.5px;line-height:1.4;margin-top:2px}.pbox .pushc .pcb{width:auto;margin:0;padding:9px 16px;font-size:14px;flex:none}.pbox .pushc .pcl{display:flex;flex-direction:column;gap:6px;align-items:flex-end;flex:none}
 </style></head><body><header><a class="brand" href="./" aria-label="greg – Váš agregátor letenek, úvodní stránka"><span class="G" aria-hidden="true">g</span><div class="bt"><div class="bn" aria-hidden="true"><span>re</span><span class="L">g<svg class="pj" viewBox="0 0 24 24"><path d="M21 16v-2l-8-5V3.5c0-.83-.67-1.5-1.5-1.5S10 2.67 10 3.5V9l-8 5v2l8-2.5V19l-2 1.5V22l3.5-1 3.5 1v-1.5L13 19v-5.5z"/></svg></span></div><div class="bm">Váš a<em>greg</em>átor letenek</div></div></a></header><main><div class="tb" id="tb"><section class="filter" aria-label="Filtry"><div class="qw"><input id="q" type="text" autocomplete="off" placeholder="Kam chceš letět?" aria-label="Hledat v nabídkách"><button type="button" class="qx" id="qx" aria-label="Smazat hledání" hidden><svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg></button></div><button class="ftog" id="ftog" type="button" aria-expanded="false" aria-controls="chips">Filtry<b id="fbadge" hidden></b></button></section><div class="chips" id="chips" role="group" aria-label="Typ nabídky"><button class="chip on" data-kind="" aria-pressed="true">Vše</button><button class="chip" data-kind="letenka" aria-pressed="false"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true" style="transform:rotate(45deg)"><path d="M21 16v-2l-8-5V3.5c0-.83-.67-1.5-1.5-1.5S10 2.67 10 3.5V9l-8 5v2l8-2.5V19l-2 1.5V22l3.5-1 3.5 1v-1.5L13 19v-5.5z"/></svg>Letenky</button><button class="chip" data-kind="zajezd" aria-pressed="false"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="7" width="18" height="13" rx="2.5"/><path d="M9 7V5.5A1.5 1.5 0 0 1 10.5 4h3A1.5 1.5 0 0 1 15 5.5V7M8.5 11v6M15.5 11v6"/></svg>Zájezdy</button></div><div class="origins" aria-label="Odkud"><div class="oA"><div class="oflags" id="oflags"></div><div id="ocities"></div></div><div class="oB"><button class="ddbtn" id="bbtn" type="button" aria-expanded="false" aria-controls="bpanel"></button><div class="bpanel" id="bpanel" hidden></div></div></div></div><div class="meta"><div class="mtxt"><div class="cl"><strong id="count">Načítám nabídky…</strong><span class="zwrap"><span id="zfrom"></span><button class="zlnk" id="zbtn" type="button" aria-expanded="false" aria-controls="zpop"></button></span><span class="ovl" id="sumnote"></span></div><div class="zpop" id="zpop" hidden></div></div><span id="updated"></span></div><section id="cards" class="grid" aria-live="polite"></section><p class="notice">Poznámka: Nabídky jsou informační tipy převzaté pouze v rozsahu povoleném zdrojem. Ceny a dostupnost se mohou kdykoli změnit. Před nákupem ověř podmínky u poskytovatele.<span id="rateNote"></span></p><footer>greg · Osobní přehled cestovních tipů<br><small>Ikona Hlídače: <a href="https://fontawesome.com" rel="noopener" style="color:inherit">Font Awesome</a> (CC BY 4.0) · Vlajky: <a href="https://github.com/EmojiTwo/emojitwo" rel="noopener" style="color:inherit">EmojiTwo</a> (CC BY 4.0), <a href="https://github.com/lipis/flag-icons" rel="noopener" style="color:inherit">flag-icons</a> (MIT)</small></footer></main><script src="classify.js"></script><script>
 let items=[],kind='',zOpen=false,offSrc=new Set();try{offSrc=new Set(JSON.parse(localStorage.getItem('hiddenSources')||'[]'))}catch(e){}const saveSrc=()=>{try{localStorage.setItem('hiddenSources',JSON.stringify([...offSrc]))}catch(e){}};selC=new Set(),openC=null,selCity={};const $=id=>document.getElementById(id);
 const FL=Object.fromEntries(['CZ','SK','AT','DE','PL'].map(k=>[k,'<img src="flags/'+k.toLowerCase()+'.svg" alt="">']));
@@ -112,7 +113,7 @@ const qSync=()=>{$('qx').hidden=!$('q').value};$('q').addEventListener('input',(
 /* ===== Hlídač =====
    Sem se vloží adresa webové aplikace z Google Apps Script (viz apps-script/NAVOD.md).
    Dokud je prázdná, tlačítko jen ukáže zprávu "Připravujeme". */
-const API='https://script.google.com/macros/s/AKfycby9X7wTxnE-YCYrgZOE_c302id45zocA_v9SQlpDp1jgx9zsVMIpSPh8SlcsQXfI0KazA/exec';
+let PSRV=false;const API='https://script.google.com/macros/s/AKfycby9X7wTxnE-YCYrgZOE_c302id45zocA_v9SQlpDp1jgx9zsVMIpSPh8SlcsQXfI0KazA/exec';
 const KEY='pesSession',MAXR=5;
 const ov=document.getElementById('dgov'),box=document.getElementById('pbox'),fab=document.getElementById('fab');
 const PAW=fab.querySelector('svg').outerHTML;
@@ -132,7 +133,7 @@ const offsHtml=r=>{const all=items.filter(x=>ruleOk(r,x)).sort((a,b)=>Date.parse
 let busy=false,pvTimer=0;
 async function api(b){
   if(!API)return{ok:false,error:'Hlídač zatím není zapnutý.'};
-  try{const r=await fetch(API,{method:'POST',body:JSON.stringify(b)});return await r.json()}
+  try{const r=await fetch(API,{method:'POST',body:JSON.stringify(b)});const j=await r.json();if(j&&typeof j.push==='boolean')PSRV=j.push;return j}
   catch(e){return{ok:false,error:'Spojení se nepodařilo. Zkus to prosím znovu.'}}
 }
 const FLEU='<img src="flags/eu.svg" alt="">';
@@ -193,6 +194,7 @@ function vList(){
   const n=st.rules.length;
   return head('Hlídač',E(st.email))+msgs()+(n?st.rules.map(ruleCard).join(''):'<p>Zatím nemáš žádné hlídání. Přidej první a my ti dáme vědět o nových nabídkách.</p>')+
   (n<st.max?`<div class="sbar"><button type="button" class="padd" data-act="new">Přidat ${n?'další ':''}hlídání <span>(${n} z ${st.max})</span></button></div>`:`<p class="psm">Dosáhl jsi limitu ${st.max} hlídání.</p>`)+
+  pushCard()+
   '<div class="pfoot"><button type="button" data-act="logout">Odhlásit toto zařízení</button><button type="button" class="d" data-act="wipeask">Zrušit vše a smazat e-mail</button></div>'}
 function vWipe(){return head('Smazat vše?')+'<p>Smažeme tvůj e-mail i všechna hlídání a už ti nepošleme žádný e-mail. Tuhle akci nejde vrátit zpět.</p>'+msgs()+`<div class="pacts"><button type="button" class="pb dg" data-act="wipedo"${dis()}>${busy?'Mažu…':'Ano, smazat vše'}</button><button type="button" class="pb g" data-act="${st.tok?'close':'back'}">Zrušit</button></div>`}
 function vDone(){return head('Hotovo')+`<p>${E(st.ok||'Hotovo.')}</p><button type="button" class="pb" data-act="close">Zavřít</button>`}
@@ -217,7 +219,7 @@ function paint(){
   box.innerHTML=v();box.querySelectorAll('.opanel input[data-ind="1"]').forEach(i=>{i.indeterminate=true});setPos(pos);
   if(keep){const el=document.getElementById(keep);if(el&&/^(pe|pn|pp|pk)$/.test(keep)){el.focus();try{el.setSelectionRange(el.value.length,el.value.length)}catch(e){}}}
 }
-const go=(view,extra)=>{const changed=st.view!==view;st=Object.assign(st,{view,msg:'',ok:'',delId:'',oOpen:false,cal:null},extra||{});if(st.view==='list')saveC();if(changed)setPos(0);paint()};
+const go=(view,extra)=>{const changed=st.view!==view;st=Object.assign(st,{view,msg:'',ok:'',delId:'',oOpen:false,cal:null},extra||{});if(st.view==='list'){saveC();pushRefresh()}if(changed)setPos(0);paint()};
 const MQ=matchMedia('(max-width:700px)');let ySave=0;
 const getPos=()=>MQ.matches?window.scrollY:box.scrollTop,setPos=y=>{if(MQ.matches)window.scrollTo(0,y);else box.scrollTop=y};
 const open=()=>{ov.classList.add('on');if(MQ.matches){ySave=window.scrollY;document.documentElement.classList.add('pesopen');window.scrollTo(0,0)}else document.body.style.overflow='hidden';box.scrollTop=0};
@@ -265,6 +267,9 @@ async function act(a,el){
   const id=el&&el.dataset.id;
   switch(a){
     case'close':return close();
+    case'pushon':return pushOn();
+    case'pushoff':return pushOff();
+    case'pushtest':return pushTest();
     case'hexp':{st.exp[id]=!st.exp[id];paint();return}
     case'send':case'resend':{
       const email=(a==='resend'?st.sentTo:(document.getElementById('pe')||{}).value||'').trim();
@@ -315,7 +320,7 @@ document.addEventListener('keydown',e=>{if(e.key==='Escape'&&ov.classList.contai
 fab.onclick=()=>{open();if(!API)return go('soon');if(getS())loadList();else go('email')};
 
 // automatická aktualizace: když je na webu novější verze stránky než ta, kterou má prohlížeč v paměti, stránka se jednou sama načte znovu
-const BUILD='2026-11-02-e';
+const BUILD='2026-11-02-f';
 async function checkBuild(){
   try{
     if(ov.classList.contains('on')||document.hidden)return;
@@ -328,6 +333,56 @@ setTimeout(checkBuild,2500);document.addEventListener('visibilitychange',()=>{if
 if(API&&getS())setTimeout(prefetch,250);
 // aplikace na ploše má vlastní úložiště: odkaz z e-mailu se otevře v Safari, tady si přihlášení vyzvedneme dotazem
 const STANDALONE=(()=>{try{return matchMedia('(display-mode: standalone)').matches||navigator.standalone===true}catch(e){return false}})();
+// ---- upozornění v telefonu (web push + číslo na ikoně) ----
+const VAPID='BKs66lGlOMTWX0l83WsRrJaRdM4xOVNd3hoemksen0d9QSrgRfYNGtf-fY5mLF_uB7R3Ub1L7cDOYY2jFEzApkA';
+const IOS=/iPad|iPhone|iPod/.test(navigator.userAgent)||(navigator.platform==='MacIntel'&&navigator.maxTouchPoints>1);
+const u8=b=>{b=b.replace(/-/g,'+').replace(/_/g,'/');while(b.length%4)b+='=';return Uint8Array.from(atob(b),c=>c.charCodeAt(0))};
+const PUSHOK=()=>'serviceWorker' in navigator&&'PushManager' in window&&'Notification' in window;
+if('serviceWorker' in navigator&&(location.protocol==='https:'||location.hostname==='localhost'))navigator.serviceWorker.register('sw.js').catch(()=>{});
+const clearBadge=()=>{try{navigator.clearAppBadge&&navigator.clearAppBadge()}catch(e){}try{caches.delete('pesbadge')}catch(e){}};
+clearBadge();document.addEventListener('visibilitychange',()=>{if(!document.hidden)clearBadge()});
+let psync=false;
+async function pushRefresh(){
+  let s;
+  if(!PUSHOK())s=IOS&&!STANDALONE?'ios':'no';
+  else if(Notification.permission==='denied')s='denied';
+  else{try{const reg=await navigator.serviceWorker.getRegistration();const sub=reg&&await reg.pushManager.getSubscription();s=sub&&Notification.permission==='granted'?'on':'off';if(s==='on'&&!psync&&getS()){psync=true;api({a:'pushSub',s:getS(),sub:sub.toJSON()})}}catch(e){s='off'}}
+  if(st.push!==s){st.push=s;if(st.view==='list')paint()}
+}
+async function pushOn(){
+  if(!PUSHOK())return;
+  let perm;try{perm=await Notification.requestPermission()}catch(e){perm='denied'}
+  if(perm!=='granted'){st.push=perm==='denied'?'denied':'off';return paint()}
+  st.pbusy=true;paint();
+  try{
+    const reg=await navigator.serviceWorker.ready;
+    const sub=await reg.pushManager.subscribe({userVisibleOnly:true,applicationServerKey:u8(VAPID)});
+    const r=await api({a:'pushSub',s:getS(),sub:sub.toJSON()});
+    if(!r||!r.ok){try{await sub.unsubscribe()}catch(e){}st.msg=(r&&r.error)||'Upozornění se nepodařilo zapnout.';st.push='off'}
+    else{st.push='on';st.ok='Upozornění v telefonu jsou zapnutá.';psync=true}
+  }catch(e){st.msg='Upozornění se nepodařilo zapnout.';st.push='off'}
+  st.pbusy=false;paint();
+}
+async function pushOff(){
+  st.pbusy=true;paint();
+  try{const reg=await navigator.serviceWorker.getRegistration();const sub=reg&&await reg.pushManager.getSubscription();if(sub){await api({a:'pushOff',s:getS(),endpoint:sub.endpoint});await sub.unsubscribe()}}catch(e){}
+  st.push='off';st.pbusy=false;st.ok='Upozornění v telefonu jsou vypnutá.';paint();
+}
+async function pushTest(){
+  st.pbusy=true;paint();
+  const r=await api({a:'pushTest',s:getS()});
+  st.pbusy=false;if(r&&r.ok&&r.sent>0)st.ok='Zkušební upozornění je na cestě.';else st.msg=(r&&r.error)||'Zkušební upozornění se nepodařilo odeslat.';paint();
+}
+function pushCard(){
+  const s=st.push;if(!PSRV||!s||s==='no')return'';
+  const BELL='<svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 8a6 6 0 0 1 12 0c0 7 3 8 3 8H3s3-1 3-8"/><path d="M10.3 20a1.9 1.9 0 0 0 3.4 0"/></svg>';
+  const d=st.pbusy?' disabled':'';let t,a='';
+  if(s==='ios')t='<b>Upozornění v telefonu</b><small>Přidej greg na plochu (Sdílet → Přidat na plochu) a otevři ho odtud, pak je tady půjde zapnout.</small>';
+  else if(s==='denied')t='<b>Upozornění v telefonu</b><small>Jsou zakázaná v nastavení telefonu. Povol je u aplikace greg a vrať se sem.</small>';
+  else if(s==='on'){t='<b>Upozornění v telefonu jsou zapnutá</b><small>Nová nabídka se ukáže i jako číslo na ikoně.</small>';a=`<span class="pcl"><button type="button" class="lnk" data-act="pushtest"${d}>Zkouška</button><button type="button" class="lnk" data-act="pushoff"${d}>Vypnout</button></span>`}
+  else{t='<b>Upozornění v telefonu</b><small>Nová nabídka se ukáže i jako číslo na ikoně.</small>';a=`<button type="button" class="pb pcb" data-act="pushon"${d}>${st.pbusy?'Zapínám…':'Zapnout'}</button>`}
+  return `<div class="pushc"><span class="pbl">${BELL}</span><div class="ptx">${t}</div>${a}</div>`;
+}
 // stažení stránky dolů = obnovení (i v prohlížeči na mobilu; vestavěné obnovení se vypíná, aby se nezdvojilo)
 if(STANDALONE){document.documentElement.classList.add('ptrx');(()=>{
   const ind=document.createElement('div');ind.id='ptr';ind.setAttribute('aria-hidden','true');ind.innerHTML='<div class="sp"><div class="arc"></div><div class="mid">'+KPLN+'</div></div>';document.body.appendChild(ind);
