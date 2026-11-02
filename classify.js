@@ -25,7 +25,7 @@ const NUMR='(?:\\d{1,3}(?:[\\s\\u00a0.]\\d{3})+|\\d{3,6})(?:,-)?';function strip
 function shownTitle(x){return niceTitle(x)||stripPrice(x.title)}
 
 // Doplní nabídce odvozené údaje: typ (_k), cenu v Kč (_czk), odlety (_o), země (_c), "cizí odlet" (_ext)
-function classifyItem(x,RATES){x._k=kindOf(x);{const po=x.priceOrig,rt=RATES&&po&&RATES.rates&&RATES.rates[po.cur];x._czk=(!x.price&&rt)?Math.round(po.amount*rt/10)*10:0;x._rt=rt||0}x._o=originsOf(x);x._ext=!x._o.length&&EXT.test(x.title);x._c=new Set(x._o.map(c=>CITY2CC[c]));CRX.forEach(([cc,r])=>{if(r.test(x.title))x._c.add(cc)});if(!x._c.size&&(isEng(x)||hotelOnly(x)))x._ext=true;return x}
+function classifyItem(x,RATES){x._k=kindOf(x);{const po=x.priceOrig,rt=RATES&&po&&RATES.rates&&RATES.rates[po.cur];x._czk=(!x.price&&rt)?Math.round(po.amount*rt/10)*10:0;x._rt=rt||0}x._o=originsOf(x);if(!x._o.length&&x.source==='Levné letenky z Prahy')x._o=['Praha'];x._ext=!x._o.length&&EXT.test(x.title);x._c=new Set(x._o.map(c=>CITY2CC[c]));CRX.forEach(([cc,r])=>{if(r.test(x.title))x._c.add(cc)});if(!x._c.size&&(isEng(x)||hotelOnly(x)))x._ext=true;return x}
 // Cena nabídky v Kč (0 = neznámá)
 const priceCzk=x=>x.price?Number(x.price):(x._czk||0);
 
