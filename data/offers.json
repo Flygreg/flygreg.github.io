@@ -1,6 +1,74 @@
 {
-  "updated": "2026-11-02T17:15:46.380755+00:00",
+  "updated": "2026-11-02T19:11:53.919523+00:00",
   "offers": [
+    {
+      "title": "THAJSKO z Prahy za nejnižší cenu - 11 503 Kč",
+      "summary": "Pokud hledáte nejlevnější letenky do JV Asie, hodí se nabídka od Air Arabia. Zpáteční letenky z Prahy do Phuketu pořídíme už za 11 503 Kč. Nejvýhodnější letenky jsou dostupné na podzim 2026 a pak v průběhu zimních měsíců 2027, tedy v sezóně",
+      "url": "https://honzovyletenky.cz/thajsko-z-prahy-za-nejnizsi-cenu/",
+      "source": "Honzovy letenky",
+      "date": "2026-11-02T19:01:01+00:00",
+      "dateLabel": "2. 11. 2026",
+      "price": 11503,
+      "image": "",
+      "id": "https://honzovyletenky.cz/thajsko-z-prahy-za-nejnizsi-cenu/",
+      "firstSeen": "2026-11-02T19:11:53.919523+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "High-season holiday in Phuket, Thailand for €624 p.p. 😎 🍹 Flights from Vienna + 8 days at highly rated 4* hotel",
+      "summary": "Looking for an easy winter escape to Thailand without paying peak-season package prices? This deal combines Air Arabia flights from Vienna to Phuket with an 8-day stay at the highly rated 4-star Pearl Hotel Phuket for €624 per person, based",
+      "url": "https://www.fly4free.com/flight-deals/europe/holiday-in-phuket-from-vienna-e624/",
+      "source": "Fly4free.com",
+      "date": "2026-11-02T18:30:03+00:00",
+      "dateLabel": "2. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/holiday-in-phuket-from-vienna-e624/",
+      "firstSeen": "2026-11-02T19:11:53.919523+00:00",
+      "priceOrig": {
+        "amount": 624,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "Maledivy, 4* Fihalhohi Island Resort: Týdenní dovolená s plnou penzí a letem z Prahy za 32 990 Kč",
+      "summary": "Maledivy na týden za 32 990 Kč! Přímý let z Prahy, 4* Fihalhohi Maldives s plnou penzí, bílé pláže a šnorchlování u korálového útesu. Prohlédněte si zájezd.",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/maledivy-4-fihalhohi-island-resort-tydenni-dovolena-s-plnou-penzi-a-letem-z-prahy-za-32-990-kc?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-11-02T17:57:38+00:00",
+      "dateLabel": "2. 11. 2026",
+      "price": 32990,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/maledivy-4-fihalhohi-island-resort-tydenni-dovolena-s-plnou-penzi-a-letem-z-prahy-za-32-990-kc?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-11-02T19:11:53.919523+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "New International Airport Opens in Greenland: Tourists Can Now Fly Directly to the Icebergs",
+      "summary": "Seeing Greenland’s giant icebergs has just become a little easier. A new international airport has opened on the world’s largest island, allowing tourists to fly directly from Copenhagen to one of the Arctic’s most famous destinations. Prev",
+      "url": "https://www.fly4free.com/news/new-international-airport-opens-in-greenland/",
+      "source": "Fly4free.com",
+      "date": "2026-11-02T17:32:51+00:00",
+      "dateLabel": "2. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/news/new-international-airport-opens-in-greenland/",
+      "firstSeen": "2026-11-02T19:11:53.919523+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Madeira za 9 490 Kč: Týdenní dovolená ve 4* Vila Galé Santa Cruz s odletem zítra",
+      "summary": "Utečte na Madeiru za 9 490 Kč! 4* hotel Vila Galé přímo u promenády, snídaně v ceně a skvělá lokalita pro objevování ostrova. Odlet zítra s Čedokem.",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/madeira-za-9-490-kc-tydenni-dovolena-ve-4-vila-gale-santa-cruz-s-odletem-zitra?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-11-02T17:18:39+00:00",
+      "dateLabel": "2. 11. 2026",
+      "price": 9490,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/madeira-za-9-490-kc-tydenni-dovolena-ve-4-vila-gale-santa-cruz-s-odletem-zitra?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-11-02T19:11:53.919523+00:00",
+      "priceOrig": null
+    },
     {
       "title": "Pristine beaches of the Seychelles + bustling Cape Town in one trip from London 🐧🏝️ for £758 with Qatar Airways",
       "summary": "This itinerary combines a full week in tropical Seychelles with a completely different South African finale in Cape Town — beaches and granite-framed lagoons first, then Table Mountain, vineyards, dramatic coastal roads and city life.",
@@ -3695,74 +3763,6 @@
       "price": 36990,
       "image": "",
       "id": "https://levnocestovani.cz/akcni-zajezdy/7-noci-na-maledivach-ve-vlastni-plazove-vile-s-all-inclusive-za-36-990-kc?utm_source=rss&utm_medium=feed",
-      "firstSeen": "2026-10-27T15:35:38.688065+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "BARCELONA z Prahy - 1 620 Kč",
-      "summary": "Za výhodnou cenu pořídíme letenky do Katalánska u Vuelingu. Zpáteční letenky z Prahy do Barcelony pořídíem u Vuelingu už za 65 €, tedy asi 1 620 Kč. Nejvýhodnější letenk jsou aktuálně dostupné na zimní měsíce 2027. V ceně základního tarifu",
-      "url": "https://honzovyletenky.cz/barcelona-z-prahy-9/",
-      "source": "Honzovy letenky",
-      "date": "2026-10-26T19:10:44+00:00",
-      "dateLabel": "26. 10. 2026",
-      "price": 1620,
-      "image": "",
-      "id": "https://honzovyletenky.cz/barcelona-z-prahy-9/",
-      "firstSeen": "2026-10-27T15:35:38.688065+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "China Eastern Airlines: Vídeň - Hong Kong - 11 790 Kč",
-      "summary": "",
-      "url": "https://www.akcniletenky.com",
-      "source": "AkčníLetenky.com",
-      "date": "2026-10-26T19:00:00+00:00",
-      "dateLabel": "26. 10. 2026",
-      "price": 11790,
-      "image": "",
-      "id": "654",
-      "firstSeen": "2026-10-27T15:30:19.910133+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "🎄🚢 CHRISTMAS AT SEA! 7-night Mediterranean cruise aboard Costa Toscana for €649 p.p.",
-      "summary": "Spend Christmas somewhere completely different this year — sailing through the Mediterranean aboard Costa Toscana. This 7-night round-trip cruise from Barcelona combines Palma de Mallorca, Palermo, Rome, Savona and Marseille, with Christmas",
-      "url": "https://www.fly4free.com/flight-deals/europe/christmas-cruise-costa-toscana/",
-      "source": "Fly4free.com",
-      "date": "2026-10-26T18:30:14+00:00",
-      "dateLabel": "26. 10. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/christmas-cruise-costa-toscana/",
-      "firstSeen": "2026-10-27T15:35:38.688065+00:00",
-      "priceOrig": {
-        "amount": 649,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Listopad v Dominikáně: Přímý let a 4* hotel pro dospělé s All Inclusive za 20 990 Kč",
-      "summary": "Přivítejte listopad v Karibiku! Čeká vás přímý let z Prahy, 4* hotel HM Alma de Bayahibe pro dospělé, bazény a týden s All Inclusive jen za 20 990 Kč.",
-      "url": "https://levnocestovani.cz/akcni-zajezdy/listopad-v-dominikane-primy-let-a-4-hotel-pro-dospele-s-all-inclusive-za-20-990-kc?utm_source=rss&utm_medium=feed",
-      "source": "Levnocestovani.cz",
-      "date": "2026-10-26T17:55:49+00:00",
-      "dateLabel": "26. 10. 2026",
-      "price": 20990,
-      "image": "",
-      "id": "https://levnocestovani.cz/akcni-zajezdy/listopad-v-dominikane-primy-let-a-4-hotel-pro-dospele-s-all-inclusive-za-20-990-kc?utm_source=rss&utm_medium=feed",
-      "firstSeen": "2026-10-27T15:35:38.688065+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Zanzibar v 5* resortu za 23 990 Kč: Týden v ráji s All Inclusive z Bratislavy",
-      "summary": "Vyměňte šedivé ulice za bílý písek a teplý oceán. Týdenní All Inclusive dovolená v 5* resortu na Zanzibaru z Bratislavy za 23 990 Kč. Rezervujte si ráj!",
-      "url": "https://levnocestovani.cz/akcni-zajezdy/zanzibar-v-5-resortu-za-23-990-kc-tyden-v-raji-s-all-inclusive-z-bratislavy?utm_source=rss&utm_medium=feed",
-      "source": "Levnocestovani.cz",
-      "date": "2026-10-26T17:40:29+00:00",
-      "dateLabel": "26. 10. 2026",
-      "price": 23990,
-      "image": "",
-      "id": "https://levnocestovani.cz/akcni-zajezdy/zanzibar-v-5-resortu-za-23-990-kc-tyden-v-raji-s-all-inclusive-z-bratislavy?utm_source=rss&utm_medium=feed",
       "firstSeen": "2026-10-27T15:35:38.688065+00:00",
       "priceOrig": null
     }
