@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-02T15:28:33.058026+00:00",
+  "updated": "2026-11-02T15:46:10.770810+00:00",
   "offers": [
+    {
+      "title": "SPRING 2027🚢 Italy, Greece, and Turkey in one MSC cruise for just €179 p.p.",
+      "summary": "Three nights, three countries and one spectacular cruise ship! Discover the beauty of the Mediterranean on a spring getaway aboard the elegant MSC Divina, sailing from Rome to the Greek island of Mykonos and the Turkish Riviera. Late April",
+      "url": "https://www.fly4free.com/flight-deals/europe/short-cruise-msc-divina/",
+      "source": "Fly4free.com",
+      "date": "2026-11-02T15:30:08+00:00",
+      "dateLabel": "2. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/short-cruise-msc-divina/",
+      "firstSeen": "2026-11-02T15:46:10.770810+00:00",
+      "priceOrig": {
+        "amount": 179,
+        "cur": "EUR"
+      }
+    },
     {
       "title": "Nejlevnější letenky do RIO DE JANEIRA - 12 490 Kč",
       "summary": "Nejvýhodnější letenky do Brazílie jsou dostupné v nabídce aerolinek United a Lufthansa. Zpáteční letenky s odletem z Prahy do Rio de Janeira a návratem do Mnichova pořídíme už za 12 490 Kč. Letenky jsou se dvěma přestupy. Nejvýhodnější lete",
@@ -38,6 +54,19 @@
       "image": "",
       "id": "https://honzovyletenky.cz/za-prijemnym-pocasim-na-maltu-5/",
       "firstSeen": "2026-11-02T15:08:03.529106+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Týdenní zájezdy na Dominikánu se stravou z Prahy od 25 090 Kč",
+      "summary": "Zajisti si dovolenou: REZERVUJ ONLINE nebo telefonicky na čísle +420 770 104 598 Termín: 6. – 13. listopadu 2026 Hotely: 4* Hm Bavaro Beach – snídaně | 25 090 Kč 5* Bahia Principe Explore Turquesa – all inclusive | 26 990 Kč 5* Bahia Princi",
+      "url": "https://zaletsi.cz/zajezdy/tydenni-zajezdy-na-dominikanu-se-stravou-z-prahy/",
+      "source": "Zaleťsi.cz",
+      "date": "2026-11-02T14:12:58+00:00",
+      "dateLabel": "2. 11. 2026",
+      "price": 25090,
+      "image": "",
+      "id": "https://zaletsi.cz/zajezdy/tydenni-zajezdy-na-dominikanu-se-stravou-z-prahy/",
+      "firstSeen": "2026-11-02T15:46:10.770810+00:00",
       "priceOrig": null
     },
     {
@@ -3721,22 +3750,6 @@
       "firstSeen": "2026-10-27T15:35:38.688065+00:00",
       "priceOrig": {
         "amount": 1371,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "🎄🌴 Christmas in Asia + a Red Sea escape! Exciting trip from Warsaw to Egypt, Singapore & Malaysia for €591",
-      "summary": "This itinerary combines three completely different holidays in one: start with a week of Red Sea sunshine in Sharm El Sheikh, swap the resort for futuristic Singapore just in time for Christmas, then finish with three nights of food, roofto",
-      "url": "https://www.fly4free.com/flight-deals/europe/christmas-trip-from-poland/",
-      "source": "Fly4free.com",
-      "date": "2026-10-26T15:30:52+00:00",
-      "dateLabel": "26. 10. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/christmas-trip-from-poland/",
-      "firstSeen": "2026-10-27T15:35:38.688065+00:00",
-      "priceOrig": {
-        "amount": 591,
         "cur": "EUR"
       }
     }
