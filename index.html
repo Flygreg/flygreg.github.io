@@ -223,8 +223,8 @@ function paint(){
 const go=(view,extra)=>{const changed=st.view!==view;st=Object.assign(st,{view,msg:'',ok:'',delId:'',oOpen:false,cal:null},extra||{});if(st.view==='list'){saveC();pushRefresh()}if(changed)setPos(0);paint()};
 const MQ=matchMedia('(max-width:700px)');let ySave=0;
 const getPos=()=>MQ.matches?window.scrollY:box.scrollTop,setPos=y=>{if(MQ.matches)window.scrollTo(0,y);else box.scrollTop=y};
-const open=()=>{ov.classList.add('on');if(MQ.matches){ySave=window.scrollY;document.documentElement.classList.add('pesopen');window.scrollTo(0,0)}else document.body.style.overflow='hidden';box.scrollTop=0};
-const close=()=>{ov.classList.remove('on');const m=document.documentElement.classList.contains('pesopen');document.documentElement.classList.remove('pesopen');document.body.style.overflow='';if(m)window.scrollTo(0,ySave);fab.focus({preventScroll:true})};
+const open=()=>{st.exp={};st.nOpen=false;st.nmsg='';ov.classList.add('on');if(MQ.matches){ySave=window.scrollY;document.documentElement.classList.add('pesopen');window.scrollTo(0,0)}else document.body.style.overflow='hidden';box.scrollTop=0};
+const close=()=>{ov.classList.remove('on');st.exp={};st.nOpen=false;st.nmsg='';if(st.view==='list')paint();const m=document.documentElement.classList.contains('pesopen');document.documentElement.classList.remove('pesopen');document.body.style.overflow='';if(m)window.scrollTo(0,ySave);fab.focus({preventScroll:true})};
 function ruleFromEd(){const d=st.ed;return{id:d.id,name:'',origins:d.origins,kind:d.kind,maxPrice:Number(d.maxPrice)||0,keywords:d.keywords,expires:d.expires||'',freq:'hned'}}
 function openEdit(r){st.ed={id:r.id,name:r.name,origins:JSON.parse(JSON.stringify(r.origins||{})),kind:r.kind||'',maxPrice:r.maxPrice||'',keywords:r.keywords||'',expires:r.expires||'',freq:r.freq||'hned'};st.pv='';go('edit');return schedulePreview()}
 function schedulePreview(){}
@@ -324,7 +324,7 @@ document.addEventListener('keydown',e=>{if(e.key==='Escape'&&ov.classList.contai
 fab.onclick=()=>{open();if(!API)return go('soon');if(getS())loadList();else go('email')};
 
 // automatická aktualizace: když je na webu novější verze stránky než ta, kterou má prohlížeč v paměti, stránka se jednou sama načte znovu
-const BUILD='2026-11-03-b';
+const BUILD='2026-11-03-c';
 async function checkBuild(){
   try{
     if(ov.classList.contains('on')||document.hidden)return;
