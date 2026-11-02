@@ -224,9 +224,10 @@ const prefetch=()=>{if(!API||!getS())return;preAt=Date.now();pre=api({a:'list',s
 // seznam přijde rychle bez počtů nabídek; počty se dopočítají zvlášť (a u starší verze serveru už jsou v seznamu)
 const carry=(nw,old,skip)=>{(nw||[]).forEach(x=>{if(x.matchNow===undefined){const o=(old||[]).find(y=>y.id===x.id);if(o&&o.matchNow!==undefined&&x.id!==skip)x.matchNow=o.matchNow}});return nw};
 let cntReq=0;
-async function fetchCounts(){
-  if(!st.rules.some(x=>x.matchNow===undefined))return;
-  const me=++cntReq,r=await api({a:'counts',s:getS()});
+let cntAt=0;
+async function fetchCounts(soft){
+  if(soft&&Date.now()-cntAt<60000&&!st.rules.some(x=>x.matchNow===undefined))return;
+  cntAt=Date.now();const me=++cntReq,r=await api({a:'counts',s:getS()});
   if(me!==cntReq||!r.ok||!r.counts)return;
   st.rules.forEach(x=>{if(x.id in r.counts)x.matchNow=r.counts[x.id]});saveC();
   if(st.view==='list'&&ov.classList.contains('on')&&!busy)paint()
@@ -235,7 +236,7 @@ async function silentRefresh(){
   const r=await api({a:'list',s:getS()});
   if(!r.ok||st.view!=='list'||busy||pend||!ov.classList.contains('on'))return;
   const strip=a=>JSON.stringify((a||[]).map(x=>Object.assign({},x,{matchNow:0})));const same=strip(r.rules)===strip(st.rules);
-  st.email=r.email;st.rules=carry(r.rules,st.rules);st.max=r.max||MAXR;saveC();if(!same)paint();fetchCounts()
+  st.email=r.email;st.rules=carry(r.rules,st.rules);st.max=r.max||MAXR;saveC();if(!same)paint();fetchCounts(true)
 }
 // po návratu na kartu/aplikaci hned stáhni čerstvá data (změny z jiného zařízení)
 const refreshSoon=()=>{
@@ -288,7 +289,7 @@ async function act(a,el){
       
       busy=true;paint();const r=await api({a:'save',s:getS(),rule:ruleFromEd()});busy=false;
       if(r.ok){st.rules=carry(r.rules,st.rules,st.ed&&st.ed.id);go('list');fetchCounts()}else if(r.error==='auth'){setS('');go('email',{msg:'Přihlášení vypršelo. Zadej e-mail znovu.'})}else{st.msg=r.error||'Uložení se nepovedlo.';paint()}return}
-    case'toggle':{const r=st.rules.find(x=>x.id===id);if(!r)return;if(r.expired)return openEdit(r);const to=!r.active;r.active=to;saveC();paint();let res;pend++;try{res=await api({a:'toggle',s:getS(),id,active:to})}catch(e){res={ok:false,error:'Nepodařilo se uložit, zkus to znovu.'}}pend--;if(!res||!res.ok){const q=st.rules.find(x=>x.id===id);if(q)q.active=!to;saveC();st.msg=(res&&res.error)||'Nepodařilo se uložit, zkus to znovu.';paint()}return}
+    case'toggle':{const r=st.rules.find(x=>x.id===id);if(!r)return;if(r.expired)return openEdit(r);const to=!r.active;r.active=to;saveC();paint();let res;pend++;try{res=await api({a:'toggle',s:getS(),id,active:to})}catch(e){res={ok:false,error:'Nepodařilo se uložit, zkus to znovu.'}}pend--;if(!res||!res.ok){const q=st.rules.find(x=>x.id===id);if(q)q.active=!to;saveC();st.msg=(res&&res.error)||'Nepodařilo se uložit, zkus to znovu.';paint()}else fetchCounts();return}
     case'delask':st.delId=id;st.msg='';return paint();
     case'delno':st.delId='';return paint();
     case'del':{busy=true;paint();const res=await api({a:'del',s:getS(),id});busy=false;st.delId='';if(res.ok){st.rules=carry(res.rules,st.rules);saveC();paint()}else{st.msg=res.error||'Smazání se nepovedlo.';paint()}return}
@@ -307,7 +308,7 @@ document.addEventListener('keydown',e=>{if(e.key==='Escape'&&ov.classList.contai
 fab.onclick=()=>{open();if(!API)return go('soon');if(getS())loadList();else go('email')};
 
 // automatická aktualizace: když je na webu novější verze stránky než ta, kterou má prohlížeč v paměti, stránka se jednou sama načte znovu
-const BUILD='2026-11-02-a';
+const BUILD='2026-11-02-b';
 async function checkBuild(){
   try{
     if(ov.classList.contains('on')||document.hidden)return;
