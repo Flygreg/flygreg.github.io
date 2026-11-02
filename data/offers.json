@@ -1,6 +1,48 @@
 {
-  "updated": "2026-11-02T19:11:53.919523+00:00",
+  "updated": "2026-11-02T20:56:25.571948+00:00",
   "offers": [
+    {
+      "title": "Už zítra na Madeiru za 10 990 Kč. Týden ve Funchalu s polopenzí",
+      "summary": "Vyrazte na Madeiru za krásnou přírodou, horskými túrami a výhledy na Atlantik. Čeká vás týden ve Funchalu s polopenzí a bazény. Prohlédněte si nabídku Čedoku.",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/uz-zitra-na-madeiru-za-10-990-kc-tyden-ve-funchalu-s-polopenzi?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-11-02T20:15:47+00:00",
+      "dateLabel": "2. 11. 2026",
+      "price": 10990,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/uz-zitra-na-madeiru-za-10-990-kc-tyden-ve-funchalu-s-polopenzi?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-11-02T20:56:25.571948+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "LM Maledivy na týden v 5-ti hvězdičkovém resortu. Od 31 990 Kč.",
+      "summary": "LM Maledivy na týden v 5-ti hvězdičkovém resortu za 31 990 Kč.",
+      "url": "https://www.obletsvet.cz/akcni-letenka/lm-maledivy-na-tyden-v-5-ti-hvezdickovem-resortu",
+      "source": "Obletsvet.cz",
+      "date": "2026-11-02T20:03:10+00:00",
+      "dateLabel": "2. 11. 2026",
+      "price": 31990,
+      "image": "",
+      "id": "https://www.obletsvet.cz/akcni-letenka/lm-maledivy-na-tyden-v-5-ti-hvezdickovem-resortu",
+      "firstSeen": "2026-11-02T20:56:25.571948+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Christmas in the Seychelles 🎄🏝️ Cheap flights from many European cities to the paradise-like islands from €487",
+      "summary": "Swap cold December days for white-sand beaches, turquoise lagoons and Christmas under the palm trees. Condor is offering return flights from several European cities to the Seychelles from just €487, including dates covering the festive seas",
+      "url": "https://www.fly4free.com/flight-deals/europe/cheap-flights-from-europe-to-the-seychelles-christmas/",
+      "source": "Fly4free.com",
+      "date": "2026-11-02T20:00:04+00:00",
+      "dateLabel": "2. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/cheap-flights-from-europe-to-the-seychelles-christmas/",
+      "firstSeen": "2026-11-02T20:56:25.571948+00:00",
+      "priceOrig": {
+        "amount": 487,
+        "cur": "EUR"
+      }
+    },
     {
       "title": "THAJSKO z Prahy za nejnižší cenu - 11 503 Kč",
       "summary": "Pokud hledáte nejlevnější letenky do JV Asie, hodí se nabídka od Air Arabia. Zpáteční letenky z Prahy do Phuketu pořídíme už za 11 503 Kč. Nejvýhodnější letenky jsou dostupné na podzim 2026 a pak v průběhu zimních měsíců 2027, tedy v sezóně",
@@ -12,6 +54,19 @@
       "image": "",
       "id": "https://honzovyletenky.cz/thajsko-z-prahy-za-nejnizsi-cenu/",
       "firstSeen": "2026-11-02T19:11:53.919523+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "China Eastern: Vídeň - Auckland - 15 990 Kč",
+      "summary": "",
+      "url": "https://www.akcniletenky.com",
+      "source": "AkčníLetenky.com",
+      "date": "2026-11-02T19:00:00+00:00",
+      "dateLabel": "2. 11. 2026",
+      "price": 15990,
+      "image": "",
+      "id": "683",
+      "firstSeen": "2026-11-02T20:56:25.571948+00:00",
       "priceOrig": null
     },
     {
@@ -3710,61 +3765,6 @@
         "amount": 652,
         "cur": "EUR"
       }
-    },
-    {
-      "title": "🏰 Sleep inside Italian history! Atmospheric 4-star palace hotel in Florence with its own medieval tower for €91/double with breakfast",
-      "summary": "This is one of those Florence hotels where the building itself becomes part of the trip. Set inside the historic Palazzo Acciaiuoli, founded in 1341, this 4-star stay combines centuries-old architecture, antique details and one of the most",
-      "url": "https://www.fly4free.com/hotel/palace-hotel-in-florence/",
-      "source": "Fly4free.com",
-      "date": "2026-10-26T20:00:18+00:00",
-      "dateLabel": "26. 10. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/hotel/palace-hotel-in-florence/",
-      "firstSeen": "2026-10-27T15:35:38.688065+00:00",
-      "priceOrig": {
-        "amount": 91,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Prázdninové letenky do Londýna z Prahy. Od 2 135 Kč.",
-      "summary": "Prázdninové letenky do Londýna z Prahy za 2 135 Kč.",
-      "url": "https://www.obletsvet.cz/akcni-letenka/letenky-do-londyna-z-prahy-prazdniny",
-      "source": "Obletsvet.cz",
-      "date": "2026-10-26T19:57:50+00:00",
-      "dateLabel": "26. 10. 2026",
-      "price": 2135,
-      "image": "",
-      "id": "https://www.obletsvet.cz/akcni-letenka/letenky-do-londyna-z-prahy-prazdniny",
-      "firstSeen": "2026-10-27T15:35:38.688065+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "A 2-Hour Flight Turned Into a 9-Hour Loop: Ryanair Passengers End Up Back in Alicante",
-      "summary": "A routine two-hour flight from Alicante to Newquay turned into an almost nine-hour odyssey for Ryanair passengers. Strong winds blocked the landing in Cornwall, a diversion to Dublin led nowhere, and a second try via Bristol failed too. In",
-      "url": "https://www.fly4free.com/news/alicante-to-alicante-via-dublin-ryanairs-flight-to-newquay-uk-that-never-landed/",
-      "source": "Fly4free.com",
-      "date": "2026-10-26T19:37:49+00:00",
-      "dateLabel": "26. 10. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/news/alicante-to-alicante-via-dublin-ryanairs-flight-to-newquay-uk-that-never-landed/",
-      "firstSeen": "2026-10-27T15:35:38.688065+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "7 nocí na Maledivách ve vlastní plážové vile s All Inclusive za 36 990 Kč",
-      "summary": "Vlastní vila u bílé pláže, korálový útes a západy slunce nad oceánem. Na Maledivy můžete vyrazit už 28. října. Prohlédněte si nabídku od Čedoku.",
-      "url": "https://levnocestovani.cz/akcni-zajezdy/7-noci-na-maledivach-ve-vlastni-plazove-vile-s-all-inclusive-za-36-990-kc?utm_source=rss&utm_medium=feed",
-      "source": "Levnocestovani.cz",
-      "date": "2026-10-26T19:19:19+00:00",
-      "dateLabel": "26. 10. 2026",
-      "price": 36990,
-      "image": "",
-      "id": "https://levnocestovani.cz/akcni-zajezdy/7-noci-na-maledivach-ve-vlastni-plazove-vile-s-all-inclusive-za-36-990-kc?utm_source=rss&utm_medium=feed",
-      "firstSeen": "2026-10-27T15:35:38.688065+00:00",
-      "priceOrig": null
     }
   ]
 }
