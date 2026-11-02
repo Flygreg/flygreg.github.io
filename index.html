@@ -324,7 +324,7 @@ document.addEventListener('keydown',e=>{if(e.key==='Escape'&&ov.classList.contai
 fab.onclick=()=>{open();if(!API)return go('soon');if(getS())loadList();else go('email')};
 
 // automatická aktualizace: když je na webu novější verze stránky než ta, kterou má prohlížeč v paměti, stránka se jednou sama načte znovu
-const BUILD='2026-11-03-c';
+const BUILD='2026-11-03-d';
 async function checkBuild(){
   try{
     if(ov.classList.contains('on')||document.hidden)return;
@@ -384,9 +384,9 @@ function pushCard(){
   const SW=(on,act,lab)=>`<button type="button" class="tg${on?'':' off'}" data-act="${act}" role="switch" aria-checked="${on}" aria-label="${lab}"${d}></button>`;
   let rows='';
   if(pShow){
-    if(s==='ios')rows+='<div class="nr"><div class="tx"><b>Push v telefonu</b><small>Přidej greg na plochu (Sdílet → Přidat na plochu) a otevři ho odtud, pak tu půjde zapnout.</small></div></div>';
-    else if(s==='denied')rows+='<div class="nr"><div class="tx"><b>Push v telefonu</b><small>Je zakázaný v nastavení telefonu. Povol ho u aplikace greg a vrať se sem.</small></div></div>';
-    else rows+=`<div class="nr"><div class="tx"><b>Push v telefonu</b><small>Tento telefon, číslo na ikoně${st.pbusy?' · …':''}</small></div>${SW(s==='on','pushtog','Push notifikace v tomto telefonu')}</div>`;
+    if(s==='ios')rows+='<div class="nr"><div class="tx"><b>Push</b><small>Přidej greg na plochu (Sdílet → Přidat na plochu) a otevři ho odtud, pak tu půjde zapnout.</small></div></div>';
+    else if(s==='denied')rows+='<div class="nr"><div class="tx"><b>Push</b><small>Je zakázaný v nastavení telefonu. Povol ho u aplikace greg a vrať se sem.</small></div></div>';
+    else rows+=`<div class="nr"><div class="tx"><b>Push</b><small>Toto zařízení${st.pbusy?' · …':''}</small></div>${SW(s==='on','pushtog','Push notifikace v tomto zařízení')}</div>`;
   }
   rows+=`<div class="nr"><div class="tx"><b>E-mail</b><small>${E(st.email)}</small></div>${SW(MAILON,'mailtog','E-mailové notifikace')}</div>`;
   let foot='';
