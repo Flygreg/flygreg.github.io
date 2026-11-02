@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-02T20:56:25.571948+00:00",
+  "updated": "2026-11-02T22:54:27.352800+00:00",
   "offers": [
+    {
+      "title": "💫 Refined 4* Starhotels hotel in charming Genova, Italy, from €89/double ☀️",
+      "summary": "This is a particularly good deal if you want something more polished than a basic city hotel: spacious rooms, elegant Italian interiors, proper restaurant and bar facilities, and the reliability of the Starhotels brand.",
+      "url": "https://www.fly4free.com/flight-deals/europe/starhotels-hotel-genova-italy/",
+      "source": "Fly4free.com",
+      "date": "2026-11-02T21:00:22+00:00",
+      "dateLabel": "2. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/starhotels-hotel-genova-italy/",
+      "firstSeen": "2026-11-02T22:54:27.352800+00:00",
+      "priceOrig": {
+        "amount": 89,
+        "cur": "EUR"
+      }
+    },
     {
       "title": "Už zítra na Madeiru za 10 990 Kč. Týden ve Funchalu s polopenzí",
       "summary": "Vyrazte na Madeiru za krásnou přírodou, horskými túrami a výhledy na Atlantik. Čeká vás týden ve Funchalu s polopenzí a bazény. Prohlédněte si nabídku Čedoku.",
@@ -3749,22 +3765,6 @@
       "id": "655",
       "firstSeen": "2026-10-27T15:30:19.910133+00:00",
       "priceOrig": null
-    },
-    {
-      "title": "🌴 JANUARY ESCAPE! Abu Dhabi + Maldives in one trip from Bucharest for €652",
-      "summary": "This itinerary combines two completely different winter escapes: start with three days of sunshine, architecture and desert experiences in Abu Dhabi, then fly to the Maldives for almost a week of turquoise lagoons and tropical beaches befor",
-      "url": "https://www.fly4free.com/flight-deals/europe/2-in-1-trip-from-bucharest-to-abu-dhabi-and-maldives-qatar/",
-      "source": "Fly4free.com",
-      "date": "2026-10-26T21:00:50+00:00",
-      "dateLabel": "26. 10. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/2-in-1-trip-from-bucharest-to-abu-dhabi-and-maldives-qatar/",
-      "firstSeen": "2026-10-27T15:35:38.688065+00:00",
-      "priceOrig": {
-        "amount": 652,
-        "cur": "EUR"
-      }
     }
   ]
 }
