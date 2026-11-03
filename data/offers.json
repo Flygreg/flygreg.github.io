@@ -1,6 +1,77 @@
 {
-  "updated": "2026-11-03T17:11:44.093145+00:00",
+  "updated": "2026-11-03T19:10:00.541817+00:00",
   "offers": [
+    {
+      "title": "Víkend v BARI - 1 338 Kč",
+      "summary": "Levné letenky na jih Itálie koupíme u Ryanair. V nabídce aerolinky Ryanair najdeme levné letenky z Prahy do italského Bari. Za nejlevnější zpáteční letenky zaplatíme 1 338 Kč. Tuto nebo podobnou cenu najdeme u termínů v lednu, a to jak na t",
+      "url": "https://honzovyletenky.cz/vikend-v-bari-2/",
+      "source": "Honzovy letenky",
+      "date": "2026-11-03T19:14:45+00:00",
+      "dateLabel": "3. 11. 2026",
+      "price": 1338,
+      "image": "",
+      "id": "https://honzovyletenky.cz/vikend-v-bari-2/",
+      "firstSeen": "2026-11-03T19:10:00.541817+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Cheap direct flights from Amsterdam to the Dominican Republic 🌴 🥥 for €514",
+      "summary": "Need an easy escape to the Caribbean? TUI is offering discounted direct flights from Amsterdam to Punta Cana from just €514 return — a great last-minute fare for anyone craving warm weather, palm trees and long beach days.",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-punta-cana-e514/",
+      "source": "Fly4free.com",
+      "date": "2026-11-03T19:00:33+00:00",
+      "dateLabel": "3. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-punta-cana-e514/",
+      "firstSeen": "2026-11-03T19:10:00.541817+00:00",
+      "priceOrig": {
+        "amount": 514,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "Adventní trip 2v1 z Prahy: Benátky + Budapešť. Od 1 897 Kč.",
+      "summary": "Adventní trip 2v1 z Prahy: Benátky + Budapešť od 1 897 Kč.",
+      "url": "https://www.obletsvet.cz/akcni-letenka/adventni-trip-2v1-z-prahy-benatky-budapest",
+      "source": "Obletsvet.cz",
+      "date": "2026-11-03T18:26:34+00:00",
+      "dateLabel": "3. 11. 2026",
+      "price": 1897,
+      "image": "",
+      "id": "https://www.obletsvet.cz/akcni-letenka/adventni-trip-2v1-z-prahy-benatky-budapest",
+      "firstSeen": "2026-11-03T19:10:00.541817+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Full-service flights from Frankfurt to exotic Zanzibar 🏝️ for €531",
+      "summary": "Escape to paradise where white sandy beaches, crystal-clear waters, and unforgettable sunsets await! Book discounted Ethiopian Airlines flights to Zanzibar for €531 for a round trip.",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-frankfurt-to-zanzibar-e531-2/",
+      "source": "Fly4free.com",
+      "date": "2026-11-03T18:00:27+00:00",
+      "dateLabel": "3. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-frankfurt-to-zanzibar-e531-2/",
+      "firstSeen": "2026-11-03T19:10:00.541817+00:00",
+      "priceOrig": {
+        "amount": 531,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "Týden na Zanzibaru za 23 990 Kč v 5* resortu s All Inclusive",
+      "summary": "Bílý písek, kokosové palmy a tyrkysový Indický oceán. Užijte si týden na Zanzibaru v 5* resortu u soukromé pláže s All Inclusive. Mrkněte na nabídku Čedoku.",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/tyden-na-zanzibaru-za-23-990-kc-v-5-resortu-s-all-inclusive?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-11-03T17:13:19+00:00",
+      "dateLabel": "3. 11. 2026",
+      "price": 23990,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/tyden-na-zanzibaru-za-23-990-kc-v-5-resortu-s-all-inclusive?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-11-03T19:10:00.541817+00:00",
+      "priceOrig": null
+    },
     {
       "title": "Xmas Markets 🎄❄️ 4* Park Inn by Radisson Central Tallinn for €55/double",
       "summary": "Experience the magical atmosphere of Tallinn's Christmas markets with a fantastic city break at the 4-star Park Inn by Radisson Central Tallinn! 🎄❄️ Located in the heart of Estonia's charming capital, this well-rated hotel is an excellent b",
@@ -3680,51 +3751,6 @@
       "image": "",
       "id": "https://levnocestovani.cz/akcni-zajezdy/na-8-dni-do-keni-za-20-990-kc-s-all-inclusive-primo-u-plaze?utm_source=rss&utm_medium=feed",
       "firstSeen": "2026-10-27T20:50:53.275135+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Cheap full-service flights from Budapest & Copenhagen to Bali, Indonesia🌴 from €493",
-      "summary": "Escape to paradise without breaking the bank — discover stunning Bali with round-trip China Eastern Airlines flights to Denpasar starting at just €493. Your tropical adventure awaits!",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-copenhagen-to-bali-e493/",
-      "source": "Fly4free.com",
-      "date": "2026-10-27T19:03:38+00:00",
-      "dateLabel": "27. 10. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-copenhagen-to-bali-e493/",
-      "firstSeen": "2026-10-27T19:20:23.910069+00:00",
-      "priceOrig": {
-        "amount": 493,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Top-rated 5🌟 MAY DE Ville Corner Hotel in Hanoi, Vietnam for €52/double",
-      "summary": "Wake up in the heart of Hanoi’s lantern-lit Old Quarter, spend your days wandering temples, cafés, rooftop bars, and chaotic little food streets — and pay just €52 per night for a stylish boutique 5* hotel. For a property with this much atm",
-      "url": "https://www.fly4free.com/flight-deals/europe/5-star-hotel-in-hanoi-vietnam-e52/",
-      "source": "Fly4free.com",
-      "date": "2026-10-27T18:05:43+00:00",
-      "dateLabel": "27. 10. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/5-star-hotel-in-hanoi-vietnam-e52/",
-      "firstSeen": "2026-10-27T18:58:28.323463+00:00",
-      "priceOrig": {
-        "amount": 52,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Madeira z Prahy za 14 890 Kč: Týden na ostrově věčného jara s polopenzí",
-      "summary": "Užijte si Madeiru vlastním tempem! Týden ve Funchalu s polopenzí, bazény a odletem z Prahy za 14 890 Kč. Projděte se historickým Funchalem a relaxujte u moře.",
-      "url": "https://levnocestovani.cz/akcni-zajezdy/madeira-z-prahy-za-14-890-kc-tyden-na-ostrove-vecneho-jara-s-polopenzi?utm_source=rss&utm_medium=feed",
-      "source": "Levnocestovani.cz",
-      "date": "2026-10-27T17:50:40+00:00",
-      "dateLabel": "27. 10. 2026",
-      "price": 14890,
-      "image": "",
-      "id": "https://levnocestovani.cz/akcni-zajezdy/madeira-z-prahy-za-14-890-kc-tyden-na-ostrove-vecneho-jara-s-polopenzi?utm_source=rss&utm_medium=feed",
-      "firstSeen": "2026-10-27T18:58:28.323463+00:00",
       "priceOrig": null
     }
   ]
