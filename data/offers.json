@@ -1,6 +1,48 @@
 {
-  "updated": "2026-11-03T19:10:00.541817+00:00",
+  "updated": "2026-11-03T21:00:00.694712+00:00",
   "offers": [
+    {
+      "title": "Cheap full-service flights from Germany to Thailand from €490",
+      "summary": "Dreaming of Thailand? Now’s your chance! Fly with Air China to Bangkok or Phuket starting at just €490 return.",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-germany-to-bangkok-e490/",
+      "source": "Fly4free.com",
+      "date": "2026-11-03T20:00:32+00:00",
+      "dateLabel": "3. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-germany-to-bangkok-e490/",
+      "firstSeen": "2026-11-03T21:00:00.694712+00:00",
+      "priceOrig": {
+        "amount": 490,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "Karibik přímým letem: 5* Serenade Caribe Club v Dominikáně s All Inclusive za 27 990 Kč",
+      "summary": "Dominikánská republika bez přestupu! 5* Serenade Caribe Club s All Inclusive stravováním a bohatým vyžitím jen za 27 990 Kč z Prahy. Objednejte ještě dnes.",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/karibik-primym-letem-5-serenade-caribe-club-v-dominikane-s-all-inclusive-za-27-990-kc?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-11-03T20:00:14+00:00",
+      "dateLabel": "3. 11. 2026",
+      "price": 27990,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/karibik-primym-letem-5-serenade-caribe-club-v-dominikane-s-all-inclusive-za-27-990-kc?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-11-03T21:00:00.694712+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Z Bratislavy do sicilského Trapani během zimy. Letenky od 780 Kč",
+      "summary": "Ryanair nabízí skvělé ceny přímých zpátečních letenek z Bratislavy do Trapani na západě Sicílie. Nejlevněji vychází termín 13.–20. prosince za 32 EUR, ale spoustu dalších termínů najdete od ledna až do března za 40 až 50 EUR.",
+      "url": "https://www.cestujlevne.com/akcni-letenky/z-bratislavy-do-sicilskeho-trapani-behem-zimy",
+      "source": "CestujLevne.com",
+      "date": "2026-11-03T19:50:04+00:00",
+      "dateLabel": "3. 11. 2026",
+      "price": 780,
+      "image": "",
+      "id": "https://www.cestujlevne.com/akcni-letenky/z-bratislavy-do-sicilskeho-trapani-behem-zimy",
+      "firstSeen": "2026-11-03T21:00:00.694712+00:00",
+      "priceOrig": null
+    },
     {
       "title": "Víkend v BARI - 1 338 Kč",
       "summary": "Levné letenky na jih Itálie koupíme u Ryanair. V nabídce aerolinky Ryanair najdeme levné letenky z Prahy do italského Bari. Za nejlevnější zpáteční letenky zaplatíme 1 338 Kč. Tuto nebo podobnou cenu najdeme u termínů v lednu, a to jak na t",
@@ -3710,48 +3752,6 @@
         "amount": 650,
         "cur": "EUR"
       }
-    },
-    {
-      "title": "NEW YORK po celé jaro i léto - 8 990 Kč",
-      "summary": "Levné letenky do New Yorku koupíme v akci od Aer Lingus. Za super cenu seženeme open-jaw letenky do New Yorku. Za letenky z Prahy a návratem do Berlína zaplatíme po celé jaro 8 990 Kč, po téměř celé léto za 9 490 Kč. Po cestě máme jeden pře",
-      "url": "https://honzovyletenky.cz/new-york-po-cele-jaro-i-leto/",
-      "source": "Honzovy letenky",
-      "date": "2026-10-27T20:25:18+00:00",
-      "dateLabel": "27. 10. 2026",
-      "price": 8990,
-      "image": "",
-      "id": "https://honzovyletenky.cz/new-york-po-cele-jaro-i-leto/",
-      "firstSeen": "2026-10-27T20:50:53.275135+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Cheap flights from many European cities to exotic Trinidad and Tobago 🏝️ from €464",
-      "summary": "Ready to trade the European winter chill for Caribbean sunshine? Now you can fly to the island of Trinidad from just €464 return with Condor! These round-trip deals from several European cities bring you closer to a tropical paradise filled",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-trinidad-and-tobago-e464/",
-      "source": "Fly4free.com",
-      "date": "2026-10-27T20:01:06+00:00",
-      "dateLabel": "27. 10. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-trinidad-and-tobago-e464/",
-      "firstSeen": "2026-10-27T20:50:53.275135+00:00",
-      "priceOrig": {
-        "amount": 464,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Na 8 dní do Keni za 20 990 Kč s All Inclusive přímo u pláže",
-      "summary": "Bílé pláže, palmy a Indický oceán místo listopadového chladu. Už 3. listopadu můžete vyrazit z Prahy do Keni. Prohlédněte si nabídku od EXIM tours a Fischer.",
-      "url": "https://levnocestovani.cz/akcni-zajezdy/na-8-dni-do-keni-za-20-990-kc-s-all-inclusive-primo-u-plaze?utm_source=rss&utm_medium=feed",
-      "source": "Levnocestovani.cz",
-      "date": "2026-10-27T19:33:57+00:00",
-      "dateLabel": "27. 10. 2026",
-      "price": 20990,
-      "image": "",
-      "id": "https://levnocestovani.cz/akcni-zajezdy/na-8-dni-do-keni-za-20-990-kc-s-all-inclusive-primo-u-plaze?utm_source=rss&utm_medium=feed",
-      "firstSeen": "2026-10-27T20:50:53.275135+00:00",
-      "priceOrig": null
     }
   ]
 }
