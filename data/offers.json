@@ -1,6 +1,35 @@
 {
-  "updated": "2026-11-03T13:21:53.215240+00:00",
+  "updated": "2026-11-03T15:04:03.327371+00:00",
   "offers": [
+    {
+      "title": "Top-rated 4* Spark by Hilton Vienna Donaustadt for €63/double",
+      "summary": "Check out this bargain offer! If you plan to visit the capital of Austria consider booking a double room at the highly rated 4* hotel at a discounted price of only €63/night.",
+      "url": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-vienna-e63-2/",
+      "source": "Fly4free.com",
+      "date": "2026-11-03T15:00:18+00:00",
+      "dateLabel": "3. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-vienna-e63-2/",
+      "firstSeen": "2026-11-03T15:04:03.327371+00:00",
+      "priceOrig": {
+        "amount": 63,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "Přímým letem na thajský Phuket do skvěle hodnoceného 4* resortu za 19 990 Kč",
+      "summary": "Vyměňte shon za tropické teplo. Leťte přímým letem z Prahy na thajský Phuket na 8 dní do 4* resortu se snídaní jen za 19 990 Kč. Rezervujte si dovolenou!",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/primym-letem-na-thajsky-phuket-do-skvele-hodnoceneho-4-resortu-za-19-990-kc?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-11-03T14:41:46+00:00",
+      "dateLabel": "3. 11. 2026",
+      "price": 19990,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/primym-letem-na-thajsky-phuket-do-skvele-hodnoceneho-4-resortu-za-19-990-kc?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-11-03T15:04:03.327371+00:00",
+      "priceOrig": null
+    },
     {
       "title": "Akční TOBAGO z Prahy - 11 743 Kč",
       "summary": "Levné letenky do Karibiku koupíme u Condora. Levné letenky z Prahy do Tobaga najdeme u aerolinky Condor. Za zpáteční letenky zaplatíme 11 473 Kč na české verzi stránek. Po cestě nás čeká jeden přestup ve Frankfurtu a po cestě zpět ještě mez",
@@ -12,6 +41,48 @@
       "image": "",
       "id": "https://honzovyletenky.cz/akcni-tobago-z-prahy/",
       "firstSeen": "2026-11-03T13:21:53.215240+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Incredible prices!💥 Cheap direct flights from London to Bangkok, Thailand for £333",
+      "summary": "Bangkok’s neon skyline, chaotic night markets, tiny plastic stools with incredible food, long-tail boats, jungle islands, and sunsets over the Andaman Sea — Thailand is one of those destinations that somehow lives up to the hype every singl",
+      "url": "https://www.fly4free.com/flight-deals/europe/direct-flights-from-london-to-bangkok-p333/",
+      "source": "Fly4free.com",
+      "date": "2026-11-03T13:55:40+00:00",
+      "dateLabel": "3. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/direct-flights-from-london-to-bangkok-p333/",
+      "firstSeen": "2026-11-03T15:04:03.327371+00:00",
+      "priceOrig": {
+        "amount": 333,
+        "cur": "GBP"
+      }
+    },
+    {
+      "title": "Týden v Dominikánské republice s all-inclusive a přímým letem z Prahy. Zájezd od 25 990 Kč",
+      "summary": "CK Čedok aktuálně nabízí týdenní zájezd do Dominikánské republiky za 25 990 Kč za osobu. Ubytováni budete ve skvěle hodnoceném pětihvězdičkovém hotelu Bakour Punta Cana Suites.",
+      "url": "https://www.cestujlevne.com/akcni-letenky/tyden-v-dominikanske-republice-s-all-inclusive-a-primym-letem-z-prahy",
+      "source": "CestujLevne.com",
+      "date": "2026-11-03T13:49:40+00:00",
+      "dateLabel": "3. 11. 2026",
+      "price": 25990,
+      "image": "",
+      "id": "https://www.cestujlevne.com/akcni-letenky/tyden-v-dominikanske-republice-s-all-inclusive-a-primym-letem-z-prahy",
+      "firstSeen": "2026-11-03T15:04:03.327371+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Buzz: Praha - Košice - 987 Kč",
+      "summary": "",
+      "url": "https://www.akcniletenky.com",
+      "source": "AkčníLetenky.com",
+      "date": "2026-11-03T13:00:00+00:00",
+      "dateLabel": "3. 11. 2026",
+      "price": 987,
+      "image": "",
+      "id": "686",
+      "firstSeen": "2026-11-03T15:04:03.327371+00:00",
       "priceOrig": null
     },
     {
@@ -3654,90 +3725,6 @@
       "image": "",
       "id": "https://www.cestujlevne.com/akcni-letenky/zimni-prodlouzene-vikendy-v-bosne-a-hercegovine-z-bratislavy",
       "firstSeen": "2026-10-27T16:59:31.600622+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Nejlevnější INDIE - 8 990 Kč",
-      "summary": "Aktuálně nejzajímavější letenky do Indie nabízejí ázerbajdžánské aerolinky. Zpáteční letenky z Vídně do Bombaje s jedním přestupem v Baku pořídíme už za 8 990 Kč. Letenky jsou dostupné hlavně na termíny v únoru 2027 a kolem něj. V ceně každ",
-      "url": "https://honzovyletenky.cz/nejlevnejsi-indie/",
-      "source": "Honzovy letenky",
-      "date": "2026-10-27T15:01:10+00:00",
-      "dateLabel": "27. 10. 2026",
-      "price": 8990,
-      "image": "",
-      "id": "https://honzovyletenky.cz/nejlevnejsi-indie/",
-      "firstSeen": "2026-10-27T15:35:38.688065+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Well-rated 4🌟 Four Elements Hotel Amsterdam for €66/double",
-      "summary": "Looking for an affordable city break in the Netherlands? The Four Elements Hotel Amsterdam is worth checking out! This well-rated 4-star hotel offers an attractive accommodation deal for travellers who want to explore Amsterdam while keepin",
-      "url": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-amsterdam-e66/",
-      "source": "Fly4free.com",
-      "date": "2026-10-27T15:00:55+00:00",
-      "dateLabel": "27. 10. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-amsterdam-e66/",
-      "firstSeen": "2026-10-27T15:35:38.688065+00:00",
-      "priceOrig": {
-        "amount": 66,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Kapverdy, ostrov Sal: Týden v 5* resortu Meliá Dunas Beach s All Inclusive za 24 590 Kč",
-      "summary": "Dopřejte si relax na Kapverdách. 5* Meliá Dunas Beach nabízí krásnou pláž, All Inclusive i odpočinek ve spa za 24 590 Kč. Zarezervujte si termín ještě dnes!",
-      "url": "https://levnocestovani.cz/akcni-zajezdy/kapverdy-ostrov-sal-tyden-v-5-resortu-melia-dunas-beach-s-all-inclusive-za-24-590-kc?utm_source=rss&utm_medium=feed",
-      "source": "Levnocestovani.cz",
-      "date": "2026-10-27T14:46:23+00:00",
-      "dateLabel": "27. 10. 2026",
-      "price": 24590,
-      "image": "",
-      "id": "https://levnocestovani.cz/akcni-zajezdy/kapverdy-ostrov-sal-tyden-v-5-resortu-melia-dunas-beach-s-all-inclusive-za-24-590-kc?utm_source=rss&utm_medium=feed",
-      "firstSeen": "2026-10-27T15:35:38.688065+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Full-service Hainan Airlines flights from Brussels to Tokyo, Japan 🍣 for €565",
-      "summary": "Hainan Airlines offers great prices on flights from Brussels to Tokyo Narita! Fly to the Land of the Rising Sun for €575 return and explore this spectacular country.",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-brussels-to-tokyo-e565/",
-      "source": "Fly4free.com",
-      "date": "2026-10-27T14:00:48+00:00",
-      "dateLabel": "27. 10. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-brussels-to-tokyo-e565/",
-      "firstSeen": "2026-10-27T15:35:38.688065+00:00",
-      "priceOrig": {
-        "amount": 565,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Zanzibar z Bratislavy na týden v 5* hotelu s all-inclusive. Zájezd od 22 990 Kč",
-      "summary": "Co takhle začít listopad na Zanzibaru? Týdenní dovolenou s odletem z Bratislavy pořídíte za 22 990 Kč na osobu, navíc v krásném hotelu Jaz Amaluna Beach Resort *****.",
-      "url": "https://www.cestujlevne.com/akcni-letenky/zanzibar-z-bratislavy-na-tyden-v-5-hotelu-s-all-inclusive",
-      "source": "CestujLevne.com",
-      "date": "2026-10-27T13:48:02+00:00",
-      "dateLabel": "27. 10. 2026",
-      "price": 22990,
-      "image": "",
-      "id": "https://www.cestujlevne.com/akcni-letenky/zanzibar-z-bratislavy-na-tyden-v-5-hotelu-s-all-inclusive",
-      "firstSeen": "2026-10-27T15:35:38.688065+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Z Prahy přímo na Phuket za 23 390 Kč. Týden v 5* resortu u pláže",
-      "summary": "Užijte si listopad na thajském ostrově Phuket v 5* resortu u pláže Patong, s bazény i centrem letoviska na dosah. Prohlédněte si nabídku od Čedoku.",
-      "url": "https://levnocestovani.cz/akcni-zajezdy/z-prahy-primo-na-phuket-za-23-390-kc-tyden-v-5-resortu-u-plaze?utm_source=rss&utm_medium=feed",
-      "source": "Levnocestovani.cz",
-      "date": "2026-10-27T13:33:54+00:00",
-      "dateLabel": "27. 10. 2026",
-      "price": 23390,
-      "image": "",
-      "id": "https://levnocestovani.cz/akcni-zajezdy/z-prahy-primo-na-phuket-za-23-390-kc-tyden-v-5-resortu-u-plaze?utm_source=rss&utm_medium=feed",
-      "firstSeen": "2026-10-27T15:35:38.688065+00:00",
       "priceOrig": null
     }
   ]
