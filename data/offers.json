@@ -1,6 +1,103 @@
 {
-  "updated": "2026-11-03T09:04:58.717468+00:00",
+  "updated": "2026-11-03T11:07:53.878539+00:00",
   "offers": [
+    {
+      "title": "Last minute Dominikána za 25 990 Kč: Přímý let z Prahy a 5* resort u pláže",
+      "summary": "Vyměňte listopadové počasí za pláže Dominikány! Čeká vás 5* resort přímo u moře, bazén lemovaný palmami a All Inclusive. Objevte last minute nabídku Čedoku.",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/last-minute-dominikana-za-25-990-kc-primy-let-z-prahy-a-5-resort-u-plaze?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-11-03T10:41:59+00:00",
+      "dateLabel": "3. 11. 2026",
+      "price": 25990,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/last-minute-dominikana-za-25-990-kc-primy-let-z-prahy-a-5-resort-u-plaze?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-11-03T11:07:53.878539+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Dva týdny v thajském Khao Laku se snídaní a přímým letem z Prahy. Zájezd od 34 590 Kč",
+      "summary": "Dva týdny v Thajsku za moc pěknou cenu. Čedok má v nabídce zájezd do oblíbené oblasti Khao Lak za 34 590 Kč za osobu, a to rovnou s přímým letem z Prahy.",
+      "url": "https://www.cestujlevne.com/akcni-letenky/dva-tydny-v-thajskem-khao-laku-se-snidani-a-primym-letem-z-prahy",
+      "source": "CestujLevne.com",
+      "date": "2026-11-03T10:41:30+00:00",
+      "dateLabel": "3. 11. 2026",
+      "price": 34590,
+      "image": "",
+      "id": "https://www.cestujlevne.com/akcni-letenky/dva-tydny-v-thajskem-khao-laku-se-snidani-a-primym-letem-z-prahy",
+      "firstSeen": "2026-11-03T11:07:53.878539+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Fantastic deal! 😎 🏖️ Cheap flights from many European cities to Miami from €347",
+      "summary": "Whether you're craving beach vibes, Art Deco streets, or sizzling nightlife, this is your sign to book that getaway. Don’t miss out these discounted TAP flights starting at only €347 for a round trip.",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-miami-e347-2/",
+      "source": "Fly4free.com",
+      "date": "2026-11-03T10:40:35+00:00",
+      "dateLabel": "3. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-miami-e347-2/",
+      "firstSeen": "2026-11-03T11:07:53.878539+00:00",
+      "priceOrig": {
+        "amount": 347,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "Zájezd na ZANZIBAR z Prahy - 22 990 Kč",
+      "summary": "První letošní zájezdy na Zanzibar pořídíme za fajn cenu. Levné zájezdy na Zanzibar najdeme u CK Čedok. Týdenní zájezd do 4* hotelu z Prahy s polopenzí najdeme u Čedoku za 22 990 Kč. O pár stovek více pořídíme hotely i s all inclusive. Čedok",
+      "url": "https://honzovyletenky.cz/zajezd-na-zanzibar-z-prahy/",
+      "source": "Honzovy letenky",
+      "date": "2026-11-03T10:12:45+00:00",
+      "dateLabel": "3. 11. 2026",
+      "price": 22990,
+      "image": "",
+      "id": "https://honzovyletenky.cz/zajezd-na-zanzibar-z-prahy/",
+      "firstSeen": "2026-11-03T11:07:53.878539+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Zanzibar v 5-ti hvězdičkovém resortu s all inclusive. Od 25 990 Kč.",
+      "summary": "Zanzibar v 5-ti hvězdičkovém resortu s all inclusive za 25 990 Kč.",
+      "url": "https://www.obletsvet.cz/akcni-letenka/zanzibar-v-5-ti-hvezdickovem-resortu-s-all-inclusive",
+      "source": "Obletsvet.cz",
+      "date": "2026-11-03T10:04:08+00:00",
+      "dateLabel": "3. 11. 2026",
+      "price": 25990,
+      "image": "",
+      "id": "https://www.obletsvet.cz/akcni-letenka/zanzibar-v-5-ti-hvezdickovem-resortu-s-all-inclusive",
+      "firstSeen": "2026-11-03T11:07:53.878539+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "HIGH SEASON ☀️🌴 Cheap full-service flights from several European cities to Malaysia from €438",
+      "summary": "Whether you crave the bustling streets of Kuala Lumpur, the beaches of Langkawi, or the rainforests of Borneo – your Southeast Asian adventure begins now. Saudia is offering discounted flights to Kuala Lumpur starting at €438 for a round tr",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-kuala-lumpur-e438/",
+      "source": "Fly4free.com",
+      "date": "2026-11-03T10:00:13+00:00",
+      "dateLabel": "3. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-kuala-lumpur-e438/",
+      "firstSeen": "2026-11-03T11:07:53.878539+00:00",
+      "priceOrig": {
+        "amount": 438,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "Buzz: Bratislava - Trapani - 840 Kč",
+      "summary": "",
+      "url": "https://www.akcniletenky.com",
+      "source": "AkčníLetenky.com",
+      "date": "2026-11-03T10:00:00+00:00",
+      "dateLabel": "3. 11. 2026",
+      "price": 840,
+      "image": "",
+      "id": "685",
+      "firstSeen": "2026-11-03T11:07:53.878539+00:00",
+      "priceOrig": null
+    },
     {
       "title": "Malaga (Španělsko) – letenky z Prahy za 2349 Kč, z Pardubic za 1202 Kč",
       "summary": "Z Prahy letíte do Malagy Ryanairem od 2 349 Kč – a kdo bydlí blíž Pardubicím, dostane se tam dokonce od 1 202 Kč. Malaga je andaluské přístavní město, které rozhodně nestačí odbýt za jedno odpoledne: projdete historické centrum, vyšlapete n",
@@ -12,6 +109,32 @@
       "image": "",
       "id": "https://www.levneletenkyzprahy.cz/2747_malaga-spanelsko-–-letenky-z-prahy-za-2349-kc,-z-pardubic-za-1202-kc",
       "firstSeen": "2026-11-03T09:04:58.717468+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Akční letenky z Prahy na Seychely – prosincové a lednové termíny od 12 709 Kč",
+      "summary": "Rezervuj: přes náš vyhledávač Zavazadla: příruční bágl o rozměrech do 40 × 30 × 10 cm Dostupnost: prosinec 2026 & leden 2027 Termíny a ceny: 4. – 12. 12. za 14 169 Kč → Zobrazit let 4. – 19. 12. za 14 169 Kč → Zobrazit let 11. – 19. 12. za",
+      "url": "https://zaletsi.cz/akce/akcni-letenky-z-prahy-na-seychely-prosincove-a-lednove-terminy/",
+      "source": "Zaleťsi.cz",
+      "date": "2026-11-03T09:24:29+00:00",
+      "dateLabel": "3. 11. 2026",
+      "price": 12709,
+      "image": "",
+      "id": "https://zaletsi.cz/akce/akcni-letenky-z-prahy-na-seychely-prosincove-a-lednove-terminy/",
+      "firstSeen": "2026-11-03T11:07:53.878539+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Last minute zájezdy z Prahy na Maledivy v prvním listopadovém týdnu (4* a 5* hotely s all inclusive) od 30 990 Kč",
+      "summary": "Zajisti si dovolenou: REZERVUJ ONLINE nebo telefonicky na čísle +420 770 104 598 Termín: 4 – 12. listopadu 2026 Hotely: 5* Royal Island Resort & Spa all inclusive light | 31 990 Kč all inclusive | 43 980 Kč 4* Hotel Fihalhohi Maldives – pln",
+      "url": "https://zaletsi.cz/zajezdy/lm-zajezdy-z-prahy-na-maledivy-v-prvnim-listopadovem-tydnu-4-a-5-hotely-s-all-inclusive/",
+      "source": "Zaleťsi.cz",
+      "date": "2026-11-03T09:08:48+00:00",
+      "dateLabel": "3. 11. 2026",
+      "price": 30990,
+      "image": "",
+      "id": "https://zaletsi.cz/zajezdy/lm-zajezdy-z-prahy-na-maledivy-v-prvnim-listopadovem-tydnu-4-a-5-hotely-s-all-inclusive/",
+      "firstSeen": "2026-11-02T09:21:22.119562+00:00",
       "priceOrig": null
     },
     {
@@ -778,19 +901,6 @@
       "image": "",
       "id": "https://www.cestujlevne.com/akcni-letenky/thajsko-primym-letem-z-prahy-na-tyden-v-5-hotelu-se-snidani",
       "firstSeen": "2026-11-01T20:50:33.134263+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Last minute zájezdy z Prahy na Maledivy v prvním listopadovém týdnu (4* a 5* hotely s all inclusive) od 31 990 Kč",
-      "summary": "Zajisti si dovolenou: REZERVUJ ONLINE nebo telefonicky na čísle +420 770 104 598 Termín: 4 – 11. listopadu 2026 Hotely: 5* Royal Island Resort & Spa all inclusive light | 31 990 Kč all inclusive | 43 980 Kč 4* Hotel Fihalhohi Maldives – pln",
-      "url": "https://zaletsi.cz/zajezdy/lm-zajezdy-z-prahy-na-maledivy-v-prvnim-listopadovem-tydnu-4-a-5-hotely-s-all-inclusive/",
-      "source": "Zaleťsi.cz",
-      "date": "2026-11-01T19:08:48+00:00",
-      "dateLabel": "1. 11. 2026",
-      "price": 31990,
-      "image": "",
-      "id": "https://zaletsi.cz/zajezdy/lm-zajezdy-z-prahy-na-maledivy-v-prvnim-listopadovem-tydnu-4-a-5-hotely-s-all-inclusive/",
-      "firstSeen": "2026-11-02T09:21:22.119562+00:00",
       "priceOrig": null
     },
     {
@@ -3641,116 +3751,6 @@
       "image": "",
       "id": "https://levnocestovani.cz/akcni-zajezdy/kena-za-21-990-kc-skvele-hodnoceny-4-resort-s-all-inclusive-u-bile-plaze?utm_source=rss&utm_medium=feed",
       "firstSeen": "2026-10-27T15:35:38.688065+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Flights from Prague to Toronto, Canada 🍁 for €447",
-      "summary": "Explore the charm of Canada’s coolest city — stroll through vibrant neighborhoods, marvel at Niagara Falls, and soak in the autumn vibes! Book discounted Condor flights from Czechia starting at only €447 for a round trip!",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-prague-to-toronto-e447/",
-      "source": "Fly4free.com",
-      "date": "2026-10-27T11:00:36+00:00",
-      "dateLabel": "27. 10. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-prague-to-toronto-e447/",
-      "firstSeen": "2026-10-27T15:35:38.688065+00:00",
-      "priceOrig": {
-        "amount": 447,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Z Prahy na exotický ostrov Tobago za skvělou cenu od 11 971 Kč",
-      "summary": "Rezervuj: přes náš vyhledávač Zavazadla: příručák s rozměry do 40 × 30 × 15 cm Dostupnost: listopad 2026 – únor 2027 Termíny od 11 971 Kč: 3. 11. – 10. 11. → Zobrazit let 3. 11. – 17. 11. → Zobrazit let 10. 11. – 17. 11. → Zobrazit let 10.",
-      "url": "https://zaletsi.cz/akce/z-prahy-na-exoticky-ostrov-tobago-za-skvelou-cenu/",
-      "source": "Zaleťsi.cz",
-      "date": "2026-10-27T10:56:23+00:00",
-      "dateLabel": "27. 10. 2026",
-      "price": 11971,
-      "image": "",
-      "id": "https://zaletsi.cz/akce/z-prahy-na-exoticky-ostrov-tobago-za-skvelou-cenu/",
-      "firstSeen": "2026-10-27T15:02:10.412545+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Maledivy letecky z Prahy: 4* resort s plnou penzí za 35 990 Kč",
-      "summary": "Lákají vás Maledivy? Leťte bez přestupu z Prahy na týden do 4* resortu s plnou penzí jen za 35 990 Kč. Dopřejte si tropický ráj. Rezervujte si pobyt!",
-      "url": "https://levnocestovani.cz/akcni-zajezdy/maledivy-letecky-z-prahy-4-resort-s-plnou-penzi-za-35-990-kc?utm_source=rss&utm_medium=feed",
-      "source": "Levnocestovani.cz",
-      "date": "2026-10-27T10:49:25+00:00",
-      "dateLabel": "27. 10. 2026",
-      "price": 35990,
-      "image": "",
-      "id": "https://levnocestovani.cz/akcni-zajezdy/maledivy-letecky-z-prahy-4-resort-s-plnou-penzi-za-35-990-kc?utm_source=rss&utm_medium=feed",
-      "firstSeen": "2026-10-27T15:35:38.688065+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Buy & Fly: Maledivy přímým letem z Prahy na ostrov Fihalhohi s all-inclusive soft. Zájezd od 36 490 Kč",
-      "summary": "Pokud máte možnost sbalit kufry a vyrazit hned zítra, týden na Maledivách pořídíte za 36 490 Kč na osobu.",
-      "url": "https://www.cestujlevne.com/akcni-letenky/buy-fly-maledivy-primym-letem-z-prahy-na-ostrov-fihalhohi-s-all-inclusive-soft",
-      "source": "CestujLevne.com",
-      "date": "2026-10-27T10:31:01+00:00",
-      "dateLabel": "27. 10. 2026",
-      "price": 36490,
-      "image": "",
-      "id": "https://www.cestujlevne.com/akcni-letenky/buy-fly-maledivy-primym-letem-z-prahy-na-ostrov-fihalhohi-s-all-inclusive-soft",
-      "firstSeen": "2026-10-27T15:35:38.688065+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "5* all-inclusive VIETNAM z Prahy - 25 390 Kč",
-      "summary": "Na pohodovou dovolenou do Vietnamu se můžeme vydat z Prahy s CK Exim. Zájezd s přímou zpáteční letenkou z Prahy na Phu Quoc, transferem, 5* ubytováním a delegátem pořídíme na listopadové termíny už za 25 390 Kč. Nejvýhodnější termín s all-i",
-      "url": "https://honzovyletenky.cz/5-all-inclusive-vietnam-z-prahy/",
-      "source": "Honzovy letenky",
-      "date": "2026-10-27T10:14:32+00:00",
-      "dateLabel": "27. 10. 2026",
-      "price": 25390,
-      "image": "",
-      "id": "https://honzovyletenky.cz/5-all-inclusive-vietnam-z-prahy/",
-      "firstSeen": "2026-10-27T15:35:38.688065+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Full-service non-stop flights from Paris to Rwanda for €487",
-      "summary": "Dreaming of an African adventure surrounded by spectacular landscapes and incredible wildlife? RwandAir is offering discounted flights to Kigali from only €487 for a round trip.",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-paris-to-rwanda-e487/",
-      "source": "Fly4free.com",
-      "date": "2026-10-27T10:00:04+00:00",
-      "dateLabel": "27. 10. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-paris-to-rwanda-e487/",
-      "firstSeen": "2026-10-27T15:35:38.688065+00:00",
-      "priceOrig": {
-        "amount": 487,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Dovolená ve Vietnamu na Phu Quocu: 5* Meliá Vinpearl, All Inclusive a přímý let z Prahy od 25 390 Kč",
-      "summary": "Prožijte dovolenou ve Vietnamu na ostrově Phu Quoc. 5* Meliá Vinpearl u pláže Bai Dai, All Inclusive a přímý let z Prahy od 25 390 Kč. Objevte tropický ráj!",
-      "url": "https://levnocestovani.cz/akcni-zajezdy/dovolena-ve-vietnamu-na-phu-quocu-5-melia-vinpearl-all-inclusive-a-primy-let-z-prahy-od-25-390-kc?utm_source=rss&utm_medium=feed",
-      "source": "Levnocestovani.cz",
-      "date": "2026-10-27T09:31:28+00:00",
-      "dateLabel": "27. 10. 2026",
-      "price": 25390,
-      "image": "",
-      "id": "https://levnocestovani.cz/akcni-zajezdy/dovolena-ve-vietnamu-na-phu-quocu-5-melia-vinpearl-all-inclusive-a-primy-let-z-prahy-od-25-390-kc?utm_source=rss&utm_medium=feed",
-      "firstSeen": "2026-10-27T15:35:38.688065+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Malaga, Španělsko – akční letenky z Prahy za 2044 Kč, z Ostravy za 1273 Kč",
-      "summary": "Z Prahy se do Malagy dostanete Ryanairem od 2 044 Kč – a z Ostravy dokonce od 1 273 Kč, z Pardubic od 1 378 Kč. Malaga je andaluské město, které má co nabídnout víc, než by se na první pohled čekalo: maurská pevnost Alcazaba nad střechami s",
-      "url": "https://www.levneletenkyzprahy.cz/2740_malaga,-spanelsko-–-akcni-letenky-z-prahy-za-2044-kc,-z-ostravy-za-1273-kc",
-      "source": "Levné letenky z Prahy",
-      "date": "2026-10-27T09:26:16+00:00",
-      "dateLabel": "27. 10. 2026",
-      "price": 2044,
-      "image": "",
-      "id": "https://www.levneletenkyzprahy.cz/2740_malaga,-spanelsko-–-akcni-letenky-z-prahy-za-2044-kc,-z-ostravy-za-1273-kc",
-      "firstSeen": "2026-10-27T13:31:28.797751+00:00",
       "priceOrig": null
     }
   ]
