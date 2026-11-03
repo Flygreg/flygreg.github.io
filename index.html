@@ -142,10 +142,11 @@ const hlRefresh=()=>{try{HLR=getS()?((st.rules&&st.rules.length?st.rules:((readC
 hlRefresh();
 const offsHtml=r=>{const all=items.filter(x=>ruleOk(r,x)).sort((a,b)=>Date.parse(b.date||b.firstSeen||0)-Date.parse(a.date||a.firstSeen||0)),top=all.slice(0,12);if(!all.length)return'';
   return '<div class="offs">'+top.map(x=>{const d=Date.parse(x.date||x.firstSeen||0),dt=d?new Date(d).toLocaleDateString('cs-CZ',{day:'numeric',month:'numeric'}):'';return `<a class="orow" target="_blank" rel="noopener noreferrer" href="${escapeHtml(x.url)}"><span class="oi">${x._k==='zajezd'?KBAG:KPLN}${hlBadge()}</span><span class="t"><b>${escapeHtml(shownTitle(x))}</b><small>${escapeHtml(x.source||'')}${dt?' · '+dt:''}</small></span><span class="p">${escapeHtml(priceStr(x))}</span><span class="go">›</span></a>`}).join('')+(all.length>top.length?'<div class="omore">… a dalších '+(all.length-top.length)+'</div>':'')+'</div>'};
-let busy=false,pvTimer=0;
+let busy=false,pvTimer=0,PPEND=0,PSEQ=0,PLAST=0;
 async function api(b){
   if(!API)return{ok:false,error:'Hlídač zatím není zapnutý.'};
-  try{const r=await fetch(API,{method:'POST',body:JSON.stringify(b)});const j=await r.json();if(j&&typeof j.push==='boolean')PSRV=j.push;if(j&&typeof j.mail==='boolean')MAILON=j.mail;return j}
+  const t0=Date.now();
+  try{const r=await fetch(API,{method:'POST',body:JSON.stringify(b)});const j=await r.json();if(j&&typeof j.push==='boolean')PSRV=j.push;if(j&&typeof j.mail==='boolean'&&b.a!=='prefs'&&!PPEND&&t0>PLAST)MAILON=j.mail;return j}
   catch(e){return{ok:false,error:'Spojení se nepodařilo. Zkus to prosím znovu.'}}
 }
 const FLEU='<img src="flags/eu.svg" alt="">';
@@ -283,7 +284,7 @@ async function act(a,el){
     case'nhl':return API?(getS()?loadList():go('email')):go('soon');
     case'nopen':{st.nOpen=!st.nOpen;st.nmsg='';paint();if(st.nOpen)setTimeout(()=>{const el=box.querySelector('.nbox');if(el)el.scrollIntoView({behavior:'smooth',block:'nearest'})},40);return}
     case'pushtog':return st.push==='on'?pushOff():pushOn();
-    case'mailtog':{const to=!MAILON;MAILON=to;st.nmsg='';paint();const r=await api({a:'prefs',s:getS(),mail:to});if(!r||!r.ok){MAILON=!to;st.nmsg=(r&&r.error)||'Nastavení se nepodařilo uložit.';paint()}return}
+    case'mailtog':{const to=!MAILON;MAILON=to;st.nmsg='';paint();const sq=++PSEQ;PPEND++;const r=await api({a:'prefs',s:getS(),mail:to});PPEND--;PLAST=Date.now();if(sq!==PSEQ)return;if(!r||!r.ok){MAILON=!to;st.nmsg=(r&&r.error)||'Nastavení se nepodařilo uložit.'}else if(typeof r.mail==='boolean')MAILON=r.mail;paint();return}
     case'pushon':return pushOn();
     case'pushoff':return pushOff();
     case'pushtest':return pushTest();
@@ -337,7 +338,7 @@ document.addEventListener('keydown',e=>{if(e.key==='Escape'&&ov.classList.contai
 fab.onclick=()=>{open();if(!API)return go('soon');if(getS())loadList();else go('email')};
 
 // automatická aktualizace: když je na webu novější verze stránky než ta, kterou má prohlížeč v paměti, stránka se jednou sama načte znovu
-const BUILD='2026-11-03-l';
+const BUILD='2026-11-03-m';
 async function checkBuild(){
   try{
     if(ov.classList.contains('on')||document.hidden)return;
