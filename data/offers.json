@@ -1,6 +1,77 @@
 {
-  "updated": "2026-11-03T15:04:03.327371+00:00",
+  "updated": "2026-11-03T17:11:44.093145+00:00",
   "offers": [
+    {
+      "title": "Xmas Markets 🎄❄️ 4* Park Inn by Radisson Central Tallinn for €55/double",
+      "summary": "Experience the magical atmosphere of Tallinn's Christmas markets with a fantastic city break at the 4-star Park Inn by Radisson Central Tallinn! 🎄❄️ Located in the heart of Estonia's charming capital, this well-rated hotel is an excellent b",
+      "url": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-tallinn-e55/",
+      "source": "Fly4free.com",
+      "date": "2026-11-03T17:00:37+00:00",
+      "dateLabel": "3. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-tallinn-e55/",
+      "firstSeen": "2026-11-03T17:11:44.093145+00:00",
+      "priceOrig": {
+        "amount": 55,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "China Eastern: Vídeň - Manila - 10 490 Kč",
+      "summary": "",
+      "url": "https://www.akcniletenky.com",
+      "source": "AkčníLetenky.com",
+      "date": "2026-11-03T17:00:00+00:00",
+      "dateLabel": "3. 11. 2026",
+      "price": 10490,
+      "image": "",
+      "id": "687",
+      "firstSeen": "2026-11-03T17:11:44.093145+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Košice na jeden lednový víkend z Prahy (so-ne). Letenky od 988 Kč",
+      "summary": "Udělejte se rychlovýlet na východní Slovensko a v termínu 23.-24. ledna si zaleťte na halušky nebo pirohy z Prahy do Košic!",
+      "url": "https://www.cestujlevne.com/akcni-letenky/kosice-na-jeden-lednovy-vikend-z-prahy-so-ne",
+      "source": "CestujLevne.com",
+      "date": "2026-11-03T16:42:27+00:00",
+      "dateLabel": "3. 11. 2026",
+      "price": 988,
+      "image": "",
+      "id": "https://www.cestujlevne.com/akcni-letenky/kosice-na-jeden-lednovy-vikend-z-prahy-so-ne",
+      "firstSeen": "2026-11-03T17:11:44.093145+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Christmas Beyond Europe: 10 Christmas Markets Around the World Worth Visiting in 2026",
+      "summary": "Christmas markets aren't just about Germany, Austria or the Czech Republic. This winter, festive villages filled with market stalls, Christmas decorations and thousands of twinkling lights will once again spring up thousands of kilometres b",
+      "url": "https://www.fly4free.com/news/christmas-beyond-europe-10-christmas-markets-around-the-world-worth-visiting-in-2026/",
+      "source": "Fly4free.com",
+      "date": "2026-11-03T16:10:30+00:00",
+      "dateLabel": "3. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/news/christmas-beyond-europe-10-christmas-markets-around-the-world-worth-visiting-in-2026/",
+      "firstSeen": "2026-11-03T17:11:44.093145+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Argentinian Summer ☀️💃 Full-service direct flights from Madrid to Buenos Aires for €585",
+      "summary": "Discover the passionate tango scene, vibrant neighbourhoods, incredible steak restaurants and buzzing nightlife of Argentina's capital — all during the South American summer! Plus Ultra is currently offering attractive direct flights from j",
+      "url": "https://www.fly4free.com/flight-deals/europe/direct-flights-from-madrid-to-buenos-aires-e585/",
+      "source": "Fly4free.com",
+      "date": "2026-11-03T16:00:30+00:00",
+      "dateLabel": "3. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/direct-flights-from-madrid-to-buenos-aires-e585/",
+      "firstSeen": "2026-11-03T17:11:44.093145+00:00",
+      "priceOrig": {
+        "amount": 585,
+        "cur": "EUR"
+      }
+    },
     {
       "title": "Top-rated 4* Spark by Hilton Vienna Donaustadt for €63/double",
       "summary": "Check out this bargain offer! If you plan to visit the capital of Austria consider booking a double room at the highly rated 4* hotel at a discounted price of only €63/night.",
@@ -3654,77 +3725,6 @@
       "image": "",
       "id": "https://levnocestovani.cz/akcni-zajezdy/madeira-z-prahy-za-14-890-kc-tyden-na-ostrove-vecneho-jara-s-polopenzi?utm_source=rss&utm_medium=feed",
       "firstSeen": "2026-10-27T18:58:28.323463+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Fares down 💥 Cheap last minute direct flights from Poland to Cape Verde 🏝️ from €279",
-      "summary": "Looking for a spontaneous getaway? Fly non-stop from Warsaw or Katowice to the sun-soaked island of Sal in Cape Verde!",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-poland-to-cape-verde-e279/",
-      "source": "Fly4free.com",
-      "date": "2026-10-27T17:07:40+00:00",
-      "dateLabel": "27. 10. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-poland-to-cape-verde-e279/",
-      "firstSeen": "2026-10-27T18:58:28.323463+00:00",
-      "priceOrig": {
-        "amount": 279,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Azerbaijan Airlines: Vídeň - Bombaj - 8 990 Kč",
-      "summary": "",
-      "url": "https://www.akcniletenky.com",
-      "source": "AkčníLetenky.com",
-      "date": "2026-10-27T17:00:00+00:00",
-      "dateLabel": "27. 10. 2026",
-      "price": 8990,
-      "image": "",
-      "id": "658",
-      "firstSeen": "2026-10-27T16:59:31.600622+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Týden na Gran Canarii za 16 490 Kč: All Inclusive a odlet z Prahy",
-      "summary": "Užijte si listopadovou dovolenou na Kanárech u krásné zátoky Amadores, s výhledy na Atlantik a All Inclusive. Zaujalo vás to? Prohlédněte si zájezd od Čedoku.",
-      "url": "https://levnocestovani.cz/akcni-zajezdy/tyden-na-gran-canarii-za-16-490-kc-all-inclusive-a-odlet-z-prahy?utm_source=rss&utm_medium=feed",
-      "source": "Levnocestovani.cz",
-      "date": "2026-10-27T16:59:29+00:00",
-      "dateLabel": "27. 10. 2026",
-      "price": 16490,
-      "image": "",
-      "id": "https://levnocestovani.cz/akcni-zajezdy/tyden-na-gran-canarii-za-16-490-kc-all-inclusive-a-odlet-z-prahy?utm_source=rss&utm_medium=feed",
-      "firstSeen": "2026-10-27T16:59:31.600622+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Prices down 💥 Last minute direct flights from London to Cape Town, South Africa 🐧 for £365",
-      "summary": "Ready for a trip that combines epic nature, wildlife, and vibrant cities? You can fly direct to Cape Town with Norse Atlantic Airways from just £365 return — an incredible price for one of the most diverse destinations in the world.",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-cape-town-p365-2/",
-      "source": "Fly4free.com",
-      "date": "2026-10-27T16:09:05+00:00",
-      "dateLabel": "27. 10. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-cape-town-p365-2/",
-      "firstSeen": "2026-10-27T16:59:31.600622+00:00",
-      "priceOrig": {
-        "amount": 365,
-        "cur": "GBP"
-      }
-    },
-    {
-      "title": "Zimní prodloužené víkendy v Bosně a Hercegovině z Bratislavy. Letenky od 901 Kč",
-      "summary": "Wizz Air má v akci zpáteční letenky z Bratislavy do Sarajeva za 37 EUR.",
-      "url": "https://www.cestujlevne.com/akcni-letenky/zimni-prodlouzene-vikendy-v-bosne-a-hercegovine-z-bratislavy",
-      "source": "CestujLevne.com",
-      "date": "2026-10-27T15:57:28+00:00",
-      "dateLabel": "27. 10. 2026",
-      "price": 901,
-      "image": "",
-      "id": "https://www.cestujlevne.com/akcni-letenky/zimni-prodlouzene-vikendy-v-bosne-a-hercegovine-z-bratislavy",
-      "firstSeen": "2026-10-27T16:59:31.600622+00:00",
       "priceOrig": null
     }
   ]
