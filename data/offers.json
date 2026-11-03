@@ -1,6 +1,48 @@
 {
-  "updated": "2026-11-02T22:54:27.352800+00:00",
+  "updated": "2026-11-03T07:28:34.492255+00:00",
   "offers": [
+    {
+      "title": "Víkendovky do ŘÍMA - 1 198 Kč",
+      "summary": "Nejvýhodnější víkendové letenky pořídíme do hlavního italského města. Zpáteční letenky z Prahy do Říma jsou dostupné v nabídce aerolinky Wizz Air už za 1 198 Kč. Na nejnižší cenu dosáhnou členové klubu WDC, ostatní si připlatí asi 220 Kč v",
+      "url": "https://honzovyletenky.cz/vikendovky-do-rima/",
+      "source": "Honzovy letenky",
+      "date": "2026-11-03T08:10:00+00:00",
+      "dateLabel": "3. 11. 2026",
+      "price": 1198,
+      "image": "",
+      "id": "https://honzovyletenky.cz/vikendovky-do-rima/",
+      "firstSeen": "2026-11-03T07:28:34.492255+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Flights from many European cities to the Dominican Republic 🏝️ from €564",
+      "summary": "Craving sun, sand, and sea? Catch a discounted Air Europa flight to Santo Domingo starting at only €564 for a round trip!",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-the-dominican-republic-e564/",
+      "source": "Fly4free.com",
+      "date": "2026-11-03T07:00:27+00:00",
+      "dateLabel": "3. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-the-dominican-republic-e564/",
+      "firstSeen": "2026-11-03T07:28:34.492255+00:00",
+      "priceOrig": {
+        "amount": 564,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "Ryanair: Praha - Turín - 978 Kč",
+      "summary": "",
+      "url": "https://www.akcniletenky.com",
+      "source": "AkčníLetenky.com",
+      "date": "2026-11-03T07:00:00+00:00",
+      "dateLabel": "3. 11. 2026",
+      "price": 978,
+      "image": "",
+      "id": "684",
+      "firstSeen": "2026-11-03T07:28:34.492255+00:00",
+      "priceOrig": null
+    },
     {
       "title": "💫 Refined 4* Starhotels hotel in charming Genova, Italy, from €89/double ☀️",
       "summary": "This is a particularly good deal if you want something more polished than a basic city hotel: spacious rooms, elegant Italian interiors, proper restaurant and bar facilities, and the reliability of the Starhotels brand.",
@@ -3736,35 +3778,6 @@
         "amount": 489,
         "cur": "EUR"
       }
-    },
-    {
-      "title": "HIGH SEASON ☀️ 🌴 Flights from Poland to Sri Lanka from €571",
-      "summary": "Escape to paradise without breaking the bank! Discover the beauty of Sri Lanka with round-trip Air Arabia flights to Colombo starting at €571. White-sand beaches, lush landscapes, and vibrant culture are just a booking away.",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-poland-to-sri-lanka-e571/",
-      "source": "Fly4free.com",
-      "date": "2026-10-27T07:00:17+00:00",
-      "dateLabel": "27. 10. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-poland-to-sri-lanka-e571/",
-      "firstSeen": "2026-10-27T15:35:38.688065+00:00",
-      "priceOrig": {
-        "amount": 571,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Ryanair: Ostrava - Malaga - 1 138 Kč",
-      "summary": "",
-      "url": "https://www.akcniletenky.com",
-      "source": "AkčníLetenky.com",
-      "date": "2026-10-27T06:00:00+00:00",
-      "dateLabel": "27. 10. 2026",
-      "price": 1138,
-      "image": "",
-      "id": "655",
-      "firstSeen": "2026-10-27T15:30:19.910133+00:00",
-      "priceOrig": null
     }
   ]
 }
