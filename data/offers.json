@@ -1,6 +1,48 @@
 {
-  "updated": "2026-11-03T07:28:34.492255+00:00",
+  "updated": "2026-11-03T09:04:58.717468+00:00",
   "offers": [
+    {
+      "title": "Malaga (Španělsko) – letenky z Prahy za 2349 Kč, z Pardubic za 1202 Kč",
+      "summary": "Z Prahy letíte do Malagy Ryanairem od 2 349 Kč – a kdo bydlí blíž Pardubicím, dostane se tam dokonce od 1 202 Kč. Malaga je andaluské přístavní město, které rozhodně nestačí odbýt za jedno odpoledne: projdete historické centrum, vyšlapete n",
+      "url": "https://www.levneletenkyzprahy.cz/2747_malaga-spanelsko-–-letenky-z-prahy-za-2349-kc,-z-pardubic-za-1202-kc",
+      "source": "Levné letenky z Prahy",
+      "date": "2026-11-03T09:44:17+00:00",
+      "dateLabel": "3. 11. 2026",
+      "price": 2349,
+      "image": "",
+      "id": "https://www.levneletenkyzprahy.cz/2747_malaga-spanelsko-–-letenky-z-prahy-za-2349-kc,-z-pardubic-za-1202-kc",
+      "firstSeen": "2026-11-03T09:04:58.717468+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Celé Japonsko z Prahy s Korean Air během zimy. Letenky od 16 121 Kč",
+      "summary": "Do Japonska za akční ceny, a nejen do Tokia nebo Ósaky. S Korean Air můžete z Prahy vyrazit do spousty dalších japonských měst. Zpáteční letenky pořídíte už od 16 121 Kč, včetně odbaveného kufru do 23 kg.",
+      "url": "https://www.cestujlevne.com/akcni-letenky/cele-japonsko-z-prahy-s-korean-air-behem-zimy",
+      "source": "CestujLevne.com",
+      "date": "2026-11-03T09:01:00+00:00",
+      "dateLabel": "3. 11. 2026",
+      "price": 16121,
+      "image": "",
+      "id": "https://www.cestujlevne.com/akcni-letenky/cele-japonsko-z-prahy-s-korean-air-behem-zimy",
+      "firstSeen": "2026-11-03T09:04:58.717468+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Cheap direct flights from Frankfurt to New York 🗽 for €382",
+      "summary": "Looking for a great deal on flights to the Big Apple? Take advantage of this limited-time offer from Condor, one of the world’s top-rated carriers. Fly non-stop from Frankfurt (FRA) to New York (JFK) for just €382 round-trip! Comfort, conve",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-frankfurt-to-new-york-e382/",
+      "source": "Fly4free.com",
+      "date": "2026-11-03T09:00:06+00:00",
+      "dateLabel": "3. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-frankfurt-to-new-york-e382/",
+      "firstSeen": "2026-11-03T09:04:58.717468+00:00",
+      "priceOrig": {
+        "amount": 382,
+        "cur": "EUR"
+      }
+    },
     {
       "title": "Víkendovky do ŘÍMA - 1 198 Kč",
       "summary": "Nejvýhodnější víkendové letenky pořídíme do hlavního italského města. Zpáteční letenky z Prahy do Říma jsou dostupné v nabídce aerolinky Wizz Air už za 1 198 Kč. Na nejnižší cenu dosáhnou členové klubu WDC, ostatní si připlatí asi 220 Kč v",
@@ -13,6 +55,35 @@
       "id": "https://honzovyletenky.cz/vikendovky-do-rima/",
       "firstSeen": "2026-11-03T07:28:34.492255+00:00",
       "priceOrig": null
+    },
+    {
+      "title": "Za teplem na Kapverdy: All Inclusive dovolená na Salu za 25 090 Kč",
+      "summary": "Užijte si listopadový svátek na pláži na Salu. 4* resort OA Belorizonte s all inclusive za 25 090 Kč na osobu. Přímý odlet z Prahy, pláž i vodní sporty.",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/za-teplem-na-kapverdy-all-inclusive-dovolena-na-salu-za-25-090-kc?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-11-03T08:04:30+00:00",
+      "dateLabel": "3. 11. 2026",
+      "price": 25090,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/za-teplem-na-kapverdy-all-inclusive-dovolena-na-salu-za-25-090-kc?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-11-03T09:04:58.717468+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "2-in-1 full-service flights from London to Jordan & China from £457",
+      "summary": "Two incredible destinations, one fantastic flight deal! Travel to Amman and Beijing with discounted Royal Jordanian flights for just £457 return. Discover Jordan's ancient wonders, from the spectacular rock-carved city of Petra to the other",
+      "url": "https://www.fly4free.com/flight-deals/europe/2-in-1-full-service-flights-from-london-to-jordan-china/",
+      "source": "Fly4free.com",
+      "date": "2026-11-03T08:00:11+00:00",
+      "dateLabel": "3. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/2-in-1-full-service-flights-from-london-to-jordan-china/",
+      "firstSeen": "2026-11-03T09:04:58.717468+00:00",
+      "priceOrig": {
+        "amount": 457,
+        "cur": "GBP"
+      }
     },
     {
       "title": "Flights from many European cities to the Dominican Republic 🏝️ from €564",
@@ -3681,103 +3752,6 @@
       "id": "https://www.levneletenkyzprahy.cz/2740_malaga,-spanelsko-–-akcni-letenky-z-prahy-za-2044-kc,-z-ostravy-za-1273-kc",
       "firstSeen": "2026-10-27T13:31:28.797751+00:00",
       "priceOrig": null
-    },
-    {
-      "title": "Collection of cheap full-service flights from many European cities to Taiwan 🍜 from €408",
-      "summary": "If you have been dreaming of exploring Taipei’s vibrant night markets, tasting authentic Taiwanese street food, or discovering the island’s spectacular landscapes, this Air China deal is a great opportunity to book a long-haul adventure at",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-taiwan-e408/",
-      "source": "Fly4free.com",
-      "date": "2026-10-27T09:00:29+00:00",
-      "dateLabel": "27. 10. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-taiwan-e408/",
-      "firstSeen": "2026-10-27T15:35:38.688065+00:00",
-      "priceOrig": {
-        "amount": 408,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Buzz: Bratislava - Lamezia Terme - 830 Kč",
-      "summary": "",
-      "url": "https://www.akcniletenky.com",
-      "source": "AkčníLetenky.com",
-      "date": "2026-10-27T09:00:00+00:00",
-      "dateLabel": "27. 10. 2026",
-      "price": 830,
-      "image": "",
-      "id": "656",
-      "firstSeen": "2026-10-27T15:30:19.910133+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Prodloužené víkendy v rumunské Suceavě z Prahy. Letenky od 1 223 Kč",
-      "summary": "Do méně známé části Rumunska se teď můžete vydat díky levným letenkám z Prahy. Zpáteční letenky do Suceavy pořídíte s Wizz Air za 1 223 Kč, členové WDC zaplatí jen 1 006 Kč.",
-      "url": "https://www.cestujlevne.com/akcni-letenky/prodlouzeny-vikend-v-rumunske-suceave-z-prahy",
-      "source": "CestujLevne.com",
-      "date": "2026-10-27T08:53:35+00:00",
-      "dateLabel": "27. 10. 2026",
-      "price": 1223,
-      "image": "",
-      "id": "https://www.cestujlevne.com/akcni-letenky/prodlouzeny-vikend-v-rumunske-suceave-z-prahy",
-      "firstSeen": "2026-10-27T15:35:38.688065+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Malta Plans Sharp Tourist Tax Increase: Up to €10 Per Night and New Fee for Visiting Comino",
-      "summary": "Malta is preparing an unpleasant surprise for tourists. The government is proposing a sharp increase in accommodation charges from 1 January 2027, raising the current €1.50 fee to €8–10 per person per night for stays in hotels and rented ap",
-      "url": "https://www.fly4free.com/news/malta-plans-sharp-tourist-tax-increase-up-to-e10-per-night-and-new-fee-for-visiting-comino/",
-      "source": "Fly4free.com",
-      "date": "2026-10-27T08:33:21+00:00",
-      "dateLabel": "27. 10. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/news/malta-plans-sharp-tourist-tax-increase-up-to-e10-per-night-and-new-fee-for-visiting-comino/",
-      "firstSeen": "2026-10-27T15:35:38.688065+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Listopadová Čína: letenky z Vídně do Pekingu i Šanghaje za 11 783 Kč",
-      "summary": "Rezervuj: přes náš vyhledávač Zavazadla: odbavený bágl do 23 kg + příručák Dostupnost: listopad – začátek prosince 2026 Termíny Peking za 11 783 Kč → Zobrazit kalendář Šanghaj za 11 783 Kč → Zobrazit kalendář open-jaw s příletem do Šanghaje",
-      "url": "https://zaletsi.cz/akce/listopadova-cina-letenky-z-vidne-do-pekingu-i-sanghaje/",
-      "source": "Zaleťsi.cz",
-      "date": "2026-10-27T08:26:54+00:00",
-      "dateLabel": "27. 10. 2026",
-      "price": 11783,
-      "image": "",
-      "id": "https://zaletsi.cz/akce/listopadova-cina-letenky-z-vidne-do-pekingu-i-sanghaje/",
-      "firstSeen": "2026-10-27T15:02:10.412545+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Levně do LONDÝNA z Prahy - 984 Kč",
-      "summary": "V dnešní akci Wizz Air pořídíme levné letenky také do hlavního města Spojeného království. Zpáteční letenky z Prahy do Londýna (letiště Luton) jsou v nabídce už za 984 Kč. Nejvýhodnější letenky najdeme přes zimní měsíce a to třeba v lednu 2",
-      "url": "https://honzovyletenky.cz/levne-do-londyna-z-prahy-3/",
-      "source": "Honzovy letenky",
-      "date": "2026-10-27T08:02:04+00:00",
-      "dateLabel": "27. 10. 2026",
-      "price": 984,
-      "image": "",
-      "id": "https://honzovyletenky.cz/levne-do-londyna-z-prahy-3/",
-      "firstSeen": "2026-10-27T15:35:38.688065+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Cheap direct flights from Amsterdam to Bonaire 🏝️ for €489",
-      "summary": "Ready to escape the Dutch chill? Bonaire, part of the Dutch Caribbean, is a paradise for adventure seekers and peace lovers alike. Take advantage of these affordable TUI flights starting at €489 return – and fly direct!",
-      "url": "https://www.fly4free.com/flight-deals/europe/direct-flights-from-amsterdam-to-bonaire-e489/",
-      "source": "Fly4free.com",
-      "date": "2026-10-27T08:00:54+00:00",
-      "dateLabel": "27. 10. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/direct-flights-from-amsterdam-to-bonaire-e489/",
-      "firstSeen": "2026-10-27T15:35:38.688065+00:00",
-      "priceOrig": {
-        "amount": 489,
-        "cur": "EUR"
-      }
     }
   ]
 }
