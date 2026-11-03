@@ -284,7 +284,7 @@ async function act(a,el){
     case'nhl':return API?(getS()?loadList():go('email')):go('soon');
     case'nopen':{st.nOpen=!st.nOpen;st.nmsg='';paint();if(st.nOpen)setTimeout(()=>{const el=box.querySelector('.nbox');if(el)el.scrollIntoView({behavior:'smooth',block:'nearest'})},40);return}
     case'pushtog':return st.push==='on'?pushOff():pushOn();
-    case'mailtog':{const to=!MAILON;MAILON=to;st.nmsg='';paint();const sq=++PSEQ;PPEND++;const r=await api({a:'prefs',s:getS(),mail:to});PPEND--;PLAST=Date.now();if(sq!==PSEQ)return;if(!r||!r.ok){MAILON=!to;st.nmsg=(r&&r.error)||'Nastavení se nepodařilo uložit.'}else if(typeof r.mail==='boolean')MAILON=r.mail;paint();return}
+    case'mailtog':{const to=!MAILON;MAILON=to;st.nmsg='';paint();const sq=++PSEQ;PPEND++;const r=await api({a:'prefs',s:getS(),mail:to});PPEND--;PLAST=Date.now();if(sq!==PSEQ)return;if(!r||!r.ok){MAILON=!to;st.nmsg=(r&&r.error==='neznámá akce')?'Server ještě neumí uložit toto nastavení. Je potřeba nasadit novou verzi skriptu Hlídače (Code.gs).':(r&&r.error)||'Nastavení se nepodařilo uložit.'}else if(typeof r.mail==='boolean')MAILON=r.mail;paint();return}
     case'pushon':return pushOn();
     case'pushoff':return pushOff();
     case'pushtest':return pushTest();
@@ -338,7 +338,7 @@ document.addEventListener('keydown',e=>{if(e.key==='Escape'&&ov.classList.contai
 fab.onclick=()=>{open();if(!API)return go('soon');if(getS())loadList();else go('email')};
 
 // automatická aktualizace: když je na webu novější verze stránky než ta, kterou má prohlížeč v paměti, stránka se jednou sama načte znovu
-const BUILD='2026-11-03-m';
+const BUILD='2026-11-03-n';
 async function checkBuild(){
   try{
     if(ov.classList.contains('on')||document.hidden)return;
