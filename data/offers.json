@@ -1,6 +1,51 @@
 {
-  "updated": "2026-11-04T19:14:45.189881+00:00",
+  "updated": "2026-11-04T21:04:31.445731+00:00",
   "offers": [
+    {
+      "title": "Welcome to the paradise! 🌴 Well-rated resort on Koh Tao, Thailand 🏝️ for €65/double with breakfast in high season",
+      "summary": "If your idea of Thailand is wooden bungalows hidden among palm trees, a quiet beach, snorkeling straight into clear water and sunset dinners by the sea, this is exactly that kind of place.",
+      "url": "https://www.fly4free.com/flight-deals/europe/well-rated-resort-on-koh-tao-e65/",
+      "source": "Fly4free.com",
+      "date": "2026-11-04T21:00:11+00:00",
+      "dateLabel": "4. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/well-rated-resort-on-koh-tao-e65/",
+      "firstSeen": "2026-11-04T21:04:31.445731+00:00",
+      "priceOrig": {
+        "amount": 65,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "LM Dominikána na týden s all inclusive. Od 24 990 Kč.",
+      "summary": "LM Dominikána na týden s all inclusive od 24 990 Kč.",
+      "url": "https://www.obletsvet.cz/akcni-letenka/lm-dominikana-na-tyden-s-all-inclusive",
+      "source": "Obletsvet.cz",
+      "date": "2026-11-04T20:13:53+00:00",
+      "dateLabel": "4. 11. 2026",
+      "price": 24990,
+      "image": "",
+      "id": "https://www.obletsvet.cz/akcni-letenka/lm-dominikana-na-tyden-s-all-inclusive",
+      "firstSeen": "2026-11-04T21:04:31.445731+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "🌴 WINTER SUN COMBO! Abu Dhabi + Maldives from Prague for €599 with Qatar Airways",
+      "summary": "Why choose between a city break and a tropical island escape when you can have both? This itinerary combines Abu Dhabi’s architecture, beaches and desert landscapes with almost a week in the Maldives, all in one winter trip from Prague for",
+      "url": "https://www.fly4free.com/flight-deals/europe/2-in-1-trip-from-bucharest-to-abu-dhabi-and-maldives-qatar-2/",
+      "source": "Fly4free.com",
+      "date": "2026-11-04T20:00:18+00:00",
+      "dateLabel": "4. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/2-in-1-trip-from-bucharest-to-abu-dhabi-and-maldives-qatar-2/",
+      "firstSeen": "2026-11-04T21:04:31.445731+00:00",
+      "priceOrig": {
+        "amount": 599,
+        "cur": "EUR"
+      }
+    },
     {
       "title": "8 dní na Zanzibaru ve 4* resortu. Bungalov u bílé pláže za 25 990 Kč",
       "summary": "Dopřejte si exotickou dovolenou na Zanzibaru! Čedok nabízí 4* resort s All Inclusive, ubytování v bungalovu a širokou pláž s bílým pískem přímo u hotelu.",
@@ -15,7 +60,7 @@
       "priceOrig": null
     },
     {
-      "title": "🏝️ CARIBBEAN DEAL! Direct flights from Amsterdam to Bonaire from €394 return",
+      "title": "🏝️ CARIBBEAN DEAL! Direct flights from Amsterdam to Bonaire from €394",
       "summary": "Swap grey Dutch weather for turquoise water, coral reefs and slow Caribbean days. ✈️ TUI and Corendon are offering direct flights from Amsterdam to Bonaire from just €394 return, making this one of the easiest ways to reach a quieter side o",
       "url": "https://www.fly4free.com/flight-deals/europe/direct-flights-from-amsterdam-to-bonaire-e394/",
       "source": "Fly4free.com",
@@ -3799,38 +3844,6 @@
       "id": "664",
       "firstSeen": "2026-10-29T07:15:34.796156+00:00",
       "priceOrig": null
-    },
-    {
-      "title": "Cheap full-service flights from Manchester to Beijing, China for £436",
-      "summary": "Juneyao Airlines are offering discounted flights from Manchester to Beijing, China starting at only £436 for a round trip with checked bag included.",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-manchester-to-beijing-p436/",
-      "source": "Fly4free.com",
-      "date": "2026-10-28T21:00:30+00:00",
-      "dateLabel": "28. 10. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-manchester-to-beijing-p436/",
-      "firstSeen": "2026-10-28T23:22:29.989267+00:00",
-      "priceOrig": {
-        "amount": 436,
-        "cur": "GBP"
-      }
-    },
-    {
-      "title": "PEAK SEASON 🌴 🥥 Full-service flights from Budapest to the Philippines for €565",
-      "summary": "Explore the breathtaking beauty of the Philippines with disocunted Air China flights to Manila starting at just €565 for a round trip! Whether it’s a beach escape, cultural adventure, or nature exploration you're after, this deal opens the",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-budapest-to-the-philippines-e565/",
-      "source": "Fly4free.com",
-      "date": "2026-10-28T20:00:47+00:00",
-      "dateLabel": "28. 10. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-budapest-to-the-philippines-e565/",
-      "firstSeen": "2026-10-28T20:56:38.598022+00:00",
-      "priceOrig": {
-        "amount": 565,
-        "cur": "EUR"
-      }
     }
   ]
 }
