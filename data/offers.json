@@ -1,6 +1,74 @@
 {
-  "updated": "2026-11-04T17:10:05.531463+00:00",
+  "updated": "2026-11-04T19:14:45.189881+00:00",
   "offers": [
+    {
+      "title": "8 dní na Zanzibaru ve 4* resortu. Bungalov u bílé pláže za 25 990 Kč",
+      "summary": "Dopřejte si exotickou dovolenou na Zanzibaru! Čedok nabízí 4* resort s All Inclusive, ubytování v bungalovu a širokou pláž s bílým pískem přímo u hotelu.",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/8-dni-na-zanzibaru-ve-4-resortu-bungalov-u-bile-plaze-za-25-990-kc?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-11-04T19:08:49+00:00",
+      "dateLabel": "4. 11. 2026",
+      "price": 25990,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/8-dni-na-zanzibaru-ve-4-resortu-bungalov-u-bile-plaze-za-25-990-kc?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-11-04T19:14:45.189881+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "🏝️ CARIBBEAN DEAL! Direct flights from Amsterdam to Bonaire from €394 return",
+      "summary": "Swap grey Dutch weather for turquoise water, coral reefs and slow Caribbean days. ✈️ TUI and Corendon are offering direct flights from Amsterdam to Bonaire from just €394 return, making this one of the easiest ways to reach a quieter side o",
+      "url": "https://www.fly4free.com/flight-deals/europe/direct-flights-from-amsterdam-to-bonaire-e394/",
+      "source": "Fly4free.com",
+      "date": "2026-11-04T18:30:49+00:00",
+      "dateLabel": "4. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/direct-flights-from-amsterdam-to-bonaire-e394/",
+      "firstSeen": "2026-11-04T19:14:45.189881+00:00",
+      "priceOrig": {
+        "amount": 394,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "Týden v TOP 5* hotelu v Thajsku s přímým letem z Prahy. Zájezd od 23 490 Kč",
+      "summary": "CK Čedok teď nabízí pobyt v krásném pětihvězdičkovém hotelu Pullman Khao Lak Resort za 23 490 Kč na osobu v termínu 23. listopadu – 1. prosince. V ceně máte přímé lety z Prahy, 7 nocí v pokoji Deluxe, snídaně i letištní transfery.",
+      "url": "https://www.cestujlevne.com/akcni-letenky/tyden-v-top-5-hotelu-v-thajsku-s-primym-letem-z-prahy",
+      "source": "CestujLevne.com",
+      "date": "2026-11-04T18:16:21+00:00",
+      "dateLabel": "4. 11. 2026",
+      "price": 23490,
+      "image": "",
+      "id": "https://www.cestujlevne.com/akcni-letenky/tyden-v-top-5-hotelu-v-thajsku-s-primym-letem-z-prahy",
+      "firstSeen": "2026-11-04T19:14:45.189881+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Z Prahy do BERGAMA za tisícovku - 975 Kč",
+      "summary": "Levné letenky do Bergama pořídíme z Prahy. Zpáteční letenky z Prahy do Bergama pořídíme už za 975 Kč. Nejvýhodnější letenky jsou dostupné v nabídce aerolinky Ryanair na lednové termíny 2027. V ceně nejlevnějšího tarifu máme vždy malé příruč",
+      "url": "https://honzovyletenky.cz/z-prahy-do-bergama-za-tisicovku/",
+      "source": "Honzovy letenky",
+      "date": "2026-11-04T18:14:45+00:00",
+      "dateLabel": "4. 11. 2026",
+      "price": 975,
+      "image": "",
+      "id": "https://honzovyletenky.cz/z-prahy-do-bergama-za-tisicovku/",
+      "firstSeen": "2026-11-04T19:14:45.189881+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Last Minute Tenerife: 4* Blue Sea Puerto Resort, All Inclusive a odlet z Prahy již zítra za 11 490 Kč",
+      "summary": "Třetí zlevnění a odlet už zítra! Dopřejte si All Inclusive dovolenou na Tenerife ve 4* hotelu za skvělých 11 490 Kč. Odlet z Prahy. Počet míst je omezen!",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/last-minute-tenerife-4-blue-sea-puerto-resort-all-inclusive-a-odlet-z-prahy-jiz-zitra-za-11-490-kc?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-11-04T17:40:05+00:00",
+      "dateLabel": "4. 11. 2026",
+      "price": 11490,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/last-minute-tenerife-4-blue-sea-puerto-resort-all-inclusive-a-odlet-z-prahy-jiz-zitra-za-11-490-kc?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-11-04T19:14:45.189881+00:00",
+      "priceOrig": null
+    },
     {
       "title": "Round the World Trip 🌍 🤩 from Dublin for €919: Canada ✈ The USA ✈ Singapore ✈ Malaysia ✈ Vietnam",
       "summary": "This is a proper round-the-world adventure, moving steadily west from Europe to Canada, crossing the Pacific into Southeast Asia, then continuing through Malaysia and Vietnam before returning to Dublin. And the variety is fantastic: Canadia",
@@ -16,6 +84,19 @@
         "amount": 919,
         "cur": "EUR"
       }
+    },
+    {
+      "title": "United Airlines: Praha - Aruba - 12 790 Kč",
+      "summary": "",
+      "url": "https://www.akcniletenky.com",
+      "source": "AkčníLetenky.com",
+      "date": "2026-11-04T17:00:00+00:00",
+      "dateLabel": "4. 11. 2026",
+      "price": 12790,
+      "image": "",
+      "id": "691",
+      "firstSeen": "2026-11-04T19:14:45.189881+00:00",
+      "priceOrig": null
     },
     {
       "title": "10 Best Places to Spend Christmas as a Solo Traveller",
@@ -3748,90 +3829,6 @@
       "firstSeen": "2026-10-28T20:56:38.598022+00:00",
       "priceOrig": {
         "amount": 565,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Fare cut! 💥Cheap full-service flights from Germany to Taiwan from €429",
-      "summary": "Looking for an affordable way to travel to Asia? These discounted Air China flights to Taipei could be the perfect opportunity! For only €429 return, you can plan an unforgettable getaway to an island packed with cultural treasures, spectac",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-germany-to-taiwan-e429/",
-      "source": "Fly4free.com",
-      "date": "2026-10-28T19:00:10+00:00",
-      "dateLabel": "28. 10. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-germany-to-taiwan-e429/",
-      "firstSeen": "2026-10-28T19:04:39.096432+00:00",
-      "priceOrig": {
-        "amount": 429,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Air China: Mnichov - Hanoj - 11 990 Kč",
-      "summary": "",
-      "url": "https://www.akcniletenky.com",
-      "source": "AkčníLetenky.com",
-      "date": "2026-10-28T19:00:00+00:00",
-      "dateLabel": "28. 10. 2026",
-      "price": 11990,
-      "image": "",
-      "id": "663",
-      "firstSeen": "2026-10-28T20:56:38.598022+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Už zítra do Dominikány za 27 990 Kč. 5* plážový resort s All Inclusive",
-      "summary": "Vodní park o rozloze 12 000 m², sedm à la carte restaurací a pláž přímo u resortu – tohle všechno vás čeká v Dominikáně. Podívejte se na nabídku Čedoku.",
-      "url": "https://levnocestovani.cz/akcni-zajezdy/uz-zitra-do-dominikany-za-27-990-kc-5-plazovy-resort-s-all-inclusive?utm_source=rss&utm_medium=feed",
-      "source": "Levnocestovani.cz",
-      "date": "2026-10-28T18:18:03+00:00",
-      "dateLabel": "28. 10. 2026",
-      "price": 27990,
-      "image": "",
-      "id": "https://levnocestovani.cz/akcni-zajezdy/uz-zitra-do-dominikany-za-27-990-kc-5-plazovy-resort-s-all-inclusive?utm_source=rss&utm_medium=feed",
-      "firstSeen": "2026-10-28T19:04:39.096432+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Nejlevnější letenky do PERU - 12 790 Kč",
-      "summary": "Nejvýhodnější letenky do Jižní Ameriky jsou dostupné v nabíce aerolinky United. Zpáteční letenky s odletem z Prahy do Limy a návratem do Mnichova pořídíme už za 12 790 Kč. Letenky jsou obvykle se dvěma přestupy při cestě tam a jedním přestu",
-      "url": "https://honzovyletenky.cz/nejlevnejsi-letenky-do-peru/",
-      "source": "Honzovy letenky",
-      "date": "2026-10-28T18:14:08+00:00",
-      "dateLabel": "28. 10. 2026",
-      "price": 12790,
-      "image": "",
-      "id": "https://honzovyletenky.cz/nejlevnejsi-letenky-do-peru/",
-      "firstSeen": "2026-10-28T19:04:39.096432+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Z Prahy na tropický Hainan bez přestupu od listopadu do března. Letenky od 14 206 Kč",
-      "summary": "Zatímco u nás bude zima, na čínském ostrově Hainan si můžete užívat slunce, písečné pláže a příjemné teploty. Pokud vás láká exotika trochu jiná než Thajsko nebo Vietnam, můžete tentokrát zamířit do letoviska Sanya na jihu ostrova.",
-      "url": "https://www.cestujlevne.com/akcni-letenky/z-prahy-na-tropicky-hainan-bez-prestupu-od-listopadu-do-brezna",
-      "source": "CestujLevne.com",
-      "date": "2026-10-28T18:13:42+00:00",
-      "dateLabel": "28. 10. 2026",
-      "price": 14206,
-      "image": "",
-      "id": "https://www.cestujlevne.com/akcni-letenky/z-prahy-na-tropicky-hainan-bez-prestupu-od-listopadu-do-brezna",
-      "firstSeen": "2026-10-28T19:04:39.096432+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Holiday in Phuket, Thailand for €603 p.p. 😎 🍹 Full-service flights from Budapest + 10-night stay at highly rated 4* hotel",
-      "summary": "Jump at the chance to book a budget-friendly holiday in Thailand! The price includes discounted full-service flights and accommodation at the highly rated 4* hotel for €603 per person (based on 2 people sharing).",
-      "url": "https://www.fly4free.com/flight-deals/europe/holiday-in-phuket-from-budapest-e603/",
-      "source": "Fly4free.com",
-      "date": "2026-10-28T18:00:45+00:00",
-      "dateLabel": "28. 10. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/holiday-in-phuket-from-budapest-e603/",
-      "firstSeen": "2026-10-28T19:04:39.096432+00:00",
-      "priceOrig": {
-        "amount": 603,
         "cur": "EUR"
       }
     }
