@@ -1,6 +1,48 @@
 {
-  "updated": "2026-11-04T07:33:29.668019+00:00",
+  "updated": "2026-11-04T09:11:40.869586+00:00",
   "offers": [
+    {
+      "title": "Madrid (Španělsko) – letenky z Prahy za 2095 Kč",
+      "summary": "Madrid je španělské hlavní město, které si vybudovalo pověst na umění, fotbalu a večerním životě – a každý z těchto důvodů sám o sobě stačí na cestu. Z Prahy se tam dostanete s Ryanairem od 2 095 Kč, Smartwings nabízejí stejnou trasu od 5 2",
+      "url": "https://www.levneletenkyzprahy.cz/2748_madrid-spanelsko-–-letenky-z-prahy-za-2095-kc",
+      "source": "Levné letenky z Prahy",
+      "date": "2026-11-04T09:22:18+00:00",
+      "dateLabel": "4. 11. 2026",
+      "price": 2095,
+      "image": "",
+      "id": "https://www.levneletenkyzprahy.cz/2748_madrid-spanelsko-–-letenky-z-prahy-za-2095-kc",
+      "firstSeen": "2026-11-04T09:11:40.869586+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Full-service direct Vietnam Airlines flights from London to Hanoi or Ho Chi Minh from £574",
+      "summary": "Plan your holiday in Vietnam and get advantage of these discounted Vietnam Airlines fares starting at only £574 return!",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-vietnam-p574/",
+      "source": "Fly4free.com",
+      "date": "2026-11-04T09:00:17+00:00",
+      "dateLabel": "4. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-vietnam-p574/",
+      "firstSeen": "2026-11-04T09:11:40.869586+00:00",
+      "priceOrig": {
+        "amount": 574,
+        "cur": "GBP"
+      }
+    },
+    {
+      "title": "Kanárské ostrovy z Prahy na týden s polopenzí nebo all-inclusive. Zájezd od 13 690 Kč",
+      "summary": "Cestovní kancelář Čedok nabízí týdenní zájezdy na Kanárské ostrovy s odletem z Prahy. Na Lanzarote se můžete vydat už za 13 690 Kč, na Fuerteventuru za 13 990 Kč za osobu.",
+      "url": "https://www.cestujlevne.com/akcni-letenky/kanarske-ostrovy-z-prahy-na-tyden-s-polopenzi-nebo-all-inclusive",
+      "source": "CestujLevne.com",
+      "date": "2026-11-04T08:30:13+00:00",
+      "dateLabel": "4. 11. 2026",
+      "price": 13690,
+      "image": "",
+      "id": "https://www.cestujlevne.com/akcni-letenky/kanarske-ostrovy-z-prahy-na-tyden-s-polopenzi-nebo-all-inclusive",
+      "firstSeen": "2026-11-04T09:11:40.869586+00:00",
+      "priceOrig": null
+    },
     {
       "title": "PALERMO z Prahy za tisícovku - 1 095 Kč",
       "summary": "V dnešní nabídce aerolinky Ryanair pořídíme levné letenky na Sicílii. Zpáteční letenky z Prahy do Palerma jsou v nabídce Ryanair dostupé už za 1 095 Kč. Nejvýhodnější letenky pořídíme na lednové termíny a to hlavně na delší týdenní termíny.",
@@ -13,6 +55,22 @@
       "id": "https://honzovyletenky.cz/palermo-z-prahy-za-tisicovku/",
       "firstSeen": "2026-11-04T07:33:29.668019+00:00",
       "priceOrig": null
+    },
+    {
+      "title": "Cheap full-service flights from Frankfurt to Phuket, Thailand 🌴 for €472",
+      "summary": "Whether you're planning a relaxing beach getaway, a cultural trip, or a food lover’s adventure, Thailand is the perfect destination! China Eastern Airlines are offering affordable flights to Phuket starting at €472 for a round trip.",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-frankfurt-to-phuket-e472/",
+      "source": "Fly4free.com",
+      "date": "2026-11-04T08:00:54+00:00",
+      "dateLabel": "4. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-frankfurt-to-phuket-e472/",
+      "firstSeen": "2026-11-04T09:11:40.869586+00:00",
+      "priceOrig": {
+        "amount": 472,
+        "cur": "EUR"
+      }
     },
     {
       "title": "CHEAP 💥 Flights from several German cities to New York 🗽 from €302",
@@ -29,6 +87,19 @@
         "amount": 302,
         "cur": "EUR"
       }
+    },
+    {
+      "title": "Buzz: Bratislava - Barcelona - 950 Kč",
+      "summary": "",
+      "url": "https://www.akcniletenky.com",
+      "source": "AkčníLetenky.com",
+      "date": "2026-11-04T07:00:00+00:00",
+      "dateLabel": "4. 11. 2026",
+      "price": 950,
+      "image": "",
+      "id": "688",
+      "firstSeen": "2026-11-04T09:11:40.869586+00:00",
+      "priceOrig": null
     },
     {
       "title": "HIGH SEASON ☀️ Qatar Airways flights from many European cities to Penang, Malaysia from €520",
@@ -3707,51 +3778,6 @@
       "id": "https://honzovyletenky.cz/malaga-pred-vanoci/",
       "firstSeen": "2026-10-28T09:03:43.276824+00:00",
       "priceOrig": null
-    },
-    {
-      "title": "Cheap flights from Paris to Vancouver, Canada for €357",
-      "summary": "Explore one of Canada's most beautiful cities without spending a fortune on airfare! Westjet is offering discounted flights from Paris to Vancouver for just €357 return, making this an excellent opportunity to discover Canada's spectacular",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-paris-to-vancouver-e357/",
-      "source": "Fly4free.com",
-      "date": "2026-10-28T09:00:02+00:00",
-      "dateLabel": "28. 10. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-paris-to-vancouver-e357/",
-      "firstSeen": "2026-10-28T09:03:43.276824+00:00",
-      "priceOrig": {
-        "amount": 357,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Lauda: Vídeň - Malta - 980 Kč",
-      "summary": "",
-      "url": "https://www.akcniletenky.com",
-      "source": "AkčníLetenky.com",
-      "date": "2026-10-28T09:00:00+00:00",
-      "dateLabel": "28. 10. 2026",
-      "price": 980,
-      "image": "",
-      "id": "660",
-      "firstSeen": "2026-10-28T10:58:18.356120+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "HOT 🔥 Cheap one-way flights from many European cities to Baja California, Mexico 🌊 🌵 from €143",
-      "summary": "Dreaming of sun-soaked beaches, dramatic desert landscapes, and unforgettable Pacific Ocean views? Now is your chance to explore Mexico’s spectacular Baja California peninsula, with Condor flights starting at just €143 one-way.",
-      "url": "https://www.fly4free.com/flight-deals/europe/one-way-flights-from-europe-to-baja-california-e143/",
-      "source": "Fly4free.com",
-      "date": "2026-10-28T08:00:59+00:00",
-      "dateLabel": "28. 10. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/one-way-flights-from-europe-to-baja-california-e143/",
-      "firstSeen": "2026-10-28T09:03:43.276824+00:00",
-      "priceOrig": {
-        "amount": 143,
-        "cur": "EUR"
-      }
     }
   ]
 }
