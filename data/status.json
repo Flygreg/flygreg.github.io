@@ -29,13 +29,12 @@
     },
     {
       "name": "Honzovy letenky",
-      "ok": false,
-      "items": 0,
+      "ok": true,
+      "items": 10,
       "attempts": [
-        "FlightTipsFeedReader: HTTPError: HTTP Error 415: Unsupported Media Type",
-        "browser: HTTPError: HTTP Error 415: Unsupported Media Type"
+        "FlightTipsFeedReader: HTTP 200, 13043 B"
       ],
-      "error": "HTTPError: HTTP Error 415: Unsupported Media Type"
+      "error": ""
     },
     {
       "name": "CestujLevne.com",
@@ -51,7 +50,7 @@
       "ok": true,
       "items": 50,
       "attempts": [
-        "FlightTipsFeedReader: HTTP 200, 63750 B"
+        "FlightTipsFeedReader: HTTP 200, 64279 B"
       ],
       "error": ""
     },
@@ -69,7 +68,7 @@
       "ok": true,
       "items": 50,
       "attempts": [
-        "FlightTipsFeedReader: HTTP 200, 51197 B"
+        "FlightTipsFeedReader: HTTP 200, 51200 B"
       ],
       "error": ""
     }
