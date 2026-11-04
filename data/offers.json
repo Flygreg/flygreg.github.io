@@ -1,6 +1,35 @@
 {
-  "updated": "2026-11-03T22:58:12.076192+00:00",
+  "updated": "2026-11-04T07:33:29.668019+00:00",
   "offers": [
+    {
+      "title": "PALERMO z Prahy za tisícovku - 1 095 Kč",
+      "summary": "V dnešní nabídce aerolinky Ryanair pořídíme levné letenky na Sicílii. Zpáteční letenky z Prahy do Palerma jsou v nabídce Ryanair dostupé už za 1 095 Kč. Nejvýhodnější letenky pořídíme na lednové termíny a to hlavně na delší týdenní termíny.",
+      "url": "https://honzovyletenky.cz/palermo-z-prahy-za-tisicovku/",
+      "source": "Honzovy letenky",
+      "date": "2026-11-04T08:01:30+00:00",
+      "dateLabel": "4. 11. 2026",
+      "price": 1095,
+      "image": "",
+      "id": "https://honzovyletenky.cz/palermo-z-prahy-za-tisicovku/",
+      "firstSeen": "2026-11-04T07:33:29.668019+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "CHEAP 💥 Flights from several German cities to New York 🗽 from €302",
+      "summary": "Looking for a great deal to the Big Apple? Take advantage of this offer from Icelandair starting at only €302 for a round trip.",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-germany-to-new-york-e302/",
+      "source": "Fly4free.com",
+      "date": "2026-11-04T07:00:59+00:00",
+      "dateLabel": "4. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-germany-to-new-york-e302/",
+      "firstSeen": "2026-11-04T07:33:29.668019+00:00",
+      "priceOrig": {
+        "amount": 302,
+        "cur": "EUR"
+      }
+    },
     {
       "title": "HIGH SEASON ☀️ Qatar Airways flights from many European cities to Penang, Malaysia from €520",
       "summary": "Delicious street food, golden beaches, and rich culture await — all with comfort and style included in your journey! Book discounted Qatar Airways flights to Penang starting at €520 for a round trip.",
@@ -3723,35 +3752,6 @@
         "amount": 143,
         "cur": "EUR"
       }
-    },
-    {
-      "title": "Cheap full-service flights from Paris to Taiwan for €445",
-      "summary": "Looking for your next adventure? Discover the beauty and culture of Taiwan with our unbeatable flight deal! Book full-service China Eastern Airlines flights from Paris to Taipei starting at only €445 for a round trip.",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-paris-to-taiwan-e445/",
-      "source": "Fly4free.com",
-      "date": "2026-10-28T07:00:26+00:00",
-      "dateLabel": "28. 10. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-paris-to-taiwan-e445/",
-      "firstSeen": "2026-10-28T07:14:35.415054+00:00",
-      "priceOrig": {
-        "amount": 445,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Buzz: Praha - Tirana - 952 Kč",
-      "summary": "",
-      "url": "https://www.akcniletenky.com",
-      "source": "AkčníLetenky.com",
-      "date": "2026-10-28T06:00:00+00:00",
-      "dateLabel": "28. 10. 2026",
-      "price": 952,
-      "image": "",
-      "id": "659",
-      "firstSeen": "2026-10-28T07:14:35.415054+00:00",
-      "priceOrig": null
     }
   ]
 }
