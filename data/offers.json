@@ -1,6 +1,129 @@
 {
-  "updated": "2026-11-04T09:11:40.869586+00:00",
+  "updated": "2026-11-04T11:26:03.860046+00:00",
   "offers": [
+    {
+      "title": "Jarní ISLAND z Prahy bez přestupu - 5 079 Kč",
+      "summary": "Bez přestupu létá na Island pravidelně pouze Icelandair. V nabídce aerolinky Icenandair najdeme letenky z Prahy na Island za relativně fajn cenu. Nejlevnější zpáteční letenky vyjdou na 227 USD, což je asi 5 079 Kč. Jedná se o přímý let bez",
+      "url": "https://honzovyletenky.cz/jarni-island-z-prahy-bez-prestupu/",
+      "source": "Honzovy letenky",
+      "date": "2026-11-04T12:01:25+00:00",
+      "dateLabel": "4. 11. 2026",
+      "price": 5079,
+      "image": "",
+      "id": "https://honzovyletenky.cz/jarni-island-z-prahy-bez-prestupu/",
+      "firstSeen": "2026-11-04T11:26:03.860046+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "SPRING 2027🚢 Cheap 7-day cruise aboard MSC Euribia from €499 p.p.",
+      "summary": "This is a very well-balanced 7-day / 6-night Mediterranean cruise in April aboard MSC Euribia, starting in Naples and finishing in Genoa.",
+      "url": "https://www.fly4free.com/flight-deals/europe/7-day-cruise-msc-euribia-e499/",
+      "source": "Fly4free.com",
+      "date": "2026-11-04T11:00:07+00:00",
+      "dateLabel": "4. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/7-day-cruise-msc-euribia-e499/",
+      "firstSeen": "2026-11-04T11:26:03.860046+00:00",
+      "priceOrig": {
+        "amount": 499,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "Přímým letem do Thajska: 5* resort na Phuketu u pláže Layan za 21 990 Kč",
+      "summary": "Luxusní dovolená na Phuketu za 21 990 Kč! Užijte si 5* Kora Beach Resort u pláže Layan s přímým letem z Prahy a snídaní. Užijte si tropický odpočinek!",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/primym-letem-do-thajska-5-resort-na-phuketu-u-plaze-layan-za-21-990-kc?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-11-04T10:24:02+00:00",
+      "dateLabel": "4. 11. 2026",
+      "price": 21990,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/primym-letem-do-thajska-5-resort-na-phuketu-u-plaze-layan-za-21-990-kc?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-11-04T11:26:03.860046+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Zájezd přímým letem z Prahy do THAJSKA - 20 990 Kč",
+      "summary": "Levný zájezd do Thajska pořídíme u CK Čedok. CK Čedok nabízí levný zájezd z Prahy na Phuket. Za týdenní zájezd do 4* hotelu se snídaní a přímým letem bez přestupu zaplatíme 20 990 Kč. V ceně zájezdu je také odbavené zavazadlo, transfery v c",
+      "url": "https://honzovyletenky.cz/zajezd-primym-letem-z-prahy-do-thajska/",
+      "source": "Honzovy letenky",
+      "date": "2026-11-04T10:16:46+00:00",
+      "dateLabel": "4. 11. 2026",
+      "price": 20990,
+      "image": "",
+      "id": "https://honzovyletenky.cz/zajezd-primym-letem-z-prahy-do-thajska/",
+      "firstSeen": "2026-11-04T11:26:03.860046+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Z Prahy do Budapešti na krátký výlet nebo prodloužený víkend. Letenky od 1 266 Kč",
+      "summary": "Z Prahy do Budapešti najdete fajn zpáteční letenky s Ryanairem. Vyrazit můžete jen na jednu noc, od pátku do neděle nebo si naplánovat o něco delší pobyt.",
+      "url": "https://www.cestujlevne.com/akcni-letenky/z-prahy-do-budapesti-na-kratky-vylet-nebo-prodlouzeny-vikend",
+      "source": "CestujLevne.com",
+      "date": "2026-11-04T10:03:17+00:00",
+      "dateLabel": "4. 11. 2026",
+      "price": 1266,
+      "image": "",
+      "id": "https://www.cestujlevne.com/akcni-letenky/z-prahy-do-budapesti-na-kratky-vylet-nebo-prodlouzeny-vikend",
+      "firstSeen": "2026-11-04T11:26:03.860046+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Plan your perfect trip to Japan with cheap full-service flights from London to Tokyo 🗻 for £451",
+      "summary": "Ready to finally plan that Japan trip? Xiamen Airlines is showing discounted full-service flights from London to Tokyo Narita from just £451 return — a great fare for one of the most fascinating destinations in the world.",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-tokyo-p451/",
+      "source": "Fly4free.com",
+      "date": "2026-11-04T10:00:03+00:00",
+      "dateLabel": "4. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-tokyo-p451/",
+      "firstSeen": "2026-11-04T11:26:03.860046+00:00",
+      "priceOrig": {
+        "amount": 451,
+        "cur": "GBP"
+      }
+    },
+    {
+      "title": "Wizz Air: Bratislava - Alicante - 980 Kč",
+      "summary": "",
+      "url": "https://www.akcniletenky.com",
+      "source": "AkčníLetenky.com",
+      "date": "2026-11-04T10:00:00+00:00",
+      "dateLabel": "4. 11. 2026",
+      "price": 980,
+      "image": "",
+      "id": "689",
+      "firstSeen": "2026-11-04T11:26:03.860046+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Vánoce v Londýně. Od 1 772 Kč.",
+      "summary": "Vánoce v Londýně od 1 772 Kč.",
+      "url": "https://www.obletsvet.cz/akcni-letenka/vanoce-v-londyne",
+      "source": "Obletsvet.cz",
+      "date": "2026-11-04T09:53:07+00:00",
+      "dateLabel": "4. 11. 2026",
+      "price": 1772,
+      "image": "",
+      "id": "https://www.obletsvet.cz/akcni-letenka/vanoce-v-londyne",
+      "firstSeen": "2026-11-04T11:26:03.860046+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Tenerife s All Inclusive ve 4* hotelu: Týdenní dovolená z Prahy za 14 990 Kč",
+      "summary": "Zažijte oceán, palmy a sopečnou krajinu Tenerife. Týdenní all inclusive dovolená ve 4* resortu s odletem z Prahy za 14 990 Kč. Objevte krásy Puerto de la Cruz!",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/tenerife-s-all-inclusive-ve-4-hotelu-tydenni-dovolena-z-prahy-za-14-990-kc?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-11-04T09:23:20+00:00",
+      "dateLabel": "4. 11. 2026",
+      "price": 14990,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/tenerife-s-all-inclusive-ve-4-hotelu-tydenni-dovolena-z-prahy-za-14-990-kc?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-11-04T11:26:03.860046+00:00",
+      "priceOrig": null
+    },
     {
       "title": "Madrid (Španělsko) – letenky z Prahy za 2095 Kč",
       "summary": "Madrid je španělské hlavní město, které si vybudovalo pověst na umění, fotbalu a večerním životě – a každý z těchto důvodů sám o sobě stačí na cestu. Z Prahy se tam dostanete s Ryanairem od 2 095 Kč, Smartwings nabízejí stejnou trasu od 5 2",
@@ -71,6 +194,19 @@
         "amount": 472,
         "cur": "EUR"
       }
+    },
+    {
+      "title": "Last minute Kanáry z Prahy: zájezd do 4* hotelu s all inclusive za 14 990 Kč",
+      "summary": "Zajisti si dovolenou: REZERVUJ ONLINE nebo telefonicky na čísle +420 770 104 598 Termín: 5. – 12. listopad 2026 Hotely: 4* Hotel Blue Sea Puerto Resort – all inclusive | 14 990 Kč 4* Hotel Barcelo Santiago – polopenze | 20 490 Kč Rezervace",
+      "url": "https://zaletsi.cz/zajezdy/last-minute-kanary-z-prahy-zajezd-do-4-hotelu-s-all-inclusive/",
+      "source": "Zaleťsi.cz",
+      "date": "2026-11-04T07:29:06+00:00",
+      "dateLabel": "4. 11. 2026",
+      "price": 14990,
+      "image": "",
+      "id": "https://zaletsi.cz/zajezdy/last-minute-kanary-z-prahy-zajezd-do-4-hotelu-s-all-inclusive/",
+      "firstSeen": "2026-11-04T11:26:03.860046+00:00",
+      "priceOrig": null
     },
     {
       "title": "CHEAP 💥 Flights from several German cities to New York 🗽 from €302",
@@ -286,6 +422,19 @@
       "priceOrig": null
     },
     {
+      "title": "Arménie: lednové letenky z Prahy do Jerevanu za 2 136 Kč",
+      "summary": "Rezervuj: přes náš vyhledávač Zavazadla: příruční bágl o rozměrech do 40 × 30 × 20 cm Dostupnost: leden 2027 Příkladové termíny 13. – 18. 1. za 2 136 Kč → Zobrazit let 15. – 18. 1. za 2 136 Kč → Zobrazit let – prodl. víkend 17. – 22. 1. za",
+      "url": "https://zaletsi.cz/akce/armenie-lednove-letenky-z-prahy-do-jerevanu/",
+      "source": "Zaleťsi.cz",
+      "date": "2026-11-03T16:01:20+00:00",
+      "dateLabel": "3. 11. 2026",
+      "price": 2136,
+      "image": "",
+      "id": "https://zaletsi.cz/akce/armenie-lednove-letenky-z-prahy-do-jerevanu/",
+      "firstSeen": "2026-11-04T11:26:03.860046+00:00",
+      "priceOrig": null
+    },
+    {
       "title": "Argentinian Summer ☀️💃 Full-service direct flights from Madrid to Buenos Aires for €585",
       "summary": "Discover the passionate tango scene, vibrant neighbourhoods, incredible steak restaurants and buzzing nightlife of Argentina's capital — all during the South American summer! Plus Ultra is currently offering attractive direct flights from j",
       "url": "https://www.fly4free.com/flight-deals/europe/direct-flights-from-madrid-to-buenos-aires-e585/",
@@ -328,6 +477,19 @@
       "image": "",
       "id": "https://levnocestovani.cz/akcni-zajezdy/primym-letem-na-thajsky-phuket-do-skvele-hodnoceneho-4-resortu-za-19-990-kc?utm_source=rss&utm_medium=feed",
       "firstSeen": "2026-11-03T15:04:03.327371+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Silvestr v Pekingu a návštěva Velké čínské zdi - poznávací zájezd za 38 990 Kč",
+      "summary": "Zajisti si dovolenou: REZERVUJ ONLINE nebo telefonicky na čísle +420 770 104 598 Termín: 28. prosinec 2026 – 3. leden 2027 Hotely: Poznávací pobyt – Silvestr v Pekingu a okolí – strava dle programu | 38 990 Kč O akci Co letos oslavit přícho",
+      "url": "https://zaletsi.cz/zajezdy/silvestr-v-pekingu-a-navsteva-velke-cinske-zdi-poznavaci-zajezd/",
+      "source": "Zaleťsi.cz",
+      "date": "2026-11-03T14:32:27+00:00",
+      "dateLabel": "3. 11. 2026",
+      "price": 38990,
+      "image": "",
+      "id": "https://zaletsi.cz/zajezdy/silvestr-v-pekingu-a-navsteva-velke-cinske-zdi-poznavaci-zajezd/",
+      "firstSeen": "2026-11-04T11:26:03.860046+00:00",
       "priceOrig": null
     },
     {
@@ -467,6 +629,19 @@
       "image": "",
       "id": "https://levnocestovani.cz/akcni-zajezdy/super-last-minute-maledivy-z-prahy-plna-penze-a-4-resort-za-30-990-kc?utm_source=rss&utm_medium=feed",
       "firstSeen": "2026-11-03T13:21:53.215240+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Týdenní last minute zájezdy na Zanzibar s odletem z Prahy od 22 990 Kč",
+      "summary": "Zajisti si dovolenou: REZERVUJ ONLINE nebo telefonicky na čísle +420 770 104 598 Termín: 22. – 30. listopad 2026 Hotely: 4* Hotel Sea View Lodge – polopenze | 22 490 Kč 4* Hotel Matemwe Sands Beach Resort – all inclusive | 23 990 Kč 4* Hote",
+      "url": "https://zaletsi.cz/zajezdy/tydenni-last-minute-zajezdyna-zanzibar-s-odletem-z-prahy/",
+      "source": "Zaleťsi.cz",
+      "date": "2026-11-03T11:09:14+00:00",
+      "dateLabel": "3. 11. 2026",
+      "price": 22990,
+      "image": "",
+      "id": "https://zaletsi.cz/zajezdy/tydenni-last-minute-zajezdyna-zanzibar-s-odletem-z-prahy/",
+      "firstSeen": "2026-11-04T11:26:03.860046+00:00",
       "priceOrig": null
     },
     {
@@ -3654,129 +3829,6 @@
       "image": "",
       "id": "https://levnocestovani.cz/akcni-zajezdy/dovolena-v-egypte-s-odletem-z-prahy-za-15-090-kc-all-inclusive-v-hurghade-na-zacatku-listopadu?utm_source=rss&utm_medium=feed",
       "firstSeen": "2026-10-28T13:13:01.365727+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Full-service flights from Vienna to Vietnam from €576",
-      "summary": "Ready for your Vietnam adventure? Air China is offering full-service flights to Hanoi and Ho Chi Minh starting at just €576 for a round trip!",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-vienna-to-vietnam-e576/",
-      "source": "Fly4free.com",
-      "date": "2026-10-28T11:00:53+00:00",
-      "dateLabel": "28. 10. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-vienna-to-vietnam-e576/",
-      "firstSeen": "2026-10-28T13:13:01.365727+00:00",
-      "priceOrig": {
-        "amount": 576,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Zpáteční letenky do Dominikány: Přímý let za 14 990 Kč i se zavazadlem",
-      "summary": "Akční zpáteční letenky do Dominikánské republiky z Prahy za 14 990 Kč. Přímý let a odbavené zavazadlo v ceně. Užijte si bílé pláže a vyhřáté moře.",
-      "url": "https://levnocestovani.cz/akcni-letenky/zpatecni-letenky-do-dominikany-primy-let-za-14-990-kc-i-se-zavazadlem?utm_source=rss&utm_medium=feed",
-      "source": "Levnocestovani.cz",
-      "date": "2026-10-28T10:39:51+00:00",
-      "dateLabel": "28. 10. 2026",
-      "price": 14990,
-      "image": "",
-      "id": "https://levnocestovani.cz/akcni-letenky/zpatecni-letenky-do-dominikany-primy-let-za-14-990-kc-i-se-zavazadlem?utm_source=rss&utm_medium=feed",
-      "firstSeen": "2026-10-28T10:58:18.356120+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Anglie: Liverpool v UK – letenky za 878 Kč",
-      "summary": "Liverpool je město, kde se hudební historie prolíná s přístavní atmosférou a kde každý roh Cavern Quartu připomíná, že právě tady začali Beatles. Není to ale jen o hudbě – nábřeží Mersey s mohutnými viktoriánskými budovami, zapsané na sezna",
-      "url": "https://www.levneletenkyzprahy.cz/2741_anglie:-liverpool-v-uk-–-letenky-za-878-kc",
-      "source": "Levné letenky z Prahy",
-      "date": "2026-10-28T10:12:14+00:00",
-      "dateLabel": "28. 10. 2026",
-      "price": 878,
-      "image": "",
-      "id": "https://www.levneletenkyzprahy.cz/2741_anglie:-liverpool-v-uk-–-letenky-za-878-kc",
-      "firstSeen": "2026-10-28T10:58:18.356120+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "SUMMER ☀️ Etihad Airways flights from Prague to Seoul, South Korea 🍜 for €555",
-      "summary": "Looking for an unforgettable summer adventure in Asia? This peak-season flight deal is your chance to experience the vibrant energy of Seoul at an incredible price. Fly with Etihad Airways from Prague to South Korea’s dynamic capital for ju",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-prague-to-seoul-e555/",
-      "source": "Fly4free.com",
-      "date": "2026-10-28T10:00:27+00:00",
-      "dateLabel": "28. 10. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-prague-to-seoul-e555/",
-      "firstSeen": "2026-10-28T10:58:18.356120+00:00",
-      "priceOrig": {
-        "amount": 555,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Přímým letem z Prahy do Thajska: Týden ve 4* resortu v Khao Lak za 21 490 Kč",
-      "summary": "Skvělá dovolená v Thajsku bez přestupování! Týden ve 4* Kantary Beach v Khao Lak za 21 490 Kč se snídaní. Rezervujte si svůj relax u moře ještě dnes!",
-      "url": "https://levnocestovani.cz/akcni-zajezdy/primym-letem-z-prahy-do-thajska-tyden-ve-4-resortu-v-khao-lak-za-21-490-kc?utm_source=rss&utm_medium=feed",
-      "source": "Levnocestovani.cz",
-      "date": "2026-10-28T09:51:04+00:00",
-      "dateLabel": "28. 10. 2026",
-      "price": 21490,
-      "image": "",
-      "id": "https://levnocestovani.cz/akcni-zajezdy/primym-letem-z-prahy-do-thajska-tyden-ve-4-resortu-v-khao-lak-za-21-490-kc?utm_source=rss&utm_medium=feed",
-      "firstSeen": "2026-10-28T10:58:18.356120+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Prodloužené víkendy v Oslu z Prahy. Od 1 825 Kč.",
-      "summary": "Víkend v Oslu z Prahy od 1 852 Kč.",
-      "url": "https://www.obletsvet.cz/akcni-letenka/vikendy-v-oslu-z-prahy",
-      "source": "Obletsvet.cz",
-      "date": "2026-10-28T09:47:29+00:00",
-      "dateLabel": "28. 10. 2026",
-      "price": 1825,
-      "image": "",
-      "id": "https://www.obletsvet.cz/akcni-letenka/vikendy-v-oslu-z-prahy",
-      "firstSeen": "2026-10-28T10:58:18.356120+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Goodbye, Checkout Cleaning: Airbnb Hosts Can’t Make You Clean Anymore",
-      "summary": "From November 20, Airbnb hosts will generally no longer be allowed to require guests to strip the beds, wash the dishes or take out the rubbish.",
-      "url": "https://www.fly4free.com/news/goodbye-checkout-cleaning-airbnb-hosts-cant-make-you-clean-anymore/",
-      "source": "Fly4free.com",
-      "date": "2026-10-28T09:37:13+00:00",
-      "dateLabel": "28. 10. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/news/goodbye-checkout-cleaning-airbnb-hosts-cant-make-you-clean-anymore/",
-      "firstSeen": "2026-10-28T10:58:18.356120+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Vietnamský Phu Quoc na týden v 5* hotelu s all-inclusive. Zájezd od 25 390 Kč",
-      "summary": "Užijte si exotickou dovolenou na vietnamském ostrově Phu Quoc za super cenu! Cestovní kanceláře Fischer a Exim Tours nabízejí zájezdy s přímým letem z Prahy a ubytováním v luxusním pětihvězdičkovém hotelu Melia Vinpearl Phu Quoc.",
-      "url": "https://www.cestujlevne.com/akcni-letenky/vietnamsky-phu-quoc-na-tyden-v-5-hotelu-s-all-inclusive",
-      "source": "CestujLevne.com",
-      "date": "2026-10-28T09:36:30+00:00",
-      "dateLabel": "28. 10. 2026",
-      "price": 25390,
-      "image": "",
-      "id": "https://www.cestujlevne.com/akcni-letenky/vietnamsky-phu-quoc-na-tyden-v-5-hotelu-s-all-inclusive",
-      "firstSeen": "2026-10-28T10:58:18.356120+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "MALAGA před Vánoci - 1 084 Kč",
-      "summary": "Za výhodnou cenu můžeme před Vánoci zavítat na jih Španělska. Zpáteční letenky z Ostravy do Malagy pořídíme už za 1 084 Kč. Nejvýhodnější letenky jsou dostupné na týdenní termín před Vánoci 2026. V ceně základního tarifu od Ryanair máme vžd",
-      "url": "https://honzovyletenky.cz/malaga-pred-vanoci/",
-      "source": "Honzovy letenky",
-      "date": "2026-10-28T09:26:11+00:00",
-      "dateLabel": "28. 10. 2026",
-      "price": 1084,
-      "image": "",
-      "id": "https://honzovyletenky.cz/malaga-pred-vanoci/",
-      "firstSeen": "2026-10-28T09:03:43.276824+00:00",
       "priceOrig": null
     }
   ]
