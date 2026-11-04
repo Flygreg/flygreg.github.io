@@ -1,6 +1,84 @@
 {
-  "updated": "2026-11-04T11:26:03.860046+00:00",
+  "updated": "2026-11-04T13:24:17.436370+00:00",
   "offers": [
+    {
+      "title": "MALEDIVY v hlavní sezóně - 13 945 Kč",
+      "summary": "V aktuální nabídce Etihad pořídíme za super cenu letenky na Maledivy. Zpáteční letenky z Vídně na Maledivy pořídíme za 559 EUR co je asi za 13 945 Kč. Letenky jsou s jedním rychlým přestupem v Abú Dhabí. Nejlevnější letenky pořídíme na term",
+      "url": "https://honzovyletenky.cz/maledivy-v-hlavni-sezone-2/",
+      "source": "Honzovy letenky",
+      "date": "2026-11-04T14:07:40+00:00",
+      "dateLabel": "4. 11. 2026",
+      "price": 13945,
+      "image": "",
+      "id": "https://honzovyletenky.cz/maledivy-v-hlavni-sezone-2/",
+      "firstSeen": "2026-11-04T13:24:17.436370+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Etihad Airways: Praha - Phuket - 12 990 Kč",
+      "summary": "",
+      "url": "https://www.akcniletenky.com",
+      "source": "AkčníLetenky.com",
+      "date": "2026-11-04T13:00:00+00:00",
+      "dateLabel": "4. 11. 2026",
+      "price": 12990,
+      "image": "",
+      "id": "690",
+      "firstSeen": "2026-11-04T13:24:17.436370+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Adventní víkendy v Benátkách. Od 901 Kč.",
+      "summary": "Adventní Benátky o víkendech od 901 Kč.",
+      "url": "https://www.obletsvet.cz/akcni-letenka/adventni-benatky-vikendy",
+      "source": "Obletsvet.cz",
+      "date": "2026-11-04T12:52:00+00:00",
+      "dateLabel": "4. 11. 2026",
+      "price": 901,
+      "image": "",
+      "id": "https://www.obletsvet.cz/akcni-letenka/adventni-benatky-vikendy",
+      "firstSeen": "2026-11-04T13:24:17.436370+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Dovolená Keňa, Watamu: 4* resort u pláže s All Inclusive a odletem z Prahy od 22 490 Kč",
+      "summary": "Výhodný zájezd do Keni z Prahy od 22 490 Kč. 4* resort Club Jumbo Watamu přímo u pláže, all inclusive strava a tropická příroda. Objevte krásy Afriky!",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/dovolena-kena-watamu-4-resort-u-plaze-s-all-inclusive-a-odletem-z-prahy-od-22-490-kc?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-11-04T12:49:36+00:00",
+      "dateLabel": "4. 11. 2026",
+      "price": 22490,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/dovolena-kena-watamu-4-resort-u-plaze-s-all-inclusive-a-odletem-z-prahy-od-22-490-kc?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-11-04T13:24:17.436370+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "🇮🇹 4-star stay near the Vatican in Rome from €80/night with breakfast, pool, and private parking",
+      "summary": "A quiet residential setting, rooftop views toward St. Peter’s dome, a seasonal outdoor pool and breakfast included — all from just €80 per night. For Rome, that’s a very attractive combination if you want something more comfortable than a b",
+      "url": "https://www.fly4free.com/flight-deals/europe/grand-hotel-rome-e80/",
+      "source": "Fly4free.com",
+      "date": "2026-11-04T12:30:12+00:00",
+      "dateLabel": "4. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/grand-hotel-rome-e80/",
+      "firstSeen": "2026-11-04T13:24:17.436370+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Omán z Prahy za super cenu s all-inclusive v hotelu Barceló Mussanah Resort. Zájezd od 19 990 Kč",
+      "summary": "Takovou cenu jsme tu v letošní sezoně ještě neměli! Zájezd do Ománu pod 20 tisíc korun, a navíc nejde o žádný last minute. Vyrazit můžete v termínu 4.–11. ledna.",
+      "url": "https://www.cestujlevne.com/akcni-letenky/oman-z-prahy-za-super-cenu-s-all-inclusive-v-hotelu-barcelo-mussanah-resort",
+      "source": "CestujLevne.com",
+      "date": "2026-11-04T12:04:04+00:00",
+      "dateLabel": "4. 11. 2026",
+      "price": 19990,
+      "image": "",
+      "id": "https://www.cestujlevne.com/akcni-letenky/oman-z-prahy-za-super-cenu-s-all-inclusive-v-hotelu-barcelo-mussanah-resort",
+      "firstSeen": "2026-11-04T13:24:17.436370+00:00",
+      "priceOrig": null
+    },
     {
       "title": "Jarní ISLAND z Prahy bez přestupu - 5 079 Kč",
       "summary": "Bez přestupu létá na Island pravidelně pouze Icelandair. V nabídce aerolinky Icenandair najdeme letenky z Prahy na Island za relativně fajn cenu. Nejlevnější zpáteční letenky vyjdou na 227 USD, což je asi 5 079 Kč. Jedná se o přímý let bez",
@@ -12,6 +90,19 @@
       "image": "",
       "id": "https://honzovyletenky.cz/jarni-island-z-prahy-bez-prestupu/",
       "firstSeen": "2026-11-04T11:26:03.860046+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Last Minute dovolená na Tenerife: 4* resort s All Inclusive z Prahy za 13 490 Kč",
+      "summary": "Využijte cenový trhák a leťte na Tenerife z Prahy za 13 490 Kč. V ceně je 4* hotel i stravování All Inclusive. Poznejte kanárský ráj za nejnižší cenu!",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/last-minute-dovolena-na-tenerife-4-resort-s-all-inclusive-z-prahy-za-13-490-kc?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-11-04T11:29:22+00:00",
+      "dateLabel": "4. 11. 2026",
+      "price": 13490,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/last-minute-dovolena-na-tenerife-4-resort-s-all-inclusive-z-prahy-za-13-490-kc?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-11-04T13:24:17.436370+00:00",
       "priceOrig": null
     },
     {
@@ -3733,103 +3824,6 @@
         "amount": 519,
         "cur": "EUR"
       }
-    },
-    {
-      "title": "Kazachstán z Prahy přímým letem: Almaty s VietJetAir. Letenky od 5 410 Kč",
-      "summary": "VietJetAir poprvé nabízí akční letenky také na úsek z Prahy na největšího kazachstánského města Almaty.",
-      "url": "https://www.cestujlevne.com/akcni-letenky/kazachstan-z-prahy-primym-letem-almaty-s-vietjetair",
-      "source": "CestujLevne.com",
-      "date": "2026-10-28T13:12:05+00:00",
-      "dateLabel": "28. 10. 2026",
-      "price": 5410,
-      "image": "",
-      "id": "https://www.cestujlevne.com/akcni-letenky/kazachstan-z-prahy-primym-letem-almaty-s-vietjetair",
-      "firstSeen": "2026-10-28T13:13:01.365727+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Za exotikou do Keni s All Inclusive a odletem z Prahy do 4* AHG Lion Beach za 20 490 Kč",
-      "summary": "Láká vás exotická dovolená v Keni? Vyrazte z Prahy na týden do 4* resortu AHG Lion Beach s All Inclusive za 20 490 Kč. Užijte si pláže ve Watamu!",
-      "url": "https://levnocestovani.cz/akcni-zajezdy/za-exotikou-do-keni-s-all-inclusive-a-odletem-z-prahy-do-4-ahg-lion-beach-za-20-490-kc?utm_source=rss&utm_medium=feed",
-      "source": "Levnocestovani.cz",
-      "date": "2026-10-28T13:02:44+00:00",
-      "dateLabel": "28. 10. 2026",
-      "price": 20490,
-      "image": "",
-      "id": "https://levnocestovani.cz/akcni-zajezdy/za-exotikou-do-keni-s-all-inclusive-a-odletem-z-prahy-do-4-ahg-lion-beach-za-20-490-kc?utm_source=rss&utm_medium=feed",
-      "firstSeen": "2026-10-28T13:13:01.365727+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Air France flights from Madrid to Buenos Aires, Argentina 💃 for €562",
-      "summary": "Air France is currently offering attractive flights to Argentina from just €562 return. The ticket includes meals, checked luggage, and onboard entertainment, making it a comfortable and great-value option for a long-haul journey.",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-madrid-to-buenos-aires-e562/",
-      "source": "Fly4free.com",
-      "date": "2026-10-28T13:00:49+00:00",
-      "dateLabel": "28. 10. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-madrid-to-buenos-aires-e562/",
-      "firstSeen": "2026-10-28T13:13:01.365727+00:00",
-      "priceOrig": {
-        "amount": 562,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Bucharest Getaway 💕 Top-rated 4* aparthotel from €67/double",
-      "summary": "Discover Romania’s charming capital, with a budget-friendly getaway at the highly rated 4* Le Blanc ApartHotel for just €67/night! Known for its elegant architecture, lively cafés, beautiful parks and vibrant nightlife, Bucharest is an exce",
-      "url": "https://www.fly4free.com/flight-deals/europe/4-star-aparthotel-in-bucharest-e67/",
-      "source": "Fly4free.com",
-      "date": "2026-10-28T12:00:15+00:00",
-      "dateLabel": "28. 10. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/4-star-aparthotel-in-bucharest-e67/",
-      "firstSeen": "2026-10-28T13:13:01.365727+00:00",
-      "priceOrig": {
-        "amount": 67,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Buzz: Bratislava - Soluň - 980 Kč",
-      "summary": "",
-      "url": "https://www.akcniletenky.com",
-      "source": "AkčníLetenky.com",
-      "date": "2026-10-28T12:00:00+00:00",
-      "dateLabel": "28. 10. 2026",
-      "price": 980,
-      "image": "",
-      "id": "661",
-      "firstSeen": "2026-10-28T13:13:01.365727+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "MARRÁKEŠ z dvojku z Prahy - 2 248 Kč",
-      "summary": "Časově výhodnější spoje do Maroka nabízí z Prahy Eurowings. Zpáteční letenky z Prahy do Marrákeše pořídíme už za 2 248 Kč. Nejvýhodnější letenky jsou dostupné na termíny před Vánoci, případně pak po Novém roce. V ceně každé letenky u Eurowi",
-      "url": "https://honzovyletenky.cz/marrakes-z-dvojku-z-prahy/",
-      "source": "Honzovy letenky",
-      "date": "2026-10-28T11:54:37+00:00",
-      "dateLabel": "28. 10. 2026",
-      "price": 2248,
-      "image": "",
-      "id": "https://honzovyletenky.cz/marrakes-z-dvojku-z-prahy/",
-      "firstSeen": "2026-10-28T10:58:18.356120+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Dovolená v Egyptě s odletem z Prahy za 15 090 Kč: All Inclusive v Hurghadě na začátku listopadu",
-      "summary": "Únik za sluncem do Egypta! Týdenní dovolená ve 4* Sphinx Resort v Hurghadě s All Inclusive za 15 090 Kč. Přímý let z Prahy, písečná pláž a aquapark. Rezervujte!",
-      "url": "https://levnocestovani.cz/akcni-zajezdy/dovolena-v-egypte-s-odletem-z-prahy-za-15-090-kc-all-inclusive-v-hurghade-na-zacatku-listopadu?utm_source=rss&utm_medium=feed",
-      "source": "Levnocestovani.cz",
-      "date": "2026-10-28T11:50:03+00:00",
-      "dateLabel": "28. 10. 2026",
-      "price": 15090,
-      "image": "",
-      "id": "https://levnocestovani.cz/akcni-zajezdy/dovolena-v-egypte-s-odletem-z-prahy-za-15-090-kc-all-inclusive-v-hurghade-na-zacatku-listopadu?utm_source=rss&utm_medium=feed",
-      "firstSeen": "2026-10-28T13:13:01.365727+00:00",
-      "priceOrig": null
     }
   ]
 }
