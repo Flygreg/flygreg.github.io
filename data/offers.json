@@ -1,9 +1,9 @@
 {
-  "updated": "2026-11-05T21:02:22.291974+00:00",
+  "updated": "2026-11-05T22:59:13.557666+00:00",
   "offers": [
     {
-      "title": "Full-service flights from Paris to Bali, Indonesia 🌴 for €532",
-      "summary": "Dreaming of the ultimate tropical getaway? Xiamen Airlines are offering discounted flights to Denpasar, with roundtrip fares starting from just €465 - a superb value for travel to Indonesia’s premier island escape!",
+      "title": "Full-service flights from Paris to Bali, Indonesia 🌴 for €539",
+      "summary": "Dreaming of the ultimate tropical getaway? China Eastern Airlines are offering discounted flights to Denpasar, with roundtrip fares starting from just €539 - a superb value for travel to Indonesia’s premier island escape!",
       "url": "https://www.fly4free.com/flight-deals/europe/flights-from-paris-to-bali-e532-2/",
       "source": "Fly4free.com",
       "date": "2026-11-05T21:00:33+00:00",
@@ -13,7 +13,7 @@
       "id": "https://www.fly4free.com/flight-deals/europe/flights-from-paris-to-bali-e532-2/",
       "firstSeen": "2026-11-05T21:02:22.291974+00:00",
       "priceOrig": {
-        "amount": 532,
+        "amount": 539,
         "cur": "EUR"
       }
     },
@@ -3942,22 +3942,6 @@
       "id": "668",
       "firstSeen": "2026-10-30T07:15:34.122861+00:00",
       "priceOrig": null
-    },
-    {
-      "title": "HOT DEAL🔥 Open-jaw flights from Europe to New Zealand and Australia from only €490",
-      "summary": "Australia and New Zealand are usually expensive long-haul destinations, so flying all the way from Europe for less than €500 is an absolute bargain!",
-      "url": "https://www.fly4free.com/flight-deals/europe/lights-from-europe-to-new-zealand-e490/",
-      "source": "Fly4free.com",
-      "date": "2026-10-29T21:30:46+00:00",
-      "dateLabel": "29. 10. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/lights-from-europe-to-new-zealand-e490/",
-      "firstSeen": "2026-10-29T22:54:22.492505+00:00",
-      "priceOrig": {
-        "amount": 490,
-        "cur": "EUR"
-      }
     }
   ]
 }
