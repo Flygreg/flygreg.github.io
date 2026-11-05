@@ -1,6 +1,90 @@
 {
-  "updated": "2026-11-05T11:16:53.552900+00:00",
+  "updated": "2026-11-05T13:28:47.173883+00:00",
   "offers": [
+    {
+      "title": "Akční letenky do PORTA - 1 370 Kč",
+      "summary": "Levné letenky do Porta pořídíme s Ryanairem. Zpáteční letenky z Norimberku do Porta pořídíme za 55 EUR, tedy asi za 1 370 Kč. Nejlevnější letenky pořídíme na různě dlouhé lednové termíny. V ceně nejlevnějšího tarifu od Ryanair máme příruční",
+      "url": "https://honzovyletenky.cz/akcni-letenky-do-porta-3/",
+      "source": "Honzovy letenky",
+      "date": "2026-11-05T13:12:27+00:00",
+      "dateLabel": "5. 11. 2026",
+      "price": 1370,
+      "image": "",
+      "id": "https://honzovyletenky.cz/akcni-letenky-do-porta-3/",
+      "firstSeen": "2026-11-05T13:28:47.173883+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Good deal! 😎 Cheap non-stop flights from Prague to Kazakhstan for €255",
+      "summary": "Explore dramatic landscapes, bustling bazaars, and rich nomadic culture—all just one flight away! Discover the magic of the Silk Road with Vietjet Air flights to Almaty for just €255 for a round trip.",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-prague-to-kazakhstan-e255/",
+      "source": "Fly4free.com",
+      "date": "2026-11-05T13:00:20+00:00",
+      "dateLabel": "5. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-prague-to-kazakhstan-e255/",
+      "firstSeen": "2026-11-05T13:28:47.173883+00:00",
+      "priceOrig": {
+        "amount": 255,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "Icelandair: Praha - Island - 5 290 Kč",
+      "summary": "",
+      "url": "https://www.akcniletenky.com",
+      "source": "AkčníLetenky.com",
+      "date": "2026-11-05T13:00:00+00:00",
+      "dateLabel": "5. 11. 2026",
+      "price": 5290,
+      "image": "",
+      "id": "694",
+      "firstSeen": "2026-11-05T13:28:47.173883+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Za krásami Madeiry již zítra: Týden ve 4* hotelu za 10 990 Kč",
+      "summary": "Užijte si last minute týden na evropské Havaji za skvělou cenu. Čedok nabízí 4* hotel s polopenzí, panoramatickými výhledy na Atlantik a bazény.",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/za-krasami-madeiry-jiz-zitra-tyden-ve-4-hotelu-za-10-990-kc?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-11-05T12:35:55+00:00",
+      "dateLabel": "5. 11. 2026",
+      "price": 10990,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/za-krasami-madeiry-jiz-zitra-tyden-ve-4-hotelu-za-10-990-kc?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-11-05T13:28:47.173883+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "3v1 z ČR: Barcelona + Maroko + Malaga. Od 2 528 Kč.",
+      "summary": "3v1 z ČR: Barcelona + Maroko + Malaga od 2 528 Kč.",
+      "url": "https://www.obletsvet.cz/akcni-letenka/3v1-z-c-r-barcelona-maroko-malaga",
+      "source": "Obletsvet.cz",
+      "date": "2026-11-05T12:15:00+00:00",
+      "dateLabel": "5. 11. 2026",
+      "price": 2528,
+      "image": "",
+      "id": "https://www.obletsvet.cz/akcni-letenka/3v1-z-c-r-barcelona-maroko-malaga",
+      "firstSeen": "2026-11-05T13:28:47.173883+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Barcelona gateway 🥰 🇪🇸 Well-rated and centrally located 4🌟 Zenit Barcelona for €74/double",
+      "summary": "Fantastic opportunity to discover Barcelona from the heart of the action with this charming hotel stay from just €74 per double room. Wander through atmospheric streets, admire Gaudí’s spectacular architecture, relax with tapas and sangria,",
+      "url": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-barcelona-e74/",
+      "source": "Fly4free.com",
+      "date": "2026-11-05T12:00:02+00:00",
+      "dateLabel": "5. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-barcelona-e74/",
+      "firstSeen": "2026-11-05T13:28:47.173883+00:00",
+      "priceOrig": {
+        "amount": 74,
+        "cur": "EUR"
+      }
+    },
     {
       "title": "Jak si zajistit vstup do letištních salónků zdarma?",
       "summary": "Letištní salónky jsou synonymem komfortu a luxusu na cestách. Nabízí pohodlné posezení, občerstvení, Wi-Fi a klidné prostředí, které oceníte před každým letem. Mnoho cestujících si však myslí, že vstup do těchto salónků je vyhrazen pouze pr",
@@ -12,6 +96,45 @@
       "image": "",
       "id": "https://honzovyletenky.cz/jak-si-zajistit-vstup-do-letistnich-salonku-zdarma/",
       "firstSeen": "2026-11-05T11:16:53.552900+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Exotická dovolená na Zanzibaru přímo u pláže: 4* Blackstone Beach Resort s All Inclusive za 25 990 Kč",
+      "summary": "Exotická dovolená na Zanzibaru přímo u moře! 4* Blackstone Beach Resort s All Inclusive a odletem z Prahy za 25 990 Kč. Objevte krásy Indického oceánu.",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/exoticka-dovolena-na-zanzibaru-primo-u-plaze-4-blackstone-beach-resort-s-all-inclusive-za-25-990-kc?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-11-05T11:31:53+00:00",
+      "dateLabel": "5. 11. 2026",
+      "price": 25990,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/exoticka-dovolena-na-zanzibaru-primo-u-plaze-4-blackstone-beach-resort-s-all-inclusive-za-25-990-kc?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-11-05T13:28:47.173883+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Ryanair Expands in Germany: New Airport Joins the Network With Two Routes",
+      "summary": "Ryanair is adding another German airport to its route network. From March 2027, the Irish low-cost carrier will begin operating flights from Kassel-Calden Airport in central Germany, with services to Spain and Italy.",
+      "url": "https://www.fly4free.com/flight-deals/europe/ryanair-expands-in-germany-new-airport-joins-the-network-with-two-routes/",
+      "source": "Fly4free.com",
+      "date": "2026-11-05T11:26:48+00:00",
+      "dateLabel": "5. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/ryanair-expands-in-germany-new-airport-joins-the-network-with-two-routes/",
+      "firstSeen": "2026-11-05T13:28:47.173883+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Přímé lety z Prahy na Island – v březnu a dubnu s Icelandair za 5 100 Kč",
+      "summary": "Rezervuj: přes náš vyhledávač Zavazadla: příruční bágl o rozměrech do 55 × 40 × 20 cm (max. 10 kg) + osobní věc Dostupnost: březen & duben 2027 Termíny za 5 100 Kč → Zobrazit kalendář Uvedená cena platí při použití kódu „ZALETSI“ v poslední",
+      "url": "https://zaletsi.cz/akce/prime-lety-z-prahy-na-island-v-breznu-a-dubnu-s-icelandair/",
+      "source": "Zaleťsi.cz",
+      "date": "2026-11-05T11:01:33+00:00",
+      "dateLabel": "5. 11. 2026",
+      "price": 5100,
+      "image": "",
+      "id": "https://zaletsi.cz/akce/prime-lety-z-prahy-na-island-v-breznu-a-dubnu-s-icelandair/",
+      "firstSeen": "2026-11-05T13:28:47.173883+00:00",
       "priceOrig": null
     },
     {
@@ -112,6 +235,19 @@
       "priceOrig": null
     },
     {
+      "title": "All inclusive zájezdy do Keni z Prahy přes státní svátek od 20 990 Kč",
+      "summary": "Zajisti si dovolenou: REZERVUJ ONLINE nebo telefonicky na čísle +420 770 104 598 Termín: 10. – 17. listopad 2026 Hotely: 4* Hotel Blue Bay Village – all inclusive light | 20 990 Kč 4* Hotel Club Jumbo Resort Watamu – all inclusive | 21 490",
+      "url": "https://zaletsi.cz/zajezdy/all-inclusive-zajezdy-do-keni-z-prahy-pres-statni-svatek/",
+      "source": "Zaleťsi.cz",
+      "date": "2026-11-05T09:17:13+00:00",
+      "dateLabel": "5. 11. 2026",
+      "price": 20990,
+      "image": "",
+      "id": "https://zaletsi.cz/zajezdy/all-inclusive-zajezdy-do-keni-z-prahy-pres-statni-svatek/",
+      "firstSeen": "2026-11-05T13:28:47.173883+00:00",
+      "priceOrig": null
+    },
+    {
       "title": "Super Last Minute Karibik: 5* resort v Dominikáně s All Inclusive z Prahy za 26 990 Kč už dnes večer",
       "summary": "Odlet do Dominikány už dnes v 19:00! Užijte si 5* luxus, pláže s palmami a All Inclusive za skvělých 26 990 Kč. Sbalte kufry a získejte super last minute cenu.",
       "url": "https://levnocestovani.cz/akcni-zajezdy/super-last-minute-karibik-5-resort-v-dominikane-s-all-inclusive-z-prahy-za-26-990-kc-uz-dnes-vecer?utm_source=rss&utm_medium=feed",
@@ -193,6 +329,19 @@
       "image": "",
       "id": "https://honzovyletenky.cz/agadir-za-tisicovku/",
       "firstSeen": "2026-11-05T07:35:17.834117+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Zájezd na Porto Santo z Prahy: skvěle hodnocený 5* hotel s all inclusive za 12 990 Kč",
+      "summary": "Zajisti si dovolenou: REZERVUJ ONLINE nebo telefonicky na čísle +420 770 104 598 Termín: 6. – 13. listopadu 2026 Hotely: 5* Hotel The Navigator – Columbus – all inclusive | 14 990 Kč 12 990 Kč O akci EDIT 5.11.2026, 10:58: Zájezd zlevněn na",
+      "url": "https://zaletsi.cz/zajezdy/zajezd-na-porto-santo-z-prahy-skvele-hodnoceny-5-hotel-s-all-inclusive/",
+      "source": "Zaleťsi.cz",
+      "date": "2026-11-05T07:50:09+00:00",
+      "dateLabel": "5. 11. 2026",
+      "price": 12990,
+      "image": "",
+      "id": "https://zaletsi.cz/zajezdy/zajezd-na-porto-santo-z-prahy-skvele-hodnoceny-5-hotel-s-all-inclusive/",
+      "firstSeen": "2026-11-05T13:28:47.173883+00:00",
       "priceOrig": null
     },
     {
@@ -338,6 +487,19 @@
       "priceOrig": null
     },
     {
+      "title": "Na prodloužené víkendy do Sarajeva: zimní letenky z Bratislavy od 1 251 Kč",
+      "summary": "Rezervuj: přes náš vyhledávač Zavazadla: příruční batoh o max. rozměrech 40 × 30 × 20 cm Dostupnost: prosinec 2026 – březen 2027 Termíny a ceny: 10. – 13. 12. za 1 410 Kč → Zobrazit let 17. – 20. 12. za 1 325 Kč → Zobrazit let 7. – 10. 1. z",
+      "url": "https://zaletsi.cz/akce/na-prodlouzene-vikendy-do-sarajeva-zimni-letenky-z-bratislavy/",
+      "source": "Zaleťsi.cz",
+      "date": "2026-11-04T18:01:26+00:00",
+      "dateLabel": "4. 11. 2026",
+      "price": 1251,
+      "image": "",
+      "id": "https://zaletsi.cz/akce/na-prodlouzene-vikendy-do-sarajeva-zimni-letenky-z-bratislavy/",
+      "firstSeen": "2026-11-05T13:28:47.173883+00:00",
+      "priceOrig": null
+    },
+    {
       "title": "Last Minute Tenerife: 4* Blue Sea Puerto Resort, All Inclusive a odlet z Prahy již zítra za 11 490 Kč",
       "summary": "Třetí zlevnění a odlet už zítra! Dopřejte si All Inclusive dovolenou na Tenerife ve 4* hotelu za skvělých 11 490 Kč. Odlet z Prahy. Počet míst je omezen!",
       "url": "https://levnocestovani.cz/akcni-zajezdy/last-minute-tenerife-4-blue-sea-puerto-resort-all-inclusive-a-odlet-z-prahy-jiz-zitra-za-11-490-kc?utm_source=rss&utm_medium=feed",
@@ -393,6 +555,19 @@
       "priceOrig": null
     },
     {
+      "title": "Maledivy z Vídně: přes hlavní sezonu s Etihad Airways za 13 763 Kč",
+      "summary": "Rezervuj: přes náš vyhledávač Zavazadla: příručák s limitem 7 kg Dostupnost: leden – květen 2027 Termíny za 13 763 Kč: → Zobrazit kalendář Uvedená cena platí při použití kódu „ZALETSI“ v posledním kroku rezervace. O akci Lákavé cenovky u le",
+      "url": "https://zaletsi.cz/akce/maledivy-z-vidne-pres-hlavni-sezonu-s-etihad-airways/",
+      "source": "Zaleťsi.cz",
+      "date": "2026-11-04T16:23:29+00:00",
+      "dateLabel": "4. 11. 2026",
+      "price": 13763,
+      "image": "",
+      "id": "https://zaletsi.cz/akce/maledivy-z-vidne-pres-hlavni-sezonu-s-etihad-airways/",
+      "firstSeen": "2026-11-05T13:28:47.173883+00:00",
+      "priceOrig": null
+    },
+    {
       "title": "Týden u nádherné pláže Bávaro za 24 990 Kč s přímým letem z Prahy",
       "summary": "Užijte si listopad pod palmami v Dominikáně! Čeká vás 4* resort u pláže s bílým pískem, tropické zahrady a 5 à la carte restaurací. Objevte nabídku Čedoku.",
       "url": "https://levnocestovani.cz/akcni-zajezdy/tyden-u-nadherne-plaze-bavaro-za-24-990-kc-s-primym-letem-z-prahy?utm_source=rss&utm_medium=feed",
@@ -435,6 +610,19 @@
       "priceOrig": null
     },
     {
+      "title": "Last minute Kanáry z Prahy: zájezd do 4* hotelu s all inclusive za 11 490 Kč",
+      "summary": "Zajisti si dovolenou: REZERVUJ ONLINE nebo telefonicky na čísle +420 770 104 598 Termín: 5. – 12. listopad 2026 Hotely: 4* Hotel Blue Sea Puerto Resort – all inclusive | 14 990 Kč 11 490 Kč 4* Hotel Barcelo Santiago – polopenze | 20 490 Kč",
+      "url": "https://zaletsi.cz/zajezdy/last-minute-kanary-z-prahy-zajezd-do-4-hotelu-s-all-inclusive/",
+      "source": "Zaleťsi.cz",
+      "date": "2026-11-04T14:50:06+00:00",
+      "dateLabel": "4. 11. 2026",
+      "price": 11490,
+      "image": "",
+      "id": "https://zaletsi.cz/zajezdy/last-minute-kanary-z-prahy-zajezd-do-4-hotelu-s-all-inclusive/",
+      "firstSeen": "2026-11-04T11:26:03.860046+00:00",
+      "priceOrig": null
+    },
+    {
       "title": "9 km zlatavého písku a 5* resort s All Inclusive na Porto Santu za 13 590 Kč",
       "summary": "Madeiru už možná znáte, ale co sousední Porto Santo? Dopřejte si odpočinek u Atlantiku, procházky po nekonečné písečné pláži a 5* hotel s All Inclusive.",
       "url": "https://levnocestovani.cz/akcni-zajezdy/9-km-zlataveho-pisku-a-5-resort-s-all-inclusive-na-porto-santu-za-13-590-kc?utm_source=rss&utm_medium=feed",
@@ -458,6 +646,19 @@
       "image": "",
       "id": "https://honzovyletenky.cz/maledivy-v-hlavni-sezone-2/",
       "firstSeen": "2026-11-04T13:24:17.436370+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Dominikána na 14 dní z Prahy: zájezdy se snídaní i all inclusive od 32 990 Kč",
+      "summary": "Zajisti si dovolenou: REZERVUJ ONLINE nebo telefonicky na čísle +420 770 104 598 Termín: 6. – 20. listopadu 2026 (14 dní) Hotely: 4* Hm Bavaro Beach – snídaně | 32 990 Kč 4* Vista Sol Punta Cana – all inclusive | 38 489 Kč 5* Bahia Principe",
+      "url": "https://zaletsi.cz/zajezdy/dominikana-na-14-dni-z-prahy-zajezdy-se-snidani-i-all-inclusive/",
+      "source": "Zaleťsi.cz",
+      "date": "2026-11-04T14:07:09+00:00",
+      "dateLabel": "4. 11. 2026",
+      "price": 32990,
+      "image": "",
+      "id": "https://zaletsi.cz/zajezdy/dominikana-na-14-dni-z-prahy-zajezdy-se-snidani-i-all-inclusive/",
+      "firstSeen": "2026-11-05T13:28:47.173883+00:00",
       "priceOrig": null
     },
     {
@@ -760,19 +961,6 @@
         "amount": 472,
         "cur": "EUR"
       }
-    },
-    {
-      "title": "Last minute Kanáry z Prahy: zájezd do 4* hotelu s all inclusive za 14 990 Kč",
-      "summary": "Zajisti si dovolenou: REZERVUJ ONLINE nebo telefonicky na čísle +420 770 104 598 Termín: 5. – 12. listopad 2026 Hotely: 4* Hotel Blue Sea Puerto Resort – all inclusive | 14 990 Kč 4* Hotel Barcelo Santiago – polopenze | 20 490 Kč Rezervace",
-      "url": "https://zaletsi.cz/zajezdy/last-minute-kanary-z-prahy-zajezd-do-4-hotelu-s-all-inclusive/",
-      "source": "Zaleťsi.cz",
-      "date": "2026-11-04T07:29:06+00:00",
-      "dateLabel": "4. 11. 2026",
-      "price": 14990,
-      "image": "",
-      "id": "https://zaletsi.cz/zajezdy/last-minute-kanary-z-prahy-zajezd-do-4-hotelu-s-all-inclusive/",
-      "firstSeen": "2026-11-04T11:26:03.860046+00:00",
-      "priceOrig": null
     },
     {
       "title": "CHEAP 💥 Flights from several German cities to New York 🗽 from €302",
@@ -3745,77 +3933,6 @@
       "firstSeen": "2026-10-29T15:08:53.631601+00:00",
       "priceOrig": {
         "amount": 405,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Zanzibar za 24 690 Kč z Prahy i Bratislavy, 4* resort se soukromou pláží",
-      "summary": "Už 8. listopadu můžete vyrazit z Prahy nebo Bratislavy na Zanzibar. Čeká vás týden u bílé pláže s All Inclusive za 24 690 Kč. Prohlédněte si nabídku Čedoku.",
-      "url": "https://levnocestovani.cz/akcni-zajezdy/zanzibar-za-24-690-kc-z-prahy-i-bratislavy-4-resort-se-soukromou-plazi?utm_source=rss&utm_medium=feed",
-      "source": "Levnocestovani.cz",
-      "date": "2026-10-29T13:08:49+00:00",
-      "dateLabel": "29. 10. 2026",
-      "price": 24690,
-      "image": "",
-      "id": "https://levnocestovani.cz/akcni-zajezdy/zanzibar-za-24-690-kc-z-prahy-i-bratislavy-4-resort-se-soukromou-plazi?utm_source=rss&utm_medium=feed",
-      "firstSeen": "2026-10-29T13:15:33.594445+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "B&B stay at beachfront 4* Dusit Buncha Koh Tao in Thailand 🌴 🥥 from €51/double",
-      "summary": "Located on the stunning island of Koh Tao, this tropical retreat is an excellent choice for couples seeking crystal-clear waters, spectacular sea views, and a relaxing island atmosphere. Enjoy a bed and breakfast stay, giving you the perfec",
-      "url": "https://www.fly4free.com/flight-deals/europe/4-star-resort-on-koh-tao-e51/",
-      "source": "Fly4free.com",
-      "date": "2026-10-29T13:00:19+00:00",
-      "dateLabel": "29. 10. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/4-star-resort-on-koh-tao-e51/",
-      "firstSeen": "2026-10-29T13:15:33.594445+00:00",
-      "priceOrig": {
-        "amount": 51,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Buzz: Bratislava - Bari - 780 Kč",
-      "summary": "",
-      "url": "https://www.akcniletenky.com",
-      "source": "AkčníLetenky.com",
-      "date": "2026-10-29T13:00:00+00:00",
-      "dateLabel": "29. 10. 2026",
-      "price": 780,
-      "image": "",
-      "id": "666",
-      "firstSeen": "2026-10-29T13:33:06.674315+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Poslední letošní zájezdy na Porto Santo z Prahy s all-inclusive. Zájezd od 13 590 Kč",
-      "summary": "Ještě letos si můžete dopřát dovolenou s all-inclusive za super cenu a užít si trochu teplejšího počasí! CK Čedok má další várku zájezdů na portugalský ostrov Porto Santo, kde se i v listopadu teploty pohybují kolem 20 °C.",
-      "url": "https://www.cestujlevne.com/akcni-letenky/posledni-letosni-zajezdy-na-porto-santo-z-prahy-s-all-inclusive",
-      "source": "CestujLevne.com",
-      "date": "2026-10-29T12:07:33+00:00",
-      "dateLabel": "29. 10. 2026",
-      "price": 13590,
-      "image": "",
-      "id": "https://www.cestujlevne.com/akcni-letenky/posledni-letosni-zajezdy-na-porto-santo-z-prahy-s-all-inclusive",
-      "firstSeen": "2026-10-29T13:15:33.594445+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Crazy-low prices! 😲 Cheap full-service open-jaw flights from European cities to many Asian destinations from €242",
-      "summary": "Explore the wonders of Asia without breaking the bank! These incredible China Eastern Airlines deal connects European cities with a wide range of Asian destinations, with fares starting at just €242 return. Even better, open-jaw itineraries",
-      "url": "https://www.fly4free.com/flight-deals/europe/open-jaw-flights-from-europe-to-asia-e242/",
-      "source": "Fly4free.com",
-      "date": "2026-10-29T12:00:51+00:00",
-      "dateLabel": "29. 10. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/open-jaw-flights-from-europe-to-asia-e242/",
-      "firstSeen": "2026-10-29T13:15:33.594445+00:00",
-      "priceOrig": {
-        "amount": 242,
         "cur": "EUR"
       }
     }
