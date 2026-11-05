@@ -1,6 +1,90 @@
 {
-  "updated": "2026-11-05T17:25:26.162736+00:00",
+  "updated": "2026-11-05T19:12:26.269472+00:00",
   "offers": [
+    {
+      "title": "Levný VIETNAM - 10 763 Kč",
+      "summary": "V zajímavé kombinaci letů od China Eastern pořídíme levné letenky do Vietnamu. Letenky na trase Vídeň – Hanoj – Budapešť pořídíme už za 10 763 Kč. Nejvýhodnější letenky jsou dostupné na přelom listopadu a prosince 2026. Letenky jsou se dvěm",
+      "url": "https://honzovyletenky.cz/levny-vietnam/",
+      "source": "Honzovy letenky",
+      "date": "2026-11-05T19:31:49+00:00",
+      "dateLabel": "5. 11. 2026",
+      "price": 10763,
+      "image": "",
+      "id": "https://honzovyletenky.cz/levny-vietnam/",
+      "firstSeen": "2026-11-05T19:12:26.269472+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Cheap full-service flights from Frankfurt & Belgrade to Bali, Indonesia 🌸 from €505",
+      "summary": "Escape to paradise without breaking the bank — discover stunning Bali with round-trip China Southern Airlines flights to Denpasar starting at €505 return. Your tropical adventure awaits!",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-frankfurt-belgrade-to-bali-e505/",
+      "source": "Fly4free.com",
+      "date": "2026-11-05T19:00:06+00:00",
+      "dateLabel": "5. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-frankfurt-belgrade-to-bali-e505/",
+      "firstSeen": "2026-11-05T19:12:26.269472+00:00",
+      "priceOrig": {
+        "amount": 505,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "New European airline launches 11 routes, including flights to Dublin, Rome and Prague",
+      "summary": "A new airline, Polaris, is launching operations in Moldova, with seven scheduled routes from Chișinău to Turkey, Italy, the Czech Republic and Ireland starting in November 2026. The carrier plans to begin flights to a total of 11 destinatio",
+      "url": "https://www.fly4free.com/news/new-european-airline-launches-11-routes-including-flights-to-dublin-rome-and-prague/",
+      "source": "Fly4free.com",
+      "date": "2026-11-05T18:12:35+00:00",
+      "dateLabel": "5. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/news/new-european-airline-launches-11-routes-including-flights-to-dublin-rome-and-prague/",
+      "firstSeen": "2026-11-05T19:12:26.269472+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Xmas Markets 🎄❄️ 4* hotel in the heart of Vilnius for €52/double",
+      "summary": "Experience the magic of Christmas markets with a festive city break in Lithuania's capital! Stay at a centrally located 4-star hotel in the heart of the city for just €52 per double room. Wander through the charming Old Town, admire its bea",
+      "url": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-vilnius-e52/",
+      "source": "Fly4free.com",
+      "date": "2026-11-05T18:00:05+00:00",
+      "dateLabel": "5. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-vilnius-e52/",
+      "firstSeen": "2026-11-05T19:12:26.269472+00:00",
+      "priceOrig": {
+        "amount": 52,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "Croatia Airlnes: Praha - Dubrovník - 4 290 Kč",
+      "summary": "",
+      "url": "https://www.akcniletenky.com",
+      "source": "AkčníLetenky.com",
+      "date": "2026-11-05T18:00:00+00:00",
+      "dateLabel": "5. 11. 2026",
+      "price": 4290,
+      "image": "",
+      "id": "695",
+      "firstSeen": "2026-11-05T19:12:26.269472+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Za sluncem do Egypta: 9 dní v Marsa Alam v 5* resortu s All Inclusive od 14 670 Kč",
+      "summary": "Dopřejte si relax u Rudého moře. 5* resort v Marsa Alam nabízí pláž s lagunou, aquapark pro děti i plážový bar. 9 dní s all inclusive z Prahy jen za 14 670 Kč.",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/za-sluncem-do-egypta-9-dni-v-marsa-alam-v-5-resortu-s-all-inclusive-od-14-670-kc?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-11-05T17:55:30+00:00",
+      "dateLabel": "5. 11. 2026",
+      "price": 14670,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/za-sluncem-do-egypta-9-dni-v-marsa-alam-v-5-resortu-s-all-inclusive-od-14-670-kc?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-11-05T19:12:26.269472+00:00",
+      "priceOrig": null
+    },
     {
       "title": "Last minute full-service direct flights from Poland to Vietnam 😍 for €621",
       "summary": "Wander far, pay less – Vietnam awaits! Book now affordable LOT flights to Ho Chi Minh starting at €621 for a round trip with checked bags included.",
@@ -87,6 +171,19 @@
         "amount": 68,
         "cur": "EUR"
       }
+    },
+    {
+      "title": "Lednová Sicílie: z Prahy do Katánie za 1 578 Kč",
+      "summary": "Rezervuj: přes náš vyhledávač Zavazadla: příruční bágl s rozměry do 40 × 30 × 20 cm Dostupnost: leden 2027 Termíny: 12. – 19. 1. za 1 578 Kč → Zobrazit let 16. 1. – 19. 1. za 1 578 Kč → Zobrazit let 16. – 23. 1. za 1 694 Kč → Zobrazit let 1",
+      "url": "https://zaletsi.cz/akce/lednova-sicilie-z-prahy-do-katanie/",
+      "source": "Zaleťsi.cz",
+      "date": "2026-11-05T14:50:51+00:00",
+      "dateLabel": "5. 11. 2026",
+      "price": 1578,
+      "image": "",
+      "id": "https://zaletsi.cz/akce/lednova-sicilie-z-prahy-do-katanie/",
+      "firstSeen": "2026-11-05T19:12:26.269472+00:00",
+      "priceOrig": null
     },
     {
       "title": "V listopadu do Keni: Týden ve 4* resortu u bílé pláže s All Inclusive za 21 490 Kč",
@@ -3845,96 +3942,6 @@
       "id": "https://honzovyletenky.cz/podzimni-letenky-do-edinburghu/",
       "firstSeen": "2026-10-29T19:06:51.978716+00:00",
       "priceOrig": null
-    },
-    {
-      "title": "Explore Australia! 🐨 🦘 Cheap full-service flights from London to Melbourne & Sydney from £480",
-      "summary": "Score an incredible long-haul flight deal with cheap Air China flights to Sydney or Melbourne starting at just £480 return. If Australia has been on your bucket list, this is the kind of fare worth jumping on, especially considering the hug",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-australia-p480/",
-      "source": "Fly4free.com",
-      "date": "2026-10-29T19:00:33+00:00",
-      "dateLabel": "29. 10. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-australia-p480/",
-      "firstSeen": "2026-10-29T19:06:51.978716+00:00",
-      "priceOrig": {
-        "amount": 480,
-        "cur": "GBP"
-      }
-    },
-    {
-      "title": "Full-service flights from London & Stockholm to New Zealand from €647",
-      "summary": "Looking for an unforgettable long-haul getaway? Take advantage of this amazing deal: fly to Auckland with China Eastern Airlines for just €647 roundtrip! Full-service means your fare includes meals, drinks, checked baggage, and in-flight en",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-london-stockholm-to-new-zealand/",
-      "source": "Fly4free.com",
-      "date": "2026-10-29T18:30:18+00:00",
-      "dateLabel": "29. 10. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-london-stockholm-to-new-zealand/",
-      "firstSeen": "2026-10-29T22:54:22.492505+00:00",
-      "priceOrig": {
-        "amount": 647,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Na Mauricius za 26 180 Kč: Týden v resortu poblíž jedné z nejkrásnějších pláží ostrova",
-      "summary": "Poznejte Mauricius, ostrov zelených hor, vodopádů a nádherných pláží. Už 7. listopadu můžete odletět z Prahy na týden s polopenzí. Prohlédněte si nabídku.",
-      "url": "https://levnocestovani.cz/akcni-zajezdy/na-mauricius-za-26-180-kc-tyden-v-resortu-pobliz-jedne-z-nejkrasnejsich-plazi-ostrova?utm_source=rss&utm_medium=feed",
-      "source": "Levnocestovani.cz",
-      "date": "2026-10-29T18:29:43+00:00",
-      "dateLabel": "29. 10. 2026",
-      "price": 26180,
-      "image": "",
-      "id": "https://levnocestovani.cz/akcni-zajezdy/na-mauricius-za-26-180-kc-tyden-v-resortu-pobliz-jedne-z-nejkrasnejsich-plazi-ostrova?utm_source=rss&utm_medium=feed",
-      "firstSeen": "2026-10-29T19:06:51.978716+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "HIGH SEASON ☀️ 🌊 Qatar Airways flights from Warsaw to South East Asia from €579",
-      "summary": "Swap grey skies for tropical coastlines, bustling night markets, lush rice terraces, and unforgettable island adventures. Qatar Airways are offering discounted flights to Thailand, Malaysia, Indonesia, and Singapore starting at just €579 re",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-warsaw-to-south-east-asia-e579/",
-      "source": "Fly4free.com",
-      "date": "2026-10-29T18:00:03+00:00",
-      "dateLabel": "29. 10. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-warsaw-to-south-east-asia-e579/",
-      "firstSeen": "2026-10-29T19:06:51.978716+00:00",
-      "priceOrig": {
-        "amount": 579,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Na 8 dní do Egypta za 13 990 Kč s odletem z Bratislavy",
-      "summary": "Soukromá pláž, bazény s tobogány a možnost šnorchlování v Rudém moři. Užijte si listopad v Hurghadě ve 4* resortu. Prohlédněte si nabídku Čedoku.",
-      "url": "https://levnocestovani.cz/akcni-zajezdy/na-8-dni-do-egypta-za-13-990-kc-s-odletem-z-bratislavy?utm_source=rss&utm_medium=feed",
-      "source": "Levnocestovani.cz",
-      "date": "2026-10-29T17:55:25+00:00",
-      "dateLabel": "29. 10. 2026",
-      "price": 13990,
-      "image": "",
-      "id": "https://levnocestovani.cz/akcni-zajezdy/na-8-dni-do-egypta-za-13-990-kc-s-odletem-z-bratislavy?utm_source=rss&utm_medium=feed",
-      "firstSeen": "2026-10-29T19:06:51.978716+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Tanzania Tightens Entry Rules for Tourists: Health Forms, Airport Screening and $44 Insurance",
-      "summary": "Planning a safari in Tanzania or dreaming of Zanzibar's white-sand beaches? Travellers now have a few extra formalities to deal with alongside their passports, flight tickets and hotel bookings. In response to the threat of Ebola spreading,",
-      "url": "https://www.fly4free.com/news/tanzania-tightens-entry-rules-for-tourists-health-forms-airport-screening-and-44-insurance/",
-      "source": "Fly4free.com",
-      "date": "2026-10-29T17:30:19+00:00",
-      "dateLabel": "29. 10. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/news/tanzania-tightens-entry-rules-for-tourists-health-forms-airport-screening-and-44-insurance/",
-      "firstSeen": "2026-10-29T19:06:51.978716+00:00",
-      "priceOrig": {
-        "amount": 44,
-        "cur": "USD"
-      }
     }
   ]
 }
