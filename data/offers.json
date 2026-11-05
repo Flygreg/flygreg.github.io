@@ -1,6 +1,51 @@
 {
-  "updated": "2026-11-05T19:12:26.269472+00:00",
+  "updated": "2026-11-05T21:02:22.291974+00:00",
   "offers": [
+    {
+      "title": "Full-service flights from Paris to Bali, Indonesia 🌴 for €532",
+      "summary": "Dreaming of the ultimate tropical getaway? Xiamen Airlines are offering discounted flights to Denpasar, with roundtrip fares starting from just €465 - a superb value for travel to Indonesia’s premier island escape!",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-paris-to-bali-e532-2/",
+      "source": "Fly4free.com",
+      "date": "2026-11-05T21:00:33+00:00",
+      "dateLabel": "5. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-paris-to-bali-e532-2/",
+      "firstSeen": "2026-11-05T21:02:22.291974+00:00",
+      "priceOrig": {
+        "amount": 532,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "Týden na Madeiře s polopenzí z Prahy. Zájezd od 11 490 Kč",
+      "summary": "Cestovní kancelář Čedok má opět v nabídce povedené zájezdy na Madeiru. Týden s polopenzí pořídíte už za 11 490 Kč na osobu. Nejlevněji vychází zájezd do hotelového komplexu Dorisol *** v termínu 24. 11.–1. 12.",
+      "url": "https://www.cestujlevne.com/akcni-letenky/tyden-na-madeire-s-polopenzi-z-prahy",
+      "source": "CestujLevne.com",
+      "date": "2026-11-05T20:48:57+00:00",
+      "dateLabel": "5. 11. 2026",
+      "price": 11490,
+      "image": "",
+      "id": "https://www.cestujlevne.com/akcni-letenky/tyden-na-madeire-s-polopenzi-z-prahy",
+      "firstSeen": "2026-11-05T21:02:22.291974+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Flights from London to Peru for £593 🦙",
+      "summary": "Dreaming of an unforgettable South American adventure? Now is the perfect time to book discounted flights to Lima from just £593 return. This incredible Air Europa deal opens the door to one of the most diverse and fascinating destinations",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-peru-p593-2/",
+      "source": "Fly4free.com",
+      "date": "2026-11-05T20:00:21+00:00",
+      "dateLabel": "5. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-peru-p593-2/",
+      "firstSeen": "2026-11-05T21:02:22.291974+00:00",
+      "priceOrig": {
+        "amount": 593,
+        "cur": "GBP"
+      }
+    },
     {
       "title": "Levný VIETNAM - 10 763 Kč",
       "summary": "V zajímavé kombinaci letů od China Eastern pořídíme levné letenky do Vietnamu. Letenky na trase Vídeň – Hanoj – Budapešť pořídíme už za 10 763 Kč. Nejvýhodnější letenky jsou dostupné na přelom listopadu a prosince 2026. Letenky jsou se dvěm",
@@ -12,6 +57,19 @@
       "image": "",
       "id": "https://honzovyletenky.cz/levny-vietnam/",
       "firstSeen": "2026-11-05T19:12:26.269472+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Konec listopadu v Thajsku za 23 490 Kč: 7 nocí v 5* resortu přímo u pláže",
+      "summary": "Vyměňte sychravý listopad za tropické Thajsko. Čedok nabízí zájezd do moderního 5* resortu přímo u pláže, se snídaní a přímým letem z Prahy.",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/konec-listopadu-v-thajsku-za-23-490-kc-7-noci-v-5-resortu-primo-u-plaze?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-11-05T19:19:22+00:00",
+      "dateLabel": "5. 11. 2026",
+      "price": 23490,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/konec-listopadu-v-thajsku-za-23-490-kc-7-noci-v-5-resortu-primo-u-plaze?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-11-05T21:02:22.291974+00:00",
       "priceOrig": null
     },
     {
@@ -3900,48 +3958,6 @@
         "amount": 490,
         "cur": "EUR"
       }
-    },
-    {
-      "title": "Luxusní dovolená ve Vietnamu za 25 190 Kč. 5* resort u pláže a přímý let",
-      "summary": "Začněte listopad na tropickém ostrově Phu Quoc! Čeká vás 5* resort se soukromou pláží, bazény a All Inclusive. Podívejte se na podrobnosti tohoto zájezdu.",
-      "url": "https://levnocestovani.cz/akcni-zajezdy/luxusni-dovolena-ve-vietnamu-za-25-190-kc-5-resort-u-plaze-a-primy-let?utm_source=rss&utm_medium=feed",
-      "source": "Levnocestovani.cz",
-      "date": "2026-10-29T20:22:36+00:00",
-      "dateLabel": "29. 10. 2026",
-      "price": 25190,
-      "image": "",
-      "id": "https://levnocestovani.cz/akcni-zajezdy/luxusni-dovolena-ve-vietnamu-za-25-190-kc-5-resort-u-plaze-a-primy-let?utm_source=rss&utm_medium=feed",
-      "firstSeen": "2026-10-29T20:57:40.776886+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Cheap flights from Vienna to Mumbai, India for €325",
-      "summary": "Discover the vibrant energy of Mumbai with this exceptional AZAL flight deal from Vienna. Travelers can fly to India’s largest city from just €325 return, making it an excellent opportunity to experience one of Asia’s most dynamic destinati",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-vienna-to-mumbai-e325/",
-      "source": "Fly4free.com",
-      "date": "2026-10-29T20:00:10+00:00",
-      "dateLabel": "29. 10. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-vienna-to-mumbai-e325/",
-      "firstSeen": "2026-10-29T20:57:40.776886+00:00",
-      "priceOrig": {
-        "amount": 325,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Podzimní letenky do EDINBURGHU - 1 451 Kč",
-      "summary": "Levné letenky do Edinburghu koupíme u Ryanair. U aerolinky Ryanair najdeme levné letenky z Prahy do Edinburghu. Za nejlevnější zpáteční letenky zaplatíme 1 451 Kč. Za tuto nebo podobnou cenu pořídíme letenky na týdenní termíny v listopadu a",
-      "url": "https://honzovyletenky.cz/podzimni-letenky-do-edinburghu/",
-      "source": "Honzovy letenky",
-      "date": "2026-10-29T19:17:08+00:00",
-      "dateLabel": "29. 10. 2026",
-      "price": 1451,
-      "image": "",
-      "id": "https://honzovyletenky.cz/podzimni-letenky-do-edinburghu/",
-      "firstSeen": "2026-10-29T19:06:51.978716+00:00",
-      "priceOrig": null
     }
   ]
 }
