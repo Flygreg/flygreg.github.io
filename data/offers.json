@@ -1,6 +1,77 @@
 {
-  "updated": "2026-11-05T13:28:47.173883+00:00",
+  "updated": "2026-11-05T15:13:00.814535+00:00",
   "offers": [
+    {
+      "title": "JAPONSKO z Prahy za fajn cenu - 16 538 Kč",
+      "summary": "Letenky do Japonska pořídíme za dobrou cenu s Korean Air. U aerolinky Korean Air najdeme levné letenky z Prahy do Japonska. Letenky do Tokia za 16 538 Kč, do Osaky vyjdou na 16 601 Kč. Po cestě máme vždy jeden přestup v jihokorejském Soulu.",
+      "url": "https://honzovyletenky.cz/japonsko-z-prahy-za-fajn-cenu/",
+      "source": "Honzovy letenky",
+      "date": "2026-11-05T15:14:03+00:00",
+      "dateLabel": "5. 11. 2026",
+      "price": 16538,
+      "image": "",
+      "id": "https://honzovyletenky.cz/japonsko-z-prahy-za-fajn-cenu/",
+      "firstSeen": "2026-11-05T15:13:00.814535+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Well-rated 4✨ hotel in central Florence for €68/double",
+      "summary": "Explore the beauty of Florence with a fantastic hotel deal! Stay at a well-rated 4-star hotel in central Florence for just €68 per night for two people. The perfect base for discovering one of Italy's most enchanting cities, with its magnif",
+      "url": "https://www.fly4free.com/hotel/4-star-hotel-in-florence-e68/",
+      "source": "Fly4free.com",
+      "date": "2026-11-05T15:00:59+00:00",
+      "dateLabel": "5. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/hotel/4-star-hotel-in-florence-e68/",
+      "firstSeen": "2026-11-05T15:13:00.814535+00:00",
+      "priceOrig": {
+        "amount": 68,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "V listopadu do Keni: Týden ve 4* resortu u bílé pláže s All Inclusive za 21 490 Kč",
+      "summary": "Vyměňte sychravý listopad za keňské moře! Týdenní All Inclusive pobyt u tropické pláže za 21 490 Kč. Rezervujte u Čedoku.",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/v-listopadu-do-keni-tyden-ve-4-resortu-u-bile-plaze-s-all-inclusive-za-21-490-kc?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-11-05T14:21:50+00:00",
+      "dateLabel": "5. 11. 2026",
+      "price": 21490,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/v-listopadu-do-keni-tyden-ve-4-resortu-u-bile-plaze-s-all-inclusive-za-21-490-kc?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-11-05T15:13:00.814535+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Z Vídně na Srí Lanku se SalamAir v lednu. Letenky od 11 513 Kč",
+      "summary": "Letecká společnost SalamAir nabízí akční zpáteční letenky z Vídně na Srí Lanku za 474 EUR. Za tuto cenu můžete vyrazit během ledna, kdy je na jihu a jihozápadě ostrova hlavní sezóna.",
+      "url": "https://www.cestujlevne.com/akcni-letenky/z-vidne-na-sri-lanku-se-salamair-v-lednu",
+      "source": "CestujLevne.com",
+      "date": "2026-11-05T14:08:25+00:00",
+      "dateLabel": "5. 11. 2026",
+      "price": 11513,
+      "image": "",
+      "id": "https://www.cestujlevne.com/akcni-letenky/z-vidne-na-sri-lanku-se-salamair-v-lednu",
+      "firstSeen": "2026-11-05T15:13:00.814535+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "HIGH SEASON 🌴 🥥 Full-service flights from Milan to Zanzibar for €543",
+      "summary": "A very strong fare for a proper Indian Ocean beach trip: Air Cairo is offering affordable full-service flights from Milan to Zanzibar from just €543 return.",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-milan-to-zanzibar-e543/",
+      "source": "Fly4free.com",
+      "date": "2026-11-05T14:00:44+00:00",
+      "dateLabel": "5. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-milan-to-zanzibar-e543/",
+      "firstSeen": "2026-11-05T15:13:00.814535+00:00",
+      "priceOrig": {
+        "amount": 543,
+        "cur": "EUR"
+      }
+    },
     {
       "title": "Akční letenky do PORTA - 1 370 Kč",
       "summary": "Levné letenky do Porta pořídíme s Ryanairem. Zpáteční letenky z Norimberku do Porta pořídíme za 55 EUR, tedy asi za 1 370 Kč. Nejlevnější letenky pořídíme na různě dlouhé lednové termíny. V ceně nejlevnějšího tarifu od Ryanair máme příruční",
@@ -3864,77 +3935,6 @@
       "id": "https://zaletsi.cz/magazin/stopover-turkish-airlines/",
       "firstSeen": "2026-10-30T22:51:03.216619+00:00",
       "priceOrig": null
-    },
-    {
-      "title": "High Season ☀️ Top-rated 5* Grand Mercure in Da Nang, Vietnam for €57/double",
-      "summary": "Planning a trip to Vietnam? We've got a great hotel deal for you! Book a double room at the 5* hotel with a rooftop swimming pool for only €57 per night!",
-      "url": "https://www.fly4free.com/flight-deals/europe/5-star-hotel-in-da-nang-vietnam-e57-2/",
-      "source": "Fly4free.com",
-      "date": "2026-10-29T15:00:54+00:00",
-      "dateLabel": "29. 10. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/5-star-hotel-in-da-nang-vietnam-e57-2/",
-      "firstSeen": "2026-10-29T17:06:50.484076+00:00",
-      "priceOrig": {
-        "amount": 57,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Poznávací zájezd z Prahy do západní Austrálie za 49 990 Kč",
-      "summary": "Rezervuj: na webu cestovní kanceláře nebo e-mailem na petra.chvalkova@avetour.cz Termín: 2. – 17. 11. 2026 Cena: 49 990 Kč O akci EDIT (30. října, 12:00): Obě místa jsou prodána. Výjimečně pro Tebe máme nabídku zájezdu od cestovní kanceláře",
-      "url": "https://zaletsi.cz/akce/poznavaci-zajezd-z-prahy-do-zapadni-australie/",
-      "source": "Zaleťsi.cz",
-      "date": "2026-10-29T15:00:06+00:00",
-      "dateLabel": "29. 10. 2026",
-      "price": 49990,
-      "image": "",
-      "id": "https://zaletsi.cz/akce/poznavaci-zajezd-z-prahy-do-zapadni-australie/",
-      "firstSeen": "2026-10-30T22:51:03.216619+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Air Arabia: Praha - Bangkok - 12 178 Kč",
-      "summary": "",
-      "url": "https://www.akcniletenky.com",
-      "source": "AkčníLetenky.com",
-      "date": "2026-10-29T15:00:00+00:00",
-      "dateLabel": "29. 10. 2026",
-      "price": 12178,
-      "image": "",
-      "id": "667",
-      "firstSeen": "2026-10-29T17:06:50.484076+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Zájezdy na Maledivy přímákem z Prahy: 4* a 5* resorty s plnou penzí od 34 490 Kč",
-      "summary": "Zajisti si dovolenou: REZERVUJ ONLINE nebo telefonicky na čísle +420 770 104 598 Termín: 25. listopad – 3. prosinec 2026 Hotely: 4* Hotel Fihalhohi Maldives – plná penze | 34 490 Kč 4* Gangehi Island Resort – plná penze | 35 490 Kč 5* Villa",
-      "url": "https://zaletsi.cz/zajezdy/zajezdy-na-maledivy-primakem-z-prahy-4-a-5-resorty-s-plnou-penzi/",
-      "source": "Zaleťsi.cz",
-      "date": "2026-10-29T14:18:19+00:00",
-      "dateLabel": "29. 10. 2026",
-      "price": 34490,
-      "image": "",
-      "id": "https://zaletsi.cz/zajezdy/zajezdy-na-maledivy-primakem-z-prahy-4-a-5-resorty-s-plnou-penzi/",
-      "firstSeen": "2026-10-30T22:51:03.216619+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Lower prices! 🤩 Cheap non-stop flights from Amsterdam to Curaçao🦩 for €405",
-      "summary": "Trade grey skies for turquoise bays, warm Caribbean evenings and colorful waterfront streets. With non-stop flights from Amsterdam to Curaçao from €405 return, this is an easy way to turn winter into a proper tropical break.",
-      "url": "https://www.fly4free.com/flight-deals/europe/direct-flights-from-amsterdam-to-curacao-e405/",
-      "source": "Fly4free.com",
-      "date": "2026-10-29T14:00:38+00:00",
-      "dateLabel": "29. 10. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/direct-flights-from-amsterdam-to-curacao-e405/",
-      "firstSeen": "2026-10-29T15:08:53.631601+00:00",
-      "priceOrig": {
-        "amount": 405,
-        "cur": "EUR"
-      }
     }
   ]
 }
