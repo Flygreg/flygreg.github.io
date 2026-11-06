@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-06T20:58:28.581379+00:00",
+  "updated": "2026-11-06T22:54:40.045935+00:00",
   "offers": [
+    {
+      "title": "Asian classics in high season from Copenhagen 🌴 Singapore + Kuala Lumpur + Krabi — all flights for €612 total with Etihad and SAS",
+      "summary": "This itinerary has a really satisfying progression: start with futuristic Singapore, move on to buzzing Kuala Lumpur, then leave the skyscrapers behind for a full week of beaches, limestone cliffs and island-hopping in Krabi.",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-copenhagen-to-krabi-singapore-kl/",
+      "source": "Fly4free.com",
+      "date": "2026-11-06T21:00:40+00:00",
+      "dateLabel": "6. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-copenhagen-to-krabi-singapore-kl/",
+      "firstSeen": "2026-11-06T22:54:40.045935+00:00",
+      "priceOrig": {
+        "amount": 612,
+        "cur": "EUR"
+      }
+    },
     {
       "title": "7 nocí v 5* hotelu nad Atlantikem: Madeira s All Inclusive za 18 490 Kč",
       "summary": "5* hotel s výhledy na oceán, bazény, wellness a All Inclusive – Čedok nabízí 7 nocí na Madeiře za 18 490 Kč. Podívejte se na tento zájezd s odletem z Prahy.",
@@ -3877,22 +3893,6 @@
       "id": "672",
       "firstSeen": "2026-10-31T08:55:32.074228+00:00",
       "priceOrig": null
-    },
-    {
-      "title": "🇩🇪 Design-led 4-star 25hours Hotel in Frankfurt from just €66/double (including Xmas🎄)",
-      "summary": "If you prefer hotels with personality over generic business-chain interiors, 25hours Hotel Frankfurt The Goldman is a very different kind of Frankfurt stay. Set in the creative Ostend district, close to the European Central Bank and the Mai",
-      "url": "https://www.fly4free.com/flight-deals/europe/25hotels-frankfurt-4-star-hotel/",
-      "source": "Fly4free.com",
-      "date": "2026-10-30T21:00:17+00:00",
-      "dateLabel": "30. 10. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/25hotels-frankfurt-4-star-hotel/",
-      "firstSeen": "2026-10-30T22:51:03.216619+00:00",
-      "priceOrig": {
-        "amount": 66,
-        "cur": "EUR"
-      }
     }
   ]
 }
