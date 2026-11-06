@@ -1,6 +1,48 @@
 {
-  "updated": "2026-11-06T17:05:59.615900+00:00",
+  "updated": "2026-11-06T19:09:02.673630+00:00",
   "offers": [
+    {
+      "title": "✈️ 🌴🌸 4 different worlds in one trip: Dublin, Toronto, Los Angeles, and Hawaii from Poland 🏝️ for €766",
+      "summary": "This is a brilliantly varied spring itinerary that keeps moving west: start with a short stop in Dublin, cross the Atlantic to Toronto, continue to sunny Los Angeles and finish with a full week in Hawaii before flying back to Wroclaw or War",
+      "url": "https://www.fly4free.com/flight-deals/europe/4-in-1-trip-to-hawaii-from-wroclaw/",
+      "source": "Fly4free.com",
+      "date": "2026-11-06T18:30:01+00:00",
+      "dateLabel": "6. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/4-in-1-trip-to-hawaii-from-wroclaw/",
+      "firstSeen": "2026-11-06T19:09:02.673630+00:00",
+      "priceOrig": {
+        "amount": 766,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "British Airways: Praha - Los Angeles - 12 290 Kč",
+      "summary": "",
+      "url": "https://www.akcniletenky.com",
+      "source": "AkčníLetenky.com",
+      "date": "2026-11-06T18:00:00+00:00",
+      "dateLabel": "6. 11. 2026",
+      "price": 12290,
+      "image": "",
+      "id": "699",
+      "firstSeen": "2026-11-06T19:09:02.673630+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Listopad u Indického oceánu. Exotická Keňa s All Inclusive za 19 590 Kč",
+      "summary": "Prozkoumejte korálové zahrady ve Watamu a odpočívejte na bílých plážích. Týdenní dovolená v Keni s all inclusive a odletem z Prahy vychází na 19 590 Kč.",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/listopad-u-indickeho-oceanu-exoticka-kena-s-all-inclusive-za-19-590-kc?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-11-06T17:58:13+00:00",
+      "dateLabel": "6. 11. 2026",
+      "price": 19590,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/listopad-u-indickeho-oceanu-exoticka-kena-s-all-inclusive-za-19-590-kc?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-11-06T19:09:02.673630+00:00",
+      "priceOrig": null
+    },
     {
       "title": "🎄🌴 CHRISTMAS BETWEEN AFRICA & BRAZIL! Cape Verde + Recife in one tropical trip from Lisbon 🏝️ for €498",
       "summary": "This itinerary turns Christmas into a proper Atlantic adventure: start with a full week in Cape Verde, continue to northeastern Brazil for a week, then return to Praia on Christmas Eve and spend Christmas Day itself under the Cape Verdean s",
@@ -3864,61 +3906,6 @@
         "amount": 383,
         "cur": "EUR"
       }
-    },
-    {
-      "title": "Lednový Omán z Prahy na týden v oblíbeném resortu s all-inclusive. Zájezd od 20 990 Kč",
-      "summary": "V lednu můžete přímým letem z Prahy vyrazit ohřát se do Ománu. CK Čedok má aktuálně v nabídce týdenní zájezdy do oblíbeného čtyřhvězdičkového hotelu Barceló Mussanah Resort přímo u moře. S all-inclusive vás dovolená vyjde na 20 990 Kč za os",
-      "url": "https://www.cestujlevne.com/akcni-letenky/lednovy-oman-z-prahy-na-tyden-v-oblibenem-resortu-s-all-inclusive",
-      "source": "CestujLevne.com",
-      "date": "2026-10-30T18:45:07+00:00",
-      "dateLabel": "30. 10. 2026",
-      "price": 20990,
-      "image": "",
-      "id": "https://www.cestujlevne.com/akcni-letenky/lednovy-oman-z-prahy-na-tyden-v-oblibenem-resortu-s-all-inclusive",
-      "firstSeen": "2026-10-30T19:00:04.784646+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Cheap flights from London to Bangkok, Thailand 🌴 from £367",
-      "summary": "Thinking about a proper Thailand adventure rather than just a week in one resort? China Southern is showing return flights from London to Bangkok from just £367, with one connection in Guangzhou each way. And Bangkok is one of the best star",
-      "url": "https://www.fly4free.com/flight-deals/europe/cheap-flights-from-london-to-thailand-2/",
-      "source": "Fly4free.com",
-      "date": "2026-10-30T18:30:56+00:00",
-      "dateLabel": "30. 10. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/cheap-flights-from-london-to-thailand-2/",
-      "firstSeen": "2026-10-30T19:00:04.784646+00:00",
-      "priceOrig": {
-        "amount": 367,
-        "cur": "GBP"
-      }
-    },
-    {
-      "title": "Saudia Airlines: Vídeň - Kuala Lumpur - 12 990 Kč",
-      "summary": "",
-      "url": "https://www.akcniletenky.com",
-      "source": "AkčníLetenky.com",
-      "date": "2026-10-30T18:00:00+00:00",
-      "dateLabel": "30. 10. 2026",
-      "price": 12990,
-      "image": "",
-      "id": "671",
-      "firstSeen": "2026-10-30T19:00:04.784646+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Týdenní relax v ráji: Maledivy z Prahy za 34 990 Kč s plnou penzí",
-      "summary": "Chcete týden bez stresu? Užijte si Maledivy za 34 990 Kč s plnou penzí a přímým letem z Prahy. Resort Fihalhohi vás nadchne. Prohlédněte si nabídku!",
-      "url": "https://levnocestovani.cz/akcni-zajezdy/tydenni-relax-v-raji-maledivy-z-prahy-za-34-990-kc-s-plnou-penzi?utm_source=rss&utm_medium=feed",
-      "source": "Levnocestovani.cz",
-      "date": "2026-10-30T17:47:48+00:00",
-      "dateLabel": "30. 10. 2026",
-      "price": 34990,
-      "image": "",
-      "id": "https://levnocestovani.cz/akcni-zajezdy/tydenni-relax-v-raji-maledivy-z-prahy-za-34-990-kc-s-plnou-penzi?utm_source=rss&utm_medium=feed",
-      "firstSeen": "2026-10-30T19:00:04.784646+00:00",
-      "priceOrig": null
     }
   ]
 }
