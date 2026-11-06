@@ -1,6 +1,48 @@
 {
-  "updated": "2026-11-06T07:32:02.421809+00:00",
+  "updated": "2026-11-06T09:11:35.099107+00:00",
   "offers": [
+    {
+      "title": "Letenky do Amsterodamu z Prahy za 3635 Kč",
+      "summary": "Amsterdam je město, které má pověst – a většinou si ji zaslouží. Kanály lemované úzkými cihlovými domy, kola všude, kde se hnete, noční čtvrti, které nikdy úplně neusnou, a přitom muzea světové úrovně jako Rijksmuseum nebo dům Anny Frankové",
+      "url": "https://www.levneletenkyzprahy.cz/2750_letenky-do-amsterodamu-z-prahy-za-3635-kc",
+      "source": "Levné letenky z Prahy",
+      "date": "2026-11-06T09:29:14+00:00",
+      "dateLabel": "6. 11. 2026",
+      "price": 3635,
+      "image": "",
+      "id": "https://www.levneletenkyzprahy.cz/2750_letenky-do-amsterodamu-z-prahy-za-3635-kc",
+      "firstSeen": "2026-11-06T09:11:35.099107+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Exotic 2-in1 trip 😎 🍹Flights from many European cities to Zanzibar & the Red Sea Coast from €450",
+      "summary": "This itinerary combines two completely different tropical getaways in one trip — a quick Red Sea stop in Egypt, nine nights on exotic Zanzibar, then almost a week back in Hurghada before flying home. And the logistics are unusually easy: ev",
+      "url": "https://www.fly4free.com/flight-deals/europe/trip-from-europe-to-hurghada-zanzibar/",
+      "source": "Fly4free.com",
+      "date": "2026-11-06T09:00:24+00:00",
+      "dateLabel": "6. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/trip-from-europe-to-hurghada-zanzibar/",
+      "firstSeen": "2026-11-06T09:11:35.099107+00:00",
+      "priceOrig": {
+        "amount": 450,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "Předvánoční Kapverdy z Prahy s all-inclusive. Zájezd od 23 090 Kč",
+      "summary": "Ještě před Vánoci můžete vyměnit zimní bundu za plavky a vyrazit za sluníčkem na Kapverdy. Exim Tours a Fischer mají teď v nabídce týdenní zájezdy na ostrov Sal do hotelu OA Belorizonte **** s all-inclusive za 23 090 Kč na osobu.",
+      "url": "https://www.cestujlevne.com/akcni-letenky/predvanocni-kapverdy-z-prahy-s-all-inclusive",
+      "source": "CestujLevne.com",
+      "date": "2026-11-06T08:15:53+00:00",
+      "dateLabel": "6. 11. 2026",
+      "price": 23090,
+      "image": "",
+      "id": "https://www.cestujlevne.com/akcni-letenky/predvanocni-kapverdy-z-prahy-s-all-inclusive",
+      "firstSeen": "2026-11-06T09:11:35.099107+00:00",
+      "priceOrig": null
+    },
     {
       "title": "TOSKÁNSKO z Prahy - 1 370 Kč",
       "summary": "V nabídce levných letenek od Ryanair jsou dostupné letenky do Pisy. Zpáteční letenky z Prahy do Pisy pořídíme už za 1 370 Kč. Nejvýhodnější letenky pořídíme na kratší i delší lednové termíny 2027. V ceně základního tarifu od aerolinky Ryana",
@@ -13,6 +55,22 @@
       "id": "https://honzovyletenky.cz/toskansko-z-prahy-10/",
       "firstSeen": "2026-11-06T07:32:02.421809+00:00",
       "priceOrig": null
+    },
+    {
+      "title": "Holiday in Krabi, Thailand for €804 p.p. 🌴 🥥 Flights from Vienna + 10-night stay at top-rated 4* hotel",
+      "summary": "Jump at the chance to book a budget-friendly holiday in Thailand! The price includes discounted Scoot flights and accommodation at the well-rated 4* resort for €804 per person (based on 2 people sharing).",
+      "url": "https://www.fly4free.com/flight-deals/europe/holiday-in-krabi-from-vienna-e804/",
+      "source": "Fly4free.com",
+      "date": "2026-11-06T08:00:49+00:00",
+      "dateLabel": "6. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/holiday-in-krabi-from-vienna-e804/",
+      "firstSeen": "2026-11-06T09:11:35.099107+00:00",
+      "priceOrig": {
+        "amount": 804,
+        "cur": "EUR"
+      }
     },
     {
       "title": "Nová moldavská aerolinka Polaris začne létat do Prahy. Letenky od 1 899 Kč",
@@ -3844,129 +3902,6 @@
       "image": "",
       "id": "https://levnocestovani.cz/akcni-zajezdy/thajsko-bez-prestupu-z-prahy-5-graceland-resort-u-plaze-patong-za-19-990-kc?utm_source=rss&utm_medium=feed",
       "firstSeen": "2026-10-30T10:57:37.881504+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Qatar Airways flights from Helsinki to Thailand & Vietnam from €572",
-      "summary": "Ready for an adventure in South East Asia? Qatar Airways are offering full-service flights to Hanoi and Bangkok starting at just €572 for a round trip!",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-helsinki-to-vietnam-thailand/",
-      "source": "Fly4free.com",
-      "date": "2026-10-30T09:00:31+00:00",
-      "dateLabel": "30. 10. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-helsinki-to-vietnam-thailand/",
-      "firstSeen": "2026-10-30T09:05:20.670023+00:00",
-      "priceOrig": {
-        "amount": 572,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Lauda: Vídeň - Catania - 980 Kč",
-      "summary": "",
-      "url": "https://www.akcniletenky.com",
-      "source": "AkčníLetenky.com",
-      "date": "2026-10-30T09:00:00+00:00",
-      "dateLabel": "30. 10. 2026",
-      "price": 980,
-      "image": "",
-      "id": "669",
-      "firstSeen": "2026-10-30T09:05:20.670023+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Mauricius z Prahy s Turkish Airlines na 9 nocí s polopenzí. Zájezd od 31 870 Kč",
-      "summary": "Na Mauricius za super cenu, a rovnou na 9 nocí. Exim Tours a Fischer mají v nabídce zájezd do tříhvězdičkového hotelu Coral Azur Beach *** na severu ostrova. S polopenzí vás dovolená vyjde na 31 870 Kč za osobu.",
-      "url": "https://www.cestujlevne.com/akcni-letenky/mauricius-z-prahy-s-turkish-airlines-na-9-noci-v-hotelu-u-plaze-s-polopenzi",
-      "source": "CestujLevne.com",
-      "date": "2026-10-30T08:52:45+00:00",
-      "dateLabel": "30. 10. 2026",
-      "price": 31870,
-      "image": "",
-      "id": "https://www.cestujlevne.com/akcni-letenky/mauricius-z-prahy-s-turkish-airlines-na-9-noci-v-hotelu-u-plaze-s-polopenzi",
-      "firstSeen": "2026-10-30T09:05:20.670023+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Travellers Trust AI to Find Cheaper Hotels, but Not to Plan Their Holidays, Study Finds",
-      "summary": "Artificial intelligence can find a cheaper hotel, translate a menu in an unfamiliar language and answer questions in the middle of the night. But are travellers ready to let it decide where they should go and how they should spend their hol",
-      "url": "https://www.fly4free.com/news/travellers-trust-ai-to-find-cheaper-hotels-but-not-to-plan-their-holidays/",
-      "source": "Fly4free.com",
-      "date": "2026-10-30T08:44:22+00:00",
-      "dateLabel": "30. 10. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/news/travellers-trust-ai-to-find-cheaper-hotels-but-not-to-plan-their-holidays/",
-      "firstSeen": "2026-10-30T09:05:20.670023+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Levná SICÍLIE z Bratislavy - 850 Kč",
-      "summary": "Za výhodnou cenu pořídíme letenky na západní pobřeží Sicílie. Zpáteční letenky z Bratislavy do Trapani pořídíme už za 34 €, tedy asi 850 Kč. Nejvýhodnější letenky jsou v nabídce na listopadové termíny 2026. V ceně nejlevnějšího tarifu od ae",
-      "url": "https://honzovyletenky.cz/levna-sicilie-z-bratislavy-2/",
-      "source": "Honzovy letenky",
-      "date": "2026-10-30T08:24:25+00:00",
-      "dateLabel": "30. 10. 2026",
-      "price": 850,
-      "image": "",
-      "id": "https://honzovyletenky.cz/levna-sicilie-z-bratislavy-2/",
-      "firstSeen": "2026-10-30T09:05:20.670023+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Zimní letenky do Ázerbájdžánu: z Bratislavy do Baku od 2 166 Kč",
-      "summary": "Rezervuj: přes náš vyhledávač Zavazadla: příruční zavazadlo s limitem 40 × 30 × 20 cm Dostupnost: prosinec 2026 – únor 2027 Příkladové termíny a ceny: 5. – 9. 12. za 2 569 Kč → Zobrazit let 5. – 12. 12. za 2 569 Kč → Zobrazit let 13. – 16.",
-      "url": "https://zaletsi.cz/akce/zimni-letenky-do-azerbajdzanu-z-bratislavy-do-baku/",
-      "source": "Zaleťsi.cz",
-      "date": "2026-10-30T08:01:53+00:00",
-      "dateLabel": "30. 10. 2026",
-      "price": 2166,
-      "image": "",
-      "id": "https://zaletsi.cz/akce/zimni-letenky-do-azerbajdzanu-z-bratislavy-do-baku/",
-      "firstSeen": "2026-10-30T22:51:03.216619+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Cheap non-stop flights from London to Calgary – gateway to amazing Banff National Park in Canada 🍁 for £387",
-      "summary": "Admire the scenic landscapes of Western Canada! Air Canada is offering cheap airfares to Calgary starting at only £387 for a round trip.",
-      "url": "https://www.fly4free.com/flight-deals/europe/direct-flights-from-london-to-calgary-p387/",
-      "source": "Fly4free.com",
-      "date": "2026-10-30T08:00:30+00:00",
-      "dateLabel": "30. 10. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/direct-flights-from-london-to-calgary-p387/",
-      "firstSeen": "2026-10-30T09:05:20.670023+00:00",
-      "priceOrig": {
-        "amount": 387,
-        "cur": "GBP"
-      }
-    },
-    {
-      "title": "Letenky Alicante, Španělsko z Prahy za 1057 Kč",
-      "summary": "Z Prahy do Alicante se teď dostanete s easyJetem za pouhých 1 057 Kč – a to je cena, která stojí za pozornost. Alicante je přístavní město na jihovýchodě Španělska, které si lidé oblíbili mimo jiné pro hrad Santa Bárbara tyčící se přímo nad",
-      "url": "https://www.levneletenkyzprahy.cz/2743_letenky-alicante,-spanelsko-z-prahy-za-1057-kc",
-      "source": "Levné letenky z Prahy",
-      "date": "2026-10-30T07:56:14+00:00",
-      "dateLabel": "30. 10. 2026",
-      "price": 1057,
-      "image": "",
-      "id": "https://www.levneletenkyzprahy.cz/2743_letenky-alicante,-spanelsko-z-prahy-za-1057-kc",
-      "firstSeen": "2026-10-30T07:15:34.122861+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Lednové víkendy v Ženevě z Prahy. Letenky od 1 593 Kč",
-      "summary": "Do Ženevy se můžete v lednu vydat na víkend, aniž byste si museli brát dovolenou. Zpáteční letenky s easyJetem pořídíte už za 1 593 Kč, s odletem v pátek večer a návratem v neděli odpoledne.",
-      "url": "https://www.cestujlevne.com/akcni-letenky/lednove-vikendy-v-zeneve-z-prahy",
-      "source": "CestujLevne.com",
-      "date": "2026-10-30T07:42:57+00:00",
-      "dateLabel": "30. 10. 2026",
-      "price": 1593,
-      "image": "",
-      "id": "https://www.cestujlevne.com/akcni-letenky/lednove-vikendy-v-zeneve-z-prahy",
-      "firstSeen": "2026-10-30T09:05:20.670023+00:00",
       "priceOrig": null
     }
   ]
