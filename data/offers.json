@@ -1,6 +1,35 @@
 {
-  "updated": "2026-11-06T19:09:02.673630+00:00",
+  "updated": "2026-11-06T20:58:28.581379+00:00",
   "offers": [
+    {
+      "title": "7 nocí v 5* hotelu nad Atlantikem: Madeira s All Inclusive za 18 490 Kč",
+      "summary": "5* hotel s výhledy na oceán, bazény, wellness a All Inclusive – Čedok nabízí 7 nocí na Madeiře za 18 490 Kč. Podívejte se na tento zájezd s odletem z Prahy.",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/7-noci-v-5-hotelu-nad-atlantikem-madeira-s-all-inclusive-za-18-490-kc?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-11-06T20:34:33+00:00",
+      "dateLabel": "6. 11. 2026",
+      "price": 18490,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/7-noci-v-5-hotelu-nad-atlantikem-madeira-s-all-inclusive-za-18-490-kc?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-11-06T20:58:28.581379+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Lisbon with attitude! ❤️‍🔥 4* Adults-only hotel with bold design from just €71/double",
+      "summary": "If you’re bored of beige hotel rooms and minimalist interiors, this one goes completely in the opposite direction. Upon Angels - Adults Only is a bold 4-star stay in Lisbon built around sensual design, theatrical details and a deliberately",
+      "url": "https://www.fly4free.com/flight-deals/europe/4-star-stylish-hotel-in-lisbon-e71/",
+      "source": "Fly4free.com",
+      "date": "2026-11-06T20:00:02+00:00",
+      "dateLabel": "6. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/4-star-stylish-hotel-in-lisbon-e71/",
+      "firstSeen": "2026-11-06T20:58:28.581379+00:00",
+      "priceOrig": {
+        "amount": 71,
+        "cur": "EUR"
+      }
+    },
     {
       "title": "✈️ 🌴🌸 4 different worlds in one trip: Dublin, Toronto, Los Angeles, and Hawaii from Poland 🏝️ for €766",
       "summary": "This is a brilliantly varied spring itinerary that keeps moving west: start with a short stop in Dublin, cross the Atlantic to Toronto, continue to sunny Los Angeles and finish with a full week in Hawaii before flying back to Wroclaw or War",
@@ -3862,48 +3891,6 @@
       "firstSeen": "2026-10-30T22:51:03.216619+00:00",
       "priceOrig": {
         "amount": 66,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Tenerife z Prahy: Týden v Puerto de la Cruz s All Inclusive od 16 490 Kč",
-      "summary": "Dopřejte týden v Puerto de la Cruz na Tenerife! 4* hotel, All Inclusive a skvělá lokalita jen 250 m od pláže Martiánez. Na Čedoku nebo Invii od 16 490 Kč.",
-      "url": "https://levnocestovani.cz/akcni-zajezdy/tenerife-z-prahy-tyden-v-puerto-de-la-cruz-s-all-inclusive-od-16-490-kc?utm_source=rss&utm_medium=feed",
-      "source": "Levnocestovani.cz",
-      "date": "2026-10-30T20:47:53+00:00",
-      "dateLabel": "30. 10. 2026",
-      "price": 16490,
-      "image": "",
-      "id": "https://levnocestovani.cz/akcni-zajezdy/tenerife-z-prahy-tyden-v-puerto-de-la-cruz-s-all-inclusive-od-16-490-kc?utm_source=rss&utm_medium=feed",
-      "firstSeen": "2026-10-30T20:54:59.725578+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Akční letenky na MAURICIUS - 13 990 Kč",
-      "summary": "Levné letenky na Mauricius nabízí Fischer i se zavazadlem. CK Fischer nabízí nyní levné letenky z Prahy na Mauricius. Ve svém rezervačním systému nabízí letenky od Turkish Airlines za 13 990 Kč. Po cestě máme jeden přestup v Istanbulu. Za t",
-      "url": "https://honzovyletenky.cz/akcni-letenky-na-mauricius-4/",
-      "source": "Honzovy letenky",
-      "date": "2026-10-30T20:25:44+00:00",
-      "dateLabel": "30. 10. 2026",
-      "price": 13990,
-      "image": "",
-      "id": "https://honzovyletenky.cz/akcni-letenky-na-mauricius-4/",
-      "firstSeen": "2026-10-30T20:54:59.725578+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "🌴 WINTER SUN + SAFARI! Cheap flights from Europe to Mombasa from €383 return",
-      "summary": "Why choose between a beach holiday and a safari when you can do both? Condor is offering return flights from several European cities to Mombasa from just €383, making Kenya’s Indian Ocean coast a very tempting winter escape.",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-mombasa-e383/",
-      "source": "Fly4free.com",
-      "date": "2026-10-30T20:00:00+00:00",
-      "dateLabel": "30. 10. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-mombasa-e383/",
-      "firstSeen": "2026-10-30T20:54:59.725578+00:00",
-      "priceOrig": {
-        "amount": 383,
         "cur": "EUR"
       }
     }
