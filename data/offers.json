@@ -1,6 +1,61 @@
 {
-  "updated": "2026-11-05T22:59:13.557666+00:00",
+  "updated": "2026-11-06T07:32:02.421809+00:00",
   "offers": [
+    {
+      "title": "TOSKÁNSKO z Prahy - 1 370 Kč",
+      "summary": "V nabídce levných letenek od Ryanair jsou dostupné letenky do Pisy. Zpáteční letenky z Prahy do Pisy pořídíme už za 1 370 Kč. Nejvýhodnější letenky pořídíme na kratší i delší lednové termíny 2027. V ceně základního tarifu od aerolinky Ryana",
+      "url": "https://honzovyletenky.cz/toskansko-z-prahy-10/",
+      "source": "Honzovy letenky",
+      "date": "2026-11-06T08:00:53+00:00",
+      "dateLabel": "6. 11. 2026",
+      "price": 1370,
+      "image": "",
+      "id": "https://honzovyletenky.cz/toskansko-z-prahy-10/",
+      "firstSeen": "2026-11-06T07:32:02.421809+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Nová moldavská aerolinka Polaris začne létat do Prahy. Letenky od 1 899 Kč",
+      "summary": "Nově založená moldavská aerolinka Polaris spouští v listopadu 2026 lety z Kišiněva do 11 destinací, mezi nimiž bude i Praha.",
+      "url": "https://www.cestujlevne.com/akcni-letenky/nova-moldavska-aerolinka-polaris-zacne-letat-do-prahy",
+      "source": "CestujLevne.com",
+      "date": "2026-11-06T07:01:02+00:00",
+      "dateLabel": "6. 11. 2026",
+      "price": 1899,
+      "image": "",
+      "id": "https://www.cestujlevne.com/akcni-letenky/nova-moldavska-aerolinka-polaris-zacne-letat-do-prahy",
+      "firstSeen": "2026-11-06T07:32:02.421809+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Crazy-low prices 😱 Cheap flights from Spain to New York from €244",
+      "summary": "Avianca is offering super discounted flights to New York (JFK)! Tickets available from only €244 for a round trip.",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-spain-to-new-york-e244-4/",
+      "source": "Fly4free.com",
+      "date": "2026-11-06T07:00:57+00:00",
+      "dateLabel": "6. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-spain-to-new-york-e244-4/",
+      "firstSeen": "2026-11-06T07:32:02.421809+00:00",
+      "priceOrig": {
+        "amount": 244,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "Buzz: Bratislava - Lamezia Terme - 850 Kč",
+      "summary": "",
+      "url": "https://www.akcniletenky.com",
+      "source": "AkčníLetenky.com",
+      "date": "2026-11-06T07:00:00+00:00",
+      "dateLabel": "6. 11. 2026",
+      "price": 850,
+      "image": "",
+      "id": "696",
+      "firstSeen": "2026-11-06T07:32:02.421809+00:00",
+      "priceOrig": null
+    },
     {
       "title": "Full-service flights from Paris to Bali, Indonesia 🌴 for €539",
       "summary": "Dreaming of the ultimate tropical getaway? China Eastern Airlines are offering discounted flights to Denpasar, with roundtrip fares starting from just €539 - a superb value for travel to Indonesia’s premier island escape!",
@@ -3912,35 +3967,6 @@
       "image": "",
       "id": "https://www.cestujlevne.com/akcni-letenky/lednove-vikendy-v-zeneve-z-prahy",
       "firstSeen": "2026-10-30T09:05:20.670023+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "HIGH SEASON ☀️ Cheap full-service flights from Brussels to Vietnam from €388",
-      "summary": "This is a seriously good long-haul fare to Southeast Asia! Juneyao Airlines is offering discounted return flights to Hanoi or Ho Chi Minh from only €388, with checked baggage, meals and onboard entertainment included — making it an especial",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-brussels-to-vietnam-e388-2/",
-      "source": "Fly4free.com",
-      "date": "2026-10-30T07:00:40+00:00",
-      "dateLabel": "30. 10. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-brussels-to-vietnam-e388-2/",
-      "firstSeen": "2026-10-30T07:15:34.122861+00:00",
-      "priceOrig": {
-        "amount": 388,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Wizz Air: Praha - Poprad - 805 Kč",
-      "summary": "",
-      "url": "https://www.akcniletenky.com",
-      "source": "AkčníLetenky.com",
-      "date": "2026-10-30T06:00:00+00:00",
-      "dateLabel": "30. 10. 2026",
-      "price": 805,
-      "image": "",
-      "id": "668",
-      "firstSeen": "2026-10-30T07:15:34.122861+00:00",
       "priceOrig": null
     }
   ]
