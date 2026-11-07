@@ -1,6 +1,19 @@
 {
-  "updated": "2026-11-06T22:54:40.045935+00:00",
+  "updated": "2026-11-07T07:17:59.848933+00:00",
   "offers": [
+    {
+      "title": "Buzz: Praha - Gdaňsk - 982 Kč",
+      "summary": "",
+      "url": "https://www.akcniletenky.com",
+      "source": "AkčníLetenky.com",
+      "date": "2026-11-07T07:00:00+00:00",
+      "dateLabel": "7. 11. 2026",
+      "price": 982,
+      "image": "",
+      "id": "700",
+      "firstSeen": "2026-11-07T07:17:59.848933+00:00",
+      "priceOrig": null
+    },
     {
       "title": "Asian classics in high season from Copenhagen 🌴 Singapore + Kuala Lumpur + Krabi — all flights for €612 total with Etihad and SAS",
       "summary": "This itinerary has a really satisfying progression: start with futuristic Singapore, move on to buzzing Kuala Lumpur, then leave the skyscrapers behind for a full week of beaches, limestone cliffs and island-hopping in Krabi.",
@@ -3879,19 +3892,6 @@
       "image": "",
       "id": "https://www.levneletenkyzprahy.cz/2744_akcni-letenky:-turin,-italie-za-990-kc",
       "firstSeen": "2026-10-31T07:10:01.405956+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Buzz: Bratislava - Agadir - 980 Kč",
-      "summary": "",
-      "url": "https://www.akcniletenky.com",
-      "source": "AkčníLetenky.com",
-      "date": "2026-10-31T07:00:00+00:00",
-      "dateLabel": "31. 10. 2026",
-      "price": 980,
-      "image": "",
-      "id": "672",
-      "firstSeen": "2026-10-31T08:55:32.074228+00:00",
       "priceOrig": null
     }
   ]
