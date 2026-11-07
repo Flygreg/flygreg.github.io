@@ -1,6 +1,38 @@
 {
-  "updated": "2026-11-07T18:59:35.958280+00:00",
+  "updated": "2026-11-07T20:51:57.276357+00:00",
   "offers": [
+    {
+      "title": "Bargain fares! 😎 Cheap non-stop flights from Paris to Montreal, Canada for €353",
+      "summary": "Looking for an incredible escape to Canada? This limited-time flight deal makes it easier than ever! Air Transat is offering discounted direct flights to Montreal from just €353 return, offering one of the most affordable ways to experience",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-paris-to-montreal-e353-2/",
+      "source": "Fly4free.com",
+      "date": "2026-11-07T20:00:28+00:00",
+      "dateLabel": "7. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-paris-to-montreal-e353-2/",
+      "firstSeen": "2026-11-07T20:51:57.276357+00:00",
+      "priceOrig": {
+        "amount": 353,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "Caribbean escape 🌴 🥥 Direct flights from the UK to Jamaica from £458",
+      "summary": "Trade cloudy days for palm trees, blue water and that unmistakable island rhythm — Jamaica is pure good vibes! Grab discounted TUI flights to Montego Bay from just £458 return and dive straight into the tropics.",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-the-uk-to-jamaica-p458/",
+      "source": "Fly4free.com",
+      "date": "2026-11-07T19:00:12+00:00",
+      "dateLabel": "7. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-the-uk-to-jamaica-p458/",
+      "firstSeen": "2026-11-07T20:51:57.276357+00:00",
+      "priceOrig": {
+        "amount": 458,
+        "cur": "GBP"
+      }
+    },
     {
       "title": "15 dní na Madeiře za 15 590 Kč. 4* hotel u oceánu se snídaní a letenky z Prahy",
       "summary": "Prozkoumejte Madeiru vlastním tempem! 15 dní ve 4* hotelu u pobřeží od 15 590 Kč. V ceně jsou lety z Prahy i snídaně. Poznejte levády a relaxujte u moře.",
@@ -3886,51 +3918,6 @@
       "priceOrig": {
         "amount": 453,
         "cur": "EUR"
-      }
-    },
-    {
-      "title": "Přímým letem z Prahy do Karibiku: Dominikánská republika ve 4* resortu přímo u pláže s All Inclusive za 26 990 Kč",
-      "summary": "Odleťte přímým letem z Prahy do Karibiku! Čeká vás Dominikánská republika, 4* resort přímo u písečné pláže a All Inclusive za 26 990 Kč. Zamluvte si zájezd!",
-      "url": "https://levnocestovani.cz/akcni-zajezdy/primym-letem-z-prahy-do-karibiku-dominikanska-republika-ve-4-resortu-primo-u-plaze-s-all-inclusive-za-26-990-kc?utm_source=rss&utm_medium=feed",
-      "source": "Levnocestovani.cz",
-      "date": "2026-10-31T20:46:01+00:00",
-      "dateLabel": "31. 10. 2026",
-      "price": 26990,
-      "image": "",
-      "id": "https://levnocestovani.cz/akcni-zajezdy/primym-letem-z-prahy-do-karibiku-dominikanska-republika-ve-4-resortu-primo-u-plaze-s-all-inclusive-za-26-990-kc?utm_source=rss&utm_medium=feed",
-      "firstSeen": "2026-10-31T20:50:10.214404+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "XMAS & NYE🎄 Lufthansa direct flights from Frankfurt to Seattle for €498",
-      "summary": "Explore the American West Coast with non-stop flights from Frankfurt starting from just €498 return. This exciting travel deal lets you fly directly to one of the most iconic cities in the United States: Seattle. Comfortable non-stop connec",
-      "url": "https://www.fly4free.com/flight-deals/europe/direct-flights-from-frankfurt-to-seattle-e498/",
-      "source": "Fly4free.com",
-      "date": "2026-10-31T20:00:40+00:00",
-      "dateLabel": "31. 10. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/direct-flights-from-frankfurt-to-seattle-e498/",
-      "firstSeen": "2026-10-31T20:50:10.214404+00:00",
-      "priceOrig": {
-        "amount": 498,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Price drop 💥 Cheap full-service flights from London to Sri Lanka 🌴 from £466 or £513 over High Season",
-      "summary": "It’s your moment to discover paradise! Take advantage of discounted Gulf Air flights to Colombo starting at just £466 return. Step into a world of adventure, history, and natural beauty.",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-sri-lanka-p466/",
-      "source": "Fly4free.com",
-      "date": "2026-10-31T19:00:58+00:00",
-      "dateLabel": "31. 10. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-sri-lanka-p466/",
-      "firstSeen": "2026-10-31T20:50:10.214404+00:00",
-      "priceOrig": {
-        "amount": 466,
-        "cur": "GBP"
       }
     }
   ]
