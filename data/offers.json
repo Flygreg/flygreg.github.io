@@ -1,6 +1,48 @@
 {
-  "updated": "2026-11-07T13:08:20.587568+00:00",
+  "updated": "2026-11-07T14:53:51.907536+00:00",
   "offers": [
+    {
+      "title": "Levný zájezd na MADEIRU z Prahy - 10 490 Kč",
+      "summary": "Levný zájezd na Madeiru koupíme u Čedoku. CK Čedok nabízí levný last minute zájezd z Prahy na Madeiru. Za týdenní zájezd do 4* hotelu se snídaní zaplatíme 10 490 Kč, o pouhých 500 Kč pořídíme další zájezd i s polopenzí. V ceně zájezdu je ta",
+      "url": "https://honzovyletenky.cz/levny-zajezd-na-madeiru-z-prahy/",
+      "source": "Honzovy letenky",
+      "date": "2026-11-07T15:51:45+00:00",
+      "dateLabel": "7. 11. 2026",
+      "price": 10490,
+      "image": "",
+      "id": "https://honzovyletenky.cz/levny-zajezd-na-madeiru-z-prahy/",
+      "firstSeen": "2026-11-07T14:53:51.907536+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Cheap flights from Prague to Phuket & Bangkok, Thailand from €448",
+      "summary": "Score an unbeatable travel bargain with discounted Air Arabia flights t starting from just €448 return — an incredible price for a long-haul adventure to one of Asia’s most exciting destinations. This limited flight deal is perfect for trav",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-prague-to-bangkok-e448/",
+      "source": "Fly4free.com",
+      "date": "2026-11-07T14:00:15+00:00",
+      "dateLabel": "7. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-prague-to-bangkok-e448/",
+      "firstSeen": "2026-11-07T14:53:51.907536+00:00",
+      "priceOrig": {
+        "amount": 448,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "Od pláží až po safari: 8 dní v Keni za 23 990 Kč",
+      "summary": "Objevte keňské Watamu s písečnými plážemi, korálovými útesy a tropickou přírodou. Čedok nabízí pobyt ve 4* resortu s All Inclusive – prohlédněte si zájezd.",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/od-plazi-az-po-safari-8-dni-v-keni-za-23-990-kc?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-11-07T13:57:48+00:00",
+      "dateLabel": "7. 11. 2026",
+      "price": 23990,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/od-plazi-az-po-safari-8-dni-v-keni-za-23-990-kc?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-11-07T14:53:51.907536+00:00",
+      "priceOrig": null
+    },
     {
       "title": "Full-service flights from Frankfurt to the Philippines 🏝️ from €495",
       "summary": "A tropical holiday in the Philippines doesn’t have to cost a fortune! Oman Air is offering discounted return flights to Manila starting at €495, offering an excellent opportunity to visit one of Asia’s most beautiful destinations for less.",
@@ -16,6 +58,19 @@
         "amount": 495,
         "cur": "EUR"
       }
+    },
+    {
+      "title": "Air Arabia: Praha - Dillí - 11 920 Kč",
+      "summary": "",
+      "url": "https://www.akcniletenky.com",
+      "source": "AkčníLetenky.com",
+      "date": "2026-11-07T13:00:00+00:00",
+      "dateLabel": "7. 11. 2026",
+      "price": 11920,
+      "image": "",
+      "id": "702",
+      "firstSeen": "2026-11-07T14:53:51.907536+00:00",
+      "priceOrig": null
     },
     {
       "title": "Kapverdy z Prahy na konci listopadu: 4* resort Sol Dunas s All Inclusive z Prahy od 26 590 Kč",
@@ -3877,48 +3932,6 @@
         "amount": 59,
         "cur": "EUR"
       }
-    },
-    {
-      "title": "PEAK SEASON ☀️🌴 Cheap full-service flights from Barcelona to South East Asia from €489",
-      "summary": "China Eastern Airlines are offering discounted flights to Thailand, Singapore, Malaysia and Vietnam from just €489 return — making this one of the cheapest options to Southeast Asia right now.",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-barcelona-to-thailand-malaysia/",
-      "source": "Fly4free.com",
-      "date": "2026-10-31T14:00:15+00:00",
-      "dateLabel": "31. 10. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-barcelona-to-thailand-malaysia/",
-      "firstSeen": "2026-10-31T14:49:47.604907+00:00",
-      "priceOrig": {
-        "amount": 489,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Lauda: Vídeň - Neapol - 980 Kč",
-      "summary": "",
-      "url": "https://www.akcniletenky.com",
-      "source": "AkčníLetenky.com",
-      "date": "2026-10-31T14:00:00+00:00",
-      "dateLabel": "31. 10. 2026",
-      "price": 980,
-      "image": "",
-      "id": "674",
-      "firstSeen": "2026-10-31T14:49:47.604907+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Dovolená na Madeiře s polopenzí: 8 dní ve 4* hotelu s výhledem na oceán za 12 490 Kč",
-      "summary": "Láká vás příroda a výhledy? Vyrazte na týden na Madeiru z Prahy za 12 490 Kč. Čeká vás 4* hotel s polopenzí, koupání v Calhetě i objevování západu ostrova.",
-      "url": "https://levnocestovani.cz/akcni-zajezdy/dovolena-na-madeire-s-polopenzi-7-dni-ve-4-hotelu-s-vyhledem-na-ocean-za-12-490-kc?utm_source=rss&utm_medium=feed",
-      "source": "Levnocestovani.cz",
-      "date": "2026-10-31T13:31:07+00:00",
-      "dateLabel": "31. 10. 2026",
-      "price": 12490,
-      "image": "",
-      "id": "https://levnocestovani.cz/akcni-zajezdy/dovolena-na-madeire-s-polopenzi-7-dni-ve-4-hotelu-s-vyhledem-na-ocean-za-12-490-kc?utm_source=rss&utm_medium=feed",
-      "firstSeen": "2026-10-31T14:49:47.604907+00:00",
-      "priceOrig": null
     }
   ]
 }
