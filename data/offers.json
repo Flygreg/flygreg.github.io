@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-07T20:51:57.276357+00:00",
+  "updated": "2026-11-07T22:50:49.233481+00:00",
   "offers": [
+    {
+      "title": "HIGH SEASON 🌴 🥥 Etihad Airways flights from several European cities to exotic Zanzibar from €519",
+      "summary": "Escape to paradise! Fly Etihad Airways to the island of Zanzibar starting at only €519 for a round trip. Sun, sand, and adventure await-book your island getaway now.",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-zanzibar-e519/",
+      "source": "Fly4free.com",
+      "date": "2026-11-07T21:00:33+00:00",
+      "dateLabel": "7. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-zanzibar-e519/",
+      "firstSeen": "2026-11-07T22:50:49.233481+00:00",
+      "priceOrig": {
+        "amount": 519,
+        "cur": "EUR"
+      }
+    },
     {
       "title": "Bargain fares! 😎 Cheap non-stop flights from Paris to Montreal, Canada for €353",
       "summary": "Looking for an incredible escape to Canada? This limited-time flight deal makes it easier than ever! Air Transat is offering discounted direct flights to Montreal from just €353 return, offering one of the most affordable ways to experience",
@@ -3890,35 +3906,6 @@
       "id": "676",
       "firstSeen": "2026-11-01T08:59:01.793960+00:00",
       "priceOrig": null
-    },
-    {
-      "title": "European Airlines Cut Winter Schedules: Ryanair Removes 5.7 Million Seats, LOT Nearly 600,000",
-      "summary": "European airlines are preparing for a challenging winter — and they have already begun revising their plans. In just a few weeks, Ryanair cut its planned seat capacity by 5.7 million, LOT by nearly 600,000, while some smaller carriers slash",
-      "url": "https://www.fly4free.com/news/european-airlines-cut-winter-schedules-ryanair/",
-      "source": "Fly4free.com",
-      "date": "2026-10-31T21:37:20+00:00",
-      "dateLabel": "31. 10. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/news/european-airlines-cut-winter-schedules-ryanair/",
-      "firstSeen": "2026-10-31T22:49:14.412551+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Price Cut! Last minute direct full-service flights from several cities in Poland to Sri Lanka ☀️ 🌴 from €453",
-      "summary": "Enter Air is offering direct return flights from several Polish cities to Colombo from just €453, making Sri Lanka an easy last-minute option for anyone craving beaches, jungle, tea country and a completely different climate.",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-poland-to-sri-lanka-e454/",
-      "source": "Fly4free.com",
-      "date": "2026-10-31T21:00:27+00:00",
-      "dateLabel": "31. 10. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-poland-to-sri-lanka-e454/",
-      "firstSeen": "2026-10-31T22:49:14.412551+00:00",
-      "priceOrig": {
-        "amount": 453,
-        "cur": "EUR"
-      }
     }
   ]
 }
