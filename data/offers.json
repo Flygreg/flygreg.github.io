@@ -1,6 +1,51 @@
 {
-  "updated": "2026-11-07T10:55:26.121375+00:00",
+  "updated": "2026-11-07T13:08:20.587568+00:00",
   "offers": [
+    {
+      "title": "Full-service flights from Frankfurt to the Philippines 🏝️ from €495",
+      "summary": "A tropical holiday in the Philippines doesn’t have to cost a fortune! Oman Air is offering discounted return flights to Manila starting at €495, offering an excellent opportunity to visit one of Asia’s most beautiful destinations for less.",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-frankfurt-to-the-philippines-e495/",
+      "source": "Fly4free.com",
+      "date": "2026-11-07T13:00:10+00:00",
+      "dateLabel": "7. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-frankfurt-to-the-philippines-e495/",
+      "firstSeen": "2026-11-07T13:08:20.587568+00:00",
+      "priceOrig": {
+        "amount": 495,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "Kapverdy z Prahy na konci listopadu: 4* resort Sol Dunas s All Inclusive z Prahy od 26 590 Kč",
+      "summary": "Naplánujte si závěr listopadu u Atlantiku. Resort Sol Dunas na ostrově Sal nabízí All Inclusive, 3 bazény i zázemí pro rodiny. Z Prahy jen za 26 590 Kč.",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/kapverdy-z-prahy-na-konci-listopadu-4-resort-sol-dunas-s-all-inclusive-z-prahy-od-26-590-kc?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-11-07T12:28:07+00:00",
+      "dateLabel": "7. 11. 2026",
+      "price": 26590,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/kapverdy-z-prahy-na-konci-listopadu-4-resort-sol-dunas-s-all-inclusive-z-prahy-od-26-590-kc?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-11-07T13:08:20.587568+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "B&B stay at well-rated and central 4🌟 hotel in Athens for €62/double",
+      "summary": "Discover the magic of Athens with a stay at the well-rated 4* Athenaeum K 29 Hotel, available for just €62 per double room! Ideally located in the Greek capital, this hotel is a great base for exploring Athens' ancient landmarks, vibrant ne",
+      "url": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-athens-e62/",
+      "source": "Fly4free.com",
+      "date": "2026-11-07T12:00:08+00:00",
+      "dateLabel": "7. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-athens-e62/",
+      "firstSeen": "2026-11-07T13:08:20.587568+00:00",
+      "priceOrig": {
+        "amount": 62,
+        "cur": "EUR"
+      }
+    },
     {
       "title": "SINGAPUR s Turkish - 14 580 Kč",
       "summary": "Za výhodnou cenu jsou dostupné letenky do Jihovýchodní Asie i z Prahy. Zpáteční letenky z Prahy do Singapuru pořídíme v nabídce Turkish Airlines už za 14 580 Kč. Letenky jsou dostupné na spoustu termínů o listopadu 2026 do března 2027. V ce",
@@ -13,6 +58,35 @@
       "id": "https://honzovyletenky.cz/singapur-s-turkish/",
       "firstSeen": "2026-11-07T10:55:26.121375+00:00",
       "priceOrig": null
+    },
+    {
+      "title": "Madeira z Prahy na týden. 4* hotel pro dospělé s polopenzí za 12 690 Kč",
+      "summary": "Ráno výhledy, večer drink na střešním baru s panoramatem Funchalu. Dopřejte si relax pro dospělé na Madeiře s polopenzí a odletem z Prahy za 12 690 Kč na týden.",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/madeira-z-prahy-na-tyden-4-hotel-pro-dospele-s-polopenzi-za-12-690-kc?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-11-07T11:13:43+00:00",
+      "dateLabel": "7. 11. 2026",
+      "price": 12690,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/madeira-z-prahy-na-tyden-4-hotel-pro-dospele-s-polopenzi-za-12-690-kc?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-11-07T13:08:20.587568+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Cheap full-service Hainan Airlines flights from Brussels to Bangkok, Thailand from €464",
+      "summary": "Experience the tropical paradise of Thailand! Take advantage of these discounted full-service flights to Bangkok, offered by Hainan Airlines, with fares starting at only €464 for a round trip.",
+      "url": "https://www.fly4free.com/flight-deals/europe/hainan-airlines-flights-from-brussels-to-thailand-e464/",
+      "source": "Fly4free.com",
+      "date": "2026-11-07T11:00:50+00:00",
+      "dateLabel": "7. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/hainan-airlines-flights-from-brussels-to-thailand-e464/",
+      "firstSeen": "2026-11-07T13:08:20.587568+00:00",
+      "priceOrig": {
+        "amount": 464,
+        "cur": "EUR"
+      }
     },
     {
       "title": "Holiday in Cape Verde for €662 p.p. 🌴 🥥 Cheap direct flights from Poland + 7-night B&B stay at well-rated hotel",
@@ -3845,80 +3919,6 @@
       "id": "https://levnocestovani.cz/akcni-zajezdy/dovolena-na-madeire-s-polopenzi-7-dni-ve-4-hotelu-s-vyhledem-na-ocean-za-12-490-kc?utm_source=rss&utm_medium=feed",
       "firstSeen": "2026-10-31T14:49:47.604907+00:00",
       "priceOrig": null
-    },
-    {
-      "title": "Fare drop 😉 Cheap direct flights from Paris to the island of Sao Vicente, Cape Verde 🏝️ for €171",
-      "summary": "Transavia is offering discounted direct flights to Sao Vicente! Tickets available from €171 for a round trip.",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-paris-to-sao-vicente-e171/",
-      "source": "Fly4free.com",
-      "date": "2026-10-31T13:00:50+00:00",
-      "dateLabel": "31. 10. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-paris-to-sao-vicente-e171/",
-      "firstSeen": "2026-10-31T13:03:52.548534+00:00",
-      "priceOrig": {
-        "amount": 171,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Maledivy za 37 990 Kč: Plážová vila v 5* resortu s hodnocením 9,4/10 a přímý let",
-      "summary": "Soukromá terasa s výhledem na oceán, západy slunce přímo od vilky a šnorchlování v tyrkysových vodách. Mrkněte na nabídku a užijte si týden na Maledivách.",
-      "url": "https://levnocestovani.cz/akcni-zajezdy/maledivy-za-37-990-kc-plazova-vila-v-5-resortu-s-hodnocenim-9410-a-primy-let?utm_source=rss&utm_medium=feed",
-      "source": "Levnocestovani.cz",
-      "date": "2026-10-31T12:16:23+00:00",
-      "dateLabel": "31. 10. 2026",
-      "price": 37990,
-      "image": "",
-      "id": "https://levnocestovani.cz/akcni-zajezdy/maledivy-za-37-990-kc-plazova-vila-v-5-resortu-s-hodnocenim-9410-a-primy-let?utm_source=rss&utm_medium=feed",
-      "firstSeen": "2026-10-31T13:03:52.548534+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Well-rated 4* Czar Lisbon Hotel 💕 for €65/double",
-      "summary": "Discover Lisbon with an incredible stay at a stylish 4-star hotel capital from just €65 per double room. This fantastic value makes it easy to experience one of Europe's most exciting city breaks without stretching your budget.",
-      "url": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-lisbon-e65/",
-      "source": "Fly4free.com",
-      "date": "2026-10-31T12:00:24+00:00",
-      "dateLabel": "31. 10. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-lisbon-e65/",
-      "firstSeen": "2026-10-31T13:03:52.548534+00:00",
-      "priceOrig": {
-        "amount": 65,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Lufthansa Changes Online Check-In Rules: Passengers Will Need to Create an Account",
-      "summary": "Checking in for a Lufthansa flight using just your surname and booking reference will soon no longer be enough. Lufthansa Group is gradually making Travel ID accounts mandatory for online check-in across seven of its airlines. The new rules",
-      "url": "https://www.fly4free.com/flight-deals/europe/lufthansa-changes-online-check-in-rules-passengers-will-need-to-create-an-account/",
-      "source": "Fly4free.com",
-      "date": "2026-10-31T11:45:07+00:00",
-      "dateLabel": "31. 10. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/lufthansa-changes-online-check-in-rules-passengers-will-need-to-create-an-account/",
-      "firstSeen": "2026-10-31T13:03:52.548534+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Fares down! 💥 Cheap full-service flights from several European cities to Bali, Indonesia🌴 from €447",
-      "summary": "Escape to paradise without breaking the bank — discover stunning Bali with round-trip China Eastern Airlines flights to Denpasar starting at just €447. Your tropical adventure awaits!",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-bali-e447/",
-      "source": "Fly4free.com",
-      "date": "2026-10-31T11:00:03+00:00",
-      "dateLabel": "31. 10. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-bali-e447/",
-      "firstSeen": "2026-10-31T13:03:52.548534+00:00",
-      "priceOrig": {
-        "amount": 447,
-        "cur": "EUR"
-      }
     }
   ]
 }
