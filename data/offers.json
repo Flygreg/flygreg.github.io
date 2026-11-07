@@ -1,6 +1,48 @@
 {
-  "updated": "2026-11-07T14:53:51.907536+00:00",
+  "updated": "2026-11-07T16:53:17.322472+00:00",
   "offers": [
+    {
+      "title": "Na Kanáry za 15 990 Kč: Týden na Fuerteventuře ve 4* resortu",
+      "summary": "Dlouhé písečné pláže, tyrkysový Atlantik a krásné výhledy – Čedok nabízí týden na Fuerteventuře ve 4* resortu s All Inclusive. Prohlédněte si zájezd.",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/na-kanary-za-15-990-kc-tyden-na-fuerteventure-ve-4-resortu?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-11-07T16:38:58+00:00",
+      "dateLabel": "7. 11. 2026",
+      "price": 15990,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/na-kanary-za-15-990-kc-tyden-na-fuerteventure-ve-4-resortu?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-11-07T16:53:17.322472+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Fly for less, stay for less: Skyscanner names the 10 best-value destinations",
+      "summary": "Flight prices to Bilbao in Spain have fallen by 66%, while fares to Wrocław in Poland and Bordeaux in France have dropped by 47% and 34% respectively. The three cities top a new Skyscanner ranking of ten destinations offering some of the bi",
+      "url": "https://www.fly4free.com/news/skyscanner-reveals-best-value-destinations-for-2027/",
+      "source": "Fly4free.com",
+      "date": "2026-11-07T16:29:49+00:00",
+      "dateLabel": "7. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/news/skyscanner-reveals-best-value-destinations-for-2027/",
+      "firstSeen": "2026-11-07T16:53:17.322472+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Cheap full-service flights from Amsterdam to Taiwan for €443",
+      "summary": "Taiwan is a traveler’s paradise — safe, welcoming, and filled with vibrant experiences. Whether you’re chasing outdoor adventures, cultural immersion, or simply great food, this island has it all! Xiamen Air is offering discounted flights t",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-taiwan-e443/",
+      "source": "Fly4free.com",
+      "date": "2026-11-07T16:00:43+00:00",
+      "dateLabel": "7. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-taiwan-e443/",
+      "firstSeen": "2026-11-07T16:53:17.322472+00:00",
+      "priceOrig": {
+        "amount": 443,
+        "cur": "EUR"
+      }
+    },
     {
       "title": "Levný zájezd na MADEIRU z Prahy - 10 490 Kč",
       "summary": "Levný zájezd na Madeiru koupíme u Čedoku. CK Čedok nabízí levný last minute zájezd z Prahy na Madeiru. Za týdenní zájezd do 4* hotelu se snídaní zaplatíme 10 490 Kč, o pouhých 500 Kč pořídíme další zájezd i s polopenzí. V ceně zájezdu je ta",
@@ -13,6 +55,35 @@
       "id": "https://honzovyletenky.cz/levny-zajezd-na-madeiru-z-prahy/",
       "firstSeen": "2026-11-07T14:53:51.907536+00:00",
       "priceOrig": null
+    },
+    {
+      "title": "Advent v Dominikáně: 5* resort s All Inclusive přímým letem z Prahy za 27 590 Kč",
+      "summary": "Zažijte advent v Dominikáně od 27 590 Kč. Přímý let z Prahy, 5* resort Bakour Punta Cana, pláž u hotelu a teplé karibské moře. Podívejte se na nabídku zájezdu.",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/advent-v-dominikane-5-resort-s-all-inclusive-primym-letem-z-prahy-za-27-590-kc?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-11-07T15:12:54+00:00",
+      "dateLabel": "7. 11. 2026",
+      "price": 27590,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/advent-v-dominikane-5-resort-s-all-inclusive-primym-letem-z-prahy-za-27-590-kc?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-11-07T16:53:17.322472+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Top-rated 4✨ country hotel in the Garda Lake, Italy from €58/double",
+      "summary": "Enjoy a relaxing getaway on the shores of Lake Garda, Italy, with a stay at a charming 4* Agriturismo La Filanda! Starting at just €58 per double room, this affordable deal is a great opportunity to discover one of Italy's most picturesque",
+      "url": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-garda-lake-e58/",
+      "source": "Fly4free.com",
+      "date": "2026-11-07T15:00:49+00:00",
+      "dateLabel": "7. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-garda-lake-e58/",
+      "firstSeen": "2026-11-07T16:53:17.322472+00:00",
+      "priceOrig": {
+        "amount": 58,
+        "cur": "EUR"
+      }
     },
     {
       "title": "Cheap flights from Prague to Phuket & Bangkok, Thailand from €448",
@@ -3885,51 +3956,6 @@
       "firstSeen": "2026-10-31T18:58:07.980187+00:00",
       "priceOrig": {
         "amount": 40,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Holiday in Sharm El Sheikh for €388 p.p. 🏖️ Direct flights from Budapest + 7-night All Inclusive stay at 5* resort",
-      "summary": "Take advantage of this super cheap package deal and spend 7 nights in Egypt! Book Wizz Air flights from Hungary and all-inclusive stay at 5* resort from only €388 per person (based on 2 people sharing).",
-      "url": "https://www.fly4free.com/flight-deals/europe/holiday-in-egypt-from-budapest-e388/",
-      "source": "Fly4free.com",
-      "date": "2026-10-31T16:00:56+00:00",
-      "dateLabel": "31. 10. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/holiday-in-egypt-from-budapest-e388/",
-      "firstSeen": "2026-10-31T16:51:24.167165+00:00",
-      "priceOrig": {
-        "amount": 388,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Objevte sopečné Lanzarote: Týdenní All Inclusive dovolená z Prahy za 16 690 Kč",
-      "summary": "Objevte krásy Lanzarote! Užijte si týdenní All Inclusive dovolenou v aparthotelu Morromar jen 400 m od pláže. Odlet z Prahy za 16 690 Kč. Rezervujte ještě dnes!",
-      "url": "https://levnocestovani.cz/akcni-zajezdy/objevte-sopecne-lanzarote-tydenni-all-inclusive-dovolena-z-prahy-za-16-690-kc?utm_source=rss&utm_medium=feed",
-      "source": "Levnocestovani.cz",
-      "date": "2026-10-31T15:06:06+00:00",
-      "dateLabel": "31. 10. 2026",
-      "price": 16690,
-      "image": "",
-      "id": "https://levnocestovani.cz/akcni-zajezdy/objevte-sopecne-lanzarote-tydenni-all-inclusive-dovolena-z-prahy-za-16-690-kc?utm_source=rss&utm_medium=feed",
-      "firstSeen": "2026-10-31T16:51:24.167165+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "B&B stay at highly rated 4✨ hotel in the Garda Lake, Italy from €59/double",
-      "summary": "Enjoy a relaxing getaway on the shores of Lake Garda, Italy, with a stay at a charming 4-star hotel offering beautiful lake views! Starting at just €59 per double room, this affordable B&B deal is a great opportunity to discover one of Ital",
-      "url": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-garda-lake-italy-e59/",
-      "source": "Fly4free.com",
-      "date": "2026-10-31T15:00:07+00:00",
-      "dateLabel": "31. 10. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-garda-lake-italy-e59/",
-      "firstSeen": "2026-10-31T16:51:24.167165+00:00",
-      "priceOrig": {
-        "amount": 59,
         "cur": "EUR"
       }
     }
