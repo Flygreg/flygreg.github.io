@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-08T20:51:56.454356+00:00",
+  "updated": "2026-11-08T22:51:05.357020+00:00",
   "offers": [
+    {
+      "title": "XMAS, NYE & SUMMER! 🎆 🍾 Non-stop flights from London to Seattle for £448",
+      "summary": "Quick escape or epic adventure? Your Seattle story starts now! Explore the vibrant streets of Pike Place, get lost in the rhythm of the Emerald City, and sip coffee where it all began — book discounted Delta flights starting at only £448 re",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-seattle-p448/",
+      "source": "Fly4free.com",
+      "date": "2026-11-08T21:00:23+00:00",
+      "dateLabel": "8. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-seattle-p448/",
+      "firstSeen": "2026-11-08T22:51:05.357020+00:00",
+      "priceOrig": {
+        "amount": 448,
+        "cur": "GBP"
+      }
+    },
     {
       "title": "Winter escape to the Canary Islands for €427 p.p. ☀️ 🌵 Direct flights from Poland + 7-night stay at well-rated aparthotel in Tenerife",
       "summary": "Affordable price for a sunny escape to the Canary Islands! Book direct flights from Warsaw or Katowice and accommodation at the highly rated hotel with a swimming pool for only €427 per person (based on 2 people sharing).",
@@ -3903,22 +3919,6 @@
       "id": "679",
       "firstSeen": "2026-11-02T07:42:07.937506+00:00",
       "priceOrig": null
-    },
-    {
-      "title": "Cheap flights from London to Seattle for £367 or £391 over Summer ☀️",
-      "summary": "Quick escape or epic adventure? Your Seattle story starts now! Explore the vibrant streets of Pike Place, get lost in the rhythm of the Emerald City, and sip coffee where it all began — book discounted Icelandair or British Airways flights",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-seattle-p367/",
-      "source": "Fly4free.com",
-      "date": "2026-11-01T21:00:16+00:00",
-      "dateLabel": "1. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-seattle-p367/",
-      "firstSeen": "2026-11-01T22:48:53.164916+00:00",
-      "priceOrig": {
-        "amount": 367,
-        "cur": "GBP"
-      }
     }
   ]
 }
