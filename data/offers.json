@@ -1,6 +1,19 @@
 {
-  "updated": "2026-11-07T22:50:49.233481+00:00",
+  "updated": "2026-11-08T07:19:42.741550+00:00",
   "offers": [
+    {
+      "title": "Buzz: Praha - Tirana - 972 Kč",
+      "summary": "",
+      "url": "https://www.akcniletenky.com",
+      "source": "AkčníLetenky.com",
+      "date": "2026-11-08T07:00:00+00:00",
+      "dateLabel": "8. 11. 2026",
+      "price": 972,
+      "image": "",
+      "id": "703",
+      "firstSeen": "2026-11-08T07:19:42.741550+00:00",
+      "priceOrig": null
+    },
     {
       "title": "HIGH SEASON 🌴 🥥 Etihad Airways flights from several European cities to exotic Zanzibar from €519",
       "summary": "Escape to paradise! Fly Etihad Airways to the island of Zanzibar starting at only €519 for a round trip. Sun, sand, and adventure await-book your island getaway now.",
@@ -3893,19 +3906,6 @@
         "amount": 442,
         "cur": "GBP"
       }
-    },
-    {
-      "title": "Lauda: Norimberk - Mallorca - 830 Kč",
-      "summary": "",
-      "url": "https://www.akcniletenky.com",
-      "source": "AkčníLetenky.com",
-      "date": "2026-11-01T07:00:00+00:00",
-      "dateLabel": "1. 11. 2026",
-      "price": 830,
-      "image": "",
-      "id": "676",
-      "firstSeen": "2026-11-01T08:59:01.793960+00:00",
-      "priceOrig": null
     }
   ]
 }
