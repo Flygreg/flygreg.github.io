@@ -1,6 +1,74 @@
 {
-  "updated": "2026-11-08T09:02:02.409606+00:00",
+  "updated": "2026-11-08T10:56:36.235716+00:00",
   "offers": [
+    {
+      "title": "Z Pardubic do ANDALUSIE - 1 386 Kč",
+      "summary": "Za výhodnou cenu pořídíme letenky z Pardubic na jih Španělska. Zpáteční letenky z Pardubic do Malagy pořídíme už za 1 386 Kč. Nejvýhodnější letenky jsou dostupné na prosincové a lednové termíny. V ceně základního tarifu od aerolinky Ryanair",
+      "url": "https://honzovyletenky.cz/z-pardubic-do-andalusie/",
+      "source": "Honzovy letenky",
+      "date": "2026-11-08T10:37:17+00:00",
+      "dateLabel": "8. 11. 2026",
+      "price": 1386,
+      "image": "",
+      "id": "https://honzovyletenky.cz/z-pardubic-do-andalusie/",
+      "firstSeen": "2026-11-08T10:56:36.235716+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Londýn, Anglie – akční letenky z Prahy za 1501 Kč, z Ostravy za 1156 Kč",
+      "summary": "Londýn má pověst, která předchází každé první návštěvě – a přesto město dokáže překvapit. Červené doubledeckery, Tower Bridge a Buckinghamský palác jsou jen ta nejznámější vrstva; pod ní leží desítky čtvrtí s úplně jiným charakterem, od Bri",
+      "url": "https://www.levneletenkyzprahy.cz/2752_londyn,-anglie-–-akcni-letenky-z-prahy-za-1501-kc,-z-ostravy-za-1156-kc",
+      "source": "Levné letenky z Prahy",
+      "date": "2026-11-08T10:37:14+00:00",
+      "dateLabel": "8. 11. 2026",
+      "price": 1501,
+      "image": "",
+      "id": "https://www.levneletenkyzprahy.cz/2752_londyn,-anglie-–-akcni-letenky-z-prahy-za-1501-kc,-z-ostravy-za-1156-kc",
+      "firstSeen": "2026-11-08T10:56:36.235716+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Keňa z Prahy ve 4* resortu u oceánu: Týdenní dovolená ve Watamu za 17 990 Kč",
+      "summary": "Leťte z Prahy do Keni za novou cenu! Týden ve 4* resortu ve Watamu od 17 990 Kč. Soft all inclusive, bílé pláže i mořský park. Zarezervujte si pobyt!",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/kena-z-prahy-ve-4-resortu-u-oceanu-tydenni-dovolena-ve-watamu-za-17-990-kc?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-11-08T10:35:29+00:00",
+      "dateLabel": "8. 11. 2026",
+      "price": 17990,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/kena-z-prahy-ve-4-resortu-u-oceanu-tydenni-dovolena-ve-watamu-za-17-990-kc?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-11-08T10:56:36.235716+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Good deal 😎 Cheap full-service flights from Brussels to Phuket & Bangkok, Thailand for €495",
+      "summary": "Escape to the tropical wonders of Thailand with these discounted Juneyao Airlines flights from Belgium from €495 for a round trip!",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-brussels-to-thailand-e495/",
+      "source": "Fly4free.com",
+      "date": "2026-11-08T10:00:57+00:00",
+      "dateLabel": "8. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-brussels-to-thailand-e495/",
+      "firstSeen": "2026-11-08T10:56:36.235716+00:00",
+      "priceOrig": {
+        "amount": 495,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "Ryanair: Norimberk - Agadir - 950 Kč",
+      "summary": "",
+      "url": "https://www.akcniletenky.com",
+      "source": "AkčníLetenky.com",
+      "date": "2026-11-08T10:00:00+00:00",
+      "dateLabel": "8. 11. 2026",
+      "price": 950,
+      "image": "",
+      "id": "704",
+      "firstSeen": "2026-11-08T10:56:36.235716+00:00",
+      "priceOrig": null
+    },
     {
       "title": "Explore the Land of the Incas! 🦙 Flights from London to Peru for £595",
       "summary": "Dreaming of an unforgettable South American adventure? Now is the perfect time to book affordable Avianca flights to Lima from just £595 return. This incredible Avianca deal opens the door to one of the most diverse and fascinating destinat",
@@ -3838,61 +3906,6 @@
         "amount": 559,
         "cur": "EUR"
       }
-    },
-    {
-      "title": "Lanzarote z Prahy na týden: 4* hotel THB Tropical Island s polopenzí za 12 990 Kč",
-      "summary": "Pláže, sopky i kompletní relax. Dopřejte si týden na Lanzarote ve 4* resortu s polopenzí za 12 990 Kč z Prahy. Zabalte plavky i boty a vyrazte na Kanáry!",
-      "url": "https://levnocestovani.cz/akcni-zajezdy/lanzarote-z-prahy-na-tyden-4-hotel-thb-tropical-island-s-polopenzi-za-12-990-kc?utm_source=rss&utm_medium=feed",
-      "source": "Levnocestovani.cz",
-      "date": "2026-11-01T10:37:35+00:00",
-      "dateLabel": "1. 11. 2026",
-      "price": 12990,
-      "image": "",
-      "id": "https://levnocestovani.cz/akcni-zajezdy/lanzarote-z-prahy-na-tyden-4-hotel-thb-tropical-island-s-polopenzi-za-12-990-kc?utm_source=rss&utm_medium=feed",
-      "firstSeen": "2026-11-01T10:52:33.501607+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Letenky do Londýna z Prahy za 1551 Kč, z Ostravy za 1152 Kč",
-      "summary": "Londýn se dá číst vrstvami – a architektura je jedna z těch nejzajímavějších. Gotická věž Westminsterského opatství stojí pár kroků od modernistické Tate Modern, viktoránské řadové domy střídají skleněné mrakodrapy ve čtvrti City a každá ul",
-      "url": "https://www.levneletenkyzprahy.cz/2745_letenky-do-londyna-z-prahy-za-1551-kc,-z-ostravy-za-1152-kc",
-      "source": "Levné letenky z Prahy",
-      "date": "2026-11-01T10:27:15+00:00",
-      "dateLabel": "1. 11. 2026",
-      "price": 1551,
-      "image": "",
-      "id": "https://www.levneletenkyzprahy.cz/2745_letenky-do-londyna-z-prahy-za-1551-kc,-z-ostravy-za-1152-kc",
-      "firstSeen": "2026-11-01T10:52:33.501607+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Cheap non-stop flights from Madrid to Recife, Brazil ☀️ 🏖️ for €495",
-      "summary": "Sun, samba, and stunning beaches are just a flight away - Brazil is calling! Book your tropical getaway now with direct Azul Airlines flights starting at €495 for a round trip.",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-madrid-to-recife-e551/",
-      "source": "Fly4free.com",
-      "date": "2026-11-01T10:00:09+00:00",
-      "dateLabel": "1. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-madrid-to-recife-e551/",
-      "firstSeen": "2026-11-01T10:52:33.501607+00:00",
-      "priceOrig": {
-        "amount": 495,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Ryanair: Ostrava - Malaga - 1 022 Kč",
-      "summary": "",
-      "url": "https://www.akcniletenky.com",
-      "source": "AkčníLetenky.com",
-      "date": "2026-11-01T10:00:00+00:00",
-      "dateLabel": "1. 11. 2026",
-      "price": 1022,
-      "image": "",
-      "id": "677",
-      "firstSeen": "2026-11-01T10:52:33.501607+00:00",
-      "priceOrig": null
     }
   ]
 }
