@@ -11,12 +11,13 @@
     },
     {
       "name": "Levné letenky z Prahy",
-      "ok": true,
-      "items": 20,
+      "ok": false,
+      "items": 0,
       "attempts": [
-        "FlightTipsFeedReader: HTTP 200, 15700 B"
+        "FlightTipsFeedReader: URLError: <urlopen error timed out>",
+        "browser: URLError: <urlopen error timed out>"
       ],
-      "error": ""
+      "error": "URLError: <urlopen error timed out>"
     },
     {
       "name": "AkčníLetenky.com",
@@ -29,12 +30,13 @@
     },
     {
       "name": "Honzovy letenky",
-      "ok": true,
-      "items": 10,
+      "ok": false,
+      "items": 0,
       "attempts": [
-        "FlightTipsFeedReader: HTTP 200, 12994 B"
+        "FlightTipsFeedReader: HTTPError: HTTP Error 415: Unsupported Media Type",
+        "browser: HTTPError: HTTP Error 415: Unsupported Media Type"
       ],
-      "error": ""
+      "error": "HTTPError: HTTP Error 415: Unsupported Media Type"
     },
     {
       "name": "CestujLevne.com",
@@ -50,7 +52,7 @@
       "ok": true,
       "items": 50,
       "attempts": [
-        "FlightTipsFeedReader: HTTP 200, 63964 B"
+        "FlightTipsFeedReader: HTTP 200, 63749 B"
       ],
       "error": ""
     },

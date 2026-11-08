@@ -1,6 +1,38 @@
 {
-  "updated": "2026-11-08T07:19:42.741550+00:00",
+  "updated": "2026-11-08T09:02:02.409606+00:00",
   "offers": [
+    {
+      "title": "Explore the Land of the Incas! 🦙 Flights from London to Peru for £595",
+      "summary": "Dreaming of an unforgettable South American adventure? Now is the perfect time to book affordable Avianca flights to Lima from just £595 return. This incredible Avianca deal opens the door to one of the most diverse and fascinating destinat",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-peru-p595/",
+      "source": "Fly4free.com",
+      "date": "2026-11-08T09:00:06+00:00",
+      "dateLabel": "8. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-peru-p595/",
+      "firstSeen": "2026-11-08T09:02:02.409606+00:00",
+      "priceOrig": {
+        "amount": 595,
+        "cur": "GBP"
+      }
+    },
+    {
+      "title": "PEAK SEASON 🌊 🌴 Cheap flights from Vienna to Sri Lanka for €474",
+      "summary": "Whether you're after relaxing days by the Indian Ocean or unforgettable adventures inland, Sri Lanka promises an incredible holiday experience. Salamair is offering affordable flights to Colombo for just €474 for a round trip!",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-vienna-to-sri-lanka-e474/",
+      "source": "Fly4free.com",
+      "date": "2026-11-08T08:00:23+00:00",
+      "dateLabel": "8. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-vienna-to-sri-lanka-e474/",
+      "firstSeen": "2026-11-08T09:02:02.409606+00:00",
+      "priceOrig": {
+        "amount": 474,
+        "cur": "EUR"
+      }
+    },
     {
       "title": "Buzz: Praha - Tirana - 972 Kč",
       "summary": "",
@@ -3861,51 +3893,6 @@
       "id": "677",
       "firstSeen": "2026-11-01T10:52:33.501607+00:00",
       "priceOrig": null
-    },
-    {
-      "title": "Cheap non-stop flights from Vienna to Singapore for €448",
-      "summary": "Escape to the vibrant heart of Southeast Asia with this unbeatable Scoot deal: fly non-stop to Singapore for just €448 return! A world of culture, cuisine, and adventure is just one flight away — don’t miss your chance to explore it for les",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-vienna-to-singapore-e448-4/",
-      "source": "Fly4free.com",
-      "date": "2026-11-01T09:00:50+00:00",
-      "dateLabel": "1. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-vienna-to-singapore-e448-4/",
-      "firstSeen": "2026-11-01T10:52:33.501607+00:00",
-      "priceOrig": {
-        "amount": 448,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Maledivy s plnou penzí ve 4* resortu za 33 990 Kč – přímý let z Prahy v ceně",
-      "summary": "Splňte si sen o Maledivách! Týden ve 4* Fihalhohi s plnou penzí a korálovým útesem jen za 33 990 Kč. Přímý let z Prahy v ceně. Zamluvte si pobyt v ráji!",
-      "url": "https://levnocestovani.cz/akcni-zajezdy/maledivy-s-plnou-penzi-ve-4-resortu-za-33-990-kc-primy-let-z-prahy-v-cene?utm_source=rss&utm_medium=feed",
-      "source": "Levnocestovani.cz",
-      "date": "2026-11-01T08:28:58+00:00",
-      "dateLabel": "1. 11. 2026",
-      "price": 33990,
-      "image": "",
-      "id": "https://levnocestovani.cz/akcni-zajezdy/maledivy-s-plnou-penzi-ve-4-resortu-za-33-990-kc-primy-let-z-prahy-v-cene?utm_source=rss&utm_medium=feed",
-      "firstSeen": "2026-11-01T08:59:01.793960+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Cheap full-service flights from London to Bali, Indonesia 🌴 🥥 for £442",
-      "summary": "Escape to paradise without breaking the bank — discover stunning Bali with round-trip China Southern Airlines flights to Denpasar starting at just £442. Your tropical adventure awaits!",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-bali-p442/",
-      "source": "Fly4free.com",
-      "date": "2026-11-01T08:00:28+00:00",
-      "dateLabel": "1. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-bali-p442/",
-      "firstSeen": "2026-11-01T08:59:01.793960+00:00",
-      "priceOrig": {
-        "amount": 442,
-        "cur": "GBP"
-      }
     }
   ]
 }
