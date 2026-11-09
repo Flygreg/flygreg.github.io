@@ -1,6 +1,61 @@
 {
-  "updated": "2026-11-09T13:29:43.935661+00:00",
+  "updated": "2026-11-09T15:10:12.097711+00:00",
   "offers": [
+    {
+      "title": "Přímé letenky z Prahy do SANTIAGO DE COMPOSTELA - 2 755 Kč",
+      "summary": "Úplně nová aerolinka Fly2Galicia začne létat rovnou do Prahy. Nově vzniklá aerolinka Fly2Galicia si na svou mapu destinací hned od startu přidala Prahu. Létat začne ze Santiago de Compostela od 2. prosince 2x týdně ve středy a neděle. Zpáte",
+      "url": "https://honzovyletenky.cz/prime-letenky-z-prahy-do-santiago-de-compostela/",
+      "source": "Honzovy letenky",
+      "date": "2026-11-09T15:14:14+00:00",
+      "dateLabel": "9. 11. 2026",
+      "price": 2755,
+      "image": "",
+      "id": "https://honzovyletenky.cz/prime-letenky-z-prahy-do-santiago-de-compostela/",
+      "firstSeen": "2026-11-09T15:10:12.097711+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Right in the heart of Paris 🥰 Well-rated and central 55 Montparnasse Hôtel for €65/double",
+      "summary": "This hotel is a smart option if you want a central, well-connected Paris hotel without staying directly in the most touristy streets. It works especially well for shopping, theatre, first-time sightseeing, and weekend trips.",
+      "url": "https://www.fly4free.com/flight-deals/europe/cheap-hotel-in-paris-e65/",
+      "source": "Fly4free.com",
+      "date": "2026-11-09T14:45:17+00:00",
+      "dateLabel": "9. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/cheap-hotel-in-paris-e65/",
+      "firstSeen": "2026-11-09T15:10:12.097711+00:00",
+      "priceOrig": {
+        "amount": 65,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "8 dní na evropské Havaji za 8 790 Kč: Madeira ve 4* hotelu s polopenzí",
+      "summary": "Zelené hory, levády a výhledy na Atlantik – Čedok nabízí týden na Madeiře ve 4* hotelu s polopenzí za 8 790 Kč. Prohlédněte si zájezd a naplánujte si dovolenou.",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/8-dni-na-evropske-havaji-za-8-790-kc-madeira-ve-4-hotelu-s-polopenzi?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-11-09T14:23:53+00:00",
+      "dateLabel": "9. 11. 2026",
+      "price": 8790,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/8-dni-na-evropske-havaji-za-8-790-kc-madeira-ve-4-hotelu-s-polopenzi?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-11-09T15:10:12.097711+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Barcelona z Prahy během zimy. Letenky od 1 511 Kč",
+      "summary": "Do Barcelony pořídíte akční zpáteční letenky z Prahy se společností Vueling už od 62 EUR. Nejnižší ceny najdete především od ledna do března.",
+      "url": "https://www.cestujlevne.com/akcni-letenky/barcelona-z-prahy-behem-zimy",
+      "source": "CestujLevne.com",
+      "date": "2026-11-09T14:07:51+00:00",
+      "dateLabel": "9. 11. 2026",
+      "price": 1511,
+      "image": "",
+      "id": "https://www.cestujlevne.com/akcni-letenky/barcelona-z-prahy-behem-zimy",
+      "firstSeen": "2026-11-09T15:10:12.097711+00:00",
+      "priceOrig": null
+    },
     {
       "title": "BILBAO za super cenu - 1 900 Kč",
       "summary": "Levné letenky na sever Španělska najdeme u Vueling. Nejlevnější letenky z Prahy do Bilbaa koupíme u aerolinky Vueling. Za 76 EUR, tedy asi 1 900 Kč najdeme zpáteční letenky na termín v únoru. V ceně letenky od Vuelingu máme malé příruční za",
@@ -13,6 +68,22 @@
       "id": "https://honzovyletenky.cz/bilbao-za-super-cenu/",
       "firstSeen": "2026-11-09T13:29:43.935661+00:00",
       "priceOrig": null
+    },
+    {
+      "title": "Last-minute full-service LOT direct flights from Poland to Phuket, Thailand 🌴 🥥 for €686",
+      "summary": "LOT is offering discounted flights to Thailand — making it a great moment to plan a tropical escape to Southeast Asia! Book return tickets starting at only €647.",
+      "url": "https://www.fly4free.com/flight-deals/europe/lot-direct-flights-from-poland-to-phuket-2/",
+      "source": "Fly4free.com",
+      "date": "2026-11-09T13:40:54+00:00",
+      "dateLabel": "9. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/lot-direct-flights-from-poland-to-phuket-2/",
+      "firstSeen": "2026-11-09T15:10:12.097711+00:00",
+      "priceOrig": {
+        "amount": 686,
+        "cur": "EUR"
+      }
     },
     {
       "title": "Good price for a direct flight! 😎 ✌️ Copenhagen to Seoul, South Korea for €582",
@@ -3919,48 +3990,6 @@
       "id": "https://levnocestovani.cz/akcni-zajezdy/tydenni-dovolena-v-dominikane-za-26-990-kc-5-resort-v-oblibene-punta-cane?utm_source=rss&utm_medium=feed",
       "firstSeen": "2026-11-02T15:28:33.058026+00:00",
       "priceOrig": null
-    },
-    {
-      "title": "Za příjemným počasím na MALTU - 850 Kč",
-      "summary": "Nejlevnější letenky na Maltu pořídíme z Bratislavy. Zpáteční letenky z Bratislavy na Maltu pořídíme už za 34 €, tedy asi 850 Kč. Ty nejvýhodnější termíny najdeme na prosincové termíny. V ceně letenek od Ryanair máme příruční zavazadlo o roz",
-      "url": "https://honzovyletenky.cz/za-prijemnym-pocasim-na-maltu-5/",
-      "source": "Honzovy letenky",
-      "date": "2026-11-02T14:40:57+00:00",
-      "dateLabel": "2. 11. 2026",
-      "price": 850,
-      "image": "",
-      "id": "https://honzovyletenky.cz/za-prijemnym-pocasim-na-maltu-5/",
-      "firstSeen": "2026-11-02T15:08:03.529106+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Týdenní zájezdy na Dominikánu se stravou z Prahy od 25 090 Kč",
-      "summary": "Zajisti si dovolenou: REZERVUJ ONLINE nebo telefonicky na čísle +420 770 104 598 Termín: 6. – 13. listopadu 2026 Hotely: 4* Hm Bavaro Beach – snídaně | 25 090 Kč 5* Bahia Principe Explore Turquesa – all inclusive | 26 990 Kč 5* Bahia Princi",
-      "url": "https://zaletsi.cz/zajezdy/tydenni-zajezdy-na-dominikanu-se-stravou-z-prahy/",
-      "source": "Zaleťsi.cz",
-      "date": "2026-11-02T14:12:58+00:00",
-      "dateLabel": "2. 11. 2026",
-      "price": 25090,
-      "image": "",
-      "id": "https://zaletsi.cz/zajezdy/tydenni-zajezdy-na-dominikanu-se-stravou-z-prahy/",
-      "firstSeen": "2026-11-02T15:46:10.770810+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "🔥 Experience Qatar Business Class for less! Fly from Rome to Singapore from €1758 return",
-      "summary": "Ever dreamed of flying to Asia in a luxurious Business Class suite, enjoying gourmet meals, sipping champagne and sleeping in a fully flat bed at 35,000 feet? ✈️🥂 Here's your chance to experience one of the world's most celebrated premium a",
-      "url": "https://www.fly4free.com/flight-deals/europe/qatar-business-class-flights-from-rome-to-singapore/",
-      "source": "Fly4free.com",
-      "date": "2026-11-02T14:00:03+00:00",
-      "dateLabel": "2. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/qatar-business-class-flights-from-rome-to-singapore/",
-      "firstSeen": "2026-11-02T15:08:03.529106+00:00",
-      "priceOrig": {
-        "amount": 1758,
-        "cur": "EUR"
-      }
     }
   ]
 }
