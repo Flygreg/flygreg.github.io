@@ -1,6 +1,48 @@
 {
-  "updated": "2026-11-08T22:51:05.357020+00:00",
+  "updated": "2026-11-09T07:43:20.196123+00:00",
   "offers": [
+    {
+      "title": "KYPR za super cenu - 920 Kč",
+      "summary": "V dnešní akci Wizz Air pořídíme letenky na Kypr za parádní cenovku. Zpáteční letenky z Bratislavy do Larnaky jsou dostupné už za 37 €, tedy asi 920 Kč. Na nejnižší cenu dosáhnou členové klubu WDC, ostatní si připlatí 200 Kč v jednom směru.",
+      "url": "https://honzovyletenky.cz/kypr-za-super-cenu-2/",
+      "source": "Honzovy letenky",
+      "date": "2026-11-09T07:57:04+00:00",
+      "dateLabel": "9. 11. 2026",
+      "price": 920,
+      "image": "",
+      "id": "https://honzovyletenky.cz/kypr-za-super-cenu-2/",
+      "firstSeen": "2026-11-09T07:43:20.196123+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Etihad Airways flights from several European cities to South Korea 🍜 from €537",
+      "summary": "Looking for an unforgettable adventure in Asia? This flight deal is your chance to experience the vibrant energy of Seoul at an incredible price. Fly with Etihad Airways from Prague to South Korea’s dynamic capital for just €537 return and",
+      "url": "https://www.fly4free.com/flight-deals/europe/etihad-airways-flights-from-europe-to-south-korea/",
+      "source": "Fly4free.com",
+      "date": "2026-11-09T07:00:37+00:00",
+      "dateLabel": "9. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/etihad-airways-flights-from-europe-to-south-korea/",
+      "firstSeen": "2026-11-09T07:43:20.196123+00:00",
+      "priceOrig": {
+        "amount": 537,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "Ryanair: Praha - Bergamo - 978 Kč",
+      "summary": "",
+      "url": "https://www.akcniletenky.com",
+      "source": "AkčníLetenky.com",
+      "date": "2026-11-09T07:00:00+00:00",
+      "dateLabel": "9. 11. 2026",
+      "price": 978,
+      "image": "",
+      "id": "706",
+      "firstSeen": "2026-11-09T07:43:20.196123+00:00",
+      "priceOrig": null
+    },
     {
       "title": "XMAS, NYE & SUMMER! 🎆 🍾 Non-stop flights from London to Seattle for £448",
       "summary": "Quick escape or epic adventure? Your Seattle story starts now! Explore the vibrant streets of Pike Place, get lost in the rhythm of the Emerald City, and sip coffee where it all began — book discounted Delta flights starting at only £448 re",
@@ -3889,35 +3931,6 @@
       "image": "",
       "id": "https://www.cestujlevne.com/akcni-letenky/mauricius-z-prahy-s-turkish-airlines",
       "firstSeen": "2026-11-02T09:21:22.119562+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Flights from many Polish cities to South Korea from €562",
-      "summary": "Adventure awaits in Seoul and beyond — discover vibrant culture, stunning landscapes, and unforgettable cuisine! Take advantage of these affordable SAS fares to Seoul starting at €562 for a round trip.",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-poland-to-south-korea-e562/",
-      "source": "Fly4free.com",
-      "date": "2026-11-02T07:00:28+00:00",
-      "dateLabel": "2. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-poland-to-south-korea-e562/",
-      "firstSeen": "2026-11-02T07:42:07.937506+00:00",
-      "priceOrig": {
-        "amount": 562,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Ryanair: Norimberk - Palermo - 980 Kč",
-      "summary": "",
-      "url": "https://www.akcniletenky.com",
-      "source": "AkčníLetenky.com",
-      "date": "2026-11-02T07:00:00+00:00",
-      "dateLabel": "2. 11. 2026",
-      "price": 980,
-      "image": "",
-      "id": "679",
-      "firstSeen": "2026-11-02T07:42:07.937506+00:00",
       "priceOrig": null
     }
   ]
