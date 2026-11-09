@@ -1,6 +1,77 @@
 {
-  "updated": "2026-11-09T17:22:09.294228+00:00",
+  "updated": "2026-11-09T19:11:48.087860+00:00",
   "offers": [
+    {
+      "title": "Víkendové letenky do ABERDEENU - 1 210 Kč",
+      "summary": "Levné letenky na víkend ve Skotsku koupíme u Ryanair. V rezervačním systému aerolinky Ryanair pořídíme levné letenky z Krakowa do Aberdeenu. Za zpáteční letenky zaplatíme 213 PLN, tedy asi 1 210 Kč. Letenky za tuto nebo podobnou cenu najdem",
+      "url": "https://honzovyletenky.cz/vikendove-letenky-do-aberdeenu/",
+      "source": "Honzovy letenky",
+      "date": "2026-11-09T19:25:45+00:00",
+      "dateLabel": "9. 11. 2026",
+      "price": 1210,
+      "image": "",
+      "id": "https://honzovyletenky.cz/vikendove-letenky-do-aberdeenu/",
+      "firstSeen": "2026-11-09T19:11:48.087860+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "PEAK SEASON 🌊 🌴 Cheap full-service flights from London to Philippines 🏝️ for £425",
+      "summary": "Dreaming of white-sand beaches and tropical sunsets? This excellent flight deal makes the Philippines more accessible than ever! Full-service flights with Xiamen Airlines to Manila start from just £425 return, offering fantastic value for l",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-the-philippines-p425/",
+      "source": "Fly4free.com",
+      "date": "2026-11-09T19:00:00+00:00",
+      "dateLabel": "9. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-the-philippines-p425/",
+      "firstSeen": "2026-11-09T19:11:48.087860+00:00",
+      "priceOrig": {
+        "amount": 425,
+        "cur": "GBP"
+      }
+    },
+    {
+      "title": "Royal Caribbean opens Summer 2028 bookings: 11 ships, 4 Icon Class giants",
+      "summary": "Royal Caribbean has unveiled its cruise programme for summer 2028, featuring 11 ships, including four Icon Class vessels. Cruises will depart from ports across the United States and Puerto Rico, with itineraries covering the Caribbean, Mexi",
+      "url": "https://www.fly4free.com/news/royal-caribbean-opens-summer-2028-bookings-11-ships-4-icon-class-giants/",
+      "source": "Fly4free.com",
+      "date": "2026-11-09T18:03:03+00:00",
+      "dateLabel": "9. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/news/royal-caribbean-opens-summer-2028-bookings-11-ships-4-icon-class-giants/",
+      "firstSeen": "2026-11-09T19:11:48.087860+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Cheap full-service flights from Madrid to exotic Seychelles 🏝️ for €494",
+      "summary": "The Seychelles are the kind of place that rarely disappoints expectations. Think powder-white beaches framed by giant granite boulders, crystal-clear turquoise water, lush tropical hills, and an atmosphere that feels wonderfully removed fro",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-madrid-to-seychelles-e494/",
+      "source": "Fly4free.com",
+      "date": "2026-11-09T18:00:50+00:00",
+      "dateLabel": "9. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-madrid-to-seychelles-e494/",
+      "firstSeen": "2026-11-09T19:11:48.087860+00:00",
+      "priceOrig": {
+        "amount": 494,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "Advent v Egyptě: 4* resort v Marsa Alam s All Inclusive za 15 990 Kč",
+      "summary": "Prožijte advent u Rudého moře! Utečte před zimou do Egypta (Marsa Alam). 7 nocí v 4* Shoni Bay Resort s All Inclusive jen za 15 990 Kč. Rezervujte na Invii!",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/advent-v-egypte-4-resort-v-marsa-alam-s-all-inclusive-za-15-990-kc?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-11-09T17:42:19+00:00",
+      "dateLabel": "9. 11. 2026",
+      "price": 15990,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/advent-v-egypte-4-resort-v-marsa-alam-s-all-inclusive-za-15-990-kc?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-11-09T19:11:48.087860+00:00",
+      "priceOrig": null
+    },
     {
       "title": "Budapest city break 🥰 B&B stay at highly rated and modern 4* Impulso Hotel for €56/double",
       "summary": "Visit the beautiful capital of Hungary! Take advantage of this good deal and book a double room at 4* hotel for only €56 per night.",
@@ -3909,74 +3980,6 @@
         "amount": 487,
         "cur": "EUR"
       }
-    },
-    {
-      "title": "THAJSKO z Prahy za nejnižší cenu - 11 503 Kč",
-      "summary": "Pokud hledáte nejlevnější letenky do JV Asie, hodí se nabídka od Air Arabia. Zpáteční letenky z Prahy do Phuketu pořídíme už za 11 503 Kč. Nejvýhodnější letenky jsou dostupné na podzim 2026 a pak v průběhu zimních měsíců 2027, tedy v sezóně",
-      "url": "https://honzovyletenky.cz/thajsko-z-prahy-za-nejnizsi-cenu/",
-      "source": "Honzovy letenky",
-      "date": "2026-11-02T19:01:01+00:00",
-      "dateLabel": "2. 11. 2026",
-      "price": 11503,
-      "image": "",
-      "id": "https://honzovyletenky.cz/thajsko-z-prahy-za-nejnizsi-cenu/",
-      "firstSeen": "2026-11-02T19:11:53.919523+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "China Eastern: Vídeň - Auckland - 15 990 Kč",
-      "summary": "",
-      "url": "https://www.akcniletenky.com",
-      "source": "AkčníLetenky.com",
-      "date": "2026-11-02T19:00:00+00:00",
-      "dateLabel": "2. 11. 2026",
-      "price": 15990,
-      "image": "",
-      "id": "683",
-      "firstSeen": "2026-11-02T20:56:25.571948+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "High-season holiday in Phuket, Thailand for €624 p.p. 😎 🍹 Flights from Vienna + 8 days at highly rated 4* hotel",
-      "summary": "Looking for an easy winter escape to Thailand without paying peak-season package prices? This deal combines Air Arabia flights from Vienna to Phuket with an 8-day stay at the highly rated 4-star Pearl Hotel Phuket for €624 per person, based",
-      "url": "https://www.fly4free.com/flight-deals/europe/holiday-in-phuket-from-vienna-e624/",
-      "source": "Fly4free.com",
-      "date": "2026-11-02T18:30:03+00:00",
-      "dateLabel": "2. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/holiday-in-phuket-from-vienna-e624/",
-      "firstSeen": "2026-11-02T19:11:53.919523+00:00",
-      "priceOrig": {
-        "amount": 624,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Maledivy, 4* Fihalhohi Island Resort: Týdenní dovolená s plnou penzí a letem z Prahy za 32 990 Kč",
-      "summary": "Maledivy na týden za 32 990 Kč! Přímý let z Prahy, 4* Fihalhohi Maldives s plnou penzí, bílé pláže a šnorchlování u korálového útesu. Prohlédněte si zájezd.",
-      "url": "https://levnocestovani.cz/akcni-zajezdy/maledivy-4-fihalhohi-island-resort-tydenni-dovolena-s-plnou-penzi-a-letem-z-prahy-za-32-990-kc?utm_source=rss&utm_medium=feed",
-      "source": "Levnocestovani.cz",
-      "date": "2026-11-02T17:57:38+00:00",
-      "dateLabel": "2. 11. 2026",
-      "price": 32990,
-      "image": "",
-      "id": "https://levnocestovani.cz/akcni-zajezdy/maledivy-4-fihalhohi-island-resort-tydenni-dovolena-s-plnou-penzi-a-letem-z-prahy-za-32-990-kc?utm_source=rss&utm_medium=feed",
-      "firstSeen": "2026-11-02T19:11:53.919523+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "New International Airport Opens in Greenland: Tourists Can Now Fly Directly to the Icebergs",
-      "summary": "Seeing Greenland’s giant icebergs has just become a little easier. A new international airport has opened on the world’s largest island, allowing tourists to fly directly from Copenhagen to one of the Arctic’s most famous destinations. Prev",
-      "url": "https://www.fly4free.com/news/new-international-airport-opens-in-greenland/",
-      "source": "Fly4free.com",
-      "date": "2026-11-02T17:32:51+00:00",
-      "dateLabel": "2. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/news/new-international-airport-opens-in-greenland/",
-      "firstSeen": "2026-11-02T19:11:53.919523+00:00",
-      "priceOrig": null
     }
   ]
 }
