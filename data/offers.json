@@ -1,6 +1,90 @@
 {
-  "updated": "2026-11-09T11:11:59.463692+00:00",
+  "updated": "2026-11-09T13:29:43.935661+00:00",
   "offers": [
+    {
+      "title": "BILBAO za super cenu - 1 900 Kč",
+      "summary": "Levné letenky na sever Španělska najdeme u Vueling. Nejlevnější letenky z Prahy do Bilbaa koupíme u aerolinky Vueling. Za 76 EUR, tedy asi 1 900 Kč najdeme zpáteční letenky na termín v únoru. V ceně letenky od Vuelingu máme malé příruční za",
+      "url": "https://honzovyletenky.cz/bilbao-za-super-cenu/",
+      "source": "Honzovy letenky",
+      "date": "2026-11-09T13:56:33+00:00",
+      "dateLabel": "9. 11. 2026",
+      "price": 1900,
+      "image": "",
+      "id": "https://honzovyletenky.cz/bilbao-za-super-cenu/",
+      "firstSeen": "2026-11-09T13:29:43.935661+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Good price for a direct flight! 😎 ✌️ Copenhagen to Seoul, South Korea for €582",
+      "summary": "Fly non-stop from Copenhagen to South Korea starting from €582 for a round trip! Discover the perfect mix of ancient traditions and ultra-modern experiences in Seoul, a city that never sleeps. Whether you’re exploring historic sites, indulg",
+      "url": "https://www.fly4free.com/flight-deals/europe/direct-flights-from-copenhagen-to-south-korea-e582/",
+      "source": "Fly4free.com",
+      "date": "2026-11-09T13:00:29+00:00",
+      "dateLabel": "9. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/direct-flights-from-copenhagen-to-south-korea-e582/",
+      "firstSeen": "2026-11-09T13:29:43.935661+00:00",
+      "priceOrig": {
+        "amount": 582,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "Wizz Air: Bratislava - Kypr - 890 Kč",
+      "summary": "",
+      "url": "https://www.akcniletenky.com",
+      "source": "AkčníLetenky.com",
+      "date": "2026-11-09T13:00:00+00:00",
+      "dateLabel": "9. 11. 2026",
+      "price": 890,
+      "image": "",
+      "id": "708",
+      "firstSeen": "2026-11-09T13:29:43.935661+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "15 dní v Dominikáně: 4* resort, přímý let z Prahy a All Inclusive za 40 990 Kč",
+      "summary": "15 dní v Dominikáně s přímým letem z Prahy za 40 990 Kč. 4* Sunscape Coco u bílé pláže, 7 bazénů, kluby pro děti a All Inclusive. Leťte na dovolenou s Čedokem!",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/15-dni-v-dominikane-4-resort-primy-let-z-prahy-a-all-inclusive-za-40-990-kc?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-11-09T12:42:30+00:00",
+      "dateLabel": "9. 11. 2026",
+      "price": 40990,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/15-dni-v-dominikane-4-resort-primy-let-z-prahy-a-all-inclusive-za-40-990-kc?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-11-09T13:29:43.935661+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Exotický Zanzibar s all-inclusive z Prahy i Bratislavy. Zájezd od 23 490 Kč",
+      "summary": "Co takhle vyměnit listopadové počasí za palmy, bílé pláže a teploty kolem 30 °C? Čedok teď nabízí týden na Zanzibaru za 23 490 Kč na osobu s odletem z Prahy i Bratislavy v termínu 29.11. – 6. 12.",
+      "url": "https://www.cestujlevne.com/akcni-letenky/exoticky-zanzibar-s-all-inclusive-z-prahy-i-bratislavy",
+      "source": "CestujLevne.com",
+      "date": "2026-11-09T12:39:28+00:00",
+      "dateLabel": "9. 11. 2026",
+      "price": 23490,
+      "image": "",
+      "id": "https://www.cestujlevne.com/akcni-letenky/exoticky-zanzibar-s-all-inclusive-z-prahy-i-bratislavy",
+      "firstSeen": "2026-11-09T13:29:43.935661+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Well-rated and central 4* hotel in Porto, Portugal, for €56/double",
+      "summary": "This 4* hotel is a great choice for travellers who want central comfort, modern amenities, and easy access to Porto’s best sights — all at a friendly price.",
+      "url": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-porto-e56/",
+      "source": "Fly4free.com",
+      "date": "2026-11-09T12:00:23+00:00",
+      "dateLabel": "9. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-porto-e56/",
+      "firstSeen": "2026-11-09T13:29:43.935661+00:00",
+      "priceOrig": {
+        "amount": 56,
+        "cur": "EUR"
+      }
+    },
     {
       "title": "Levně do ROVANIEMI z Prahy - 4 197 Kč",
       "summary": "Výhodné letenky do Finska koupíme u Austrian Airlines. U aerolinky Austrian Airlines najdeme levné letenky z Prahy do Rovaniemi. Za zpáteční letenky zaplatíme 4 197 Kč. Po cestě nás čeká jeden přestup ve Vídni. Nejvýhodnější letenky pořídím",
@@ -12,6 +96,19 @@
       "image": "",
       "id": "https://honzovyletenky.cz/levne-do-rovaniemi-z-prahy/",
       "firstSeen": "2026-11-09T11:11:59.463692+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Týdenní pobyt na Madeiře ve 4* resortu pro dospělé za 9 990 Kč, odlet z Prahy",
+      "summary": "Týdenní dovolená na Madeiře ve 4* resortu Allegro pouze pro dospělé! Polopenze a odlet z Prahy v ceně jen za 9 990 Kč. Využijte akční cenu a rezervujte ještě dnes.",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/tydenni-pobyt-na-madeire-ve-4-resortu-pro-dospele-za-9-990-kc-odlet-z-prahy?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-11-09T11:21:48+00:00",
+      "dateLabel": "9. 11. 2026",
+      "price": 9990,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/tydenni-pobyt-na-madeire-ve-4-resortu-pro-dospele-za-9-990-kc-odlet-z-prahy?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-11-09T13:29:43.935661+00:00",
       "priceOrig": null
     },
     {
@@ -3862,87 +3959,6 @@
       "firstSeen": "2026-11-02T15:08:03.529106+00:00",
       "priceOrig": {
         "amount": 1758,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Listopadová Keňa z Prahy na týden s all-inclusive. Zájezd od 22 590 Kč",
-      "summary": "Týden v Keni s all-inclusive za 22 590 Kč za osobu. Za tuhle cenu má teď Čedok v nabídce listopadový zájezd do čtyřhvězdičkového hotelu AHG Lion Beach Resort u pláže v oblasti Watamu.",
-      "url": "https://www.cestujlevne.com/akcni-letenky/listopadova-kena-z-prahy-na-tyden-s-all-inclusive",
-      "source": "CestujLevne.com",
-      "date": "2026-11-02T13:28:42+00:00",
-      "dateLabel": "2. 11. 2026",
-      "price": 22590,
-      "image": "",
-      "id": "https://www.cestujlevne.com/akcni-letenky/listopadova-kena-z-prahy-na-tyden-s-all-inclusive",
-      "firstSeen": "2026-11-02T15:08:03.529106+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Týden na Maledivách za 34 990 Kč v plážovém bungalovu s All Inclusive",
-      "summary": "Dopřejte si týden klidu na malém tropickém ostrově. Čeká vás přímý let z Prahy, plážový bungalov, šnorchlování i kino pod hvězdami. Mrkněte si zájezd Čedoku.",
-      "url": "https://levnocestovani.cz/akcni-zajezdy/tyden-na-maledivach-za-34-990-kc-v-plazovem-bungalovu-s-all-inclusive?utm_source=rss&utm_medium=feed",
-      "source": "Levnocestovani.cz",
-      "date": "2026-11-02T13:05:23+00:00",
-      "dateLabel": "2. 11. 2026",
-      "price": 34990,
-      "image": "",
-      "id": "https://levnocestovani.cz/akcni-zajezdy/tyden-na-maledivach-za-34-990-kc-v-plazovem-bungalovu-s-all-inclusive?utm_source=rss&utm_medium=feed",
-      "firstSeen": "2026-11-02T13:26:10.199601+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Wizz Air: Bratislava - Kypr - 980 Kč",
-      "summary": "",
-      "url": "https://www.akcniletenky.com",
-      "source": "AkčníLetenky.com",
-      "date": "2026-11-02T13:00:00+00:00",
-      "dateLabel": "2. 11. 2026",
-      "price": 980,
-      "image": "",
-      "id": "681",
-      "firstSeen": "2026-11-02T13:26:10.199601+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Beyond New York: Which US States Have Nonstop Flights to Europe?",
-      "summary": "You don't have to travel to New York or Chicago to fly nonstop from the United States to Europe. Around 28 of the 50 US states currently have direct flights to Europe, and they don't all depart from major aviation hubs. You can fly to Frank",
-      "url": "https://www.fly4free.com/news/beyond-new-york-which-us-states-have-nonstop-flights-to-europe/",
-      "source": "Fly4free.com",
-      "date": "2026-11-02T12:51:45+00:00",
-      "dateLabel": "2. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/news/beyond-new-york-which-us-states-have-nonstop-flights-to-europe/",
-      "firstSeen": "2026-11-02T13:26:10.199601+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Levná BARCELONA z Prahy - 1 511 Kč",
-      "summary": "Levné letenky pořídíme z Prahy do Barcelony. Zpáteční letenky z Prahy do Barcelony pořídíme u Ryanairu a Vuelingu už za 1 511 Kč. Nejvýhodnější letenky jsou v nabídce na lednové termíny 2026. V ceně zpáteční letenky máme vždy malé příruční",
-      "url": "https://honzovyletenky.cz/levna-barcelona-z-prahy-3/",
-      "source": "Honzovy letenky",
-      "date": "2026-11-02T12:43:02+00:00",
-      "dateLabel": "2. 11. 2026",
-      "price": 1511,
-      "image": "",
-      "id": "https://honzovyletenky.cz/levna-barcelona-z-prahy-3/",
-      "firstSeen": "2026-11-02T13:26:10.199601+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Iconic stay in Copenhagen 🇩🇰 Historic 5-star waterfront Admiral Hotel Copenhagen from €172/double",
-      "summary": "Admiral Hotel isn’t simply a luxury place to sleep — the building itself is one of the reasons to book it. You get centuries of Copenhagen maritime history, a prime harbourfront address and modern high-end amenities such as the waterfront p",
-      "url": "https://www.fly4free.com/flight-deals/europe/5-star-hotel-copenhagen/",
-      "source": "Fly4free.com",
-      "date": "2026-11-02T12:30:19+00:00",
-      "dateLabel": "2. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/5-star-hotel-copenhagen/",
-      "firstSeen": "2026-11-02T13:26:10.199601+00:00",
-      "priceOrig": {
-        "amount": 172,
         "cur": "EUR"
       }
     }
