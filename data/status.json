@@ -11,12 +11,13 @@
     },
     {
       "name": "Levné letenky z Prahy",
-      "ok": true,
-      "items": 20,
+      "ok": false,
+      "items": 0,
       "attempts": [
-        "FlightTipsFeedReader: HTTP 200, 15724 B"
+        "FlightTipsFeedReader: HTTP 200, 4581 B"
       ],
-      "error": ""
+      "error": "ParseError: syntax error: line 2, column 0",
+      "body_start": "        \n<!doctype html>\n<html>\n  <head>\n    <meta charset=\"utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n    <title>Delist portal</title> \n    <script src=\"https://"
     },
     {
       "name": "AkčníLetenky.com",
@@ -32,7 +33,7 @@
       "ok": true,
       "items": 10,
       "attempts": [
-        "FlightTipsFeedReader: HTTP 200, 12965 B"
+        "FlightTipsFeedReader: HTTP 200, 12898 B"
       ],
       "error": ""
     },
@@ -41,7 +42,7 @@
       "ok": true,
       "items": 20,
       "attempts": [
-        "FlightTipsFeedReader: HTTP 200, 43711 B"
+        "FlightTipsFeedReader: HTTP 200, 44804 B"
       ],
       "error": ""
     },
@@ -50,7 +51,7 @@
       "ok": true,
       "items": 50,
       "attempts": [
-        "FlightTipsFeedReader: HTTP 200, 62491 B"
+        "FlightTipsFeedReader: HTTP 200, 62958 B"
       ],
       "error": ""
     },
