@@ -1,6 +1,64 @@
 {
-  "updated": "2026-11-09T19:11:48.087860+00:00",
+  "updated": "2026-11-09T21:05:39.350898+00:00",
   "offers": [
+    {
+      "title": "Fares down! 💥 Non-stop flights from several UK cities to exotic Barbados 🏝️ from £417",
+      "summary": "This excellent TUI deal makes Caribbean sunshine more affordable than ever. You can now book direct flights to Bridgetown for just £417 return, even during peak travel months when prices are usually much higher.",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-the-uk-to-barbados-p417/",
+      "source": "Fly4free.com",
+      "date": "2026-11-09T21:00:30+00:00",
+      "dateLabel": "9. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-the-uk-to-barbados-p417/",
+      "firstSeen": "2026-11-09T21:05:39.350898+00:00",
+      "priceOrig": {
+        "amount": 417,
+        "cur": "GBP"
+      }
+    },
+    {
+      "title": "Skopje z Prahy – spousta termínů od ledna do března. Letenky od 1 045 Kč",
+      "summary": "Skopje je skvělý tip na levný výlet. V hlavním městě Severní Makedonie se můžete projít historickým bazarem, poznat místní památky a užít si pár dní bez velkého utrácení.",
+      "url": "https://www.cestujlevne.com/akcni-letenky/skopje-z-prahy-spousta-terminu-od-ledna-do-brezna",
+      "source": "CestujLevne.com",
+      "date": "2026-11-09T20:30:49+00:00",
+      "dateLabel": "9. 11. 2026",
+      "price": 1045,
+      "image": "",
+      "id": "https://www.cestujlevne.com/akcni-letenky/skopje-z-prahy-spousta-terminu-od-ledna-do-brezna",
+      "firstSeen": "2026-11-09T21:05:39.350898+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "PRICE DROP 💥 Last-minute full-service direct flights from Poland to Sri Lanka 🌴 from €476",
+      "summary": "Enter Air is offering discounted flights to Colombo from just €476 return , making Sri Lanka an easy last-minute option for anyone craving beaches, jungle, tea country and a completely different climate.",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-poland-to-sri-lanka-e476/",
+      "source": "Fly4free.com",
+      "date": "2026-11-09T20:00:24+00:00",
+      "dateLabel": "9. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-poland-to-sri-lanka-e476/",
+      "firstSeen": "2026-11-09T21:05:39.350898+00:00",
+      "priceOrig": {
+        "amount": 476,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "První prosincový týden na Madeiře v 5* hotelu za 14 190 Kč",
+      "summary": "Vánoční výzdoba Funchalu, výlety do zelených hor a odpočinek u oceánu. Čedok nabízí Madeiru v 5* hotelu s All Inclusive za 14 190 Kč. Prohlédněte si zájezd.",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/prvni-prosincovy-tyden-na-madeire-v-5-hotelu-za-14-190-kc?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-11-09T19:36:19+00:00",
+      "dateLabel": "9. 11. 2026",
+      "price": 14190,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/prvni-prosincovy-tyden-na-madeire-v-5-hotelu-za-14-190-kc?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-11-09T21:05:39.350898+00:00",
+      "priceOrig": null
+    },
     {
       "title": "Víkendové letenky do ABERDEENU - 1 210 Kč",
       "summary": "Levné letenky na víkend ve Skotsku koupíme u Ryanair. V rezervačním systému aerolinky Ryanair pořídíme levné letenky z Krakowa do Aberdeenu. Za zpáteční letenky zaplatíme 213 PLN, tedy asi 1 210 Kč. Letenky za tuto nebo podobnou cenu najdem",
@@ -3922,64 +3980,6 @@
       "id": "684",
       "firstSeen": "2026-11-03T07:28:34.492255+00:00",
       "priceOrig": null
-    },
-    {
-      "title": "💫 Refined 4* Starhotels hotel in charming Genova, Italy, from €89/double ☀️",
-      "summary": "This is a particularly good deal if you want something more polished than a basic city hotel: spacious rooms, elegant Italian interiors, proper restaurant and bar facilities, and the reliability of the Starhotels brand.",
-      "url": "https://www.fly4free.com/flight-deals/europe/starhotels-hotel-genova-italy/",
-      "source": "Fly4free.com",
-      "date": "2026-11-02T21:00:22+00:00",
-      "dateLabel": "2. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/starhotels-hotel-genova-italy/",
-      "firstSeen": "2026-11-02T22:54:27.352800+00:00",
-      "priceOrig": {
-        "amount": 89,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Už zítra na Madeiru za 10 990 Kč. Týden ve Funchalu s polopenzí",
-      "summary": "Vyrazte na Madeiru za krásnou přírodou, horskými túrami a výhledy na Atlantik. Čeká vás týden ve Funchalu s polopenzí a bazény. Prohlédněte si nabídku Čedoku.",
-      "url": "https://levnocestovani.cz/akcni-zajezdy/uz-zitra-na-madeiru-za-10-990-kc-tyden-ve-funchalu-s-polopenzi?utm_source=rss&utm_medium=feed",
-      "source": "Levnocestovani.cz",
-      "date": "2026-11-02T20:15:47+00:00",
-      "dateLabel": "2. 11. 2026",
-      "price": 10990,
-      "image": "",
-      "id": "https://levnocestovani.cz/akcni-zajezdy/uz-zitra-na-madeiru-za-10-990-kc-tyden-ve-funchalu-s-polopenzi?utm_source=rss&utm_medium=feed",
-      "firstSeen": "2026-11-02T20:56:25.571948+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "LM Maledivy na týden v 5-ti hvězdičkovém resortu. Od 31 990 Kč.",
-      "summary": "LM Maledivy na týden v 5-ti hvězdičkovém resortu za 31 990 Kč.",
-      "url": "https://www.obletsvet.cz/akcni-letenka/lm-maledivy-na-tyden-v-5-ti-hvezdickovem-resortu",
-      "source": "Obletsvet.cz",
-      "date": "2026-11-02T20:03:10+00:00",
-      "dateLabel": "2. 11. 2026",
-      "price": 31990,
-      "image": "",
-      "id": "https://www.obletsvet.cz/akcni-letenka/lm-maledivy-na-tyden-v-5-ti-hvezdickovem-resortu",
-      "firstSeen": "2026-11-02T20:56:25.571948+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Christmas in the Seychelles 🎄🏝️ Cheap flights from many European cities to the paradise-like islands from €487",
-      "summary": "Swap cold December days for white-sand beaches, turquoise lagoons and Christmas under the palm trees. Condor is offering return flights from several European cities to the Seychelles from just €487, including dates covering the festive seas",
-      "url": "https://www.fly4free.com/flight-deals/europe/cheap-flights-from-europe-to-the-seychelles-christmas/",
-      "source": "Fly4free.com",
-      "date": "2026-11-02T20:00:04+00:00",
-      "dateLabel": "2. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/cheap-flights-from-europe-to-the-seychelles-christmas/",
-      "firstSeen": "2026-11-02T20:56:25.571948+00:00",
-      "priceOrig": {
-        "amount": 487,
-        "cur": "EUR"
-      }
     }
   ]
 }
