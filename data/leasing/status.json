@@ -1,31 +1,31 @@
 {
- "updated": "2026-11-10T21:08:38Z",
+ "updated": "2026-11-10T21:11:54Z",
  "sources": [
   {
    "name": "Cartop",
    "ok": true,
-   "complete": true,
+   "complete": false,
    "pages": 7,
    "cards": 63,
    "noPrice": 0,
    "requests": 8,
-   "note": "",
+   "note": "strana 7: web vrací kontrolu robota (bot ochrana), stahování zastaveno, nabídek může být víc než stažených",
    "pageLog": [
     [
      1,
-     826637,
+     826921,
      13,
      13
     ],
     [
      2,
-     826266,
+     826456,
      13,
      10
     ],
     [
      3,
-     823641,
+     821914,
      13,
      10
     ],
@@ -46,15 +46,10 @@
      830438,
      13,
      10
-    ],
-    [
-     7,
-     2498,
-     0,
-     0
     ]
    ],
-   "robots": "robots.txt přečten"
+   "robots": "robots.txt přečten",
+   "blocked": 7
   },
   {
    "name": "Carhunt",
