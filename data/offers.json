@@ -1,6 +1,48 @@
 {
-  "updated": "2026-11-09T22:57:54.949128+00:00",
+  "updated": "2026-11-10T07:27:38.094702+00:00",
   "offers": [
+    {
+      "title": "Víkendová TIRANA z Prahy - 899 Kč",
+      "summary": "Za výhodnou cenu jsou dostupné letenky do albánské Tirany. Zpáteční letenky z Prahy do Tirany jsou dostupné už za 899 Kč. Nejvýhodnější letenky pořídíme na víkendové lednové termíny. V ceně základního tarifu u Ryanair máme vždy malé příručn",
+      "url": "https://honzovyletenky.cz/vikendova-tirana-z-prahy/",
+      "source": "Honzovy letenky",
+      "date": "2026-11-10T08:10:07+00:00",
+      "dateLabel": "10. 11. 2026",
+      "price": 899,
+      "image": "",
+      "id": "https://honzovyletenky.cz/vikendova-tirana-z-prahy/",
+      "firstSeen": "2026-11-10T07:27:38.094702+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Cheap full-service flights from many European cities to Los Angeles 🏄 for €394",
+      "summary": "Soak up the sun, stroll Hollywood Boulevard, or explore Yosemite — your West Coast adventure awaits! Royal Air Maroc is offering discounted airfares to Los Angeles starting at €394 for a round trip.",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-los-angeles-e394/",
+      "source": "Fly4free.com",
+      "date": "2026-11-10T07:00:10+00:00",
+      "dateLabel": "10. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-los-angeles-e394/",
+      "firstSeen": "2026-11-10T07:27:38.094702+00:00",
+      "priceOrig": {
+        "amount": 394,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "Ryanair: Praha - Turín - 975 Kč",
+      "summary": "",
+      "url": "https://www.akcniletenky.com",
+      "source": "AkčníLetenky.com",
+      "date": "2026-11-10T07:00:00+00:00",
+      "dateLabel": "10. 11. 2026",
+      "price": 975,
+      "image": "",
+      "id": "710",
+      "firstSeen": "2026-11-10T07:27:38.094702+00:00",
+      "priceOrig": null
+    },
     {
       "title": "Warm waters beneath winter skies: 10 thermal spas in Europe for a short break",
       "summary": "Winter bathing in the open air can mean soaking among Alpine peaks, relaxing in a park filled with centuries-old trees or enjoying a panoramic pool overlooking a river. This selection brings together ten thermal spas across Europe for a sho",
@@ -3964,35 +4006,6 @@
         "amount": 457,
         "cur": "GBP"
       }
-    },
-    {
-      "title": "Flights from many European cities to the Dominican Republic 🏝️ from €564",
-      "summary": "Craving sun, sand, and sea? Catch a discounted Air Europa flight to Santo Domingo starting at only €564 for a round trip!",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-the-dominican-republic-e564/",
-      "source": "Fly4free.com",
-      "date": "2026-11-03T07:00:27+00:00",
-      "dateLabel": "3. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-the-dominican-republic-e564/",
-      "firstSeen": "2026-11-03T07:28:34.492255+00:00",
-      "priceOrig": {
-        "amount": 564,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Ryanair: Praha - Turín - 978 Kč",
-      "summary": "",
-      "url": "https://www.akcniletenky.com",
-      "source": "AkčníLetenky.com",
-      "date": "2026-11-03T07:00:00+00:00",
-      "dateLabel": "3. 11. 2026",
-      "price": 978,
-      "image": "",
-      "id": "684",
-      "firstSeen": "2026-11-03T07:28:34.492255+00:00",
-      "priceOrig": null
     }
   ]
 }
