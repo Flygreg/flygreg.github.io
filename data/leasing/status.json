@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T21:02:50Z",
+ "updated": "2026-11-10T21:05:46Z",
  "sources": [
   {
    "name": "Cartop",
@@ -7,25 +7,25 @@
    "complete": true,
    "pages": 7,
    "cards": 63,
-   "noPrice": 60,
+   "noPrice": 6,
    "requests": 8,
    "note": "",
    "pageLog": [
     [
      1,
-     826637,
+     826921,
      13,
      13
     ],
     [
      2,
-     826266,
+     826456,
      13,
      10
     ],
     [
      3,
-     823641,
+     823451,
      13,
      10
     ],
@@ -37,7 +37,7 @@
     ],
     [
      5,
-     823728,
+     825455,
      13,
      10
     ],
@@ -215,11 +215,11 @@
   },
   {
    "name": "AutoIN",
-   "ok": false,
-   "complete": false,
+   "ok": true,
+   "complete": true,
    "pages": 9,
    "cards": 95,
-   "noPrice": 95,
+   "noPrice": 0,
    "requests": 10,
    "note": "",
    "pageLog": [
