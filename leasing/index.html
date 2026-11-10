@@ -162,10 +162,10 @@ function renderSources(){
   $('zpop').innerHTML=names.map(x=>`<label class="srcrow${cur[x]?'':' zero'}"><input type="checkbox" data-s="${esc(x)}" ${offSrc.has(x)?'':'checked'}><span class="nm">${esc(x)}</span><span class="only" data-only="${esc(x)}">jen</span><span class="n">${cur[x]||0}</span></label>`).join('')+'<div class="zfoot"><button type="button" id="zall">Zobrazit vše</button><span>Pamatuje si prohlížeč</span></div>';
 }
 function card(o){
-  const sub=[o.fuel?FUEL[o.fuel]||o.fuel:'',o.gear==='automat'?'automat':o.gear==='manuál'?'manuál':'',o.kw?o.kw+' kW':'',o.months?o.months+' měs.':'',o.km||'',o.source].filter(Boolean).map(esc).join(' · ');
+  const sub=[o.fuel?FUEL[o.fuel]||o.fuel:'',o.gear==='automat'?'automat':o.gear==='manuál'?'manuál':'',o.kw?o.kw+' kW':'',o.months?o.months+' měs.':'',o.km||''].filter(Boolean).map(esc).join(' · ');
   const vat=o.vat==='bez'?'bez DPH':o.vat==='s'?'s DPH':'';
   const d=new Date(o.firstSeen).toLocaleDateString('cs-CZ');
-  return `<article class="card"><div class="pills"><span class="ibd" role="img" aria-label="Auto" title="Auto">${CAR}</span></div><h2 title="${esc(o.title)}">${esc(o.title)}${isNew(o)?'<span class="nw">Nové</span>':''}${drop(o)?'<span class="nw d">Zlevněno</span>':''}<span class="sub">${sub}</span></h2><div class="row"><span><b style="color:#0a3f4d">od ${kc(o.price)}</b><small class="orig">/ měsíc${vat?' · '+vat:''}</small>${drop(o)?'<s>'+kc(o.prevPrice)+'</s>':''}</span><span class="dt">${d}</span></div><a target="_blank" rel="noopener noreferrer nofollow" href="${esc(o.url)}">Zobrazit nabídku</a></article>`;
+  return `<article class="card" data-src="${esc(o.source)}"><div class="pills"><span class="ibd" role="img" aria-label="${esc(FUEL[o.fuel]||'Auto')}" title="${esc(FUEL[o.fuel]||'Auto')}">${ICON[o.fuel]||CAR}</span></div><h2 title="${esc(o.title)}">${esc(o.title)}${isNew(o)?'<span class="nw">Nové</span>':''}${drop(o)?'<span class="nw d">Zlevněno</span>':''}<span class="sub">${sub}</span></h2><div class="row"><span><b style="color:#0a3f4d">od ${kc(o.price)}</b><small class="orig">/ měsíc${vat?' · '+vat:''}</small>${drop(o)?'<s>'+kc(o.prevPrice)+'</s>':''}</span><span class="dt">${d}</span></div><a target="_blank" rel="noopener noreferrer nofollow" href="${esc(o.url)}">Zobrazit nabídku</a></article>`;
 }
 function render(){
   const arr=items.filter(o=>okQ(o)&&okFuel(o)&&okBrand(o)&&okSrc(o)).sort((a,b)=>a.price-b.price);
