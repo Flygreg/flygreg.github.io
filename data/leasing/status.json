@@ -1,35 +1,38 @@
 {
- "updated": "2026-11-10T20:45:35Z",
+ "updated": "2026-11-10T21:00:16Z",
  "sources": [
   {
    "name": "Cartop",
-   "ok": false,
-   "complete": false,
-   "pages": 0,
-   "cards": 0,
-   "noPrice": 0,
-   "requests": 1,
-   "note": "robots.txt nelze přečíst (UnicodeEncodeError), zdroj vynechán"
+   "ok": true,
+   "complete": true,
+   "pages": 7,
+   "cards": 63,
+   "noPrice": 60,
+   "requests": 8,
+   "note": "",
+   "robots": "robots.txt přečten"
   },
   {
    "name": "Carhunt",
-   "ok": false,
+   "ok": true,
    "complete": false,
-   "pages": 0,
-   "cards": 0,
+   "pages": 24,
+   "cards": 211,
    "noPrice": 0,
-   "requests": 1,
-   "note": "robots.txt nelze přečíst (UnicodeEncodeError), zdroj vynechán"
+   "requests": 27,
+   "note": "https://carhunt.cz/nabidka-vozu/page/26/: HTTPError 404",
+   "robots": "robots.txt přečten"
   },
   {
    "name": "AutoIN",
    "ok": false,
    "complete": false,
-   "pages": 0,
-   "cards": 0,
-   "noPrice": 0,
-   "requests": 1,
-   "note": "robots.txt nelze přečíst (UnicodeEncodeError), zdroj vynechán"
+   "pages": 9,
+   "cards": 95,
+   "noPrice": 95,
+   "requests": 10,
+   "note": "",
+   "robots": "robots.txt přečten"
   }
  ]
 }
