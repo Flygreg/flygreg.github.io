@@ -1,0 +1,35 @@
+{
+ "updated": "2026-11-10T20:45:35Z",
+ "sources": [
+  {
+   "name": "Cartop",
+   "ok": false,
+   "complete": false,
+   "pages": 0,
+   "cards": 0,
+   "noPrice": 0,
+   "requests": 1,
+   "note": "robots.txt nelze přečíst (UnicodeEncodeError), zdroj vynechán"
+  },
+  {
+   "name": "Carhunt",
+   "ok": false,
+   "complete": false,
+   "pages": 0,
+   "cards": 0,
+   "noPrice": 0,
+   "requests": 1,
+   "note": "robots.txt nelze přečíst (UnicodeEncodeError), zdroj vynechán"
+  },
+  {
+   "name": "AutoIN",
+   "ok": false,
+   "complete": false,
+   "pages": 0,
+   "cards": 0,
+   "noPrice": 0,
+   "requests": 1,
+   "note": "robots.txt nelze přečíst (UnicodeEncodeError), zdroj vynechán"
+  }
+ ]
+}
