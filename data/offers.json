@@ -1,6 +1,48 @@
 {
-  "updated": "2026-11-10T17:06:48.096615+00:00",
+  "updated": "2026-11-10T19:12:38.620916+00:00",
   "offers": [
+    {
+      "title": "🌏✈️ The world’s longest flight in premium economy! One-way flights from New York to Singapore from €484",
+      "summary": "Almost 18 hours in the air and more than 15,000 km across the globe! Singapore Airlines is offering one-way Premium Economy tickets from New York JFK to Singapore from just €498 on what is currently the world’s longest scheduled non-stop pa",
+      "url": "https://www.fly4free.com/flight-deals/europe/longest-flight-in-the-world-new-york-to-singapore/",
+      "source": "Fly4free.com",
+      "date": "2026-11-10T18:30:11+00:00",
+      "dateLabel": "10. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/longest-flight-in-the-world-new-york-to-singapore/",
+      "firstSeen": "2026-11-10T19:12:38.620916+00:00",
+      "priceOrig": {
+        "amount": 484,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "💞Valentine’s Day: 10 romantic trips for two, from an overnight train to a chocolate workshop",
+      "summary": "Fall asleep on an overnight train and wake up in Switzerland, learn to make apple strudel together or end Valentine’s Day looking through a telescope. A romantic getaway can be built around an experience you have always wanted to share. It",
+      "url": "https://www.fly4free.com/flight-deals/europe/valentines-day-10-romantic-trips-for-two-from-an-overnight-train-to-a-chocolate-workshop/",
+      "source": "Fly4free.com",
+      "date": "2026-11-10T18:17:33+00:00",
+      "dateLabel": "10. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/valentines-day-10-romantic-trips-for-two-from-an-overnight-train-to-a-chocolate-workshop/",
+      "firstSeen": "2026-11-10T19:12:38.620916+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Za exotikou do Keni za 21 130 Kč. Týden u pláže Bamburi s All Inclusive",
+      "summary": "Bílá pláž Bamburi, historická Mombasa i možnost výletu na safari. Užijte si Keňu s All Inclusive v menším 4* resortu – mrkněte na zájezd EXIM tours a Fischer.",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/za-exotikou-do-keni-za-21-130-kc-tyden-u-plaze-bamburi-s-all-inclusive?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-11-10T17:15:58+00:00",
+      "dateLabel": "10. 11. 2026",
+      "price": 21130,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/za-exotikou-do-keni-za-21-130-kc-tyden-u-plaze-bamburi-s-all-inclusive?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-11-10T19:12:38.620916+00:00",
+      "priceOrig": null
+    },
     {
       "title": "High-season escape to Panama 🏝️ Cheap flights from Madrid from €425",
       "summary": "Want a tropical trip that gives you much more than just beaches? Avianca is offering return flights from Madrid to Panama from just €425, opening the door to one of Central America’s most varied destinations.",
@@ -3849,64 +3891,6 @@
       "price": 1338,
       "image": "",
       "id": "https://honzovyletenky.cz/vikend-v-bari-2/",
-      "firstSeen": "2026-11-03T19:10:00.541817+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Cheap direct flights from Amsterdam to the Dominican Republic 🌴 🥥 for €514",
-      "summary": "Need an easy escape to the Caribbean? TUI is offering discounted direct flights from Amsterdam to Punta Cana from just €514 return — a great last-minute fare for anyone craving warm weather, palm trees and long beach days.",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-punta-cana-e514/",
-      "source": "Fly4free.com",
-      "date": "2026-11-03T19:00:33+00:00",
-      "dateLabel": "3. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-punta-cana-e514/",
-      "firstSeen": "2026-11-03T19:10:00.541817+00:00",
-      "priceOrig": {
-        "amount": 514,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Adventní trip 2v1 z Prahy: Benátky + Budapešť. Od 1 897 Kč.",
-      "summary": "Adventní trip 2v1 z Prahy: Benátky + Budapešť od 1 897 Kč.",
-      "url": "https://www.obletsvet.cz/akcni-letenka/adventni-trip-2v1-z-prahy-benatky-budapest",
-      "source": "Obletsvet.cz",
-      "date": "2026-11-03T18:26:34+00:00",
-      "dateLabel": "3. 11. 2026",
-      "price": 1897,
-      "image": "",
-      "id": "https://www.obletsvet.cz/akcni-letenka/adventni-trip-2v1-z-prahy-benatky-budapest",
-      "firstSeen": "2026-11-03T19:10:00.541817+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Full-service flights from Frankfurt to exotic Zanzibar 🏝️ for €531",
-      "summary": "Escape to paradise where white sandy beaches, crystal-clear waters, and unforgettable sunsets await! Book discounted Ethiopian Airlines flights to Zanzibar for €531 for a round trip.",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-frankfurt-to-zanzibar-e531-2/",
-      "source": "Fly4free.com",
-      "date": "2026-11-03T18:00:27+00:00",
-      "dateLabel": "3. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-frankfurt-to-zanzibar-e531-2/",
-      "firstSeen": "2026-11-03T19:10:00.541817+00:00",
-      "priceOrig": {
-        "amount": 531,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Týden na Zanzibaru za 23 990 Kč v 5* resortu s All Inclusive",
-      "summary": "Bílý písek, kokosové palmy a tyrkysový Indický oceán. Užijte si týden na Zanzibaru v 5* resortu u soukromé pláže s All Inclusive. Mrkněte na nabídku Čedoku.",
-      "url": "https://levnocestovani.cz/akcni-zajezdy/tyden-na-zanzibaru-za-23-990-kc-v-5-resortu-s-all-inclusive?utm_source=rss&utm_medium=feed",
-      "source": "Levnocestovani.cz",
-      "date": "2026-11-03T17:13:19+00:00",
-      "dateLabel": "3. 11. 2026",
-      "price": 23990,
-      "image": "",
-      "id": "https://levnocestovani.cz/akcni-zajezdy/tyden-na-zanzibaru-za-23-990-kc-v-5-resortu-s-all-inclusive?utm_source=rss&utm_medium=feed",
       "firstSeen": "2026-11-03T19:10:00.541817+00:00",
       "priceOrig": null
     }
