@@ -127,7 +127,7 @@ footer{margin-top:35px;color:#56677e;font-size:13px}
 const $=id=>document.getElementById(id),esc=t=>String(t==null?'':t).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const FUEL={benzin:'Benzín',diesel:'Diesel',elektro:'Elektro',hybrid:'Hybrid',plyn:'Plyn'},CAR=`<svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M18.92 6.01C18.72 5.42 18.16 5 17.5 5h-11c-.66 0-1.21.42-1.42 1.01L3 12v8c0 .55.45 1 1 1h1c.55 0 1-.45 1-1v-1h12v1c0 .55.45 1 1 1h1c.55 0 1-.45 1-1v-8l-2.08-5.99zM6.5 16c-.83 0-1.5-.67-1.5-1.5S5.67 13 6.5 13s1.5.67 1.5 1.5S7.33 16 6.5 16zm11 0c-.83 0-1.5-.67-1.5-1.5s.67-1.5 1.5-1.5 1.5.67 1.5 1.5-.67 1.5-1.5 1.5zM5 11l1.5-4.5h11L19 11H5z"/></svg>`;
 const kc=n=>n.toLocaleString('cs-CZ').replace(/ /g,' ')+' Kč',pl=n=>n===1?'nabídka':n>=2&&n<=4?'nabídky':'nabídek';
-let items=[],fuel='',selB=new Set(),bOpen=false,zOpen=false,offSrc=new Set();
+let items=[],fuel='',selB=new Set(),selM={},bOpen=false,zOpen=false,offSrc=new Set();
 try{offSrc=new Set(JSON.parse(localStorage.getItem('hiddenLeasingSources')||'[]'))}catch(e){}
 const saveSrc=()=>{try{localStorage.setItem('hiddenLeasingSources',JSON.stringify([...offSrc]))}catch(e){}};
 const IC=p=>`<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${p}</svg>`;
@@ -135,8 +135,8 @@ const ICON={benzin:IC('<path d="M4 21V5a2 2 0 0 1 2-2h6a2 2 0 0 1 2 2v16"/><path
 const NOW=Date.now(),DAY=864e5,brandOf=o=>o.brand||'Ostatní';
 const drop=o=>o.prevPrice&&o.prevPrice>o.price&&(NOW-new Date(o.priceChanged).getTime())/DAY<=7;
 const qv=()=>$('q').value.trim().toLocaleLowerCase('cs');
-const okQ=o=>{const q=qv();return !q||(o.title+' '+(o.brand||'')+' '+o.source).toLocaleLowerCase('cs').includes(q)};
-let gears=new Set();const okX=o=>gears.size===0||gears.size===2||gears.has(o.gear),okFuel=o=>!fuel||o.fuel===fuel,okBrand=o=>!selB.size||selB.has(brandOf(o)),okSrc=o=>!offSrc.has(o.source);
+const okQ=o=>{const q=qv();return !q||(o.title+' '+(o.brand||'')+' '+(o.model||'')+' '+o.source).toLocaleLowerCase('cs').includes(q)};
+let gears=new Set();const okX=o=>gears.size===0||gears.size===2||gears.has(o.gear),okFuel=o=>!fuel||o.fuel===fuel,isWhole=b=>selB.has(b)&&!(selM[b]&&selM[b].size),okBrand=o=>!selB.size||[...selB].some(b=>{if(brandOf(o)!==b)return false;const m=selM[b];return !(m&&m.size)||m.has(o.model)}),okSrc=o=>!offSrc.has(o.source);
 function renderChips(){
   const f={};items.forEach(o=>{if(o.fuel)f[o.fuel]=(f[o.fuel]||0)+1});
   const ks=Object.keys(f).sort((a,b)=>f[b]-f[a]);if(fuel&&!f[fuel])fuel='';
@@ -144,13 +144,15 @@ function renderChips(){
   $('chips').innerHTML=ks.length?`<button class="chip${fuel?'':' on'}" data-f="" aria-pressed="${!fuel}">Vše</button>`+ks.map(k=>`<button class="chip${fuel===k?' on':''}" data-f="${k}" aria-pressed="${fuel===k}">${ICON[k]||''}${FUEL[k]||k}</button>`).join(''):'';
 }
 function renderB(){
-  const sel=[...selB];
+  const sel=[];selB.forEach(b=>{const m=selM[b];if(m&&m.size)m.forEach(x=>sel.push(b+' '+x));else sel.push(b)});
   $('bbtn').innerHTML='<span class="g">Značka:</span>'+(sel.length?'<span class="v">'+esc(sel[0])+(sel.length>1?' +'+(sel.length-1):'')+'</span>':'<span class="v">Všechny</span>')+'<span class="arr">'+(bOpen?'▴':'▾')+'</span>';
   $('bbtn').setAttribute('aria-expanded',bOpen);document.body.classList.toggle('bopen',bOpen);$('bpanel').hidden=!bOpen;
   if(!bOpen)return;
-  const n={};items.filter(o=>okQ(o)&&okFuel(o)&&okX(o)&&okSrc(o)).forEach(o=>{const b=brandOf(o);n[b]=(n[b]||0)+1});
+  const n={},nm={};items.filter(o=>okQ(o)&&okFuel(o)&&okX(o)&&okSrc(o)).forEach(o=>{const b=brandOf(o);n[b]=(n[b]||0)+1;if(o.model){const k=b+'\u0001'+o.model;nm[k]=(nm[k]||0)+1}});
   const all=[...new Set(items.map(brandOf))].filter(b=>b!=='Ostatní').sort((a,b)=>a.localeCompare(b,'cs'));if(items.some(o=>!o.brand))all.push('Ostatní');
-  $('bpanel').innerHTML=all.filter(b=>n[b]||selB.has(b)).map(b=>`<label class="bgrp"><input type="checkbox" data-b="${esc(b)}" ${selB.has(b)?'checked':''}>${esc(b)}<span class="n">${n[b]||0}</span></label>`).join('')+`<div class="bfoot"><span>Vybráno: ${sel.length}</span><span class="bfa"><button type="button" id="bclear">Zrušit výběr</button><button type="button" id="bdone" class="bdone">Hotovo</button></span></div>`;
+  const mods=b=>[...new Set(items.filter(o=>brandOf(o)===b&&o.model).map(o=>o.model))].sort((x,y)=>(nm[b+'\u0001'+y]||0)-(nm[b+'\u0001'+x]||0)||x.localeCompare(y,'cs'));
+  $('bpanel').innerHTML=all.filter(b=>n[b]||selB.has(b)).map(b=>`<label class="bgrp"><input type="checkbox" data-hb="${esc(b)}" ${isWhole(b)?'checked':''} data-ind="${(selM[b]&&selM[b].size)?1:0}">${esc(b)}<span class="n">${n[b]||0}</span></label>`+mods(b).filter(m=>nm[b+'\u0001'+m]||(selM[b]&&selM[b].has(m))).map(m=>{const on=selM[b]&&selM[b].has(m);return `<label class="bopt"><input type="checkbox" data-mb="${esc(b)}" data-m="${esc(m)}" ${on?'checked':''}>${esc(m)}<span class="n">${nm[b+'\u0001'+m]||0}</span></label>`}).join('')).join('')+`<div class="bfoot"><span>Vybráno: ${sel.length}</span><span class="bfa"><button type="button" id="bclear">Zrušit výběr</button><button type="button" id="bdone" class="bdone">Hotovo</button></span></div>`;
+  $('bpanel').querySelectorAll('input[data-ind="1"]').forEach(i=>i.indeterminate=true);
 }
 function renderSources(){
   const all={};items.forEach(o=>all[o.source]=(all[o.source]||0)+1);
@@ -181,10 +183,14 @@ document.addEventListener('click',e=>{const b=e.target.closest('.fs .chip');if(!
 $('q').addEventListener('input',render);$('qx').addEventListener('click',()=>{$('q').value='';render();$('q').focus()});
 $('chips').addEventListener('click',e=>{const b=e.target.closest('.chip');if(!b)return;fuel=b.dataset.f;render()});
 $('bbtn').addEventListener('click',()=>{bOpen=!bOpen;renderB()});
-$('bpanel').addEventListener('change',e=>{const t=e.target;if(!t.dataset.b)return;t.checked?selB.add(t.dataset.b):selB.delete(t.dataset.b);renderB();render0()});
+$('bpanel').addEventListener('change',e=>{const t=e.target;
+  if(t.dataset.hb){const b=t.dataset.hb;if(isWhole(b))selB.delete(b);else selB.add(b);delete selM[b]}
+  else if(t.dataset.m){const b=t.dataset.mb,m=t.dataset.m,set=selM[b]||new Set();set.has(m)?set.delete(m):set.add(m);if(set.size){selB.add(b);selM[b]=set}else{selB.delete(b);delete selM[b]}}
+  else return;
+  renderB();render0()});
 const render0=()=>{const arr=items.filter(o=>okQ(o)&&okFuel(o)&&okX(o)&&okBrand(o)&&okSrc(o)).length;$('count').textContent=`${arr} ${pl(arr)}`;$('cards').innerHTML=items.filter(o=>okQ(o)&&okFuel(o)&&okX(o)&&okBrand(o)&&okSrc(o)).sort((a,b)=>a.price-b.price).slice(0,400).map(card).join('');renderChips();renderSources()};
 const closeB=()=>{if(!bOpen)return;bOpen=false;render()};
-$('bpanel').addEventListener('click',e=>{if(e.target.id==='bclear'){selB.clear();renderB();render0()}else if(e.target.id==='bdone')closeB()});
+$('bpanel').addEventListener('click',e=>{if(e.target.id==='bclear'){selB.clear();selM={};renderB();render0()}else if(e.target.id==='bdone')closeB()});
 $('zbtn').addEventListener('click',()=>{zOpen=!zOpen;renderSources()});
 $('zpop').addEventListener('click',e=>{const o=e.target.closest('[data-only]');if(o){e.preventDefault();const keep=o.dataset.only;offSrc=new Set([...new Set(items.map(x=>x.source))].filter(x=>x!==keep));saveSrc();render();return}if(e.target.id==='zall'){offSrc.clear();saveSrc();render()}});
 $('zpop').addEventListener('change',e=>{const c=e.target.closest('input[data-s]');if(!c)return;c.checked?offSrc.delete(c.dataset.s):offSrc.add(c.dataset.s);saveSrc();render0()});
