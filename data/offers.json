@@ -1,6 +1,74 @@
 {
-  "updated": "2026-11-10T11:04:03.755338+00:00",
+  "updated": "2026-11-10T13:22:14.413502+00:00",
   "offers": [
+    {
+      "title": "Lowcost letenky na KAPVERDY - 3 943 Kč",
+      "summary": "Levné letenky na Kapverdy koupíme přes easyJet. U easyJetu najdeme levné letenky z Prahy na ostrov Sal na Kapverdách. Za nejlevnější zpáteční letenky zaplatíme 3 943 Kč. Po cestě máme vždy jeden přestup, jehož umístění se liší podle zvolené",
+      "url": "https://honzovyletenky.cz/lowcost-letenky-na-kapverdy/",
+      "source": "Honzovy letenky",
+      "date": "2026-11-10T14:18:29+00:00",
+      "dateLabel": "10. 11. 2026",
+      "price": 3943,
+      "image": "",
+      "id": "https://honzovyletenky.cz/lowcost-letenky-na-kapverdy/",
+      "firstSeen": "2026-11-10T13:22:14.413502+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Přímým letem z Prahy na Maledivy. Týden v 5* resortu Royal Island od 35 990 Kč",
+      "summary": "Uvelebte se na bílém písku u tyrkysové vody! Užijte si 5* Royal Island na atolu Baa přímým letem z Prahy. Šnorchlování, masáže i all inclusive od 35 990 Kč.",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/primym-letem-z-prahy-na-maledivy-tyden-v-5-resortu-royal-island-od-35-990-kc?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-11-10T13:03:13+00:00",
+      "dateLabel": "10. 11. 2026",
+      "price": 35990,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/primym-letem-z-prahy-na-maledivy-tyden-v-5-resortu-royal-island-od-35-990-kc?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-11-10T13:22:14.413502+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Condor: Praha - Vancouver - 12 790 Kč",
+      "summary": "",
+      "url": "https://www.akcniletenky.com",
+      "source": "AkčníLetenky.com",
+      "date": "2026-11-10T13:00:00+00:00",
+      "dateLabel": "10. 11. 2026",
+      "price": 12790,
+      "image": "",
+      "id": "712",
+      "firstSeen": "2026-11-10T13:22:14.413502+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "High season escape to the Caribbean 🌊 Direct flights from Paris to Martinique 🏝️ from €456",
+      "summary": "Swap European winter for turquoise bays, palm-fringed beaches, rainforest-covered mountains and warm Caribbean evenings. Corsair is offering direct return flights from Paris to Fort-de-France from just €456, making Martinique a very temptin",
+      "url": "https://www.fly4free.com/flight-deals/europe/cheap-flights-from-paris-to-martinique-e456/",
+      "source": "Fly4free.com",
+      "date": "2026-11-10T12:30:50+00:00",
+      "dateLabel": "10. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/cheap-flights-from-paris-to-martinique-e456/",
+      "firstSeen": "2026-11-10T13:22:14.413502+00:00",
+      "priceOrig": {
+        "amount": 456,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "Prodloužené víkendy v Hamburku v lednu a únoru z Prahy. Letenky od 1 396 Kč",
+      "summary": "Vyrazte na prodloužený víkend do Hamburku. Aerolinka easyJet nabízí zpáteční letenky z Prahy už za 1 396 Kč, a to hned v několika lednových termínech od pátku do pondělí.",
+      "url": "https://www.cestujlevne.com/akcni-letenky/prodlouzene-vikendy-v-hamburku-v-lednu-a-unoru-z-prahy",
+      "source": "CestujLevne.com",
+      "date": "2026-11-10T12:25:31+00:00",
+      "dateLabel": "10. 11. 2026",
+      "price": 1396,
+      "image": "",
+      "id": "https://www.cestujlevne.com/akcni-letenky/prodlouzene-vikendy-v-hamburku-v-lednu-a-unoru-z-prahy",
+      "firstSeen": "2026-11-10T13:22:14.413502+00:00",
+      "priceOrig": null
+    },
     {
       "title": "Prodloužený víkend v MILÁNU - 866 Kč",
       "summary": "Levné letenky do Milána pořídíme u easyJet. Letenky z Prahy do Milána na poznávačku města i okolí najdeme u easyJet. Za nejlevnější zpáteční letenky zaplatíme 866 Kč. Letenky za tuto nebo podobnou cenu najdeme na různě dlouhé termíny v ledn",
@@ -12,6 +80,19 @@
       "image": "",
       "id": "https://honzovyletenky.cz/prodlouzeny-vikend-v-milanu/",
       "firstSeen": "2026-11-10T11:04:03.755338+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Keňské Watamu za 22 990 Kč: 4* resort přímo u pláže, 7 nocí s All Inclusive",
+      "summary": "Bílé pláže, šnorchlování u korálových útesů i možnost safari se zážitkovým noclehem. Objevte listopadový zájezd do Keni od Čedoku.",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/kenske-watamu-za-22-990-kc-4-resort-primo-u-plaze-7-noci-s-all-inclusive?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-11-10T11:45:07+00:00",
+      "dateLabel": "10. 11. 2026",
+      "price": 22990,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/kenske-watamu-za-22-990-kc-4-resort-primo-u-plaze-7-noci-s-all-inclusive?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-11-10T13:22:14.413502+00:00",
       "priceOrig": null
     },
     {
@@ -54,6 +135,19 @@
       "image": "",
       "id": "https://levnocestovani.cz/akcni-zajezdy/tyden-u-indickeho-oceanu-za-23-990-kc-zanzibar-s-all-inclusive-ve-4-resortu?utm_source=rss&utm_medium=feed",
       "firstSeen": "2026-11-10T11:04:03.755338+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Lago di Garda na 3 dny v květnu s all inclusive. Od 3 895 Kč.",
+      "summary": "Lago di Garda na 3 dny v květnu s all inclusive za 3 895 Kč.",
+      "url": "https://www.obletsvet.cz/akcni-letenka/lago-di-garda-na-3-dny-v-kvetnu-s-all-inclusive",
+      "source": "Obletsvet.cz",
+      "date": "2026-11-10T10:07:36+00:00",
+      "dateLabel": "10. 11. 2026",
+      "price": 3895,
+      "image": "",
+      "id": "https://www.obletsvet.cz/akcni-letenka/lago-di-garda-na-3-dny-v-kvetnu-s-all-inclusive",
+      "firstSeen": "2026-11-10T13:22:14.413502+00:00",
       "priceOrig": null
     },
     {
@@ -3856,116 +3950,6 @@
       "image": "",
       "id": "https://www.cestujlevne.com/akcni-letenky/tyden-v-dominikanske-republice-s-all-inclusive-a-primym-letem-z-prahy",
       "firstSeen": "2026-11-03T15:04:03.327371+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Buzz: Praha - Košice - 987 Kč",
-      "summary": "",
-      "url": "https://www.akcniletenky.com",
-      "source": "AkčníLetenky.com",
-      "date": "2026-11-03T13:00:00+00:00",
-      "dateLabel": "3. 11. 2026",
-      "price": 987,
-      "image": "",
-      "id": "686",
-      "firstSeen": "2026-11-03T15:04:03.327371+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Full-service flights from London to New Zealand for £589",
-      "summary": "Take advantage of these promotional China Southern Airlines fares and book discounted flights to Auckland starting at only £589 for a round trip.",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-new-zealand-p589-2/",
-      "source": "Fly4free.com",
-      "date": "2026-11-03T12:50:08+00:00",
-      "dateLabel": "3. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-new-zealand-p589-2/",
-      "firstSeen": "2026-11-03T13:21:53.215240+00:00",
-      "priceOrig": {
-        "amount": 589,
-        "cur": "GBP"
-      }
-    },
-    {
-      "title": "9 km zlatavých pláží na Porto Santu: 4* Vila Baleira s All Inclusive od 14 890 Kč",
-      "summary": "Dopřejte si týden na Porto Santu! Čeká vás 9 km zlatavého písku, 4* hotel Vila Baleira, All Inclusive a odlet z Prahy. Zarezervujte si dovolenou od 14 890 Kč.",
-      "url": "https://levnocestovani.cz/akcni-zajezdy/9-km-zlatavych-plazi-na-porto-santu-4-vila-baleira-s-all-inclusive-od-14-890-kc?utm_source=rss&utm_medium=feed",
-      "source": "Levnocestovani.cz",
-      "date": "2026-11-03T12:44:53+00:00",
-      "dateLabel": "3. 11. 2026",
-      "price": 14890,
-      "image": "",
-      "id": "https://levnocestovani.cz/akcni-zajezdy/9-km-zlatavych-plazi-na-porto-santu-4-vila-baleira-s-all-inclusive-od-14-890-kc?utm_source=rss&utm_medium=feed",
-      "firstSeen": "2026-11-03T13:21:53.215240+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Levně na ISLAND - 1 820 Kč",
-      "summary": "V dnešní akci Wizz Air pořídíme levné letenky na Island. Zpáteční letenky z Wroclawi do Reykjavíku pořídíme už za 323 PLN, tedy asi 1 820 Kč. Na nejnižší cenu dosáhnou členové klubu WDC, ostatní si připlatí 220 Kč v jednom směru. Nejvíce te",
-      "url": "https://honzovyletenky.cz/levne-na-island-6/",
-      "source": "Honzovy letenky",
-      "date": "2026-11-03T12:16:08+00:00",
-      "dateLabel": "3. 11. 2026",
-      "price": 1820,
-      "image": "",
-      "id": "https://honzovyletenky.cz/levne-na-island-6/",
-      "firstSeen": "2026-11-03T13:21:53.215240+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Do Ázerbájdžánu v lednu a únoru přímým letem z Bratislavy. Letenky od 1 802 Kč",
-      "summary": "Letecká společnost Wizz Air nabízí přímé zpáteční letenky z Bratislavy do Baku od 74 EUR. Členové WDC mohou letět od 56 EUR.",
-      "url": "https://www.cestujlevne.com/akcni-letenky/do-azerbajdzanu-v-lednu-a-unoru-primym-letem-z-bratislavy",
-      "source": "CestujLevne.com",
-      "date": "2026-11-03T12:04:42+00:00",
-      "dateLabel": "3. 11. 2026",
-      "price": 1802,
-      "image": "",
-      "id": "https://www.cestujlevne.com/akcni-letenky/do-azerbajdzanu-v-lednu-a-unoru-primym-letem-z-bratislavy",
-      "firstSeen": "2026-11-03T13:21:53.215240+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "🇫🇷 Affordable Paris base: central hotel by Exe Hotels for €76/double",
-      "summary": "This hotel is a smart option if you want a central, well-connected Paris hotel without staying directly in the most touristy streets. It works especially well for shopping, theatre, first-time sightseeing, and weekend trips.",
-      "url": "https://www.fly4free.com/flight-deals/europe/cheap-hotel-in-paris-e76/",
-      "source": "Fly4free.com",
-      "date": "2026-11-03T11:45:20+00:00",
-      "dateLabel": "3. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/cheap-hotel-in-paris-e76/",
-      "firstSeen": "2026-11-03T13:21:53.215240+00:00",
-      "priceOrig": {
-        "amount": 76,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Super Last Minute Maledivy z Prahy: Plná penze a 4* resort za 30 990 Kč",
-      "summary": "Maledivy z Prahy za 30 990 Kč! 7 dní ve 4* resortu Fihalhohi s plnou penzí, šnorchlováním a rychlolodí v ceně. Odlet už zítra! Sbalte plavky a leťte za sluncem!",
-      "url": "https://levnocestovani.cz/akcni-zajezdy/super-last-minute-maledivy-z-prahy-plna-penze-a-4-resort-za-30-990-kc?utm_source=rss&utm_medium=feed",
-      "source": "Levnocestovani.cz",
-      "date": "2026-11-03T11:17:30+00:00",
-      "dateLabel": "3. 11. 2026",
-      "price": 30990,
-      "image": "",
-      "id": "https://levnocestovani.cz/akcni-zajezdy/super-last-minute-maledivy-z-prahy-plna-penze-a-4-resort-za-30-990-kc?utm_source=rss&utm_medium=feed",
-      "firstSeen": "2026-11-03T13:21:53.215240+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Týdenní last minute zájezdy na Zanzibar s odletem z Prahy od 22 990 Kč",
-      "summary": "Zajisti si dovolenou: REZERVUJ ONLINE nebo telefonicky na čísle +420 770 104 598 Termín: 22. – 30. listopad 2026 Hotely: 4* Hotel Sea View Lodge – polopenze | 22 490 Kč 4* Hotel Matemwe Sands Beach Resort – all inclusive | 23 990 Kč 4* Hote",
-      "url": "https://zaletsi.cz/zajezdy/tydenni-last-minute-zajezdyna-zanzibar-s-odletem-z-prahy/",
-      "source": "Zaleťsi.cz",
-      "date": "2026-11-03T11:09:14+00:00",
-      "dateLabel": "3. 11. 2026",
-      "price": 22990,
-      "image": "",
-      "id": "https://zaletsi.cz/zajezdy/tydenni-last-minute-zajezdyna-zanzibar-s-odletem-z-prahy/",
-      "firstSeen": "2026-11-04T11:26:03.860046+00:00",
       "priceOrig": null
     }
   ]
