@@ -1,6 +1,48 @@
 {
-  "updated": "2026-11-10T15:04:14.349473+00:00",
+  "updated": "2026-11-10T17:06:48.096615+00:00",
   "offers": [
+    {
+      "title": "High-season escape to Panama 🏝️ Cheap flights from Madrid from €425",
+      "summary": "Want a tropical trip that gives you much more than just beaches? Avianca is offering return flights from Madrid to Panama from just €425, opening the door to one of Central America’s most varied destinations.",
+      "url": "https://www.fly4free.com/flight-deals/europe/cheap-flights-from-madrid-to-panama/",
+      "source": "Fly4free.com",
+      "date": "2026-11-10T17:00:28+00:00",
+      "dateLabel": "10. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/cheap-flights-from-madrid-to-panama/",
+      "firstSeen": "2026-11-10T17:06:48.096615+00:00",
+      "priceOrig": {
+        "amount": 425,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "Týden na Madeiře s all-inclusive v 5* hotelu. Zájezd od 14 190 Kč",
+      "summary": "CK Čedok přichází s lákavou nabídkou týdenní dovolené na Madeiře, a to především pro ty, kteří si chtějí dopřát pohodlí pětihvězdičkového hotelu s all-inclusive.",
+      "url": "https://www.cestujlevne.com/akcni-letenky/tyden-na-madeire-s-all-inclusive-v-5-hotelu",
+      "source": "CestujLevne.com",
+      "date": "2026-11-10T16:03:50+00:00",
+      "dateLabel": "10. 11. 2026",
+      "price": 14190,
+      "image": "",
+      "id": "https://www.cestujlevne.com/akcni-letenky/tyden-na-madeire-s-all-inclusive-v-5-hotelu",
+      "firstSeen": "2026-11-10T17:06:48.096615+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Air China: Vídeň - Phuket - 12 790 Kč",
+      "summary": "",
+      "url": "https://www.akcniletenky.com",
+      "source": "AkčníLetenky.com",
+      "date": "2026-11-10T16:00:00+00:00",
+      "dateLabel": "10. 11. 2026",
+      "price": 12790,
+      "image": "",
+      "id": "713",
+      "firstSeen": "2026-11-10T17:06:48.096615+00:00",
+      "priceOrig": null
+    },
     {
       "title": "Levná SRÍ LANKA s kufrem - 11 375 Kč",
       "summary": "Ve výprodeji od CK Rainbow koupíme levné letenky na Srí Lanku. CK Rainbow nabízí levné last minute letenky z Katowic do Colomba na Srí Lance. Za zpáteční letenky s odletem v neděli 15.11. zaplatíme 1 999 PLN, což je v přepočtu asi 11 375 Kč",
@@ -13,6 +55,35 @@
       "id": "https://honzovyletenky.cz/levna-sri-lanka-s-kufrem/",
       "firstSeen": "2026-11-10T15:04:14.349473+00:00",
       "priceOrig": null
+    },
+    {
+      "title": "Egypt u korálového útesu: 7 nocí s All Inclusive od 16 290 Kč",
+      "summary": "Prozkoumejte korálové útesy v odlehlé Hamatě. 7 nocí ve 4* Wadi Lahmy Azur Resortu s all inclusive a odletem z Prahy jen za 16 290 Kč. Rezervujte na Invii!",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/egypt-u-koraloveho-utesu-7-noci-s-all-inclusive-od-16-290-kc?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-11-10T15:37:10+00:00",
+      "dateLabel": "10. 11. 2026",
+      "price": 16290,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/egypt-u-koraloveho-utesu-7-noci-s-all-inclusive-od-16-290-kc?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-11-10T17:06:48.096615+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "CHEAP! Full-service flights from Frankfurt to Mauritius 🏝️ for €382",
+      "summary": "Secure your ticket to paradise with these super cheap Discover Airlines flights to Mauritius starting at just €382 for a round trip! Explore the island where spectacular scenery and endless summer days meet a fascinating cultural blend.",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-frankfurt-to-mauritius-e382/",
+      "source": "Fly4free.com",
+      "date": "2026-11-10T15:30:11+00:00",
+      "dateLabel": "10. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-frankfurt-to-mauritius-e382/",
+      "firstSeen": "2026-11-10T17:06:48.096615+00:00",
+      "priceOrig": {
+        "amount": 382,
+        "cur": "EUR"
+      }
     },
     {
       "title": "Madeira z Prahy s polopenzí: Týden ve Funchalu za 10 990 Kč",
@@ -3838,90 +3909,6 @@
       "id": "https://levnocestovani.cz/akcni-zajezdy/tyden-na-zanzibaru-za-23-990-kc-v-5-resortu-s-all-inclusive?utm_source=rss&utm_medium=feed",
       "firstSeen": "2026-11-03T19:10:00.541817+00:00",
       "priceOrig": null
-    },
-    {
-      "title": "Xmas Markets 🎄❄️ 4* Park Inn by Radisson Central Tallinn for €55/double",
-      "summary": "Experience the magical atmosphere of Tallinn's Christmas markets with a fantastic city break at the 4-star Park Inn by Radisson Central Tallinn! 🎄❄️ Located in the heart of Estonia's charming capital, this well-rated hotel is an excellent b",
-      "url": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-tallinn-e55/",
-      "source": "Fly4free.com",
-      "date": "2026-11-03T17:00:37+00:00",
-      "dateLabel": "3. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-tallinn-e55/",
-      "firstSeen": "2026-11-03T17:11:44.093145+00:00",
-      "priceOrig": {
-        "amount": 55,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "China Eastern: Vídeň - Manila - 10 490 Kč",
-      "summary": "",
-      "url": "https://www.akcniletenky.com",
-      "source": "AkčníLetenky.com",
-      "date": "2026-11-03T17:00:00+00:00",
-      "dateLabel": "3. 11. 2026",
-      "price": 10490,
-      "image": "",
-      "id": "687",
-      "firstSeen": "2026-11-03T17:11:44.093145+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Košice na jeden lednový víkend z Prahy (so-ne). Letenky od 988 Kč",
-      "summary": "Udělejte se rychlovýlet na východní Slovensko a v termínu 23.-24. ledna si zaleťte na halušky nebo pirohy z Prahy do Košic!",
-      "url": "https://www.cestujlevne.com/akcni-letenky/kosice-na-jeden-lednovy-vikend-z-prahy-so-ne",
-      "source": "CestujLevne.com",
-      "date": "2026-11-03T16:42:27+00:00",
-      "dateLabel": "3. 11. 2026",
-      "price": 988,
-      "image": "",
-      "id": "https://www.cestujlevne.com/akcni-letenky/kosice-na-jeden-lednovy-vikend-z-prahy-so-ne",
-      "firstSeen": "2026-11-03T17:11:44.093145+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Christmas Beyond Europe: 10 Christmas Markets Around the World Worth Visiting in 2026",
-      "summary": "Christmas markets aren't just about Germany, Austria or the Czech Republic. This winter, festive villages filled with market stalls, Christmas decorations and thousands of twinkling lights will once again spring up thousands of kilometres b",
-      "url": "https://www.fly4free.com/news/christmas-beyond-europe-10-christmas-markets-around-the-world-worth-visiting-in-2026/",
-      "source": "Fly4free.com",
-      "date": "2026-11-03T16:10:30+00:00",
-      "dateLabel": "3. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/news/christmas-beyond-europe-10-christmas-markets-around-the-world-worth-visiting-in-2026/",
-      "firstSeen": "2026-11-03T17:11:44.093145+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Arménie: lednové letenky z Prahy do Jerevanu za 2 136 Kč",
-      "summary": "Rezervuj: přes náš vyhledávač Zavazadla: příruční bágl o rozměrech do 40 × 30 × 20 cm Dostupnost: leden 2027 Příkladové termíny 13. – 18. 1. za 2 136 Kč → Zobrazit let 15. – 18. 1. za 2 136 Kč → Zobrazit let – prodl. víkend 17. – 22. 1. za",
-      "url": "https://zaletsi.cz/akce/armenie-lednove-letenky-z-prahy-do-jerevanu/",
-      "source": "Zaleťsi.cz",
-      "date": "2026-11-03T16:01:20+00:00",
-      "dateLabel": "3. 11. 2026",
-      "price": 2136,
-      "image": "",
-      "id": "https://zaletsi.cz/akce/armenie-lednove-letenky-z-prahy-do-jerevanu/",
-      "firstSeen": "2026-11-04T11:26:03.860046+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Argentinian Summer ☀️💃 Full-service direct flights from Madrid to Buenos Aires for €585",
-      "summary": "Discover the passionate tango scene, vibrant neighbourhoods, incredible steak restaurants and buzzing nightlife of Argentina's capital — all during the South American summer! Plus Ultra is currently offering attractive direct flights from j",
-      "url": "https://www.fly4free.com/flight-deals/europe/direct-flights-from-madrid-to-buenos-aires-e585/",
-      "source": "Fly4free.com",
-      "date": "2026-11-03T16:00:30+00:00",
-      "dateLabel": "3. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/direct-flights-from-madrid-to-buenos-aires-e585/",
-      "firstSeen": "2026-11-03T17:11:44.093145+00:00",
-      "priceOrig": {
-        "amount": 585,
-        "cur": "EUR"
-      }
     }
   ]
 }
