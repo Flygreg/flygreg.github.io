@@ -14,8 +14,7 @@
       "ok": true,
       "items": 20,
       "attempts": [
-        "FlightTipsFeedReader: TimeoutError: The read operation timed out",
-        "browser: HTTP 200, 15721 B"
+        "FlightTipsFeedReader: HTTP 200, 15721 B"
       ],
       "error": ""
     },
