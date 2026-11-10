@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-10T20:58:50.636941+00:00",
+  "updated": "2026-11-10T22:55:22.108699+00:00",
   "offers": [
+    {
+      "title": "Tenerife with a view! 🌊 5-star oceanfront hotel in Puerto de la Cruz, Canary Islands for €90/double",
+      "summary": "If you want Tenerife without the huge resort complexes of the south, this is a very different kind of stay. We've found a 5-star hotel on the northern coast of Tenerife, set above the Atlantic in a quieter residential part of Puerto de la C",
+      "url": "https://www.fly4free.com/flight-deals/europe/5-star-hotel-in-tenerife-e90/",
+      "source": "Fly4free.com",
+      "date": "2026-11-10T21:00:02+00:00",
+      "dateLabel": "10. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/5-star-hotel-in-tenerife-e90/",
+      "firstSeen": "2026-11-10T22:55:22.108699+00:00",
+      "priceOrig": {
+        "amount": 90,
+        "cur": "EUR"
+      }
+    },
     {
       "title": "Prosinec v plavkách na Boa Vistě. 5* resort s All Inclusive na Kapverdách od 25 890 Kč",
       "summary": "Vymeňte zimu za 27 °C na Boa Vistě! 5* all inclusive resort VOI Praia de Chaves, koupání v Atlantiku a výlet do pouště Viana z Prahy od 25 890 Kč.",
@@ -3864,22 +3880,6 @@
       "id": "688",
       "firstSeen": "2026-11-04T09:11:40.869586+00:00",
       "priceOrig": null
-    },
-    {
-      "title": "HIGH SEASON ☀️ Qatar Airways flights from many European cities to Penang, Malaysia from €520",
-      "summary": "Delicious street food, golden beaches, and rich culture await — all with comfort and style included in your journey! Book discounted Qatar Airways flights to Penang starting at €520 for a round trip.",
-      "url": "https://www.fly4free.com/flight-deals/europe/qatar-airways-flights-from-europe-to-penang-e520/",
-      "source": "Fly4free.com",
-      "date": "2026-11-03T21:00:18+00:00",
-      "dateLabel": "3. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/qatar-airways-flights-from-europe-to-penang-e520/",
-      "firstSeen": "2026-11-03T22:58:12.076192+00:00",
-      "priceOrig": {
-        "amount": 520,
-        "cur": "EUR"
-      }
     }
   ]
 }
