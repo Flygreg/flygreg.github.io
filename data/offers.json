@@ -1,6 +1,64 @@
 {
-  "updated": "2026-11-11T19:15:32.882920+00:00",
+  "updated": "2026-11-11T21:47:57.771219+00:00",
   "offers": [
+    {
+      "title": "GREAT DEAL 🤩 Cheap full-service flights from London to Brunei for £453",
+      "summary": "Experience award-winning service and world-class comfort with Singapore Airlines on your next adventure to Brunei. For a limited time, you can book return flights from London to Bandar Seri Begawan starting at only £453.",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-brunei-p453/",
+      "source": "Fly4free.com",
+      "date": "2026-11-11T21:00:50+00:00",
+      "dateLabel": "11. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-brunei-p453/",
+      "firstSeen": "2026-11-11T21:47:57.771219+00:00",
+      "priceOrig": {
+        "amount": 453,
+        "cur": "GBP"
+      }
+    },
+    {
+      "title": "Cheap full-service flights from Budapest to Beijing, China for €495",
+      "summary": "China Eastern Airlines are offering discounted flights from Budapest to Beijing, China starting at only €495 for a round trip with checked bag included.",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-budapest-to-beijing-e495/",
+      "source": "Fly4free.com",
+      "date": "2026-11-11T20:00:41+00:00",
+      "dateLabel": "11. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-budapest-to-beijing-e495/",
+      "firstSeen": "2026-11-11T21:47:57.771219+00:00",
+      "priceOrig": {
+        "amount": 495,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "Za 20 090 Kč na 15 dní do Egypta: Skvěle hodnocený 4* resort u korálového útesu",
+      "summary": "Korálový útes přímo u hotelu, šnorchlování a klid daleko od rušných letovisek. EXIM tours a Fischer nabízí 15 dní u Rudého moře. Prohlédněte si zájezd.",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/za-20-090-kc-na-15-dni-do-egypta-skvele-hodnoceny-4-resort-u-koraloveho-utesu?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-11-11T19:50:47+00:00",
+      "dateLabel": "11. 11. 2026",
+      "price": 20090,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/za-20-090-kc-na-15-dni-do-egypta-skvele-hodnoceny-4-resort-u-koraloveho-utesu?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-11-11T21:47:57.771219+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Florencie z Prahy v létě. Od 1 939 Kč.",
+      "summary": "Florencie z Prahy v létě od 1 939 Kč.",
+      "url": "https://www.obletsvet.cz/akcni-letenka/florencie-z-prahy-v-lete",
+      "source": "Obletsvet.cz",
+      "date": "2026-11-11T19:50:33+00:00",
+      "dateLabel": "11. 11. 2026",
+      "price": 1939,
+      "image": "",
+      "id": "https://www.obletsvet.cz/akcni-letenka/florencie-z-prahy-v-lete",
+      "firstSeen": "2026-11-11T21:47:57.771219+00:00",
+      "priceOrig": null
+    },
     {
       "title": "Turkish Airlines flights from several European cities to Bali, Indonesia 🌸 for €643",
       "summary": "Fly in comfort and style with a full-service experience—meals, drinks, and checked baggage are all included for your journey. Whether you’re seeking adventure in Ubud’s rice terraces, relaxation on Nusa Dua’s white sands, or breathtaking su",
@@ -3808,51 +3866,6 @@
       "id": "692",
       "firstSeen": "2026-11-05T07:35:17.834117+00:00",
       "priceOrig": null
-    },
-    {
-      "title": "Welcome to the paradise! 🌴 Well-rated resort on Koh Tao, Thailand 🏝️ for €65/double with breakfast in high season",
-      "summary": "If your idea of Thailand is wooden bungalows hidden among palm trees, a quiet beach, snorkeling straight into clear water and sunset dinners by the sea, this is exactly that kind of place.",
-      "url": "https://www.fly4free.com/flight-deals/europe/well-rated-resort-on-koh-tao-e65/",
-      "source": "Fly4free.com",
-      "date": "2026-11-04T21:00:11+00:00",
-      "dateLabel": "4. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/well-rated-resort-on-koh-tao-e65/",
-      "firstSeen": "2026-11-04T21:04:31.445731+00:00",
-      "priceOrig": {
-        "amount": 65,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "LM Dominikána na týden s all inclusive. Od 24 990 Kč.",
-      "summary": "LM Dominikána na týden s all inclusive od 24 990 Kč.",
-      "url": "https://www.obletsvet.cz/akcni-letenka/lm-dominikana-na-tyden-s-all-inclusive",
-      "source": "Obletsvet.cz",
-      "date": "2026-11-04T20:13:53+00:00",
-      "dateLabel": "4. 11. 2026",
-      "price": 24990,
-      "image": "",
-      "id": "https://www.obletsvet.cz/akcni-letenka/lm-dominikana-na-tyden-s-all-inclusive",
-      "firstSeen": "2026-11-04T21:04:31.445731+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "🌴 WINTER SUN COMBO! Abu Dhabi + Maldives from Prague for €599 with Qatar Airways",
-      "summary": "Why choose between a city break and a tropical island escape when you can have both? This itinerary combines Abu Dhabi’s architecture, beaches and desert landscapes with almost a week in the Maldives, all in one winter trip from Prague for",
-      "url": "https://www.fly4free.com/flight-deals/europe/2-in-1-trip-from-bucharest-to-abu-dhabi-and-maldives-qatar-2/",
-      "source": "Fly4free.com",
-      "date": "2026-11-04T20:00:18+00:00",
-      "dateLabel": "4. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/2-in-1-trip-from-bucharest-to-abu-dhabi-and-maldives-qatar-2/",
-      "firstSeen": "2026-11-04T21:04:31.445731+00:00",
-      "priceOrig": {
-        "amount": 599,
-        "cur": "EUR"
-      }
     }
   ]
 }
