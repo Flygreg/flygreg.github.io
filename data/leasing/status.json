@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T14:28:50Z",
+ "updated": "2026-11-11T14:53:50Z",
  "sources": [
   {
    "name": "Cartop",
@@ -13,13 +13,13 @@
    "pageLog": [
     [
      1,
-     826797,
+     825070,
      13,
      13
     ],
     [
      2,
-     824605,
+     826048,
      13,
      10
     ],
@@ -31,19 +31,19 @@
     ],
     [
      4,
-     823108,
+     824551,
      13,
      10
     ],
     [
      5,
-     823604,
+     825141,
      13,
      10
     ],
     [
      6,
-     831851,
+     832041,
      13,
      10
     ]
@@ -218,6 +218,124 @@
    "requests": 2,
    "note": "https://autoin.cz/katalog/operativni-leasing: HTTPError 429",
    "pageLog": [],
+   "robots": "robots.txt přečten"
+  },
+  {
+   "name": "Driveto",
+   "ok": true,
+   "complete": false,
+   "pages": 15,
+   "cards": 648,
+   "noPrice": 429,
+   "requests": 16,
+   "note": "dosažen strop počtu stran",
+   "pageLog": [
+    [
+     1,
+     50
+    ],
+    [
+     2,
+     50
+    ],
+    [
+     3,
+     50
+    ],
+    [
+     4,
+     50
+    ],
+    [
+     5,
+     50
+    ],
+    [
+     6,
+     50
+    ],
+    [
+     7,
+     50
+    ],
+    [
+     8,
+     50
+    ],
+    [
+     9,
+     50
+    ],
+    [
+     10,
+     50
+    ],
+    [
+     11,
+     50
+    ],
+    [
+     12,
+     50
+    ],
+    [
+     13,
+     50
+    ],
+    [
+     14,
+     50
+    ],
+    [
+     15,
+     50
+    ]
+   ],
+   "robots": "robots.txt přečten"
+  },
+  {
+   "name": "Birne",
+   "ok": true,
+   "complete": false,
+   "pages": 8,
+   "cards": 183,
+   "noPrice": 159,
+   "requests": 9,
+   "note": "dosažen strop počtu stran",
+   "pageLog": [
+    [
+     1,
+     50
+    ],
+    [
+     2,
+     50
+    ],
+    [
+     3,
+     50
+    ],
+    [
+     4,
+     50
+    ],
+    [
+     5,
+     50
+    ],
+    [
+     6,
+     50
+    ],
+    [
+     7,
+     50
+    ],
+    [
+     8,
+     50
+    ]
+   ],
    "robots": "robots.txt přečten"
   }
  ]
