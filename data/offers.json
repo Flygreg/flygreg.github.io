@@ -1,6 +1,61 @@
 {
-  "updated": "2026-11-10T22:55:22.108699+00:00",
+  "updated": "2026-11-11T07:31:28.310358+00:00",
   "offers": [
+    {
+      "title": "BARCELONA za tisícovku - 1 050 Kč",
+      "summary": "V nabídce letenek od Wizz Air najdeme za výhodnou cenu letenky do Barcelony. Na Valentýnský prodloužený víkend můžeme vyrazit z Bratislavy do Barcelony už za 42 €, tedy asi 1 050 Kč. Na nejnižší cenu dosáhnou členové klubu WDC, ostatní si p",
+      "url": "https://honzovyletenky.cz/barcelona-za-tisicovku-3/",
+      "source": "Honzovy letenky",
+      "date": "2026-11-11T08:07:10+00:00",
+      "dateLabel": "11. 11. 2026",
+      "price": 1050,
+      "image": "",
+      "id": "https://honzovyletenky.cz/barcelona-za-tisicovku-3/",
+      "firstSeen": "2026-11-11T07:31:28.310358+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Malaga (Španělsko) – letenky z Prahy za 2648 Kč, z Ostravy za 1290 Kč",
+      "summary": "Malaga je město, kde se andaluský způsob života projevuje nejlépe u stolu – a místní tapas bary to vědí moc dobře. Přijdete na sklenku a odejdete po třech hodinách, protože jídlo a povídání prostě nekončí. Přes den stojí za to vyšlapat na m",
+      "url": "https://www.levneletenkyzprahy.cz/2755_malaga-spanelsko-–-letenky-z-prahy-za-2648-kc,-z-ostravy-za-1290-kc",
+      "source": "Levné letenky z Prahy",
+      "date": "2026-11-11T07:54:16+00:00",
+      "dateLabel": "11. 11. 2026",
+      "price": 2648,
+      "image": "",
+      "id": "https://www.levneletenkyzprahy.cz/2755_malaga-spanelsko-–-letenky-z-prahy-za-2648-kc,-z-ostravy-za-1290-kc",
+      "firstSeen": "2026-11-11T07:31:28.310358+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "HIGH SEASON 🏝️ Cheap full-service flights from Vienna to Zanzibar for €495",
+      "summary": "Escape to paradise where white sandy beaches, crystal-clear waters, and unforgettable sunsets await! Book discounted Air Cairo flights to Zanzibar for €495 for a round trip.",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-vienna-to-zanzibar-e495/",
+      "source": "Fly4free.com",
+      "date": "2026-11-11T07:00:15+00:00",
+      "dateLabel": "11. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-vienna-to-zanzibar-e495/",
+      "firstSeen": "2026-11-11T07:31:28.310358+00:00",
+      "priceOrig": {
+        "amount": 495,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "Lauda: Vídeň - Malta - 980 Kč",
+      "summary": "",
+      "url": "https://www.akcniletenky.com",
+      "source": "AkčníLetenky.com",
+      "date": "2026-11-11T07:00:00+00:00",
+      "dateLabel": "11. 11. 2026",
+      "price": 980,
+      "image": "",
+      "id": "714",
+      "firstSeen": "2026-11-11T07:31:28.310358+00:00",
+      "priceOrig": null
+    },
     {
       "title": "Tenerife with a view! 🌊 5-star oceanfront hotel in Puerto de la Cruz, Canary Islands for €90/double",
       "summary": "If you want Tenerife without the huge resort complexes of the south, this is a very different kind of stay. We've found a 5-star hotel on the northern coast of Tenerife, set above the Atlantic in a quieter residential part of Puerto de la C",
@@ -3851,35 +3906,6 @@
         "amount": 472,
         "cur": "EUR"
       }
-    },
-    {
-      "title": "CHEAP 💥 Flights from several German cities to New York 🗽 from €302",
-      "summary": "Looking for a great deal to the Big Apple? Take advantage of this offer from Icelandair starting at only €302 for a round trip.",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-germany-to-new-york-e302/",
-      "source": "Fly4free.com",
-      "date": "2026-11-04T07:00:59+00:00",
-      "dateLabel": "4. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-germany-to-new-york-e302/",
-      "firstSeen": "2026-11-04T07:33:29.668019+00:00",
-      "priceOrig": {
-        "amount": 302,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Buzz: Bratislava - Barcelona - 950 Kč",
-      "summary": "",
-      "url": "https://www.akcniletenky.com",
-      "source": "AkčníLetenky.com",
-      "date": "2026-11-04T07:00:00+00:00",
-      "dateLabel": "4. 11. 2026",
-      "price": 950,
-      "image": "",
-      "id": "688",
-      "firstSeen": "2026-11-04T09:11:40.869586+00:00",
-      "priceOrig": null
     }
   ]
 }
