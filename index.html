@@ -230,8 +230,8 @@ function vEdit(){
 
 function paint(){
   const v=({soon:vSoon,email:vEmail,sent:vSent,load:vLoad,list:vList,edit:vEdit,wipe:vWipe,done:vDone,confirm:vConfirm,handoff:vHandoff,nove:vNove})[st.view]||vEmail;
-  const keep=document.activeElement&&document.activeElement.id,pos=getPos();
-  box.innerHTML=v();box.querySelectorAll('.opanel input[data-ind="1"]').forEach(i=>{i.indeterminate=true});setPos(pos);
+  const keep=document.activeElement&&document.activeElement.id,pos=getPos(),opv=box.querySelector('.opanel'),opy=opv?opv.scrollTop:0;
+  box.innerHTML=v();box.querySelectorAll('.opanel input[data-ind="1"]').forEach(i=>{i.indeterminate=true});setPos(pos);{const o2=box.querySelector('.opanel');if(o2&&opy)o2.scrollTop=opy}
   if(keep){const el=document.getElementById(keep);if(el&&/^(pe|pn|pp|pk)$/.test(keep)){el.focus();try{el.setSelectionRange(el.value.length,el.value.length)}catch(e){}}}
 }
 const go=(view,extra)=>{const changed=st.view!==view;st=Object.assign(st,{view,msg:'',ok:'',delId:'',oOpen:false,cal:null},extra||{});if(st.view==='list'){saveC();pushRefresh()}if(changed)setPos(0);paint()};
@@ -340,7 +340,7 @@ document.addEventListener('keydown',e=>{if(e.key==='Escape'&&ov.classList.contai
 fab.onclick=()=>{open();if(!API)return go('soon');if(getS())loadList();else go('email')};
 
 // automatická aktualizace: když je na webu novější verze stránky než ta, kterou má prohlížeč v paměti, stránka se jednou sama načte znovu
-const BUILD='2026-11-10-d';
+const BUILD='2026-11-10-e';
 async function checkBuild(){
   try{
     if(ov.classList.contains('on')||document.hidden)return;
