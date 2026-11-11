@@ -669,7 +669,7 @@ function vEdit(){
   const seg=(act,cur,opts)=>`<div class="pseg n${opts.length}" role="group">${opts.map(([v,l,ic])=>`<button type="button" class="${cur===v?'on':''}" data-act="${act}" data-v="${v}" aria-pressed="${cur===v}">${ic||''}${l}</button>`).join('')}</div>`;
   return head(d.id?'Upravit hlídání':'Nové hlídání',E(st.email))+msgs()+
   `<div class="cd"><div class="ct">Značka a model</div>${odd}<div class="hint dhint">Nic nevybráno = všechny značky</div></div>`+
-  `<div class="cd"><div class="ct">Palivo</div>${seg('fuel',d.fuel,['benzin','diesel','hybrid','elektro'].map(k=>[k,FUEL[k],ICON[k]]))}<div class="ct" style="margin-top:18px">Převodovka</div>${seg('gear',d.gear,[['automat','Automat',GIC.automat],['manuál','Manuál',GIC['manuál']]])}</div>`+
+  `<div class="cd"><div class="ct">Palivo a převodovka</div>${seg('fuel',d.fuel,['benzin','diesel','hybrid','elektro'].map(k=>[k,FUEL[k],ICON[k]]))}<div style="height:8px"></div>${seg('gear',d.gear,[['automat','Automat',GIC.automat],['manuál','Manuál',GIC['manuál']]])}</div>`+
   `<div class="cd"><div class="ct">Cena a výkon</div>${hsGrp('p',d,'Měsíční cena')}${hsGrp('k',d,'Výkon')}<div class="hsn" id="hsn"${(Number(d.minKw)||Number(d.maxKw))?'':' hidden'}>Nabídky bez uvedeného výkonu se při zadaném výkonu nehlídají.</div></div>`+
   `<div class="cd"><div class="ct">Hlídat do</div><button type="button" id="pd" class="dwb${d.expires?'':' e'}" data-act="cal"><span>${d.expires?E(fullFmt(d.expires)):'bez omezení'}</span><i class="di">${KCAL}</i></button></div>`+
   `<div class="sbar"><button type="button" class="pb g" data-act="back">Zrušit</button><button type="button" class="pb" data-act="save"${dis()}>${busy?'Ukládám…':'Uložit hlídání'}</button></div>`+calHtml()}
@@ -793,7 +793,7 @@ document.addEventListener('keydown',e=>{if(e.key==='Escape'&&ov.classList.contai
 fab.onclick=()=>{open();if(!API)return go('soon');if(getS())loadList();else go('email')};
 
 // automatická aktualizace: když je na webu novější verze stránky než ta, kterou má prohlížeč v paměti, stránka se jednou sama načte znovu
-const BUILD='2026-11-11-k';
+const BUILD='2026-11-11-l';
 async function checkBuild(){
   try{
     if(ov.classList.contains('on')||document.hidden)return;
