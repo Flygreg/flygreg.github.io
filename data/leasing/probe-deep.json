@@ -1,568 +1,65 @@
 {
  "driveto": {
-  "sample": [
-   {
-    "id": 16695070458205,
-    "title": "Škoda Superb Combi L&K 2.0 TDI 142 kW Natural 95 Automatická převodovka 4x4",
-    "handle": "skoda-superb-combi-l-k-2-0-tdi-142-kw-natural-95-automaticka-prevodovka-4x4-1",
-    "published_at": "2026-11-11T11:03:50+01:00",
-    "created_at": "2026-11-11T10:19:51+01:00",
-    "updated_at": "2026-11-11T15:48:39+01:00",
-    "vendor": "Škoda",
-    "product_type": "Operativní leasing",
-    "tags": [
-     "+ Tažné"
-    ],
-    "options": [
-     {
-      "name": "Roční nájezd",
-      "position": 1,
-      "values": [
-       "10000 km",
-       "15000 km",
-       "20000 km",
-       "25000 km",
-       "30000 km",
-       "35000 km",
-       "40000 km",
-       "45000 km",
-       "50000 km"
-      ]
-     },
-     {
-      "name": "Délka pronájmu",
-      "position": 2,
-      "values": [
-       "36 měsíců"
-      ]
-     },
-     {
-      "name": "Barva",
-      "position": 3,
-      "values": [
-       "Šedá Graphite",
-       "Černá Magic"
-      ]
-     }
-    ],
-    "body": "Škoda Superb Combi v exkluzivním provedení Laurin & Klement s vrcholným vznětovým motorem 2.0 TDI o výkonu 142 kW, sedmistupňovou automatickou převodovkou DSG a pokročilým pohonem všech kol 4x4 představuje absolutní špičku modelové řady pro dálkové cesty. Tato konfigurace je dokonalou kombinací reprezentativního manažerského kombi, vytříbeného komfortu a suverénní síly. Nejsilnější turbodiesel v nabídce poskytuje vozu mohutný točivý moment a plynulý zátah už od nízkých otáček, zatímco inteligentní pohon 4x4 zajišťuje maximální stabilitu, perfektní trakci a jistotu za každého počasí. Nejvyšší výbavový stupeň L&K sází na nadčasovou eleganci. Exteriér zdobí sofistikované chromované detaily, spe",
-    "nVariants": 18,
-    "variants": [
-     {
-      "title": "10000 km / 36 měsíců / Šedá Graphite",
-      "price": "12593.00",
-      "compare_at_price": null,
-      "available": true,
-      "sku": null
-     },
-     {
-      "title": "10000 km / 36 měsíců / Černá Magic",
-      "price": "12593.00",
-      "compare_at_price": null,
-      "available": true,
-      "sku": null
-     },
-     {
-      "title": "15000 km / 36 měsíců / Šedá Graphite",
-      "price": "13278.00",
-      "compare_at_price": null,
-      "available": true,
-      "sku": null
-     },
-     {
-      "title": "15000 km / 36 měsíců / Černá Magic",
-      "price": "13278.00",
-      "compare_at_price": null,
-      "available": true,
-      "sku": null
-     }
-    ],
-    "images": [
-     "https://cdn.shopify.com/s/files/1/0884/6861/9613/files/skoda-superb-combi-lk-142-kw-4-x-4-foto-01.webp?v=1794390084",
-     "https://cdn.shopify.com/s/files/1/0884/6861/9613/files/skoda-superb-combi-lk-142-kw-4-x-4-foto-02.webp?v=1794390096"
-    ]
-   },
-   {
-    "id": 16693411709277,
-    "title": "Škoda Kodiaq Sportline 2.0 TDI 142kW Nafta 4x4 Automatická převodovka",
-    "handle": "skoda-kodiaq-sportline-2-0-tdi-142kw-nafta-4x4-automaticka-prevodovka-10",
-    "published_at": "2026-11-10T10:23:27+01:00",
-    "created_at": "2026-11-10T09:52:42+01:00",
-    "updated_at": "2026-11-11T15:48:39+01:00",
-    "vendor": "Škoda",
-    "product_type": "Operativní leasing",
-    "tags": [
-     "+ Tažné"
-    ],
-    "options": [
-     {
-      "name": "Roční nájezd",
-      "position": 1,
-      "values": [
-       "10000 km",
-       "15000 km",
-       "20000 km",
-       "25000 km",
-       "30000 km",
-       "35000 km",
-       "40000 km",
-       "45000 km",
-       "50000 km"
-      ]
-     },
-     {
-      "name": "Délka pronájmu",
-      "position": 2,
-      "values": [
-       "36 měsíců"
-      ]
-     },
-     {
-      "name": "Barva",
-      "position": 3,
-      "values": [
-       "Modrá Race",
-       "Šedá Graphite",
-       "Černá Magic"
-      ]
-     }
-    ],
-    "body": "Škoda Kodiaq Sportline s naftovým motorem 2.0 TDI (142 kW), pohonem 4x4 a automatickou převodovkou je ideálním rodinným i manažerským SUV pro řidiče, kteří hledají dynamický, bezpečný a mimořádně praktický vůz pro každodenní provoz i dlouhé trasy. Tento silný vznětový motor nabízí mohutný zátah, skvělou pružnost a dostatek energie pro dálniční přesuny i jízdu s plným zatížením. Verze Sportline přináší nezaměnitelný sportovní design, černé lakované detaily, prémiové materiály v interiéru, pokročilý infotainment s 13\" displejem a velkorysý zavazadlový prostor, který bez problému pojme veškerá zavazadla. Díky inteligentnímu pohonu všech kol 4x4 zvládne Kodiaq suverénně jakýkoliv terén a nepřízn",
-    "nVariants": 27,
-    "variants": [
-     {
-      "title": "10000 km / 36 měsíců / Modrá Race",
-      "price": "12700.00",
-      "compare_at_price": null,
-      "available": true,
-      "sku": null
-     },
-     {
-      "title": "10000 km / 36 měsíců / Šedá Graphite",
-      "price": "12700.00",
-      "compare_at_price": null,
-      "available": true,
-      "sku": null
-     },
-     {
-      "title": "10000 km / 36 měsíců / Černá Magic",
-      "price": "12700.00",
-      "compare_at_price": null,
-      "available": true,
-      "sku": null
-     },
-     {
-      "title": "15000 km / 36 měsíců / Modrá Race",
-      "price": "13030.00",
-      "compare_at_price": null,
-      "available": true,
-      "sku": null
-     }
-    ],
-    "images": [
-     "https://cdn.shopify.com/s/files/1/0884/6861/9613/files/skoda-kodiaq-sportline-2-0-tdi-foto-01.webp?v=1791358032",
-     "https://cdn.shopify.com/s/files/1/0884/6861/9613/files/skoda-kodiaq-sportline-2-0-tdi-142-kw-foto-2_f873115d-6a7f-4b84-91b0-f3b80e729239.webp?v=1794301163"
-    ]
-   },
-   {
-    "id": 16693377565021,
-    "title": "Audi Q7 S line 50 TDI 210 kW Nafta 4x4 Automatická převodovka",
-    "handle": "audi-q7-s-line-50-tdi-210-kw-nafta-4x4-automaticka-prevodovka-3",
-    "published_at": "2026-11-10T09:22:27+01:00",
-    "created_at": "2026-11-10T09:01:46+01:00",
-    "updated_at": "2026-11-11T15:48:39+01:00",
-    "vendor": "Audi",
-    "product_type": "Operativní leasing",
-    "tags": [
-     "BLACK FRIDAY",
-     "Poslední kus"
-    ],
-    "options": [
-     {
-      "name": "Roční nájezd",
-      "position": 1,
-      "values": [
-       "10000 km",
-       "15000 km",
-       "20000 km",
-       "25000 km",
-       "30000 km",
-       "35000 km",
-       "40000 km",
-       "45000 km",
-       "50000 km"
-      ]
-     },
-     {
-      "name": "Délka pronájmu",
-      "position": 2,
-      "values": [
-       "36 měsíců"
-      ]
-     },
-     {
-      "name": "Barva",
-      "position": 3,
-      "values": [
-       "Stříbrná Satelit"
-      ]
-     }
-    ],
-    "body": "Audi Q7 S line 50 TDI je prémiové SUV, které spojuje elegantní vzhled, sportovní prvky a vysokou míru praktičnosti. Díky paketu S line působí vůz dynamičtěji a zároveň si zachovává reprezentativní charakter typický pro model Q7. Prostorný interiér nabízí dostatek místa pro posádku i zavazadla, což z něj činí ideální volbu pro rodinné i pracovní využití. Silný naftový motor o výkonu 210 kW poskytuje velmi dobrý tah v celém spektru otáček a zároveň rozumnou spotřebu paliva i při dálničních přesunech. Automatická převodovka spolu s pohonem všech kol quattro zajišťují plynulou jízdu, stabilitu a jistotu za všech podmínek. Komfortní podvozek se postará o pohodlí na dlouhých cestách i v horším ter",
-    "nVariants": 9,
-    "variants": [
-     {
-      "title": "10000 km / 36 měsíců / Stříbrná Satelit",
-      "price": "18854.00",
-      "compare_at_price": null,
-      "available": true,
-      "sku": null
-     },
-     {
-      "title": "15000 km / 36 měsíců / Stříbrná Satelit",
-      "price": "20015.00",
-      "compare_at_price": null,
-      "available": true,
-      "sku": null
-     },
-     {
-      "title": "20000 km / 36 měsíců / Stříbrná Satelit",
-      "price": "21198.00",
-      "compare_at_price": null,
-      "available": true,
-      "sku": null
-     },
-     {
-      "title": "25000 km / 36 měsíců / Stříbrná Satelit",
-      "price": "22115.00",
-      "compare_at_price": null,
-      "available": true,
-      "sku": null
-     }
-    ],
-    "images": [
-     "https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Audi_Q7_3.0_TDi_foto1_Black_a0d357a4-5ac7-468f-853c-80553ee41088.webp?v=1772815631",
-     "https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Audi_Q7_3.0_TDi_foto3_aba81b6a-2a71-4fc4-aac4-3c1cc3d2edc9.webp?v=1772815631"
-    ]
-   }
+  "handle": "skoda-kodiaq-sportline-2-0-tdi-142kw-nafta-4x4-automaticka-prevodovka-10",
+  "v0": "12700.00",
+  "dphRaw": [
+   "=\"switch\">       <input         type=\"checkbox\"         id=\"vat-toggle-menu-drawer__vat-switcher\"         class=\"vat-toggle-input\"         aria-label=\"Ceny bez DPH\"       >       <span class=\"slider round\" aria-hidden=\"true\">         <span class=\"slider-circle\">           <svg   aria-hidden=\"true\"   focusable=\"false\"   cl",
+   "11.7151 1.4029L11.714 1.40181Z\" fill=\"#E91400\"/> </svg>          </span>       </span>     </span>     <span class=\"text-body-small vat-toggle__label\">Ceny bez DPH</span>   </label> </div>  <script>   // Nastavit správný stav hned po renderování checkboxu, před DOMContentLoaded   (function () {     try {       const vatEx",
+   "style> <div   id=\"cart-engagement-config\"   data-reminder-enabled=\"true\"   data-is-cart-page=\"false\"   data-server-cart-item-count=\"0\"   data-text-price-vat=\"s DPH\"   data-text-price-without-vat=\"bez DPH\"    ></div>  <div id=\"cart-reminder\" class=\"cart-reminder\" hidden>   <div class=\"cart-reminder__header\">     <div>     ",
+   "\"   data-reminder-enabled=\"true\"   data-is-cart-page=\"false\"   data-server-cart-item-count=\"0\"   data-text-price-vat=\"s DPH\"   data-text-price-without-vat=\"bez DPH\"    ></div>  <div id=\"cart-reminder\" class=\"cart-reminder\" hidden>   <div class=\"cart-reminder__header\">     <div>       <p class=\"cart-reminder__title\">Nezapo",
+   "switch\">       <input         type=\"checkbox\"         id=\"vat-toggle-header-custom__vat-switcher\"         class=\"vat-toggle-input\"         aria-label=\"Ceny bez DPH\"       >       <span class=\"slider round\" aria-hidden=\"true\">         <span class=\"slider-circle\">           <svg   aria-hidden=\"true\"   focusable=\"false\"   cl",
+   "11.7151 1.4029L11.714 1.40181Z\" fill=\"#E91400\"/> </svg>          </span>       </span>     </span>     <span class=\"text-body-small vat-toggle__label\">Ceny bez DPH</span>   </label> </div>  <script>   // Nastavit správný stav hned po renderování checkboxu, před DOMContentLoaded   (function () {     try {       const vatEx",
+   "  function updateServicesTitle() {         if (!servicesTitleEl) return;         const showWithVat = isVatIncluded();         const vatText = showWithVat ? '(s DPH)' : '(bez DPH)';         servicesTitleEl.textContent = servicesTitleBase + ' ' + vatText;       }        // Vygeneruj služby pro aktuální variantu       functi",
+   "ateServicesTitle() {         if (!servicesTitleEl) return;         const showWithVat = isVatIncluded();         const vatText = showWithVat ? '(s DPH)' : '(bez DPH)';         servicesTitleEl.textContent = servicesTitleBase + ' ' + vatText;       }        // Vygeneruj služby pro aktuální variantu       function renderServi",
+   " fallbackSuffix) {         if (!itemEl) return;         const originalText = itemEl.textContent.trim();         const priceTextMatch = originalText.match(/(bez DPH|s DPH)/i);         const priceText = priceTextMatch ? priceTextMatch[0] : fallbackSuffix || '';         itemEl.textContent = formatMoney(amount) + (priceText ?",
+   "ackSuffix) {         if (!itemEl) return;         const originalText = itemEl.textContent.trim();         const priceTextMatch = originalText.match(/(bez DPH|s DPH)/i);         const priceText = priceTextMatch ? priceTextMatch[0] : fallbackSuffix || '';         itemEl.textContent = formatMoney(amount) + (priceText ? ' ' +"
   ],
-  "types": [
-   [
-    "Operativní leasing",
-    "Alfa Romeo"
-   ],
-   [
-    "Operativní leasing",
-    "Audi"
-   ],
-   [
-    "Operativní leasing",
-    "Cupra"
-   ],
-   [
-    "Operativní leasing",
-    "Fiat"
-   ],
-   [
-    "Operativní leasing",
-    "Ford"
-   ],
-   [
-    "Operativní leasing",
-    "Hyundai"
-   ],
-   [
-    "Operativní leasing",
-    "Kia"
-   ],
-   [
-    "Operativní leasing",
-    "MG"
-   ],
-   [
-    "Operativní leasing",
-    "Opel"
-   ],
-   [
-    "Operativní leasing",
-    "Seat"
-   ],
-   [
-    "Operativní leasing",
-    "Volvo"
-   ],
-   [
-    "Operativní leasing",
-    "Škoda"
-   ]
-  ],
-  "tags": [
-   "+ El. víko kufru",
-   "+ Harman Kardon",
-   "+ Paket Plus",
-   "+ Paket Techno",
-   "+ Tažné",
-   "17\" kola",
-   "Akční nabídka",
-   "BLACK FRIDAY",
-   "Celoroční pneu",
-   "FULL SERVIS",
-   "Flexi",
-   "Jezdíte do 7 dní",
-   "NEVEŘEJNÁ NABÍDKA",
-   "Na 12 měsíců",
-   "Poslední kus",
-   "Servis a pneu v ceně",
-   "VOLITELNÉ SLUŽBY",
-   "Výbava navíc"
+  "priceNums": [
+   "mage:width\" content=\"1600\">   <meta property=\"og:image:height\" content=\"1200\"><meta property=\"og:price:amount\" content=\"12 700,00\">   <meta property=\"og:price:currency\" content=\"CZK\"><meta name=\"twitter:card\" content=\"summary_large_image\"> <meta ",
+   "ailability\": \"https://schema.org/InStock\",         \"itemCondition\": \"https://schema.org/NewCondition\",         \"price\": 12700.0,         \"priceCurrency\": \"CZK\",         \"priceValidUntil\": \"2027-02-09\",         \"url\": \"https://www.driveto.cz/prod",
+   "relations/v1#LeaseOut\",         \"priceSpecification\": {           \"@type\": \"UnitPriceSpecification\",           \"price\": 12700.0,           \"priceCurrency\": \"CZK\",           \"billingDuration\": {             \"@type\": \"QuantitativeValue\",          ",
+   "ailability\": \"https://schema.org/InStock\",         \"itemCondition\": \"https://schema.org/NewCondition\",         \"price\": 12700.0,         \"priceCurrency\": \"CZK\",         \"priceValidUntil\": \"2027-02-09\",         \"url\": \"https://www.driveto.cz/prod",
+   "relations/v1#LeaseOut\",         \"priceSpecification\": {           \"@type\": \"UnitPriceSpecification\",           \"price\": 12700.0,           \"priceCurrency\": \"CZK\",           \"billingDuration\": {             \"@type\": \"QuantitativeValue\",          ",
+   "ailability\": \"https://schema.org/InStock\",         \"itemCondition\": \"https://schema.org/NewCondition\",         \"price\": 12700.0,         \"priceCurrency\": \"CZK\",         \"priceValidUntil\": \"2027-02-09\",         \"url\": \"https://www.driveto.cz/prod"
   ]
  },
  "birne": {
-  "sample": [
-   {
-    "id": 15605511553399,
-    "title": "KIA Sportage Edice 30",
-    "handle": "kia-sportage-edice-30-1-6-t-gdi-hev-155-kw-aut-00-00",
-    "published_at": "2026-11-11T12:07:10+01:00",
-    "created_at": "2026-11-11T12:07:10+01:00",
-    "updated_at": "2026-11-11T15:48:42+01:00",
-    "vendor": "KIA",
-    "product_type": "Car",
-    "tags": [
-     "_Hi_chtgptapp_optimised_this_description-generator",
-     "_Hi_chtgptapp_saved_this_description-generator",
-     "sklad"
-    ],
-    "options": [
-     {
-      "name": "Tarif",
-      "position": 1,
-      "values": [
-       "Flexi",
-       "Flexi Smart",
-       "Value"
-      ]
-     },
-     {
-      "name": "Barva",
-      "position": 2,
-      "values": [
-       "Perleťová černá"
-      ]
-     }
-    ],
-    "body": "KIA Sportage Edice 30 spojuje sportovně elegantní vzhled s dynamickým projevem na cestách. Výrazný design zaujme na první pohled a prostorný interiér vám nabídne pohodlí při každodenním cestování i delších výletech. Uvnitř oceníte elegantní uspořádání, kvalitní zpracování a promyšlené detaily pro pohodlí posádky. Moderní multimediální funkce a možnosti konektivity vám zpříjemní čas na cestách. Sportovní elegance: Špičkově působící design dodává vozu výrazný vzhled. Prostorný interiér: Elegantní kabina poskytuje místo a pohodlí cestujícím. Kvalitní zpracování: Luxusní materiály a promyšlené detaily dotvářejí příjemné prostředí. Bezpečnostní systémy: Pokročilé funkce podporují bezpečnější jízd",
-    "nVariants": 3,
-    "variants": [
-     {
-      "title": "Flexi / Perleťová černá",
-      "price": "20990.00",
-      "compare_at_price": "22190.00",
-      "available": true,
-      "sku": "F30_2510"
-     },
-     {
-      "title": "Flexi Smart / Perleťová černá",
-      "price": "16490.00",
-      "compare_at_price": "17090.00",
-      "available": true,
-      "sku": "FS20_2510"
-     },
-     {
-      "title": "Value / Perleťová černá",
-      "price": "13990.00",
-      "compare_at_price": "14390.00",
-      "available": true,
-      "sku": "V10_2510"
-     }
-    ],
-    "images": [
-     "https://cdn.shopify.com/s/files/1/0603/9928/8452/files/getImage_0b31fcb3-4178-4f90-a26c-996691ecbf9e.webp?v=1773737550",
-     "https://cdn.shopify.com/s/files/1/0603/9928/8452/files/getImage_143db551-f7ce-46e9-95f6-873feeb09496.webp?v=1773737548"
-    ]
-   },
-   {
-    "id": 15605511487863,
-    "title": "VW T-Roc Cabrio",
-    "handle": "vw-t-roc-cabriolet-r-line-1-5-tsi-110-kw-aut-00-00",
-    "published_at": "2026-11-11T12:07:05+01:00",
-    "created_at": "2026-11-11T12:07:05+01:00",
-    "updated_at": "2026-11-11T15:48:42+01:00",
-    "vendor": "VW",
-    "product_type": "Car",
-    "tags": [
-     "_Hi_chtgptapp_optimised_this_description-generator",
-     "_Hi_chtgptapp_saved_this_description-generator",
-     "sklad"
-    ],
-    "options": [
-     {
-      "name": "Tarif",
-      "position": 1,
-      "values": [
-       "Flexi",
-       "Value",
-       "Flexi Smart"
-      ]
-     },
-     {
-      "name": "Barva",
-      "position": 2,
-      "values": [
-       "Bílá pure"
-      ]
-     }
-    ],
-    "body": "Otevřete střechu VW T-Roc Cabrio a užijte si při jízdě čerstvý vzduch. Když ji zavřete, kabriolet nabídne pohodlnou jízdu v uzavřeném provedení. Moderní vzhled zaujme na cestě městem i při výletu. Vyberte si otevřenou střechu pro jízdu na vzduchu, nebo ji zavřete, když chcete zůstat v pohodlí. Stylový design: Svébytný, moderní vzhled dodává vozu výrazný charakter. Otevřená či zavřená střecha: Přizpůsobte si jízdu čerstvému vzduchu nebo pohodlí uzavřeného kabrioletu. Silný a úsporný motor: Nabízí dostatek výkonu pro jízdu. Bezpečnost a pohodlí: Moderní technologie jsou určené k zajištění bezpečnosti a pohodlí cestujících. VW T-Roc Cabrio vám zpříjemní cestu, při které si chcete užít otevřenou",
-    "nVariants": 3,
-    "variants": [
-     {
-      "title": "Flexi / Bílá pure",
-      "price": "16990.00",
-      "compare_at_price": "22890.00",
-      "available": true,
-      "sku": "F30_2510"
-     },
-     {
-      "title": "Value / Bílá pure",
-      "price": "10990.00",
-      "compare_at_price": "14790.00",
-      "available": true,
-      "sku": "V10_2510"
-     },
-     {
-      "title": "Flexi Smart / Bílá pure",
-      "price": "12990.00",
-      "compare_at_price": "17490.00",
-      "available": true,
-      "sku": "FS20_2510"
-     }
-    ],
-    "images": [
-     "https://cdn.shopify.com/s/files/1/0603/9928/8452/files/getImage_f86dd76e-c87b-4db5-97c7-04ef1b3f03f3.webp?v=1773737523",
-     "https://cdn.shopify.com/s/files/1/0603/9928/8452/files/getImage_decfe3c3-4aeb-4e76-9789-5873ceddf80c.webp?v=1773737521"
-    ]
-   },
-   {
-    "id": 15604591165815,
-    "title": "CUPRA Formentor",
-    "handle": "cupra-formentor-1-5-tsi-110-kw-aut-11-26",
-    "published_at": "2026-11-10T12:38:59+01:00",
-    "created_at": "2026-11-10T12:38:59+01:00",
-    "updated_at": "2026-11-11T15:48:42+01:00",
-    "vendor": "CUPRA",
-    "product_type": "Car",
-    "tags": [
-     "_Hi_chtgptapp_optimised_this_description-generator",
-     "_Hi_chtgptapp_saved_this_description-generator",
-     "sklad"
-    ],
-    "options": [
-     {
-      "name": "Tarif",
-      "position": 1,
-      "values": [
-       "Flexi",
-       "Flexi Smart",
-       "Value"
-      ]
-     },
-     {
-      "name": "Barva",
-      "position": 2,
-      "values": [
-       "Magnetic šedá"
-      ]
-     }
-    ],
-    "body": "CUPRA Formentor spojuje výrazný vzhled s výkonným motorem a moderními technologiemi. Za volantem si užijete dynamickou jízdu, zatímco elegantní design vynikne i při každodenních cestách. Promyšlené detaily interiéru vytvářejí příjemné prostředí pro chvíle za volantem. Moderní asistenční systémy přispívají k pohodlí a bezpečnosti na cestách. Elegantní design: Moderní vzhled přitahuje pozornost a dodává vozu výrazný charakter. Výkonný motor: Silný motor přináší dynamický jízdní zážitek. Moderní technologie: Inovativní funkce a asistenční systémy podporují pohodlí i bezpečnost. Propracovaný interiér: Luxusní materiály a důmyslné detaily přispívají k pocitu komfortu. Formentor vám bude dělat spo",
-    "nVariants": 3,
-    "variants": [
-     {
-      "title": "Flexi / Magnetic šedá",
-      "price": "18490.00",
-      "compare_at_price": "20390.00",
-      "available": true,
-      "sku": "F30_2510"
-     },
-     {
-      "title": "Flexi Smart / Magnetic šedá",
-      "price": "14090.00",
-      "compare_at_price": "15490.00",
-      "available": true,
-      "sku": "FS20_2510"
-     },
-     {
-      "title": "Value / Magnetic šedá",
-      "price": "11990.00",
-      "compare_at_price": "12990.00",
-      "available": true,
-      "sku": "V10_2510"
-     }
-    ],
-    "images": [
-     "https://cdn.shopify.com/s/files/1/0603/9928/8452/files/getImage_da17249f-3e5d-4a4f-8ffe-a369b5491cff.webp?v=1759301682",
-     "https://cdn.shopify.com/s/files/1/0603/9928/8452/files/getImage_3df1479b-a1d7-466a-b444-37290ab1ebab.webp?v=1759301682"
-    ]
-   }
-  ],
-  "tags": [
-   "_Hi_chtgptapp_optimised_this_description-generator",
-   "_Hi_chtgptapp_saved_this_description-generator",
-   "car",
-   "sale",
-   "sklad"
-  ],
-  "vendors": [
-   "CUPRA",
-   "DACIA",
-   "Hyundai",
-   "KIA",
-   "RENAULT",
-   "TOYOTA",
-   "VOLVO",
-   "VW",
-   "ŠKODA"
-  ],
   "handle": "kia-sportage-edice-30-1-6-t-gdi-hev-155-kw-aut-00-00",
-  "kc": [
-   "KIA Sportage Edice 30 – Birne Přejít k obsahu NOVINKA: Akční levný operák na prověřená zánovní a ojetá auta od [[DAP6Moperak_od]] Kč bez DPH. --> Naše auta Operativní leasing Zkus a kup Birne rent Pro firmy Nadstandardní služby CZ CZ · Čeština EN · English DE · Deutsch UA · Українська SK · Slovenčina PL · Polski Překlad: Google s DPH bez DPH klientsk",
-   "tlumiče, zapalovací svíčky a pod.\"> Další parametry p]:tw-font-[600] [&>p]:tw-text-xs tw-text-primaryDarker [&>ul]:tw-list-[circle] [&>ul]:tw-list-inside [&>ul]:tw-text-[12px]\"> Ostatní služby: Krytí poškození do 10 000 Kč Havarijní pojištění 10% Povinné ručení Pojištění skel Asistenční služba Dálniční známka Od Vybrat svg]:tw-hidden\"> Vybráno Svoboda pro krátkodobé ježdění Flexi span]:tw-text-success [&>span]:tw-font-bold\">Možnost vrátit",
-   " tlumiče, zapalovací svíčky a pod.\"> Další parametry p]:tw-font-[600] [&>p]:tw-text-xs tw-text-primaryDarker [&>ul]:tw-list-[circle] [&>ul]:tw-list-inside [&>ul]:tw-text-[12px]\"> Ostatní služby: Krytí poškození do 5 000 Kč Havarijní pojištění 10% Povinné ručení Pojištění skel Asistenční služba Dálniční známka Od Vybrat svg]:tw-hidden\"> Vybráno Flexibilita pro dlouhodobé řidiče Flexi Smart span]:tw-text-success [&>span]:tw-font-bold\">Možno",
-   " tlumiče, zapalovací svíčky a pod.\"> Další parametry p]:tw-font-[600] [&>p]:tw-text-xs tw-text-primaryDarker [&>ul]:tw-list-[circle] [&>ul]:tw-list-inside [&>ul]:tw-text-[12px]\"> Ostatní služby: Krytí poškození do 5 000 Kč Havarijní pojištění 10% Povinné ručení Pojištění skel Asistenční služba Dálniční známka Od Vybrat svg]:tw-hidden\"> Vybráno Nastavte si pronájem Délka pronájmu Flexibilní vrácení Roční nájezd Měsíční splátka Nejnižší cen",
-   "ba obsahuje Servis předepsaný výrobcem a navíc i výměnu dílů podléhajících běžnému opotřebení, jako jsou například brzdové destičky, kotouče, tlumiče, zapalovací svíčky a pod.\"> Ostatní služby: Krytí poškození do 10 000 Kč Havarijní pojištění 10% Povinné ručení Pojištění skel Asistenční služba Dálniční známka Možnost vrátit zdarma po 6 měs. svg]:tw-filter-none tw-relative tw-w-[1.6rem] tw-h-[1.6rem] \" data-modal=\"Při žádosti o vrácení aut",
-   "žba obsahuje Servis předepsaný výrobcem a navíc i výměnu dílů podléhajících běžnému opotřebení, jako jsou například brzdové destičky, kotouče, tlumiče, zapalovací svíčky a pod.\"> Ostatní služby: Krytí poškození do 5 000 Kč Havarijní pojištění 10% Povinné ručení Pojištění skel Asistenční služba Dálniční známka Možnost vrátit zdarma po 2 měs. svg]:tw-filter-none tw-relative tw-w-[1.6rem] tw-h-[1.6rem] \" data-modal=\"Při žádosti o vrácení aut",
-   "žba obsahuje Servis předepsaný výrobcem a navíc i výměnu dílů podléhajících běžnému opotřebení, jako jsou například brzdové destičky, kotouče, tlumiče, zapalovací svíčky a pod.\"> Ostatní služby: Krytí poškození do 5 000 Kč Havarijní pojištění 10% Povinné ručení Pojištění skel Asistenční služba Dálniční známka Z čeho se cena skládá Zvýhodněná cena se nevztahuje na výměnu vozu span]:tw-text-success [&>span]:tw-font-bold\">Možnost vrátit po 1",
-   "tlumiče, zapalovací svíčky a pod.\"> Další parametry p]:tw-font-[600] [&>p]:tw-text-xs tw-text-primaryDarker [&>ul]:tw-list-[circle] [&>ul]:tw-list-inside [&>ul]:tw-text-[12px]\"> Ostatní služby: Krytí poškození do 10 000 Kč Havarijní pojištění 10% Povinné ručení Pojištění skel Asistenční služba Dálniční známka span]:tw-text-success [&>span]:tw-font-bold\">Možnost vrátit zdarma po 6 měs. svg]:tw-filter-none tw-relative tw-w-[1.6rem] tw-h-[1."
+  "len": 578135,
+  "vat": [
+   " zážitku. Některé soubory cookie jsou nezbytné pro správné fungování a fungování webových stránek. Tyto soubory cookie nelze zakázat. V tomto okně můžete spravovat své preference souborů cookie.\",\"showDateGenerated\":true},\"language\":{\"unpublished\":[],\"languageMode\":\"Single\",\"fallbackLanguage\":\"cs\",\"languageDetection\":\"browser\",\"languagesSupported\":[]},\"texts\":{",
+   "ování personalizovaného zážitku. Některé soubory cookie jsou nezbytné pro správnou funkci a správnou funkci webových stránek. Tyto soubory cookie nelze deaktivovat. V tomto okně můžete spravovat preference cookies.\"},\"preferencesPopupSaveButtonText\":{\"cs\":\"Uložit předvolby\"},\"preferencesPopupCloseButtonText\":{\"cs\":\"Zavřít\"},\"preferencesPopupAcceptAllButtonText\"",
+   ". Některé soubory cookie jsou nezbytné pro správnou funkci a správnou funkci webových stránek. Tyto soubory cookie nelze deaktivovat. V tomto okně můžete spravovat preference cookies.\"},\"preferencesPopupSaveButtonText\":{\"cs\":\"Uložit předvolby\"},\"preferencesPopupCloseButtonText\":{\"cs\":\"Zavřít\"},\"preferencesPopupAcceptAllButtonText\":{\"cs\":\"Přijmout vše\"},\"prefere",
+   "jů, kdykoli to považujete za vhodné.\"},\"rectificationSectionTitleText\":{\"cs\":\"Oprava dat\"},\"rectificationCommentPlaceholder\":{\"cs\":\"Popište, co chcete aktualizovat\"},\"rectificationCommentValidationError\":{\"cs\":\"Komentář je vyžadován\"},\"rectificationSectionEditAccountActionText\":{\"cs\":\"Požádat o aktualizaci\"},\"erasureSectionTitleText\":{\"cs\":\"Právo být zapomenut\"",
+   "Emailová adresa\"},\"guestsSupportEmailSuccessMessage\":{\"cs\":\"Pokud jste registrováni jako zákazníci tohoto obchodu, brzy vám přijde e -mail s pokyny, jak postupovat.\"},\"guestsSupportEmailSuccessTitle\":{\"cs\":\"Děkujeme za vaši žádost\"},\"guestsSupportEmailValidationError\":{\"cs\":\"E -mail není platný\"},\"guestsSupportInfoText\":{\"cs\":\"Chcete -li pokračovat, přihlaste s",
+   "uccessTitle\":{\"cs\":\"Děkujeme za vaši žádost\"},\"guestsSupportEmailValidationError\":{\"cs\":\"E -mail není platný\"},\"guestsSupportInfoText\":{\"cs\":\"Chcete -li pokračovat, přihlaste se prosím pomocí svého zákaznického účtu.\"},\"submitButton\":{\"cs\":\"Předložit\"},\"submittingButton\":{\"cs\":\"Odesílání ...\"},\"cancelButton\":{\"cs\":\"zrušení\"},\"declIntroText\":{\"cs\":\"Soubory cooki",
+   " zážitku. Některé soubory cookie jsou nezbytné pro správné fungování a fungování webových stránek. Tyto soubory cookie nelze zakázat. V tomto okně můžete spravovat své preference souborů cookie.\"},\"declName\":{\"cs\":\"název\"},\"declPurpose\":{\"cs\":\"Účel\"},\"declType\":{\"cs\":\"Typ\"},\"declRetention\":{\"cs\":\"Uchování\"},\"declProvider\":{\"cs\":\"Poskytovatel\"},\"declFirstParty\":",
+   " souborů cookie.\"},\"declName\":{\"cs\":\"název\"},\"declPurpose\":{\"cs\":\"Účel\"},\"declType\":{\"cs\":\"Typ\"},\"declRetention\":{\"cs\":\"Uchování\"},\"declProvider\":{\"cs\":\"Poskytovatel\"},\"declFirstParty\":{\"cs\":\"První strany\"},\"declThirdParty\":{\"cs\":\"Třetí strana\"},\"declSeconds\":{\"cs\":\"sekundy\"},\"declMinutes\":{\"cs\":\"minut\"},\"declHours\":{\"cs\":\"hodin\"},\"declDays\":{\"cs\":\"dní\"},\"declM",
+   "kiesTitleText\":{\"cs\":\"Nezbytně nutné cookies\"},\"strictlyNecessaryCookiesDescriptionText\":{\"cs\":\"Tyto soubory cookie jsou nezbytné k tomu, abyste se mohli pohybovat po webové stránce a používat její funkce, jako je přístup do zabezpečených oblastí webové stránky. Web nemůže bez těchto cookies správně fungovat.\"},\"functionalityCookiesTitleText\":{\"cs\":\"Funkční coo",
+   "ě nutné cookies\"},\"strictlyNecessaryCookiesDescriptionText\":{\"cs\":\"Tyto soubory cookie jsou nezbytné k tomu, abyste se mohli pohybovat po webové stránce a používat její funkce, jako je přístup do zabezpečených oblastí webové stránky. Web nemůže bez těchto cookies správně fungovat.\"},\"functionalityCookiesTitleText\":{\"cs\":\"Funkční cookies\"},\"functionalityCookiesD",
+   "e mohli pohybovat po webové stránce a používat její funkce, jako je přístup do zabezpečených oblastí webové stránky. Web nemůže bez těchto cookies správně fungovat.\"},\"functionalityCookiesTitleText\":{\"cs\":\"Funkční cookies\"},\"functionalityCookiesDescriptionText\":{\"cs\":\"Tyto soubory cookie umožňují webu poskytovat vylepšené funkce a přizpůsobení. Můžeme je nastav",
+   "ávně fungovat.\"},\"functionalityCookiesTitleText\":{\"cs\":\"Funkční cookies\"},\"functionalityCookiesDescriptionText\":{\"cs\":\"Tyto soubory cookie umožňují webu poskytovat vylepšené funkce a přizpůsobení. Můžeme je nastavit my nebo poskytovatelé třetích stran, jejichž služby jsme přidali na naše stránky. Pokud tyto soubory cookie nepovolíte, některé nebo všechny tyto s",
+   "\"},\"functionalityCookiesDescriptionText\":{\"cs\":\"Tyto soubory cookie umožňují webu poskytovat vylepšené funkce a přizpůsobení. Můžeme je nastavit my nebo poskytovatelé třetích stran, jejichž služby jsme přidali na naše stránky. Pokud tyto soubory cookie nepovolíte, některé nebo všechny tyto služby nemusí fungovat správně.\"},\"performanceCookiesTitleText\":{\"cs\":\"V",
+   "bo poskytovatelé třetích stran, jejichž služby jsme přidali na naše stránky. Pokud tyto soubory cookie nepovolíte, některé nebo všechny tyto služby nemusí fungovat správně.\"},\"performanceCookiesTitleText\":{\"cs\":\"Výkonnostní cookies\"},\"performanceCookiesDescriptionText\":{\"cs\":\"Tyto soubory cookie nám umožňují sledovat a zlepšovat výkon našich webových stránek. N"
   ],
-  "km": [
-   " Perleťová černá V jakém tarifu si přejete vaše auto? Chytrá volba pro plánovaný nájezd Value span]:tw-text-success [&>span]:tw-font-bold\">Možnost vrátit po 12 měsících svg]:tw-filter-none tw-relative tw-w-[1.6rem] tw-h-[1.6rem] \" data-modal=\"Vrátit auto je možné už po 12 měsících kdykoliv. Stačí uhradit 2 měsíční splátky a",
-   "ss [&>span]:tw-font-bold\">Možnost vrátit po 12 měsících svg]:tw-filter-none tw-relative tw-w-[1.6rem] tw-h-[1.6rem] \" data-modal=\"Vrátit auto je možné už po 12 měsících kdykoliv. Stačí uhradit 2 měsíční splátky a můžete si tak vybrat třeba jiné auto nebo jiný tarif.\"> 36 měsíců Nájezd 10 000 km ročně Nájezd lze navýšit až n",
-   "em] \" data-modal=\"Vrátit auto je možné už po 12 měsících kdykoliv. Stačí uhradit 2 měsíční splátky a můžete si tak vybrat třeba jiné auto nebo jiný tarif.\"> 36 měsíců Nájezd 10 000 km ročně Nájezd lze navýšit až na 30 000 km/rok svg]:tw-filter-none tw-relative tw-w-[1.6rem] tw-h-[1.6rem] \" data-modal=\"Pro nájezd vyšší než 1",
-   "rátit auto je možné už po 12 měsících kdykoliv. Stačí uhradit 2 měsíční splátky a můžete si tak vybrat třeba jiné auto nebo jiný tarif.\"> 36 měsíců Nájezd 10 000 km ročně Nájezd lze navýšit až na 30 000 km/rok svg]:tw-filter-none tw-relative tw-w-[1.6rem] tw-h-[1.6rem] \" data-modal=\"Pro nájezd vyšší než 10 000 km/rok, si p",
-   "koliv. Stačí uhradit 2 měsíční splátky a můžete si tak vybrat třeba jiné auto nebo jiný tarif.\"> 36 měsíců Nájezd 10 000 km ročně Nájezd lze navýšit až na 30 000 km/rok svg]:tw-filter-none tw-relative tw-w-[1.6rem] tw-h-[1.6rem] \" data-modal=\"Pro nájezd vyšší než 10 000 km/rok, si prosím dokupte příslušný servisní balíček ",
-   "jezd 10 000 km ročně Nájezd lze navýšit až na 30 000 km/rok svg]:tw-filter-none tw-relative tw-w-[1.6rem] tw-h-[1.6rem] \" data-modal=\"Pro nájezd vyšší než 10 000 km/rok, si prosím dokupte příslušný servisní balíček z doplňkových služeb níže.\"> Kompletní servis dle nájezdu svg]:tw-filter-none tw-relative tw-w-[1.6rem] tw-h-"
+  "dphRaw": [
+   "     let interval = `měsíčně`       if(el.dataset.dphInterval === \"day\") interval = `za den`       if(el.dataset.dphInterval === \"none\") interval = \"\"       const vatLabel = withoutVAT         ? `bez DPH`         : `s DPH`;       return el.innerText = [interval, vatLabel].filter(Boolean).join(\" \");     })   }      setSMESwitchChange(){     document.addEventListener(this.VATstate.switchEventName, e =>",
+   "= `měsíčně`       if(el.dataset.dphInterval === \"day\") interval = `za den`       if(el.dataset.dphInterval === \"none\") interval = \"\"       const vatLabel = withoutVAT         ? `bez DPH`         : `s DPH`;       return el.innerText = [interval, vatLabel].filter(Boolean).join(\" \");     })   }      setSMESwitchChange(){     document.addEventListener(this.VATstate.switchEventName, e => {       this.hand",
+   "\"><div class=\"page-width\">                 <p class=\"announcement-bar__message center h5\">                   NOVINKA: Akční levný operák na prověřená zánovní a ojetá auta od [[DAP6Moperak_od]] Kč bez DPH. <!--<svg viewBox=\"0 0 14 10\" fill=\"none\" aria-hidden=\"true\" focusable=\"false\" role=\"presentation\" class=\"icon icon-arrow\" xmlns=\"http://www.w3.org/2000/svg\">   <path fill-rule=\"evenodd\" clip-rule=\"e",
+   "p\"       type=\"checkbox\"       class=\"tw-peer/switch js-sme-switch tw-hidden\"       checked       name=\"sme\"     >     <div class=\"ie-switch tw-h-[36px]\">       <div class=\"ie-switch--vat\">         s DPH       </div>       <div class=\"ie-switch--novat\">         bez DPH       </div>     </div>   </label> </div> </div>              <a href=\"/cart\"><svg width=\"24\" height=\"24\" viewbox=\"0 0 24 24\" fill=\"n",
+   " tw-hidden\"       checked       name=\"sme\"     >     <div class=\"ie-switch tw-h-[36px]\">       <div class=\"ie-switch--vat\">         s DPH       </div>       <div class=\"ie-switch--novat\">         bez DPH       </div>     </div>   </label> </div> </div>              <a href=\"/cart\"><svg width=\"24\" height=\"24\" viewbox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"> <path d=\"M19.5 22C20.3284"
   ],
-  "dph": [
-   "KIA Sportage Edice 30 – Birne Přejít k obsahu NOVINKA: Akční levný operák na prověřená zánovní a ojetá auta od [[DAP6Moperak_od]] Kč bez DPH. --> Naše auta Operativní leasing Zkus a kup Birne rent Pro firmy Nadstandardní služby CZ CZ · Čeština EN · English DE · Deutsch UA · Українська SK · Slovenčin",
-   "ng Zkus a kup Birne rent Pro firmy Nadstandardní služby CZ CZ · Čeština EN · English DE · Deutsch UA · Українська SK · Slovenčina PL · Polski Překlad: Google s DPH bez DPH klientská zóna menu _a]:first:tw-pt-[0px]\"> Naše auta _a]:first:tw-pt-[0px]\"> Operativní leasing _a]:first:tw-pt-[0px]\"> Zkus a kup _a]:first:tw-pt-[0p",
-   "a kup Birne rent Pro firmy Nadstandardní služby CZ CZ · Čeština EN · English DE · Deutsch UA · Українська SK · Slovenčina PL · Polski Překlad: Google s DPH bez DPH klientská zóna menu _a]:first:tw-pt-[0px]\"> Naše auta _a]:first:tw-pt-[0px]\"> Operativní leasing _a]:first:tw-pt-[0px]\"> Zkus a kup _a]:first:tw-pt-[0px]\"> Bir"
-  ],
-  "ld": [
-   "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Birne\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/birne.com\"\n  }\n",
-   "\n    {\n      \"@context\": \"http://schema.org/\",\n      \"@type\": \"Product\",\n      \"name\": \"KIA Sportage Edice 30\",\n      \"url\": \"https:\\/\\/birne.com\\/products\\/kia-sportage-edice-30-1-6-t-gdi-hev-155-kw-aut-00-00\",\n      \"image\": [\n          \"https:\\/\\/birne.com\\/cdn\\/shop\\/files\\/getImage_0b31fcb3-4178-4f90-a26c-996691ecbf9e.webp?v=1773737550\\u0026width=1200\"\n        ],\n      \"description\": \"\\nKIA Sportage Edice 30 spojuje sportovně elegantní vzhled s dynamickým projevem na cestách. Výrazný design zaujme na první pohled a prostorný interiér vám nabídne pohodlí při každodenním cestování i delších výletech. Uvnitř oceníte elegantní uspořádání, kvalitní zpracování a promyšlené detaily pro pohodlí posádky. Moderní multimediální funkce a možnosti konektivity vám zpříjemní čas na cestách. \\n\\nSportovní elegance: Špičkově působící design dodává vozu výrazný vzhled.\\n\\nProstorný interiér: Elegantní kabina poskytuje místo a pohodlí cestujícím.\\n\\nKvalitní zpracování: Luxusní materiály a promyšlené detaily dotvářejí příjemné prostředí.\\n\\nBezpečnostní systémy: Pokročilé funkce podporují bezpečnější jízdu.\\n\\nMultimédia a konektivita: Intuitivní ovládání a možnosti připojení vám nabídnou zábavu"
-  ],
-  "metaPrice": [
-   "<meta property=\"og:site_name\" content=\"Birne\">",
-   "<meta property=\"og:url\" content=\"https://birne.com/products/kia-sportage-edice-30-1-6-t-gdi-hev-155-kw-aut-00-00\">",
-   "<meta property=\"og:title\" content=\"KIA Sportage Edice 30\">",
-   "<meta property=\"og:type\" content=\"product\">",
-   "<meta property=\"og:description\" content=\"KIA Sportage Edice 30 spojuje sportovně elegantní vzhled s dynamickým projevem na cestách. Výrazný design zaujme na první pohled a prostorný interiér vám nabídne pohodlí při každodenním cestování i delších výletech. Uvnitř oceníte elegantní uspořádání, kvalitní zpracování a promyšlené detaily pro pohodlí posádky. Moder\">",
-   "<meta property=\"og:image\" content=\"http://birne.com/cdn/shop/files/getImage_0b31fcb3-4178-4f90-a26c-996691ecbf9e.webp?v=1773737550\">",
-   "<meta property=\"og:image:secure_url\" content=\"https://birne.com/cdn/shop/files/getImage_0b31fcb3-4178-4f90-a26c-996691ecbf9e.webp?v=1773737550\">",
-   "<meta property=\"og:image:width\" content=\"1200\">",
-   "<meta property=\"og:image:height\" content=\"750\">",
-   "<meta property=\"og:price:amount\" content=\"13,990\">"
+  "priceNums": [
+   "=\"1200\">   <meta property=\"og:image:height\" content=\"750\"><meta property=\"og:price:amount\" content=\"13,990\">   <meta property=\"og:price:currency\" content=\"CZK\"><meta name=\"twitter:card\" content=\"summary_lar",
+   " Smart \\/ Perleťová černá\",\"untranslatedTitle\":\"Flexi Smart \\/ Perleťová černá\"},{\"price\":{\"amount\":13990.0,\"currencyCode\":\"CZK\"},\"product\":{\"title\":\"KIA Sportage Edice 30\",\"vendor\":\"KIA\",\"id\":\"15605511553",
+   "n\\/shop\\/files\\/getImage_0b31fcb3-4178-4f90-a26c-996691ecbf9e.webp?v=1773737550\"},\"price\":{\"amount\":13990.0,\"currencyCode\":\"CZK\"},\"sku\":\"V10_2510\",\"title\":\"Value \\/ Perleťová černá\",\"untranslatedTitle\":\"Va",
+   "ná\",\"public_title\":\"Flexi Smart \\/ Perleťová černá\",\"sku\":\"FS20_2510\"},{\"id\":57736508146039,\"price\":1399000,\"name\":\"KIA Sportage Edice 30 - Value \\/ Perleťová černá\",\"public_title\":\"Value \\/ Perleťová čern",
+   "tw-font-medium tw-mb-[-4px] md:tw-hidden\">Od</p>                                   <div data-price=\"1399000\" class=\"js-sme-prices js-sme-variant-price tw-text-[1.8rem] md:tw-text-[2rem] tw-font-semibold tw",
+   "ťová černá\",\"public_title\":\"Value \\/ Perleťová černá\",\"options\":[\"Value\",\"Perleťová černá\"],\"price\":1399000,\"weight\":0,\"compare_at_price\":1439000,\"inventory_management\":\"shopify\",\"barcode\":null,\"requires_s",
+   "pe\" : \"Offer\",\"sku\": \"V10_2510\",\"availability\" : \"http://schema.org/InStock\",             \"price\" : 13990.0,             \"priceCurrency\" : \"CZK\",             \"url\" : \"https:\\/\\/birne.com\\/products\\/kia-spo",
+   "mised_this_description-generator\",\"_Hi_chtgptapp_saved_this_description-generator\",\"sklad\"],\"price\":1399000,\"price_min\":1399000,\"price_max\":2099000,\"available\":true,\"price_varies\":true,\"compare_at_price\":1",
+   "on-generator\",\"_Hi_chtgptapp_saved_this_description-generator\",\"sklad\"],\"price\":1399000,\"price_min\":1399000,\"price_max\":2099000,\"available\":true,\"price_varies\":true,\"compare_at_price\":1439000,\"compare_at_p",
+   "ťová černá\",\"public_title\":\"Value \\/ Perleťová černá\",\"options\":[\"Value\",\"Perleťová černá\"],\"price\":1399000,\"weight\":0,\"compare_at_price\":1439000,\"inventory_management\":\"shopify\",\"barcode\":null,\"requires_s"
   ]
  }
 }
