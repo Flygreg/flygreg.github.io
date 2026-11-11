@@ -169,7 +169,8 @@ function renderSources(){
 }
 function card(o){
   const gp=o.gear?`<span class="gp" title="${o.gear==='automat'?'Automatická':'Manuální'} převodovka">${GIC[o.gear]||''}${o.gear==='automat'?'Automat':'Manuál'}</span>`:'';
-  const sub=[o.kw?o.kw+' kW':'',o.months?o.months+' měs.':''].filter(Boolean).map(esc).join(' · ')+(gp?(o.kw||o.months?' · ':'')+gp:'')+(o.km?((o.kw||o.months||gp)?' · ':'')+esc(o.km):'');
+  const rest=[o.kw?o.kw+' kW':'',o.months?o.months+' měs.':'',o.km||''].filter(Boolean).map(esc).join(' · ');
+  const sub=gp+(gp&&rest?' · ':'')+rest;
   const vat=o.vat==='bez'?'bez DPH':o.vat==='s'?'s DPH':'';
   const d=new Date(o.firstSeen).toLocaleDateString('cs-CZ');
   return `<article class="card" data-src="${esc(o.source)}"><div class="pills"><span class="ibd" role="img" aria-label="${esc(FUEL[o.fuel]||'Auto')}" title="${esc(FUEL[o.fuel]||'Auto')}">${ICON[o.fuel]||CAR}</span></div><h2 title="${esc(o.title)}">${esc(o.title)}${drop(o)?'<span class="nw d">Zlevněno</span>':''}<span class="sub">${sub}</span></h2><div class="row"><span><b style="color:#0a3f4d">od ${kc(o.price)}</b><small class="orig">/ měsíc${vat?' · '+vat:''}</small>${drop(o)?'<s>'+kc(o.prevPrice)+'</s>':''}</span><span class="dt">${d}</span></div><a target="_blank" rel="noopener noreferrer nofollow" href="${esc(o.url)}">Zobrazit nabídku</a></article>`;
