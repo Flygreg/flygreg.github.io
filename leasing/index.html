@@ -110,7 +110,7 @@ footer{margin-top:35px;color:#56677e;font-size:13px}
 .card .row span:first-child{text-align:right;font-size:17px;white-space:nowrap;line-height:1.2}
 .card .row .dt{text-align:right;margin-left:0;white-space:nowrap}
 .card a{padding:10px 12px;white-space:nowrap}
-@media(max-width:700px){.card{grid-template-columns:30px minmax(0,1fr);column-gap:12px;row-gap:8px;align-items:start;padding:14px}.card h2{font-size:16px}.card .row{display:flex;grid-column:2;justify-content:space-between;align-items:baseline}.card .row span:first-child{text-align:left;font-size:16px}.card .row .dt{text-align:right;font-size:13px}.card a{grid-column:1/-1}}
+@media(max-width:700px){.card{grid-template-columns:30px minmax(0,1fr);column-gap:12px;row-gap:8px;align-items:start;padding:14px}.card h2{font-size:16px}.card .row{display:flex;flex-wrap:wrap;grid-column:2;justify-content:space-between;align-items:baseline;gap:2px 10px;min-width:0}.card .row span:first-child{text-align:left;font-size:16px;min-width:0;white-space:normal}.card .row .dt{text-align:right;font-size:13px}.card a{grid-column:1/-1}}
 .card .row span:first-child{line-height:1.2}
 /* panel nástrojů pod hlavičkou: hledání, typ nabídky a Odkud; po rolování zůstane přilepený */
 .tb{position:sticky;top:0;z-index:30;background:#f3f9fa;transition:box-shadow .15s}
@@ -790,7 +790,7 @@ document.addEventListener('keydown',e=>{if(e.key==='Escape'&&ov.classList.contai
 fab.onclick=()=>{open();if(!API)return go('soon');if(getS())loadList();else go('email')};
 
 // automatická aktualizace: když je na webu novější verze stránky než ta, kterou má prohlížeč v paměti, stránka se jednou sama načte znovu
-const BUILD='2026-11-11-g';
+const BUILD='2026-11-11-h';
 async function checkBuild(){
   try{
     if(ov.classList.contains('on')||document.hidden)return;
