@@ -1,191 +1,132 @@
 {
  "driveto": {
-  "count": 114,
-  "samples": [
-   "{\"id\": 15756875759965, \"title\": \"Toyota C-HR Style 2.0 PHEV 164 kW Natural 95 Automatická převodovka\", \"handle\": \"toyota-c-hr-style-2-0-phev-164-kw-natural-95-automaticka-prevodovka-1\", \"published_at\": \"2025-11-19T13:15:42+01:00\", \"created_at\": \"2025-11-19T12:17:53+01:00\", \"updated_at\": \"2026-11-11T15:43:19+01:00\", \"vendor\": \"Toyota\", \"product_type\": \"Operativní leasing\", \"tags\": [\"BLACK FRIDAY\"], \"variants\": [{\"id\": 64823309238621, \"title\": \"10000 km / 36 měsíců / Bílá čistá\", \"option1\": \"10000 km\", \"option2\": \"36 měsíců\", \"option3\": \"Bílá čistá\", \"sku\": null, \"requires_shipping\": true, \"taxable\": true, \"featured_image\": null, \"available\": false, \"price\": \"6370.00\", \"grams\": 0, \"compare_at_price\": null, \"position\": 1, \"product_id\": 15756875759965, \"created_at\": \"2026-05-28T18:28:21+02:00\", \"updated_at\": \"2026-11-11T15:43:19+01:00\"}, {\"id\": 62631597179229, \"title\": \"10000 km / 36 měsíců / Stříbrná třpytivá\", \"option1\": \"10000 km\", \"option2\": \"36 měsíců\", \"option3\": \"Stříbrná třpytivá\", \"sku\": null, \"requires_shipping\": true, \"taxable\": true, \"featured_image\": {\"id\": 80260906582365, \"product_id\": 15756875759965, \"position\": 5, \"created_at\": \"2025-11-19T12:55:06+01:00\", \"updated_at\": \"2026-05-29T09:20:10+02:00\", \"alt\": \"Fotografie automobilu Toyota C-HR Style na operativní leasing | Driveto.cz\", \"width\": 1600, \"height\": 1200, \"src\": \"https://cdn.shopify.com/s/files/1/0884/6861/9613/files/toyota-chr-style-2-0-phev-foto-4.webp?v=1780039210\", \"variant_ids\": [62631597179229, 62631597310301, 62631597441373, 62631597572445, 64903407927645, 64903408124253, 64903408320861, 64906149921117, 64906150117725, 64906150314333, 64906150510941, 64906150707549, 64906150904157, 64906151100765]}, \"available\": false, \"price\": \"6370.00\", \"grams\": 0, \"compare_at_price\": null, \"position\": 2, \"product_id\": 15756875759965, \"created_at\": \"2025-11-19T13:13:48+01:00\", \"updated_at\": \"2026-11-11T15:43:19+01:00\"}, {\"id\": 62631597146461, \"title\": \"10000 km / 36 měsíců / Modrozelená petrolejová\", \"option1\": \"10000 km\", \"option2\": \"36 měsíců\", \"option3\": \"Modrozelená petrolejová\", \"sku\": null, \"requires_shipping\": true, \"taxable\": true, \"featured_image\": {\"id\": 80260906746205, \"product_id\": 1575687",
-   "{\"id\": 16057158304093, \"title\": \"Škoda Kodiaq Exclusive Selection 2.0 TDI 142 kW Nafta 4x4 Automatická převodovka\", \"handle\": \"skoda-kodiaq-exclusive-selection-2-0-tdi-142-kw-nafta-4x4-automaticka-prevodovka-2\", \"published_at\": \"2026-04-03T21:36:19+02:00\", \"created_at\": \"2026-04-02T12:09:39+02:00\", \"updated_at\": \"2026-11-11T15:43:19+01:00\", \"vendor\": \"Škoda\", \"product_type\": \"Operativní leasing\", \"tags\": [\"+ Tažné\"], \"variants\": [{\"id\": 64067531276637, \"title\": \"10000 km / 36 měsíců / Šedá Graphite\", \"option1\": \"10000 km\", \"option2\": \"36 měsíců\", \"option3\": \"Šedá Graphite\", \"sku\": null, \"requires_shipping\": true, \"taxable\": true, \"featured_image\": null, \"available\": true, \"price\": \"12419.00\", \"grams\": 0, \"compare_at_price\": \"0.00\", \"position\": 1, \"product_id\": 16057158304093, \"created_at\": \"2026-04-02T12:36:15+02:00\", \"updated_at\": \"2026-11-11T15:43:19+01:00\"}, {\"id\": 64067531243869, \"title\": \"10000 km / 36 měsíců / Modrá Race\", \"option1\": \"10000 km\", \"option2\": \"36 měsíců\", \"option3\": \"Modrá Race\", \"sku\": null, \"requires_shipping\": true, \"taxable\": true, \"featured_image\": null, \"available\": false, \"price\": \"12105.00\", \"grams\": 0, \"compare_at_price\": \"0.00\", \"position\": 2, \"product_id\": 16057158304093, \"created_at\": \"2026-04-02T12:36:15+02:00\", \"updated_at\": \"2026-11-11T15:43:19+01:00\"}, {\"id\": 64067483959645, \"title\": \"15000 km / 36 měsíců / Šedá Graphite\", \"option1\": \"15000 km\", \"option2\": \"36 měsíců\", \"option3\": \"Šedá Graphite\", \"sku\": null, \"requires_shipping\": true, \"taxable\": true, \"featured_image\": null, \"available\": true, \"price\": \"13187.00\", \"grams\": 0, \"compare_at_price\": \"0.00\", \"position\": 3, \"product_id\": 16057158304093, \"created_at\": \"2026-04-02T12:30:14+02:00\", \"updated_at\": \"2026-11-11T15:43:19+01:00\"}, {\"id\": 64067483926877, \"title\": \"15000 km / 36 měsíců / Modrá Race\", \"option1\": \"15000 km\", \"option2\": \"36 měsíců\", \"option3\": \"Modrá Race\", \"sku\": null, \"requires_shipping\": true, \"taxable\": true, \"featured_image\": null, \"available\": false, \"price\": \"12877.00\", \"grams\": 0, \"compare_at_price\": \"0.00\", \"position\": 4, \"product_id\": 16057158304093, \"created_at\": \"2026-04-02T12:30:14+02:00\", \"updated_at\": \"2026-11-11T15:43:19+01:00\"}, {\"id\": 640674840"
-  ],
-  "vendors": [
-   "Audi",
-   "BMW",
-   "Chery",
-   "Cupra",
-   "Fiat",
-   "Ford",
-   "Hyundai",
-   "Kia",
-   "Lexus",
-   "MG",
-   "Renault",
-   "Toyota",
-   "Volkswagen",
-   "Volvo",
-   "Škoda"
-  ],
+  "countAll": 500,
   "types": {
-   "Operativní leasing": 114
+   "Operativní leasing": 500
   },
-  "titles": [
-   "Toyota C-HR Style 2.0 PHEV 164 kW Natural 95 Automatická převodovka",
-   "Škoda Kodiaq Exclusive Selection 2.0 TDI 142 kW Nafta 4x4 Automatická převodovka",
-   "Škoda Octavia Combi Top Selection 2.0 TDI 110 kW Nafta Automatická převodovka",
-   "Škoda Scala Monte Carlo 1.5 TSI 110kW Natural 95 Automatická převodovka",
-   "Cupra Terramar 1.5 eTSI 110 kW Natural 95 Automatická převodovka",
-   "Chery Tiggo 7 Unique 1.5 TGDi HEV 165 kW Natural 95 Automatická Převodovka",
-   "Škoda Scala Classic 1.0 TSI 85 kW Natural 95 Automatická převodovka",
-   "Škoda Kodiaq RS 2.0 TSI 195 kW Natural 95 4x4 Automatická převodovka",
-   "Chery Tiggo 7 Unique 1.6 T-GDi 108 kW Natural 95 4x4 Automatická převodovka",
-   "Chery Tiggo 8 Unique 1.6 T-GDi 108 kW Natural 95 Automatická převodovka",
-   "Ford Puma Titanium 1.0 Hybrid 92 kW Natural 95 Manuální převodovka",
-   "Audi Q7 S line 50 TDI 210 kW Nafta 4x4 Automatická převodovka"
+  "carsCount": 500,
+  "collectionOperativniLeasing": 232,
+  "pick": "Ford Puma ST-Line 1.0 EcoBoost mHEV 92 kW Natural 95 Automatická převodovka",
+  "pickVariants": [
+   [
+    "10000 km / 36 měsíců / Bílá Frozen",
+    "5394.00",
+    false
+   ],
+   [
+    "10000 km / 48 měsíců / Bílá Frozen",
+    "5412.00",
+    false
+   ],
+   [
+    "10000 km / 60 měsíců / Bílá Frozen",
+    "5430.00",
+    false
+   ],
+   [
+    "15000 km / 36 měsíců / Bílá Frozen",
+    "5641.00",
+    false
+   ],
+   [
+    "15000 km / 48 měsíců / Bílá Frozen",
+    "5726.00",
+    false
+   ],
+   [
+    "15000 km / 60 měsíců / Bílá Frozen",
+    "5707.00",
+    false
+   ],
+   [
+    "20000 km / 36 měsíců / Bílá Frozen",
+    "5953.00",
+    false
+   ],
+   [
+    "20000 km / 48 měsíců / Bílá Frozen",
+    "5993.00",
+    false
+   ],
+   [
+    "20000 km / 60 měsíců / Bílá Frozen",
+    "5957.00",
+    false
+   ],
+   [
+    "25000 km / 36 měsíců / Bílá Frozen",
+    "6246.00",
+    false
+   ],
+   [
+    "25000 km / 48 měsíců / Bílá Frozen",
+    "6272.00",
+    false
+   ],
+   [
+    "25000 km / 60 měsíců / Bílá Frozen",
+    "6195.00",
+    false
+   ]
   ],
-  "tags": [
-   "+ El. víko kufru",
-   "+ Paket Business",
-   "+ Paket DYNAMIC DESIGN",
-   "+ Paket INTELLIGENT DRIVE",
-   "+ Paket PURE PERFORMANCE",
-   "+ Paket Plus",
-   "+ Paket TECH",
-   "+ Paket pro přenocování PLUS",
-   "+ Panorama",
-   "+ Tažné",
-   "17\" kola",
-   "7 míst",
-   "8 míst",
-   "Akrapovič",
-   "Akční nabídka",
-   "BLACK FRIDAY",
-   "FULL SERVIS",
-   "Flexi",
-   "Jezdíte do 7 dní",
-   "Na 10 měsíců",
-   "Na 12 měsíců",
-   "Nový model",
-   "Poslední kus",
-   "Servis v ceně",
-   "VOLITELNÉ SLUŽBY",
-   "Výbava navíc",
-   "Zimní pneu"
-  ]
- },
- "vyberoperak": {
-  "sitemapCount": 506,
-  "providers": {
-   "carhunt": 211,
-   "shopifyId": 222,
-   "jine": 73
-  },
-  "sampleOther": [
-   "https://vyberoperak.cz/nabidka/cupra-formentor-operativni-leasing-irne15604591165815/",
-   "https://vyberoperak.cz/nabidka/volvo-xc60-operativni-leasing-irne15588864196983/",
-   "https://vyberoperak.cz/nabidka/cupra-formentor-operativni-leasing-irne15472450273655/",
-   "https://vyberoperak.cz/nabidka/skoda-superb-operativni-leasing-irne15311278702967/",
-   "https://vyberoperak.cz/nabidka/skoda-kodiaq-operativni-leasing-irne15270333874551/",
-   "https://vyberoperak.cz/nabidka/skoda-karoq-operativni-leasing-irne15219879870839/",
-   "https://vyberoperak.cz/nabidka/skoda-kodiaq-operativni-leasing-irne15137528807799/",
-   "https://vyberoperak.cz/nabidka/skoda-octavia-operativni-leasing-irne15056344449399/",
-   "https://vyberoperak.cz/nabidka/volkswagen-tiguan-operativni-leasing-irne14994819907959/",
-   "https://vyberoperak.cz/nabidka/hyundai-i30-operativni-leasing-irne14949379309943/"
-  ],
-  "sampleShopify": [
-   "https://vyberoperak.cz/nabidka/renault-operativni-leasing-16612295672157/",
-   "https://vyberoperak.cz/nabidka/renault-espace-operativni-leasing-16603926397277/",
-   "https://vyberoperak.cz/nabidka/skoda-kodiaq-operativni-leasing-16693411709277/",
-   "https://vyberoperak.cz/nabidka/audi-q7-operativni-leasing-16693377565021/"
-  ],
-  "detailUrl": "https://vyberoperak.cz/nabidka/cupra-formentor-operativni-leasing-irne15604591165815/",
-  "detailText": "CUPRA Formentor 1.5 TSI 110 kW Benzín Automatická převodovka – operativní leasing od 14 508 Kč/měs. Přeskočit na obsah Menu Menu Všechny nabídky Magazín O projektu VyberOperák.cz Kontakt CUPRA Formentor 1.5 TSI 110 kW Operativní leasing › CUPRA › Formentor ← Zpět 14 508 Kč/měs. s DPH 11 990 Kč/měs. bez DPH Palivo Benzín Karoserie SUV Motor 1.5 TSI · 110 kW Převodovka Automatická převodovka Dostupné varianty pronájmu Value 14 508 Kč s DPH 11 990 Kč bez DPH Vybrat Flexi Smart 17 049 Kč s DPH 14 090 Kč bez DPH Vybrat Flexi 22 373 Kč s DPH 18 490 Kč bez DPH Vybrat Chci tuto nabídku — nezávazně Přidat do srovnání Cena je orientační. Konečné podmínky ověřte u poskytovatele. ← Zpět O tomto autě: CUPRA Formentor spojuje výrazný vzhled s výkonným motorem a moderními technologiemi. Za volantem si užijete dynamickou jízdu, zatímco elegantní design vynikne i při každodenních cestách. Promyšlené detaily interiéru vytvářejí příjemné prostředí pro chvíle za volantem. Moderní asistenční systémy přispívají k pohodlí a bezpečnosti na cestách. Elegantní design: Moderní vzhled přitahuje pozornost a dodává vozu výrazný charakter. Výkonný motor: Silný motor přináší dynamický jízdní zážitek. Moderní technologie: Inovativní funkce a asistenční systémy podporují pohodlí i bezpečnost. Propracovaný interiér: Luxusní materiály a důmyslné detaily přispívají k pocitu komfortu. Formentor vám bude dělat společnost při běžných cestách i ve chvílích, kdy si chcete užít jízdu v autě s výrazným stylem a dynamickým charakterem. Zobrazit celý popis Nabídka od: birne Aktualizováno: 11. 11. 2026 15:32 Další nabídky modelu Formentor → od 14 508 Kč /měs. s DPH Chci tuto nabídku Podobné nabídky: ‹ › Ihned k převzetí Benzín SUV CUPRA Terramar 1.5 eTSI 150k DSG od 9 555 Kč/měs. s DPH od 7 897 Kč bez DPH 36 měs. 10",
-  "detailLd": [
-   "{\"@context\":\"https://schema.org\",\"@type\":\"Product\",\"name\":\"CUPRA Formentor 1.5 TSI 110 kW Benzín Automatická převodovka\",\"url\":\"https://vyberoperak.cz/nabidka/cupra-formentor-operativni-leasing-irne15604591165815/\",\"description\":\"Operativní leasing CUPRA Formentor 1.5 TSI 110 kW Benzín Automatická převodovka od 14 508 Kč/měs. s DPH Bez akontace. Ověřte dostupnost a přesné podmínky u poskytovatele. Nezávazná poptávka.\",\"brand\":{\"@type\":\"Brand\",\"name\":\"CUPRA\"},\"image\":\"https://cdn.shopify.com/s/files/1/0603/9928/8452/files/getImage_da17249f-3e5d-4a4f-8ffe-a369b5491cff.webp\",\"fuelType\":\"Benzín\",\"bodyType\":\"SUV\",\"dateModified\":\"2026-11-11\",\"seller\":{\"@type\":\"Organization\",\"name\":\"birne\"},\"offers\":{\"@type\":\"Offer\",\"priceCurrency\":\"CZK\",\"price\":14508,\"url\":\"https://vyberoperak.cz/go/2799/\",\"availability\":\"https://schema.org/LimitedAvailability\",\"seller\":{\"@type\":\"Organization\",\"name\":\"birne\"}}}",
-   "{\"@context\":\"https://schema.org\",\"@type\":\"FAQPage\",\"mainEntity\":[{\"@type\":\"Question\",\"name\":\"Jak odeslat poptávku na tuto nabídku?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Klikněte na tlačítko „Chci tuto nabídku\\u0022. Budete přesměrováni přímo k poskytovateli nabídky. Poptávka je nezávazná a zdarma.\"}},{\"@type\":\"Question\",\"name\":\"Je cena na webu závazná?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Uvedená cena je orientační a pochází od poskytovatele nabídky. Přesné podmínky, finální cenu a dostupnost vždy ověřte přímo u poskytovatele před podpisem smlouvy.\"}},{\"@type\":\"Question\",\"name\":\"Proč vidím cenu s DPH i bez DPH?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Cena s DPH je relevantní pro soukromé osoby. Firmy a plátci DPH si mohou DPH ze splátky odečíst — pro ně je důležitá cena bez DPH.\"}}]}"
-  ]
- },
- "ayvens": {
-  "nextDataLen": 51859,
-  "nextDataHead": "{\"props\":{\"pageProps\":{\"configuration\":{\"catalogBackgroundsEnabled\":true,\"testDriveCalendarUrl\":\"\"},\"banners\":[{\"title\":\"Škoda Karoq\",\"tags\":[\"Roční vozy\",\"Skladem\",\"Nízký nájezd\"],\"description\":\"1.5 TSI 110kW Top Selection DSG – podzimní nabídka na roční vozy s nízkým nájezdem, ihned skladem a na full-service leasing\",\"price\":\"\",\"buttonText\":\"ZOBRAZIT NABÍDKU\",\"url\":\"https://drive.ayvens.cz/cs/detail/23295-Skoda-Karoq_25_5_dv_SUV?from=%2F\",\"showText\":true,\"image\":\"639d6611-43a4-e8d0-d150-3a24b3d93b02\",\"imageMobile\":\"f6f2321a-acb1-357c-8ae3-3a24b3d93b02\",\"order\":0,\"priority\":null},{\"title\":\"Jste klientem Komerční banky?\",\"tags\":[\"KB\",\"Premium\",\"Nabídka\"],\"description\":\"Potřebujete řešit mobilitu? Osobní nebo užitkové vozy? Pro přihlášení do Partnerské sekce kontaktujte svého bankovního poradce!\",\"price\":\"\",\"buttonText\":\"Bližší informace\",\"url\":\"https://www.ayvens.com/cs-cz/kb-klient-vip/\",\"showText\":true,\"image\":\"dd50be4e-4eb2-a0bc-ff44-3a213de299a2\",\"imageMobile\":\"c7e9c91e-41be-3380-758d-3a213de299b1\",\"order\":0,\"priority\":null},{\"title\":\"Škoda Kodiaq\",\"tags\":[\"Škoda\",\"Prostorné\",\"SUV\"],\"description\":\"Nezaměnitelný design v kombinaci s nejnovější technikou, nejmodernější asistenční systémy řidiče a štědrý prostor uvnitř.\",\"price\":\"Od 11 511 Kč měsíčně bez DPH\",\"buttonText\":\"Nabídka\",\"url\":\"https://drive.ayvens.cz/cs?carMake=%C5%A0koda\\u0026carModel=Kodiaq\\u0026availability=NEW_ORDER%2CNEW_STOCK%2CACTION%2CNEW_ON_THE_WAY\\u0026offerType=operak\\u0026sort=CHEAPEST\\u0026pageNumber=1\\u0026pageSize=8\",\"showText\":true,\"image\":\"349e58f8-abba-7f70-879a-3a212ae4404a\",\"imageMobile\":\"c7580045-9362-87e6-4e79-3a212ae4404e\",\"order\":0,\"priority\":null},{\"title\":\"Přímý prodej vozidel po operativním leasingu\",\"tags\":[\"Prověřená vozidla\",\"Nabídka finančního leasingu pro podnikatele\"],\"description\":\"Vozidla si můžete prohlédnout v našem centru ojetých vozidel. Kontaktujte nás +420 955 525 222\",\"price\":\"\",\"buttonText\":\"ZOBRAZIT NABÍDKU\",\"url\":\"https://drive.ayvens.cz/cs/bazar\",\"showText\":true,\"image\":\"316fbb2d-50b9-3fe3-b05b-3a212af49ba4\",\"imageMobile\":\"19063160-a262-614d-5a1e-3a212af49ba7\",\"order\":0,\"priority\":null},{\"title\":\"KIA K4 SW\",\"tags\":[\"Kia\",\"Automat\",\"Skladem\"],\"description\":\"Sebevědomý design, špičkové technologie a ještě větší kapacita zavazadlového prostoru.\",\"price\":\"Od 5 258 Kč měsíčně bez DPH\",\"buttonText\":\"ZOBRAZIT NABÍDKU\",\"url\":\"https://drive.ayvens.cz/cs/detail/24686-KIA-K4_26_5_dv_kombi\",\"showText\":true,\"image\":\"ed5c1eb8-341d-dde0-92c1-3a24755eeb12\",\"imageMobile\":\"d979c181-5506-132a-0078-3a24755eeb14\",\"order\":0,\"priority\":null},{\"title\":\"Nové Audi Q7\",\"tags\":[\"Audi\",\"SUV\"],\"description\":\"Objevte quattro TDI s výkonem 220 kW již od 21 111 Kč měsíčně bez DPH. Objednejte si svůj nový vůz již nyní.\",\"price\":\"\",\"buttonText\":\"Zobrazit nabídku\",\"url\":\"https://drive.ayvens.cz/cs/detail/23406-Audi-Q7_III_27_5_dv_SUV?from=%2F\",\"showText\":true,\"image\":\"3e58085d-6279-2e96-c866-3a23e5ceebb1\",\"imageMobile\":\"21e5f40c-d089-8df9-609a-3a23e5ceebb4\",\"order\":1,\"priority\":null}],\"catalogBanner\":[{\"title\":\"Lehká užitková vozidla\",\"text\":\"Spolehlivý partner pro Vaše podnikání\",\"url\":\"/cs?carBody=furgon%2Cosobní+užitkový%2Cpodvozek+s+kabinou\\u0026availability=NEW_STOCK%2CUSED_STOCK%2CNEW_ORDER%2CACTION%2CNEW_ON_THE_WAY\\u0026offerType=operak\\u0026sort=CHEAPEST\\u0026pageNumber=1\\u0026pageSize=16\",\"tag\":[\"Ayvens dodávky\"],\"image\":[\"data/images/banner-catalog/uzitkova-vozidla.jpeg\"]}],\"homepageTexts\":[{\"mainTitle\":\"Ayvens Drive. Operativní leasing pro všechny\",\"des",
-  "text": "Ayvens Drive | Operativní leasing od Ayvens Nabídka vozidel Magazín FAQ O společnosti Kontakt Konfigurátor Přihlášení pro partnery CS Přihlášení pro partnery Ayvens Drive . Operativní leasing pro všechny Hledáte nové nebo zánovní vozidlo k zajištění své mobility? Vyberte si ze široké nabídky našich skladových vozů, nebo využijte možnost individuální konfigurace. Firmám, podnikatelům i soukromým osobám nabízíme různé značky i modely osobních a užitkových vozů s délkou pronájmu již od 3 měsíců a s mnoha provozními službami. Nastartujte s námi pohodovou jízdu plnou akčních nabídek! S výběrem Vám ochotně pomůže náš prodejní tým, který Vás usadí za ten správný volant. Nevlastněte. Jezděte! My zařídíme, vy řídíte. No selection;undefined Selected: Výše splátky (Kč) Výše splátky (Kč) Dostupnost Značka Selected: Model Model Typ karosérie Převodovka Palivo Resetovat filtr Full service leasing Zpětný leasing Ukázkové nabídky Operativní leasing Re-lease Full service leasing Zpětný leasing Ukázkové nabídky Operativní leasing Re-lease Finanční leasing Fleet management Asistenční služby Servis Pojištění a řízení rizik Finanční leasing Fleet management Asistenční služby Servis Pojištění a řízení r",
-  "apiHints": [
-   "https://www.google.com/recaptcha/api.js?render=6Ld87HImAAAAAEvuxdVUQ5yc-uT8nA5pI2p5UDAq"
-  ]
- },
- "autohled": {
-  "sitemapTypes": [
-   "https://www.autohled.cz/sitemap.xml?type=static",
-   "https://www.autohled.cz/sitemap.xml?type=makes",
-   "https://www.autohled.cz/sitemap.xml?type=models",
-   "https://www.autohled.cz/sitemap.xml?type=engines",
-   "https://www.autohled.cz/sitemap.xml?type=faq",
-   "https://www.autohled.cz/sitemap.xml?type=subpages",
-   "https://www.autohled.cz/sitemap.xml?type=tires",
-   "https://www.autohled.cz/sitemap.xml?type=magazin",
-   "https://www.autohled.cz/sitemap.xml?type=comparisons",
-   "https://www.autohled.cz/sitemap.xml?type=import",
-   "https://www.autohled.cz/sitemap.xml?type=konfigurator",
-   "https://www.autohled.cz/sitemap.xml?type=stations",
-   "https://www.autohled.cz/sitemap.xml?type=motory",
-   "https://www.autohled.cz/news-sitemap.xml"
+  "pageText": "Ford Puma 1.0 EcoBoost – Operativní leasing | Driveto.cz Přejít na obsah Váš košík je prázdný Pokračovat v nákupu Máte účet? Přihlaste se a projděte pokladnou rychleji. Váš košík Načítá se... Odhadovaná celková suma 0,00 Kč Daně, slevy a doprava se vypočítají v košíku. Platba Kompletní nabídka BLACK FRIDAY 💣 Akční nabídky 💥 Elektromobily ⚡ Skladové vozy 🚘 Co je operativní leasing Jak Driveto funguje Často kladené otázky Blog Ceny bez DPH Kompletní nabídka BLACK FRIDAY 💣 Akční nabídky 💥 Elektromobily ⚡ Skladové vozy 🚘 Co je operativní leasing Jak Driveto funguje Často kladené otázky Blog Kontakt info@driveto.cz +420 790 356 287 WhatsApp Vyhledejte své nové auto Vyhledejte své nové auto Porovnat nabídky Přihlásit se Košík Váš košík je prázdný Nabídka byla přidána do porovnávače Zobrazit porovnání Pokračovat Nezapomněli jste odeslat poptávku? Vybraný vůz na vás stále čeká. Dokončete poptávku. Dokončit poptávku Nabídka aut Doporučené Kompletní nabídka BLACK FRIDAY 💣 💥 Akční nabídky ⚡ Elektromobily 🚘 Skladové vozy Kategorie SUV Kombi Operák na rok (12 měsíců) Flexibilní pronájem Užitkové vozy Plug-in vozy Do ",
+  "optionNames": [
+   "Roční nájezd",
+   "Délka pronájmu",
+   "Barva"
   ]
  },
  "birne": {
-  "count": 100,
-  "samples": [
-   "{\"id\": 15605511553399, \"title\": \"KIA Sportage Edice 30\", \"handle\": \"kia-sportage-edice-30-1-6-t-gdi-hev-155-kw-aut-00-00\", \"published_at\": \"2026-11-11T12:07:10+01:00\", \"created_at\": \"2026-11-11T12:07:10+01:00\", \"updated_at\": \"2026-11-11T15:43:44+01:00\", \"vendor\": \"KIA\", \"product_type\": \"Car\", \"tags\": [\"_Hi_chtgptapp_optimised_this_description-generator\", \"_Hi_chtgptapp_saved_this_description-generator\", \"sklad\"], \"variants\": [{\"id\": 57736508080503, \"title\": \"Flexi / Perleťová černá\", \"option1\": \"Flexi\", \"option2\": \"Perleťová černá\", \"option3\": null, \"sku\": \"F30_2510\", \"requires_shipping\": true, \"taxable\": true, \"featured_image\": null, \"available\": true, \"price\": \"20990.00\", \"grams\": 0, \"compare_at_price\": \"22190.00\", \"position\": 1, \"product_id\": 15605511553399, \"created_at\": \"2026-11-11T12:07:10+01:00\", \"updated_at\": \"2026-11-11T15:43:44+01:00\"}, {\"id\": 57736508113271, \"title\": \"Flexi Smart / Perleťová černá\", \"option1\": \"Flexi Smart\", \"option2\": \"Perleťová černá\", \"option3\": null, \"sku\": \"FS20_2510\", \"requires_shipping\": true, \"taxable\": true, \"featured_image\": null, \"available\": true, \"price\": \"16490.00\", \"grams\": 0, \"compare_at_price\": \"17090.00\", \"position\": 2, \"product_id\": 15605511553399, \"created_at\": \"2026-11-11T12:07:10+01:00\", \"updated_at\": \"2026-11-11T15:43:44+01:00\"}, {\"id\": 57736508146039, \"title\": \"Value / Perleťová černá\", \"option1\": \"Value\", \"option2\": \"Perleťová černá\", \"option3\": null, \"sku\": \"V10_2510\", \"requires_shipping\": true, \"taxable\": true, \"featured_image\": null, \"available\": true, \"price\": \"13990.00\", \"grams\": 0, \"compare_at_price\": \"14390.00\", \"position\": 3, \"product_id\": 15605511553399, \"created_at\": \"2026-11-11T12:07:10+01:00\", \"updated_at\": \"2026-11-11T15:43:44+01:00\"}], \"options\": [{\"name\": \"Tarif\", \"position\": 1, \"values\": [\"Flexi\", \"Flexi Smart\", \"Value\"]}, {\"name\": \"Barva\", \"position\": 2, \"values\": [\"Perleťová černá\"]}], \"image0\": \"https://cdn.shopify.com/s/files/1/0603/9928/8452/files/getImage_0b31fcb3-4178-4f90-a26c-996691ecbf9e.webp?v=1773737550\"}",
-   "{\"id\": 15605511487863, \"title\": \"VW T-Roc Cabrio\", \"handle\": \"vw-t-roc-cabriolet-r-line-1-5-tsi-110-kw-aut-00-00\", \"published_at\": \"2026-11-11T12:07:05+01:00\", \"created_at\": \"2026-11-11T12:07:05+01:00\", \"updated_at\": \"2026-11-11T15:43:44+01:00\", \"vendor\": \"VW\", \"product_type\": \"Car\", \"tags\": [\"_Hi_chtgptapp_optimised_this_description-generator\", \"_Hi_chtgptapp_saved_this_description-generator\", \"sklad\"], \"variants\": [{\"id\": 57736507916663, \"title\": \"Flexi / Bílá pure\", \"option1\": \"Flexi\", \"option2\": \"Bílá pure\", \"option3\": null, \"sku\": \"F30_2510\", \"requires_shipping\": true, \"taxable\": true, \"featured_image\": {\"id\": 87129180504439, \"product_id\": 15605511487863, \"position\": 16, \"created_at\": \"2026-10-20T11:03:01+02:00\", \"updated_at\": \"2026-10-20T11:03:03+02:00\", \"alt\": \"VW T-Roc Cabrio\", \"width\": 1200, \"height\": 750, \"src\": \"https://cdn.shopify.com/s/files/1/0603/9928/8452/files/getImage_e7b3c4e0-ac3f-4362-87f6-d9bf7f420344.webp?v=1792486983\", \"variant_ids\": [57736507916663]}, \"available\": true, \"price\": \"16990.00\", \"grams\": 0, \"compare_at_price\": \"22890.00\", \"position\": 1, \"product_id\": 15605511487863, \"created_at\": \"2026-11-11T12:07:05+01:00\", \"updated_at\": \"2026-11-11T15:43:44+01:00\"}, {\"id\": 57736507949431, \"title\": \"Value / Bílá pure\", \"option1\": \"Value\", \"option2\": \"Bílá pure\", \"option3\": null, \"sku\": \"V10_2510\", \"requires_shipping\": true, \"taxable\": true, \"featured_image\": {\"id\": 87129182110071, \"product_id\": 15605511487863, \"position\": 17, \"created_at\": \"2026-10-20T11:03:06+02:00\", \"updated_at\": \"2026-10-20T11:03:07+02:00\", \"alt\": \"VW T-Roc Cabrio\", \"width\": 1200, \"height\": 750, \"src\": \"https://cdn.shopify.com/s/files/1/0603/9928/8452/files/getImage_026188a3-ae0d-4d85-8ce0-01a249fdee4f.webp?v=1792486987\", \"variant_ids\": [57736507949431]}, \"available\": true, \"price\": \"10990.00\", \"grams\": 0, \"compare_at_price\": \"14790.00\", \"position\": 2, \"product_id\": 15605511487863, \"created_at\": \"2026-11-11T12:07:05+01:00\", \"updated_at\": \"2026-11-11T15:43:44+01:00\"}, {\"id\": 57736507982199, \"title\": \"Flexi Smart / Bílá pure\", \"option1\": \"Flexi Smart\", \"option2\": \"Bílá pure\", \"option3\": null, \"sku\": \"FS20_2510\", \"requires_shipping\": true, \"taxable\": true, \"featured_image\": {"
+  "countAll": 200,
+  "cars": 105,
+  "tagSklad": 99,
+  "pick": "CUPRA Formentor",
+  "options": [
+   {
+    "name": "Tarif",
+    "position": 1,
+    "values": [
+     "Flexi",
+     "Flexi Smart",
+     "Value"
+    ]
+   },
+   {
+    "name": "Barva",
+    "position": 2,
+    "values": [
+     "Magnetic šedá"
+    ]
+   }
   ],
-  "vendors": [
-   "Birne",
-   "CUPRA",
-   "DACIA",
-   "Hyundai",
-   "KIA",
-   "Mercedes-Benz",
-   "PEUGEOT",
-   "RENAULT",
-   "TOYOTA",
-   "VOLVO",
-   "VW",
-   "ŠKODA"
+  "variants": [
+   [
+    "Flexi / Magnetic šedá",
+    "18490.00",
+    "20390.00",
+    true
+   ],
+   [
+    "Flexi Smart / Magnetic šedá",
+    "14090.00",
+    "15490.00",
+    true
+   ],
+   [
+    "Value / Magnetic šedá",
+    "11990.00",
+    "12990.00",
+    true
+   ]
   ],
-  "types": {
-   "Birne Try n Buy": 8,
-   "opt-ins": 34,
-   "Car": 58
-  },
-  "titles": [
-   "KIA Sportage Edice 30",
-   "VW T-Roc Cabrio",
-   "CUPRA Formentor",
-   "VW Passat Business 2.0 TDI (110 kW) AUT NG25 další služby",
-   "Volvo XC60 Core 2.0d B4 Ice-Line (145 kW) TZ 4WD AUT další služby",
-   "Škoda Kodiaq L&K 2.0 TDI (147 kW) 4WD AUT další služby",
-   "Renault Clio Techno 1.0 TCe 90 (67 kW) MAN další služby",
-   "Renault Austral Techno 1.3 MHEV 160 (116 kW) AUT další služby",
-   "VW Tayron R-Line People 2.0 TDI (142 kW) TZ 4WD AUT další služby",
-   "VW Passat Variant Business NEW",
-   "Renault Clio",
-   "ŠKODA Kodiaq L&K"
-  ],
-  "tags": [
-   "_Hi_chtgptapp_optimised_this_description-generator",
-   "_Hi_chtgptapp_saved_this_description-generator",
-   "car",
-   "sale",
-   "sklad"
-  ]
+  "pageText": "CUPRA Formentor – Birne Přejít k obsahu NOVINKA: Akční levný operák na prověřená zánovní a ojetá auta od [[DAP6Moperak_od]] Kč bez DPH. --> Naše auta Operativní leasing Zkus a kup Birne rent Pro firmy Nadstandardní služby CZ CZ · Čeština EN · English DE · Deutsch UA · Українська SK · Slovenčina PL · Polski Překlad: Google s DPH bez DPH klientská zóna menu _a]:first:tw-pt-[0px]\"> Naše auta _a]:first:tw-pt-[0px]\"> Operativní leasing _a]:first:tw-pt-[0px]\"> Zkus a kup _a]:first:tw-pt-[0px]\"> Birne rent _a]:first:tw-pt-[0px]\"> Pro firmy _a]:first:tw-pt-[0px]\"> Nadstandardní služby Klientská zóna Kontakty Přihlášení --> Přihlášení Celková cena: Přidat do košíku Zpět na výpis CUPRA Formentor 1,5 TSI Benzín Automatická 4x2 Listopad 2026 9 Vyhřívaná sedadla Adaptivní Tempomat Jízdní asistenty Zadní Parkovací kamera Keyless El. přední i zadní okna LED světlomety Front assist Lane assist Progresivní řízení Více parametrů Vyberte barvu: Magnetic šedá Magnetic šedá V jakém tarifu si přejete vaše auto? Chytrá volba pro plánovaný nájezd Value span]:tw-text-success [&>span]:tw-font-bold\">Možnost vrátit po 12 měsících svg]:tw-filter-none tw-relative tw-w-[1.6rem] tw-h-[1.6rem] \" data-modal=\"Vrátit auto je možné už po 12 měsících kdykoliv. Stačí uhradit 2 měsíční splátky a můžete si tak vybrat třeba jiné auto nebo jiný "
  },
  "havex": {
-  "bytes": 96367,
-  "text": "Operativní leasing | HAVEX-auto s.r.o. Kontakty Prodej Nabídka vozů Nové vozy Ojeté vozy Užitkové vozy Motocykly Operativní leasing Akční nabídky Škoda SEAT CUPRA Leapmotor Operativní leasing Servis Objednání online Pobočky Speciální nabídky Servisní akce Férový servis Díly a příslušenství Pojistná událost Vše o servisu Služby Výkup vozu Financování Pojištění Prodloužená záruka Škoda Plus Das WeltAuto Rady řidičům Přehled služeb Pro firmy Fleetový manažer Mobilní prodejce Operativní leasing Užitkové vozy Fleetové centrum Náhradní plnění HAVEX auto Kontakty O nás Novinky Ke stažení Kariéra Vede",
-  "cardHtml": "Length\"></div> </div> <div id=\"leasingLengthTo\" class=\"sliderRight\"></div> <div class=\"clearfix\"></div> </div> </div> <div class=\"sliderBox\"> <div class=\"filterBold\">Roční nájezd</div> <div class=\"offset sliderComponent\"> <input type=\"hidden\" class=\"sliderId\" value=\"sliderrange\"> <input type=\"hidden\" class=\"startId\" value=\"rangeFrom\"> <input type=\"hidden\" class=\"endId\" value=\"rangeTo\"> <input type=\"hidden\" class=\"startValue\" value=\"10\"> <input type=\"hidden\" class=\"endValue\" value=\"30\"> <input type=\"hidden\" class=\"minValue\" value=\"10\"> <input type=\"hidden\" class=\"maxValue\" value=\"30\"> <input type=\"hidden\" class=\"step\" value=\"5\"> <input type=\"hidden\" class=\"margin\" value=\"5\"> <input type=\"hidden\" class=\"thousand\" value=\" \"> <input type=\"hidden\" class=\"suffix\" value=\"000 km\"> <div id=\"rangeFrom\" class=\"sliderLeft\"></div> <div id=\"sliderBar\" class=\"sliderMiddle\"> <div id=\"sliderrange\"></div> </div> <div id=\"rangeTo\" class=\"sliderRight\"></div> <div class=\"clearfix\"></div> </div> </div> <div id=\"snippet-filterForm-leasingSlider\"> <div class=\"sliderBox\"> <div class=\"filterBold\">Výše měsíční splátky</div> <div class=\"offset sliderComponent\"> <input type=\"hidden\" class=\"sliderId\" value=\"sliderleasing\"> <input type=\"hidden\" class=\"startId\" value=\"leasingFrom\"> <input type=\"hidden\" class=\"endId\" value=\"leasingTo\"> <input type=\"hidden\" class=\"startValue\" value=\"4098\"> <input type=\"hidden\" class=\"endValue\" value=\"18682\"> <input type=\"hidden\" class=\"minValue\" value=\"4098\"> <input type=\"hidden\" class=\"maxValue\" value=\"18682\"> <input type=\"hidden\" class=\"step\" value=\"500\"> <input type=\"hidden\" class=\"margin\" value=\"500\"> <input type=\"hidden\" class=\"thousand\" value=\" \"> <input type=\"hidden\" class=\"suffix\" value=\"Kč\"> <div id=\"leasingFrom\" class=\"sliderLeft\"></div> <div id=\"sliderBar\" class=\"sliderMiddle\"> <div id=\"sliderleasing\"></div> </div> <div id=\"leasingTo\" class=\"sliderRight\"></div> <div class=\"clearfix\"></div> </div> </div> </div> <div class=\"selectBox\"> <label for=\"filter-body\" class=\"filterBold\">Karoserie</label> <select name=\"body\" data-name=\"body\" id=\"filter-body\" class=\"filter-redraw-select select material\"><option value=\"\"></option><option value=\"1002\">sedan/limuzína/liftback</option><option value=\"1001\">hatchback</option><option value=\"1009\">SUV</option><option value=\"1104\">CUV</option><option value=\"4014\">užitkové</option><option value=\"1006\">kombi</option></select> </div> <div class=\"selectBox\"> <label for=\"filter-drive-type\" class=\"filterBold\">Pohon</label> <select name=\"driveType\" data-name=\"driveType\" id=\"filter-drive-type\" class=\"filter-redraw-select select material\"><option value=\"\"></option><option value=\"328\">4x2</option><option value=\"329\">4x4</option></select> </div> <div class=\"selectBox\"> <label for=\"filter-color\" class=\"filterBold\">Barva</label> <select name=\"color\" data-name=",
-  "hrefs": [
-   "/cz/operativni-leasing/skoda",
-   "/cz/operativni-leasing/skoda?page=2",
-   "/cz/operativni-leasing/skoda?page=3",
-   "/cz/operativni-leasing/skoda?page=4",
-   "/cz/operativni-leasing/seat",
-   "/cz/operativni-leasing/cupra"
+  "detailLinks": [
+   "/cz/nabidka-vozu"
   ],
-  "count": []
+  "detailLinkCount": 1,
+  "maxPage": 4,
+  "cardHtml": " m-category mr-3\"> <li class=\"d-xl-none mb-4\"> <div style=\"padding: 24px 40px 0;\"> <a href=\"/cz/kontakty\" class=\"d-inline-block contactBtn w-100 color-white text-center\">Kontakty</a> </div> </li> <li class=\"dropdown\"> <a class=\"nav-link cursorPointer\"> Prodej <img src=\"/images/icon/dropdown_open_blue.svg\" alt=\"Rozbalit\" class=\"ml-xl-1\"> </a> <div class=\"menu-items pl-5 pr-3 px-xl-0\"> <ul class=\"menu-list m-0 px-0 pb-xl-3\"> <div class=\"m-menuDropdown\"> <li> <a href=\"/cz/nabidka-vozu\"> Nabídka vozů <img src=\"/images/icon/arrow-right-blue.svg\" alt=\"Přejít\" class=\"arrow d-xl-none\"> </a> </li> <li> <a href=\"/cz/nove-vozy\"> Nové vozy <img src=\"/images/icon/arrow-right-blue.svg\" alt=\"Přejít\" class=\"arrow d-xl-none\"> </a> </li> <li> <a href=\"/cz/ojete-vozy\"> Ojeté vozy <img src=\"/images/icon/arrow-right-blue.svg\" alt=\"Přejít\" class=\"arrow d-xl-none\"> </a> </li> <li> <a href=\"/cz/uzitkove-vozy\"> Užitkové vozy <img src=\"/images/icon/arrow-right-blue.svg\" alt=\"Přejít\" class=\"arrow d-xl-none\"> </a> </li> <li> <a href=\"/cz/motocykly\"> Motocykly <img src=\"/images/icon/arrow-right-blue.svg\" alt=\"Přejít\" class=\"arrow d-xl-none\"> </a> </li> <li> <a href=\"/cz/operativni-leasing\"> Operativní leasing <img src=\"/images/icon/arrow-right-blue.svg\" alt=\"Přejít\" class=\"arrow d-xl-none\"> </a> </li> <li> <a href=\"/cz/akcni-nabidky\"> Akční nabídky <img src=\"/images/icon/arrow-right-blue.svg\" alt=\"Přejít\" class=\"arrow d-xl-none\"> </a> </li> <li> <a href=\"/cz/skoda\" class=\"mb-0\"> Škoda <img src=\"/images/icon/arrow-right-blue.svg\" alt=\"Přejít\" class=\"arrow d-xl-none\"> </a> </li> <li> <a href=\"/cz/seat\" class=\"mb-0\"> SEAT <img src=\"/images/icon/arrow-right-blue.svg\" alt=\"Přejít\" class=\"arrow d-xl-none\"> </a> </li> <li> <a href=\"/cz/cupra\" class=\"mb-0\"> CUPRA <img src=\"/images/icon/arrow-right-blue.svg\" alt=\"Přejít\" class=\"arrow d-xl-none\"> </a> </li> <li> <a href=\"/cz/leapmotor\" class=\"mb-0\"> Leapmotor <img src=\"/images/icon/arrow-right-blue.svg\" alt=\"Přejít\" class=\"arrow d-xl-none\"> </a> </li> </div> </ul> </div> </li> <li class=\"dropdown\"> <a class=\"nav-link\" href=\"/cz/operativni-leasing\"> Operativní leasing </a> </li> <li class=\"dropdown\"> <a class=\"nav-link cursorPointer\"> Servis <img"
  }
 }
