@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T15:21:50Z",
+ "updated": "2026-11-11T15:30:13Z",
  "sources": [
   {
    "name": "Cartop",
@@ -222,13 +222,13 @@
   },
   {
    "name": "Driveto",
-   "ok": false,
-   "complete": false,
-   "pages": 12,
-   "cards": 0,
-   "noPrice": 0,
-   "requests": 13,
-   "note": "dosažen strop počtu stran",
+   "ok": true,
+   "complete": true,
+   "pages": 6,
+   "cards": 232,
+   "noPrice": 2,
+   "requests": 7,
+   "note": "",
    "pageLog": [
     [
      1,
@@ -248,38 +248,18 @@
     ],
     [
      5,
-     50
+     32
     ],
     [
      6,
-     50
-    ],
-    [
-     7,
-     50
-    ],
-    [
-     8,
-     50
-    ],
-    [
-     9,
-     50
-    ],
-    [
-     10,
-     50
-    ],
-    [
-     11,
-     50
-    ],
-    [
-     12,
-     50
+     0
     ]
    ],
-   "robots": "robots.txt přečten"
+   "robots": "robots.txt přečten",
+   "types": {
+    "Operativní leasing": 232
+   },
+   "unavailable": 2
   },
   {
    "name": "Birne",
@@ -304,7 +284,10 @@
      0
     ]
    ],
-   "robots": "robots.txt přečten"
+   "robots": "robots.txt přečten",
+   "types": {
+    "Car": 75
+   }
   },
   {
    "name": "IN LEASE",
