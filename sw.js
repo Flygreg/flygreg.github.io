@@ -29,7 +29,9 @@ self.addEventListener('notificationclick', e => {
   e.waitUntil((async () => {
     await writeN(0); await badge(0);
     const all = await self.clients.matchAll({ type: 'window', includeUncontrolled: true });
-    for (const c of all) { try { c.postMessage({ a: 'nove', url }); } catch (x) { /* stránka nemusí poslouchat */ } if ('focus' in c) { try { await c.focus(); return; } catch (x) { /* zkusíme otevřít nové */ } } }
+    const lea = new URL(url).pathname.indexOf('/leasing/') >= 0;
+    const mine = all.filter(c => (new URL(c.url).pathname.indexOf('/leasing/') >= 0) === lea);
+    for (const c of mine) { try { c.postMessage({ a: 'nove', url }); } catch (x) { /* stránka nemusí poslouchat */ } if ('focus' in c) { try { await c.focus(); return; } catch (x) { /* zkusíme otevřít nové */ } } }
     if (self.clients.openWindow) await self.clients.openWindow(url);
   })());
 });

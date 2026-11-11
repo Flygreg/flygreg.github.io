@@ -1,4 +1,4 @@
-<!doctype html><html lang="cs"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><title>greg – Váš agregátor leasingů</title><meta name="description" content="Přehled nabídek operativního leasingu aut na jednom místě."><meta name="theme-color" content="#0a3f4d"><link rel="icon" href="../favicon.svg" type="image/svg+xml"><link rel="apple-touch-icon" href="../apple-touch-icon.png"><style>
+<!doctype html><html lang="cs"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><title>greg – Váš agregátor leasingů</title><meta name="description" content="Přehled nabídek operativního leasingu aut na jednom místě."><meta name="theme-color" content="#0a3f4d"><meta property="og:type" content="website"><meta property="og:site_name" content="greg"><meta property="og:locale" content="cs_CZ"><meta property="og:title" content="greg – Váš agregátor leasingů"><meta property="og:description" content="Přehled nabídek operativního leasingu aut na jednom místě."><meta property="og:url" content="https://flygreg.github.io/leasing/"><meta property="og:image" content="https://flygreg.github.io/og-leasing.png"><meta property="og:image:type" content="image/png"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta property="og:image:alt" content="Písmeno g s autem na petrolejovém pozadí – logo greg leasing"><meta name="twitter:card" content="summary_large_image"><link rel="icon" href="../favicon-leasing.svg" type="image/svg+xml"><link rel="apple-touch-icon" href="../apple-touch-icon-leasing.png"><style>
 :root{font-family:Inter,system-ui,-apple-system,Segoe UI,sans-serif;color:#14233b;background:#f3f9fa}*{box-sizing:border-box}body{margin:0}
 header{background:#0a3f4d;color:#fff;padding:14px max(22px,calc((100vw - 1120px)/2)) 14px}
 .brand{display:flex;align-items:center;gap:0;font-size:22px;font-weight:800;letter-spacing:-.4px;width:fit-content}.bn{display:flex;align-items:baseline;font-size:34px;font-weight:850;letter-spacing:.003em;line-height:1}.brand .G{font-size:45px;font-weight:850;letter-spacing:-.03em;line-height:.55;margin-right:.05em;align-self:flex-end;padding-bottom:16.3px;transform:translateY(-.25px) scaleY(1.081);transform-origin:50% 0}.bn .L{position:relative}.bn .pj{position:absolute;width:.46em;height:.46em;left:100%;top:-.02em;fill:#ffd23a}.bm{font-size:12px;font-weight:500;color:#9fc9d3;margin-top:-2px;letter-spacing:0}.bm em{font-style:normal;color:#e8f9fc;font-weight:650}
@@ -126,7 +126,271 @@ footer{margin-top:35px;color:#56677e;font-size:13px}
 .bx{flex:none;display:inline-grid;place-items:center;width:30px;height:30px;margin:-4px 0 -4px -4px;border:0;border-radius:50%;background:transparent;color:#56677e;cursor:pointer;padding:0}.bx:hover{background:#0000000d}.bx svg{transition:transform .15s}.bx[aria-expanded=true] svg{transform:rotate(180deg)}#gchips .chip svg{color:#12798f}#gchips .chip.on{background:#ffd23a;border-color:#ffd23a;color:#0a3f4d}#gchips .chip.on svg{color:#0a3f4d}
 @media(max-width:700px){.tb #gchips{align-self:flex-start;grid-template-columns:repeat(2,auto);margin-top:8px}.tb #gchips .chip{flex-direction:row;gap:6px;padding:6px 16px;font-size:13px}.tb #gchips .chip svg{width:16px;height:16px}}
 .gp{display:inline-flex;align-items:center;gap:4px;border:1px solid #cfd9e6;background:#fff;border-radius:20px;padding:0 9px 0 6px;font-size:12px;font-weight:600;color:#14233b;vertical-align:middle;line-height:20px}.gp svg{width:13px;height:13px;color:#12798f;flex:none}
-</style></head><body><header><div class="brand"><a class="bl" href="./" aria-label="greg – Váš agregátor leasingů, úvodní stránka"><span class="G" aria-hidden="true">g</span></a><div class="bt"><a class="bl" href="./" tabindex="-1" aria-hidden="true"><div class="bn"><span>re</span><span class="L">g<svg class="pj car" viewBox="0 0 24 24"><path d="M18.92 6.01C18.72 5.42 18.16 5 17.5 5h-11c-.66 0-1.21.42-1.42 1.01L3 12v8c0 .55.45 1 1 1h1c.55 0 1-.45 1-1v-1h12v1c0 .55.45 1 1 1h1c.55 0 1-.45 1-1v-8l-2.08-5.99zM6.5 16c-.83 0-1.5-.67-1.5-1.5S5.67 13 6.5 13s1.5.67 1.5 1.5S7.33 16 6.5 16zm11 0c-.83 0-1.5-.67-1.5-1.5s.67-1.5 1.5-1.5 1.5.67 1.5 1.5-.67 1.5-1.5 1.5zM5 11l1.5-4.5h11L19 11H5z"/></svg></span></div></a><div class="bm">Váš a<em>greg</em>átor <button type="button" class="tg" id="swb" aria-haspopup="true" aria-expanded="false" aria-controls="swm" aria-label="Přepnout sekci, nyní leasingů">leasingů<svg class="ar" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 9l6 6 6-6"/></svg></button><div class="menu" id="swm" hidden><a href="../"><span class="fl"><svg viewBox="0 0 24 24" fill="#092b58" aria-hidden="true" style="transform:rotate(45deg)"><path d="M21 16v-2l-8-5V3.5c0-.83-.67-1.5-1.5-1.5S10 2.67 10 3.5V9l-8 5v2l8-2.5V19l-2 1.5V22l3.5-1 3.5 1v-1.5L13 19v-5.5z"/></svg></span>letenek</a><a href="./" class="on" aria-current="page"><span class="fl"><svg viewBox="0 0 24 24" fill="#092b58" aria-hidden="true"><path d="M18.92 6.01C18.72 5.42 18.16 5 17.5 5h-11c-.66 0-1.21.42-1.42 1.01L3 12v8c0 .55.45 1 1 1h1c.55 0 1-.45 1-1v-1h12v1c0 .55.45 1 1 1h1c.55 0 1-.45 1-1v-8l-2.08-5.99zM6.5 16c-.83 0-1.5-.67-1.5-1.5S5.67 13 6.5 13s1.5.67 1.5 1.5S7.33 16 6.5 16zm11 0c-.83 0-1.5-.67-1.5-1.5s.67-1.5 1.5-1.5 1.5.67 1.5 1.5-.67 1.5-1.5 1.5zM5 11l1.5-4.5h11L19 11H5z"/></svg></span>leasingů<svg class="ck" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></a></div></div></div></div></header><main><div class="tb" id="tb"><div class="chips" id="chips" role="group" aria-label="Palivo"></div><div class="chips" id="gchips" role="group" aria-label="Převodovka" style="--n:2"><button type="button" class="chip" data-g="automat" aria-pressed="false"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="15.5" cy="5.8" r="3.1"/><path d="M14 8.7 10 17"/><path d="M5 20.5h12"/></svg>Automat</button><button type="button" class="chip" data-g="manuál" aria-pressed="false"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 4v16M12 4v16M18 4v8M6 12h12"/></svg>Manuál</button></div><div class="origins" aria-label="Značka"><div class="oB"><button class="ddbtn" id="bbtn" type="button" aria-expanded="false" aria-controls="bpanel"></button><div class="bpanel" id="bpanel" hidden></div></div></div></div><div class="meta"><div class="mtxt"><div class="cl"><strong id="count">Načítám nabídky…</strong><span class="zwrap"><span id="zfrom"></span><button class="zlnk" id="zbtn" type="button" aria-expanded="false" aria-controls="zpop"></button></span></div><div class="zpop" id="zpop" hidden></div></div><span id="updated"></span></div><section id="cards" class="grid" aria-live="polite"></section><p class="notice" id="partial" hidden></p><p class="notice">Poznámka: Ceny jsou orientační: obvykle jde o nejnižší měsíční splátku „od“ z nabízených konfigurací. Doba pronájmu, roční nájezd i DPH se u zdrojů liší, před objednávkou je vždy ověř u poskytovatele. Nabídky jsou informační tipy převzaté v rozsahu povoleném zdrojem.</p><footer>greg · Osobní přehled nabídek</footer></main><script>(()=>{const b=document.getElementById("swb"),m=document.getElementById("swm");if(!b||!m)return;const set=o=>{m.hidden=!o;b.setAttribute("aria-expanded",o?"true":"false")};b.addEventListener("click",e=>{e.stopPropagation();set(m.hidden)});document.addEventListener("click",e=>{if(!m.hidden&&!m.contains(e.target))set(false)});document.addEventListener("keydown",e=>{if(e.key==="Escape"&&!m.hidden){set(false);b.focus()}})})();</script><script>(()=>{
+/*HLCSS*/
+.fab{position:fixed;right:22px;bottom:22px;display:flex;align-items:center;gap:10px;background:#ffd23a;color:#0a3f4d;border:0;border-radius:999px;padding:14px 22px 14px 16px;font-weight:700;font-size:16px;line-height:1;font-family:inherit;cursor:pointer;box-shadow:0 8px 24px rgba(9,43,88,.35);z-index:50;transition:transform .15s}
+.fab:hover{transform:translateY(-2px)}
+.fab:focus-visible{outline:3px solid #12798f;outline-offset:3px}
+.fab svg{width:26px;height:26px}
+.dgov{position:fixed;inset:0;background:rgba(9,43,88,.55);display:none;align-items:center;justify-content:center;padding:16px;z-index:60}
+.dgov.on{display:flex}
+@media(max-width:700px){.fab{padding:15px;right:16px;bottom:16px}.fab span{display:none}.fab svg{width:30px;height:30px}}
+.pbox{position:relative;max-width:620px;max-height:92vh;overflow:auto}
+.pbox .px{position:absolute;right:14px;top:14px;width:36px;height:36px;padding:0;border-radius:50%;border:0;background:#f3f9fa;color:#56677e;cursor:pointer;display:flex;align-items:center;justify-content:center}
+.pbox .px:hover{background:#e1ecef}
+.pbox .ph{display:flex;align-items:center;gap:14px;margin:0 36px 14px 0}
+.pbox .pi{flex:none;width:52px;height:52px;display:block}
+.pbox .pi svg{width:52px;height:52px;display:block}
+.pbox .ph h3{margin:0;font-size:22px}
+.pbox .ph small{display:block;color:#56677e;font-size:14px;margin-top:2px;word-break:break-all}
+.pbox p{margin:0 0 14px}
+.pbox .psm{font-size:12.5px;line-height:1.5;margin:12px 0 0}
+.pbox .psm a{color:#12798f;font-weight:700}
+.pbox label{display:block;font-weight:700;font-size:14px;margin:16px 0 6px;color:#0a3f4d}
+.pbox label small,.pbox .pcity small{font-weight:400;color:#56677e}
+.pbox .pin{width:100%;border:1px solid #cfd9e6;border-radius:12px;padding:12px 14px;font:inherit;font-size:16px;font-weight:600;color:#0a3f4d;background:#fff}
+.pbox .pin::placeholder{font-weight:400;color:#8a98ab}
+.pbox .pin:focus{outline:3px solid #cfe6ec;border-color:#12798f}
+.pbox .pb{display:inline-block;background:#12798f;color:#fff;border:0;border-radius:11px;padding:12px 20px;font-weight:700;font-size:16px;font-family:inherit;cursor:pointer}
+.pbox .pb.w{display:block;width:100%;margin-top:14px}
+.pbox .pb.g{background:#fff;color:#0a3f4d;border:1px solid #cfd9e6}
+.pbox .pb.dg{background:#b3402f}
+.pbox .pb[disabled]{opacity:.6;cursor:default}
+.pbox .pacts{display:flex;gap:10px;margin-top:18px;flex-wrap:wrap}
+.pbox .pm{border-radius:10px;padding:10px 14px;margin:0 0 12px;font-size:14px;line-height:1.45}
+.pbox .pm.err{background:#fdecea;color:#8a2a1c}
+.pbox .pm.ok{background:#e4f3ea;color:#176c3d}
+.pbox .pr{background:#fff;border:1px solid #cfd9e6;border-radius:14px;padding:14px 16px;margin-top:12px}
+.pbox .prh{display:flex;align-items:center;gap:10px}
+.pbox .prh b{font-size:17px}
+.pbox .psw{margin-left:auto;display:flex;align-items:center;gap:8px;font-size:13px;color:#56677e;white-space:nowrap}
+.pbox .tg{width:42px;height:24px;border-radius:99px;border:0;background:#12798f;position:relative;cursor:pointer;padding:0}
+.pbox .tg:after{content:"";position:absolute;right:3px;top:3px;width:18px;height:18px;border-radius:50%;background:#fff}
+.pbox .tg.off{background:#cfd9e6}
+.pbox .tg.off:after{right:auto;left:3px}
+.pbox .ln{display:flex;align-items:center;flex-wrap:wrap;gap:6px 10px;margin:10px 0 14px;font-size:15px;font-weight:650;color:#14233b}
+.pbox .ln .ri{display:inline-flex;align-items:center;gap:6px}
+.pbox .ln .ri>svg{width:22px;height:22px;flex:none;color:#d93a3a}
+.pbox .ln .ky>svg{color:#ffd23a}
+.pbox .ln u{text-decoration:none;color:#56677e}
+.pbox .ln .sp{color:#b3c0d1}
+.pbox .ln .flag{margin:0}
+.pbox .rt{display:flex;align-items:center;flex-wrap:wrap;gap:4px 10px;font-size:17px;font-weight:750;color:#0a3f4d;min-width:0}
+.pbox .rt .ri{display:inline-flex;align-items:center;gap:7px}
+.pbox .rt .ri>svg{width:22px;height:22px;color:#d93a3a;flex:none}
+.pbox .rt u{text-decoration:none;color:#56677e}
+.pbox .rt .flag{width:22px;height:22px;margin:0}
+.pbox .ln:has(.chp){gap:8px}
+.pbox .chp{display:inline-flex;align-items:center;gap:7px;border:1px solid #cfd9e6;background:#fff;border-radius:30px;padding:6px 14px;font-size:14px;font-weight:600;color:#14233b}
+.pbox .chp svg{width:18px;height:18px;color:#ffd23a;flex:none}
+.pbox .flag img{width:100%;height:100%;object-fit:cover;display:block}
+.pbox .fstack{display:inline-flex;align-items:center;padding-right:2px}
+.pbox .fstack .flag{width:24px;height:24px;margin:0 0 0 -9px;box-shadow:0 0 0 2px #fff,0 0 0 3px #0002}
+.pbox .fstack .flag:first-child{margin-left:0}
+.pbox .fstack .flag.more{display:inline-flex;align-items:center;justify-content:center;background:#e6edf6;color:#0a3f4d;font-size:11px;font-weight:800}
+.pbox .pts{display:flex;flex-wrap:wrap;gap:6px;margin:10px 0}
+.pbox .pt{border:1px solid #cfd9e6;border-radius:99px;padding:4px 11px;font-size:13px;font-weight:700;background:#f3f9fa}
+.pbox .pt.y{background:#fff7d6;border-color:#ffd23a}
+.pbox .prf{display:flex;align-items:center;gap:12px;font-size:13.5px;color:#56677e;flex-wrap:wrap}
+.pbox .prf b{color:#0a3f4d}
+.pbox .pa{margin-left:auto;display:flex;gap:16px}
+.pbox .pa button,.pbox .pfoot button{background:none;border:0;padding:4px 0;font:inherit;font-weight:700;color:#12798f;cursor:pointer}
+.pbox .pa .d,.pbox .pfoot .d{color:#b3402f}
+.pbox .dq{display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin:12px 0 0;padding:12px;border-radius:12px;background:#fdecea;color:#8a2a1c;font-size:14px;font-weight:600}
+.pbox .dq span{flex:1 1 100%}
+.pbox .dq button{font:inherit;font-weight:700;font-size:14px;border-radius:10px;padding:10px 16px;cursor:pointer;border:1px solid #cfd9e6;background:#fff;color:#0a3f4d}
+.pbox .dq .y{background:#b3402f;border-color:#b3402f;color:#fff}
+.pbox .padd{display:block;width:100%;margin-top:12px;border:0;border-radius:14px;padding:14px;background:#12798f;color:#fff;font:inherit;font-weight:700;font-size:16px;cursor:pointer}
+.pbox .padd:hover{background:#0e6075}
+.pbox .padd span{font-weight:400;color:#cdeaf0}
+@media(min-width:701px){.pbox .phd{position:sticky;top:-26px;z-index:5;background:#f3f9fa;margin:-26px -26px 10px;padding:22px 26px 12px;border-bottom:1px solid #dde5ef;border-radius:18px 18px 0 0;display:flex;align-items:center;justify-content:space-between;gap:10px}.pbox .phd .px{position:static;order:2;flex:none}.pbox .phd .ph{margin:0;min-width:0}}
+.dgbox.pbox{background:#f3f9fa}
+.pbox .cd{background:#fff;border:1px solid #dde5ef;border-radius:16px;padding:14px;margin:12px 0;box-shadow:0 3px 10px #0a3f4d0a}
+.pbox .ct{font-weight:800;font-size:13px;letter-spacing:.04em;text-transform:uppercase;color:#56677e;margin-bottom:10px}
+.pbox .cd .l2{margin:12px 0 6px}
+.pbox .cd .hint{font-size:12.5px;color:#56677e;margin-top:10px}
+.pbox .cd .pc{background:#f3f9fa}
+.pbox .cd .pc.on{background:#12798f}
+.pbox .cd .pseg,.pbox .cd .pin,.pbox .cd .dw input{background:#f3f9fa}
+.pbox .r2{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+.pbox .r2>div{min-width:0}
+.pbox .sbar{display:flex;gap:10px;margin-top:16px}
+.pbox .sbar .pb{flex:1;text-align:center;padding:14px 10px}
+.pbox .sbar .pb.g{flex:0 0 32%}
+.pbox .sbar .padd{margin:0;padding:14px 10px}
+.pbox .pr.v{padding:0;overflow:hidden}
+.pbox .vt{display:flex;align-items:center;gap:12px;color:#0a3f4d;padding:14px 14px 0}
+.pbox .pr.v.off .vf,.pbox .pr.v.off .vd{opacity:.55}
+.pbox .vf{flex:none;display:block}
+.pbox .vf .fstack .flag{width:34px;height:34px;margin:0 0 0 -12px;box-shadow:0 0 0 2px #fff,0 0 0 3px #0002}
+.pbox .vf .fstack .flag:first-child{margin-left:0}
+.pbox .vf .fstack .flag.more{display:inline-flex;align-items:center;justify-content:center;background:#e6edf6;color:#0a3f4d;font-size:11px;font-weight:800}
+.pbox .vf .flag,.pbox .vf>svg{width:46px;height:46px;border-radius:50%;display:block;box-shadow:0 0 0 1px #dde5ef}
+.pbox .vf .flag img{width:100%;height:100%;object-fit:cover;display:block}
+.pbox .vd{min-width:0;flex:1}
+.pbox .vd b{display:block;font-size:21px;line-height:1.15;color:#0a3f4d;overflow-wrap:anywhere}
+.pbox .vd small{display:block;color:#56677e;font-size:13.5px;margin-top:3px;overflow-wrap:anywhere}
+.pbox .vi{display:flex;gap:6px;flex:none}
+.pbox .ib{width:40px;height:40px;border-radius:10px;border:0;background:transparent;color:#56677e;display:flex;align-items:center;justify-content:center;cursor:pointer;padding:0}
+.pbox .ib:hover,.pbox .ib:active{background:#f3f9fa}
+.pbox .ib[data-act=delask]{color:#b3402f}
+.pbox .vi{gap:2px;margin-right:-8px}
+.pbox .cn{animation:pespulse 1.2s ease-in-out infinite}
+@keyframes pespulse{50%{opacity:.45}}
+@media(prefers-reduced-motion:reduce){.pbox .cn{animation:none}}
+.pbox .ib.wd{width:auto;padding:0 12px;font:inherit;font-weight:700;font-size:14px}
+.pbox .pr.v .ln{margin:14px 14px 10px}
+.pbox .vb{display:flex;align-items:center;justify-content:space-between;gap:10px;padding:0 14px 14px;font-size:13.5px;color:#56677e;flex-wrap:wrap}
+.pbox .vb b{color:#0a3f4d}
+.pbox .pr.v .dq{margin:0 14px 14px}
+.pbox .cd .pin,.pbox .cd .dw input{height:50px;min-height:50px;padding-top:0;padding-bottom:0;line-height:normal}
+.pbox .cd .pseg{height:50px}
+.pbox .ld{min-height:260px;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:14px;color:#56677e;font-size:14px}
+.pbox .sp{position:relative;width:64px;height:64px;color:#ffd23a}
+.pbox .sp .arc{position:absolute;inset:0;border-radius:50%;border:4px solid #ffd23a30;border-top-color:#ffd23a;animation:pesrot .9s linear infinite}
+.pbox .sp .mid{position:absolute;inset:0;display:flex;align-items:center;justify-content:center}
+.pbox .sp .mid svg{width:30px;height:30px;animation:pesbob 1.8s ease-in-out infinite}
+@keyframes pesrot{to{transform:rotate(360deg)}}
+@keyframes pesbob{0%,100%{transform:rotate(45deg)}50%{transform:rotate(45deg) translate(2px,-2px)}}
+@media(prefers-reduced-motion:reduce){.pbox .sp .arc,.pbox .sp .mid svg{animation-duration:4s}}
+.pbox .odd{display:block}
+.pbox .pcw{display:none}
+.pbox .dhint{display:none}
+@media(min-width:701px){.pbox .dhint{display:block}}
+.pbox .ddbtn{display:flex;align-items:center;gap:10px;width:100%;font:inherit;font-size:16px;color:#0a3f4d;border:1px solid #cfd9e6;background:#f3f9fa;border-radius:30px;padding:12px 18px 12px 20px;cursor:pointer;text-align:left}
+.pbox .ddbtn .v{font-weight:600}
+.pbox .ddbtn .arr{margin-left:auto;color:#56677e}
+.pbox .ddbtn .g{color:#56677e}
+.pbox .opanel{margin-top:8px;background:#fff;border:1px solid #dde5ef;border-radius:14px;box-shadow:0 8px 24px #0a3f4d18;padding:6px;max-height:52vh;overflow:auto}
+.pbox .opanel[hidden]{display:none}
+.pbox .bgrp{display:flex;align-items:center;gap:10px;padding:10px;border-radius:10px;cursor:pointer;font-weight:700;font-size:14.5px;margin:0;color:#0a3f4d}
+.pbox .bopt{display:flex;align-items:center;gap:10px;padding:9px 10px 9px 46px;border-radius:10px;cursor:pointer;font-size:14.5px}
+.pbox .bgrp:active,.pbox .bopt:active{background:#e3f3f6}
+.pbox .opanel input{accent-color:#12798f;width:18px;height:18px;margin:0;flex:none}
+.pbox .bfoot{display:flex;justify-content:space-between;align-items:center;padding:10px 10px 6px;border-top:1px solid #edf1f7;margin-top:4px;font-size:13px;color:#56677e}
+.pbox .bfoot button{font:inherit;font-weight:650;color:#12798f;background:none;border:0;cursor:pointer;padding:4px 0}
+.pbox .bfoot .bdone{background:#12798f;color:#fff;border-radius:10px;padding:8px 20px;font-size:14px}
+.pbox .bfoot{position:sticky;bottom:-6px;background:#fff}
+.pbox .pr{border-color:#dde5ef;box-shadow:0 3px 10px #0a3f4d0a}
+.pbox .px,.pbox .px:hover{background:none}
+.pbox .px{color:#56677e}
+.pbox .px:hover{color:#0a3f4d}
+.pbox .pfoot{display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap;margin-top:16px;font-size:13px}
+.pbox .pfoot button{font-weight:400;font-size:13px}
+.pbox .pcs{display:flex;flex-wrap:wrap;gap:8px}
+.pbox .pc{display:inline-flex;align-items:center;gap:7px;border:1px solid #cfd9e6;border-radius:99px;padding:8px 14px;background:#fff;color:#0a3f4d;font:inherit;font-weight:700;font-size:14px;cursor:pointer}
+.pbox .pc.on{background:#12798f;border-color:#12798f;color:#fff}
+.pbox .pc.s{padding:6px 12px;font-size:13px}
+.pbox .pcity{display:flex;flex-wrap:wrap;gap:6px;align-items:center;margin-top:10px;font-size:13px;color:#0a3f4d}
+.pbox .pcity>span{margin-right:4px;font-weight:700}
+.pbox .p2{display:grid;grid-template-columns:1fr 1fr;gap:16px}
+.pbox .pseg{display:flex;border:1px solid #cfd9e6;border-radius:12px;overflow:hidden;background:#fff}
+.pbox .pseg button{flex:1;border:0;border-right:1px solid #cfd9e6;background:#fff;padding:11px 6px;font:inherit;font-weight:600;font-size:16px;color:#0a3f4d;cursor:pointer}
+.pbox .pseg button:last-child{border:0}
+.pbox .pseg button{display:inline-flex;align-items:center;justify-content:center;gap:7px}
+.pbox .pseg button svg{width:18px;height:18px;flex:none;color:#ffd23a}
+.pbox .pseg button.on{background:#12798f;color:#fff}
+.pbox .ppv{background:#fff7d6;border:1px solid #ffd23a;border-radius:12px;padding:11px 14px;margin-top:18px;font-size:15px;min-height:44px}
+.dgov{overflow:hidden;touch-action:pan-y}
+.pbox{overflow-x:hidden;overscroll-behavior:contain;-webkit-overflow-scrolling:touch}
+.pbox .tg,.pbox .psw{flex:none}
+@media(max-width:700px){.dgov:has(.pbox){padding:0;align-items:stretch;background:#f3f9fa}.pbox{width:100%;max-width:none;height:auto;min-height:100vh;min-height:100dvh;max-height:none;border-radius:0;padding:0 16px calc(24px + env(safe-area-inset-bottom,0px));overflow:visible;overflow-x:clip}html.pesopen body>*:not(#dgov){display:none!important}.pbox .pcw{display:none}.pbox .odd{display:block}html.pesopen body{padding-bottom:0}html.pesopen .dgov{position:static;display:block;overflow:visible;touch-action:auto;min-height:100vh;min-height:100dvh;background:#f3f9fa}.pbox .phd{position:sticky;top:0;z-index:5;background:#f3f9fa;margin:0 -16px 10px;padding:calc(env(safe-area-inset-top,0px) + 12px) 16px 12px;border-bottom:1px solid #dde5ef;display:flex;align-items:center;justify-content:space-between;gap:10px}.pbox .phd .px{position:static;order:2;flex:none}.pbox .phd .ph{margin:0;min-width:0}.pbox .p2{grid-template-columns:1fr}}
+.pbox .dwb{position:relative;display:flex;align-items:center;justify-content:space-between;gap:8px;width:100%;height:50px;border:1px solid #cfd9e6;border-radius:12px;background:#f3f9fa;padding:0 14px;font:inherit;font-size:16px;font-weight:600;color:#0a3f4d;text-align:left;cursor:pointer}
+.pbox .dwb.e{color:#8a98ab;font-weight:400}
+.pbox .dwb:focus-visible{outline:3px solid #cfe6ec;border-color:#12798f}
+.pbox .dwb .di{display:flex;width:22px;height:22px;color:#56677e;flex:none}
+.pbox .dwb .di svg{width:22px;height:22px}
+.pbox .calbk{position:fixed;inset:0;background:rgba(9,43,88,.35);z-index:60}
+.pbox .calsh{position:fixed;z-index:61;left:0;right:0;bottom:0;background:#fff;border-radius:22px 22px 0 0;box-shadow:0 -8px 30px rgba(9,43,88,.25);padding:10px 16px calc(env(safe-area-inset-bottom,0px) + 16px);max-width:480px;margin:0 auto}
+.pbox .calgr{width:40px;height:4px;border-radius:2px;background:#cfd9e6;margin:0 auto 8px}
+.pbox .calhd{display:flex;align-items:center;justify-content:space-between;margin-bottom:4px;font-size:18px;color:#0a3f4d}
+.pbox .calnv{width:42px;height:42px;border:0;border-radius:10px;background:transparent;color:#12798f;font-size:26px;font-weight:700;cursor:pointer;padding:0;line-height:1}
+.pbox .calnv:disabled{color:#c3ccd8;cursor:default}
+.pbox .calnv:not(:disabled):active{background:#f3f9fa}
+.pbox .calwk,.pbox .caldg{display:grid;grid-template-columns:repeat(7,1fr);text-align:center}
+.pbox .calwk span{font-size:12px;font-weight:700;color:#8a98ab;padding:6px 0}
+.pbox .caldg>*{height:44px;display:flex;align-items:center;justify-content:center;font-size:16px;font-weight:600;border:0;background:none;padding:0;margin:0;font-family:inherit;color:#0a3f4d;position:relative}
+.pbox .caldg .x{color:#c3ccd8;font-weight:500}
+.pbox .caldg button{cursor:pointer}
+.pbox .caldg button::before{content:"";position:absolute;width:38px;height:38px;border-radius:50%;z-index:-1}
+@media(hover:hover){.pbox .caldg button:hover::before{background:#f3f9fa}}
+.pbox .caldg .t::before{border:2px solid #ffd23a}
+.pbox .caldg .s{color:#0a3f4d;font-weight:800}
+.pbox .caldg .s::before,.pbox .caldg .s:hover::before{background:#ffd23a;border:0}
+.pbox .caldg button{isolation:isolate}
+.pbox .calft{display:flex;align-items:center;justify-content:space-between;margin-top:8px}
+.pbox .calcl{border:0;background:none;color:#b3402f;font:inherit;font-weight:700;font-size:15px;padding:10px 4px;cursor:pointer}
+.pbox .calok{width:auto;margin:0;padding:12px 28px}
+@media(min-width:701px){.pbox .calsh{top:50%;bottom:auto;transform:translateY(-50%);border-radius:20px;width:360px;box-shadow:0 20px 60px rgba(9,43,88,.35)}}
+.vf .flag{width:60px!important;height:45px!important;border-radius:7px!important;box-shadow:0 3px 8px rgba(9,43,88,.28),0 0 0 1px rgba(9,43,88,.08)!important}
+.vf .fstack .flag{width:34px!important;height:25.5px!important;margin:0 0 0 -15px!important;border-radius:5px!important;box-shadow:0 0 0 2px #fff,0 3px 7px rgba(9,43,88,.28)!important}
+.vf .fstack .flag:first-child{margin-left:0!important}
+.bopen #fab,.bopen .fab{display:none!important}
+#ptr{display:none;position:fixed;top:calc(env(safe-area-inset-top) + 8px);left:50%;width:56px;height:56px;margin-left:-28px;border-radius:50%;background:#fff;box-shadow:0 4px 14px #0a3f4d44;display:grid;place-items:center;z-index:60;opacity:0;transform:translateY(-80px);pointer-events:none;transition:opacity .15s}
+#ptr .sp{position:relative;width:40px;height:40px;color:#ffd23a}
+#ptr .arc{position:absolute;inset:0;border-radius:50%;border:3px solid #ffd23a30;border-top-color:#ffd23a}
+#ptr.go .arc{animation:pesrot .9s linear infinite}
+#ptr .mid{position:absolute;inset:0;display:flex;align-items:center;justify-content:center}
+#ptr .mid svg{width:20px;height:20px;transform:rotate(45deg)}
+#ptr.go .mid svg{animation:pesbob 1.8s ease-in-out infinite}
+@media(prefers-reduced-motion:reduce){#ptr.go .arc,#ptr.go .mid svg{animation-duration:4s}}
+.lnk{font:inherit;color:#12798f;font-weight:700;background:none;border:0;padding:0;cursor:pointer;text-decoration:underline dotted;text-underline-offset:3px}
+.lnk i{font-style:normal;font-size:.85em;color:#56677e;text-decoration:none}
+.pbox .offs{border-top:1px solid #edf1f7;background:#f3f9fa;padding:10px;display:flex;flex-direction:column;gap:8px}
+.pbox .orow{display:flex;align-items:center;gap:12px;padding:12px;background:#fff;border:1px solid #e1ecef;border-radius:12px;text-decoration:none;color:inherit}
+.pbox .orow:active{background:#eaf4f6}
+.pbox .orow .oi{flex:none;display:flex}
+.pbox .oi,.pbox .nci{position:relative}
+.pbox .orow .oi .hd svg,.pbox .nci .hd svg{width:9px;height:9px;color:#0a3f4d}
+.pbox .oi .hd,.pbox .nci .hd{width:15px;height:15px;right:-6px;bottom:-5px;border-width:1.5px}
+.pbox .orow .oi svg{width:20px;height:20px;color:#ffd23a}
+.pbox .orow .t{flex:1;min-width:0}
+.pbox .orow b{display:block;color:#0a3f4d;font-size:15px;line-height:1.3;overflow-wrap:anywhere}
+.pbox .orow small{color:#56677e;font-size:12.5px}
+.pbox .orow .p{font-weight:800;color:#0a3f4d;white-space:nowrap;font-size:15px}
+.pbox .orow .go{color:#56677e;font-size:18px}
+.pbox .omore{padding:2px 4px 2px;color:#56677e;font-size:13px}
+.pbox .xpushc{display:flex;align-items:center;gap:12px;background:#f3f9fa;border:1px solid #e1ecef;border-radius:14px;padding:12px 14px;margin-top:14px}
+.pbox .pushc .pbl{flex:none;color:#e0a800;display:flex}
+.pbox .pushc .ptx{flex:1;min-width:0}
+.pbox .pushc b{display:block;color:#0a3f4d;font-size:14px}
+.pbox .pushc small{display:block;color:#56677e;font-size:12.5px;line-height:1.4;margin-top:2px}
+.pbox .pushc .pcb{width:auto;margin:0;padding:9px 16px;font-size:14px;flex:none}
+.pbox .pushc .pcl{display:flex;flex-direction:column;gap:6px;align-items:flex-end;flex:none}
+.pbox .nbox{margin-top:14px;scroll-margin-bottom:28px;background:#fff;border:1px solid #dde5ef;border-radius:14px;box-shadow:0 3px 10px #0a3f4d0a;overflow:hidden}
+.pbox .qrow{display:flex;align-items:center;gap:12px;width:100%;text-align:left;font:inherit;padding:13px 14px;background:#fff;border:0;border-radius:0;cursor:pointer}
+.pbox .qrow .ic{color:#ffd23a;display:flex;flex:none}
+.pbox .qrow .ic svg,.pbox .nr .ic svg{width:20px;height:20px}
+.pbox .qrow .tx{flex:1;min-width:0}
+.pbox .qrow b{color:#0a3f4d;font-size:14.5px}
+.pbox .qrow .vl{color:#56677e;font-size:13px}
+.pbox .qrow .chev{color:#56677e;font-size:20px;line-height:1;transition:transform .15s}
+.pbox .qrow .chev.op{transform:rotate(90deg)}
+.pbox .npan{border-top:1px solid #edf1f7;background:#f3f9fa;padding:10px;display:flex;flex-direction:column;gap:8px}
+.pbox .nr{display:flex;align-items:center;gap:12px;padding:12px;background:#fff;border:1px solid #e1ecef;border-radius:12px}
+.pbox .nr .ic{flex:none;display:flex;color:#ffd23a}
+.pbox .nr .tx{flex:1;min-width:0}
+.pbox .nr b{display:block;color:#0a3f4d;font-size:14.5px}
+.pbox .nr small{display:block;color:#56677e;font-size:12.5px;line-height:1.4;margin-top:2px;overflow-wrap:anywhere}
+.pbox .nn{margin:0;padding:2px 4px;font-size:12.5px;color:#56677e}
+.pbox .nn.err{color:#b3261e}
+.pbox .ngh{margin:20px 2px 8px;display:flex;align-items:center;gap:10px;color:#0a3f4d;font-size:16px}
+.pbox .ngh small{color:#56677e;font-weight:400;font-size:13px;margin-left:auto;white-space:nowrap}
+.pbox .ncard{background:#fff;border:1px solid #dde5ef;box-shadow:0 3px 10px #0a3f4d0a;border-radius:18px;padding:16px;margin-top:10px;display:flex;flex-direction:column;gap:10px}
+.pbox .nct{display:flex;gap:12px;align-items:flex-start;color:#0a3f4d;font-weight:700;font-size:17px;line-height:1.3;overflow-wrap:anywhere}
+.pbox .nci{flex:none;display:flex;margin-top:2px}
+.pbox .nci svg{width:22px;height:22px;color:#ffd23a}
+.pbox .ncr{display:flex;justify-content:space-between;align-items:baseline;gap:12px;color:#56677e;font-size:13.5px}
+.pbox .ncp{text-align:right;white-space:nowrap}
+.pbox .ncp b{color:#0a3f4d;font-size:18px}
+.pbox .ncp small{display:block;font-size:12px}
+.pbox .ncb{display:block;text-align:center;background:#12798f;color:#fff;border-radius:11px;padding:12px;font-weight:700;text-decoration:none}
+.pbox .nsc{min-height:calc(100vh - 200px)}
+.pbox .nbar{position:sticky;bottom:0;z-index:4;background:#fff;border-top:1px solid #e1ecef;margin:18px -16px 0;padding:12px 16px calc(14px + env(safe-area-inset-bottom,0px));box-shadow:0 -6px 20px rgba(9,43,88,.08);text-align:center}
+.pbox .nbar .pb.w{margin-top:0}
+.pbox .nbar .lnk{display:inline-block;margin:0;padding:4px 0;font-size:15px}
+.hd{position:absolute;right:-8px;bottom:-4px;width:22px;height:22px;border-radius:50%;background:#ffd23a;color:#0a3f4d;border:2px solid #fff;display:flex;align-items:center;justify-content:center}.hd svg{width:58%;height:58%}.ibd{position:relative}.pbox .orow .oi .hd svg,.pbox .nci .hd svg{width:9px;height:9px;color:#0a3f4d}.pbox .oi .hd,.pbox .nci .hd{width:15px;height:15px;right:-6px;bottom:-5px;border-width:1.5px}@media(max-width:560px){.pbox .pseg.n5 button{font-size:13px;padding:9px 2px;gap:4px}.pbox .pseg.n5 button svg{width:15px;height:15px}.pbox .pseg button{min-width:0}}
+/*HLCSS-END*/
+</style></head><body><header><div class="brand"><a class="bl" href="./" aria-label="greg – Váš agregátor leasingů, úvodní stránka"><span class="G" aria-hidden="true">g</span></a><div class="bt"><a class="bl" href="./" tabindex="-1" aria-hidden="true"><div class="bn"><span>re</span><span class="L">g<svg class="pj car" viewBox="0 0 24 24"><path d="M18.92 6.01C18.72 5.42 18.16 5 17.5 5h-11c-.66 0-1.21.42-1.42 1.01L3 12v8c0 .55.45 1 1 1h1c.55 0 1-.45 1-1v-1h12v1c0 .55.45 1 1 1h1c.55 0 1-.45 1-1v-8l-2.08-5.99zM6.5 16c-.83 0-1.5-.67-1.5-1.5S5.67 13 6.5 13s1.5.67 1.5 1.5S7.33 16 6.5 16zm11 0c-.83 0-1.5-.67-1.5-1.5s.67-1.5 1.5-1.5 1.5.67 1.5 1.5-.67 1.5-1.5 1.5zM5 11l1.5-4.5h11L19 11H5z"/></svg></span></div></a><div class="bm">Váš a<em>greg</em>átor <button type="button" class="tg" id="swb" aria-haspopup="true" aria-expanded="false" aria-controls="swm" aria-label="Přepnout sekci, nyní leasingů">leasingů<svg class="ar" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 9l6 6 6-6"/></svg></button><div class="menu" id="swm" hidden><a href="../"><span class="fl"><svg viewBox="0 0 24 24" fill="#092b58" aria-hidden="true" style="transform:rotate(45deg)"><path d="M21 16v-2l-8-5V3.5c0-.83-.67-1.5-1.5-1.5S10 2.67 10 3.5V9l-8 5v2l8-2.5V19l-2 1.5V22l3.5-1 3.5 1v-1.5L13 19v-5.5z"/></svg></span>letenek</a><a href="./" class="on" aria-current="page"><span class="fl"><svg viewBox="0 0 24 24" fill="#092b58" aria-hidden="true"><path d="M18.92 6.01C18.72 5.42 18.16 5 17.5 5h-11c-.66 0-1.21.42-1.42 1.01L3 12v8c0 .55.45 1 1 1h1c.55 0 1-.45 1-1v-1h12v1c0 .55.45 1 1 1h1c.55 0 1-.45 1-1v-8l-2.08-5.99zM6.5 16c-.83 0-1.5-.67-1.5-1.5S5.67 13 6.5 13s1.5.67 1.5 1.5S7.33 16 6.5 16zm11 0c-.83 0-1.5-.67-1.5-1.5s.67-1.5 1.5-1.5 1.5.67 1.5 1.5-.67 1.5-1.5 1.5zM5 11l1.5-4.5h11L19 11H5z"/></svg></span>leasingů<svg class="ck" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></a></div></div></div></div></header><main><div class="tb" id="tb"><div class="chips" id="chips" role="group" aria-label="Palivo"></div><div class="chips" id="gchips" role="group" aria-label="Převodovka" style="--n:2"><button type="button" class="chip" data-g="automat" aria-pressed="false"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="15.5" cy="5.8" r="3.1"/><path d="M14 8.7 10 17"/><path d="M5 20.5h12"/></svg>Automat</button><button type="button" class="chip" data-g="manuál" aria-pressed="false"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 4v16M12 4v16M18 4v8M6 12h12"/></svg>Manuál</button></div><div class="origins" aria-label="Značka"><div class="oB"><button class="ddbtn" id="bbtn" type="button" aria-expanded="false" aria-controls="bpanel"></button><div class="bpanel" id="bpanel" hidden></div></div></div></div><div class="meta"><div class="mtxt"><div class="cl"><strong id="count">Načítám nabídky…</strong><span class="zwrap"><span id="zfrom"></span><button class="zlnk" id="zbtn" type="button" aria-expanded="false" aria-controls="zpop"></button></span></div><div class="zpop" id="zpop" hidden></div></div><span id="updated"></span></div><section id="cards" class="grid" aria-live="polite"></section><p class="notice" id="partial" hidden></p><p class="notice">Poznámka: Ceny jsou orientační: obvykle jde o nejnižší měsíční splátku „od“ z nabízených konfigurací. Doba pronájmu, roční nájezd i DPH se u zdrojů liší, před objednávkou je vždy ověř u poskytovatele. Nabídky jsou informační tipy převzaté v rozsahu povoleném zdrojem.</p><footer>greg · Osobní přehled nabídek</footer></main><!--HLM--><button type="button" class="fab" id="fab" aria-haspopup="dialog" aria-label="Hlídač"><svg viewBox="0 0 576 512" fill="currentColor" aria-hidden="true"><path fill="currentColor" d="m309.6 158.5l23.1-138.7C334.6 8.4 344.5 0 356.1 0c7.5 0 14.5 3.5 19 9.5L392 32h52.1c12.7 0 24.9 5.1 33.9 14.1L496 64h56c13.3 0 24 10.7 24 24v24c0 44.2-35.8 80-80 80h-69.3l-5.1 30.5zM416 256.1V480c0 17.7-14.3 32-32 32h-32c-17.7 0-32-14.3-32-32V364.8c-24 12.3-51.2 19.2-80 19.2s-56-6.9-80-19.2V480c0 17.7-14.3 32-32 32H96c-17.7 0-32-14.3-32-32V249.8c-28.8-10.9-51.4-35.3-59.2-66.5L1 167.8c-4.3-17.1 6.1-34.5 23.3-38.8s34.5 6.1 38.8 23.3l3.9 15.5C70.5 182 83.3 192 98 192h205.8zM464 80a16 16 0 1 0-32 0a16 16 0 1 0 32 0"/></svg><span>Hlídač</span></button><div class="dgov" id="dgov" role="dialog" aria-modal="true" aria-labelledby="dgt"><div class="dgbox pbox" id="pbox"></div></div><!--HLM-END--><script>(()=>{const b=document.getElementById("swb"),m=document.getElementById("swm");if(!b||!m)return;const set=o=>{m.hidden=!o;b.setAttribute("aria-expanded",o?"true":"false")};b.addEventListener("click",e=>{e.stopPropagation();set(m.hidden)});document.addEventListener("click",e=>{if(!m.hidden&&!m.contains(e.target))set(false)});document.addEventListener("keydown",e=>{if(e.key==="Escape"&&!m.hidden){set(false);b.focus()}})})();</script><script>(()=>{
 const $=id=>document.getElementById(id),esc=t=>String(t==null?'':t).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const FUEL={benzin:'Benzín',diesel:'Diesel',elektro:'Elektro',hybrid:'Hybrid',plyn:'Plyn'},CAR=`<svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M18.92 6.01C18.72 5.42 18.16 5 17.5 5h-11c-.66 0-1.21.42-1.42 1.01L3 12v8c0 .55.45 1 1 1h1c.55 0 1-.45 1-1v-1h12v1c0 .55.45 1 1 1h1c.55 0 1-.45 1-1v-8l-2.08-5.99zM6.5 16c-.83 0-1.5-.67-1.5-1.5S5.67 13 6.5 13s1.5.67 1.5 1.5S7.33 16 6.5 16zm11 0c-.83 0-1.5-.67-1.5-1.5s.67-1.5 1.5-1.5 1.5.67 1.5 1.5-.67 1.5-1.5 1.5zM5 11l1.5-4.5h11L19 11H5z"/></svg>`;
 const kc=n=>n.toLocaleString('cs-CZ').replace(/ /g,' ')+' Kč',pl=n=>n===1?'nabídka':n>=2&&n<=4?'nabídky':'nabídek';
@@ -173,7 +437,7 @@ function card(o){
   const sub=gp+(gp&&rest?' · ':'')+rest;
   const vat=o.vat==='bez'?'bez DPH':o.vat==='s'?'s DPH':'';
   const d=new Date(o.firstSeen).toLocaleDateString('cs-CZ');
-  return `<article class="card" data-src="${esc(o.source)}"><div class="pills"><span class="ibd" role="img" aria-label="${esc(FUEL[o.fuel]||'Auto')}" title="${esc(FUEL[o.fuel]||'Auto')}">${ICON[o.fuel]||CAR}</span></div><h2 title="${esc(o.title)}">${esc(o.title)}${drop(o)?'<span class="nw d">Zlevněno</span>':''}<span class="sub">${sub}</span></h2><div class="row"><span><b style="color:#0a3f4d">od ${kc(o.price)}</b><small class="orig">/ měsíc${vat?' · '+vat:''}</small>${drop(o)?'<s>'+kc(o.prevPrice)+'</s>':''}</span><span class="dt">${d}</span></div><a target="_blank" rel="noopener noreferrer nofollow" href="${esc(o.url)}">Zobrazit nabídku</a></article>`;
+  return `<article class="card" data-src="${esc(o.source)}"><div class="pills"><span class="ibd" role="img" aria-label="${esc(FUEL[o.fuel]||'Auto')}" title="${esc(FUEL[o.fuel]||'Auto')}">${ICON[o.fuel]||CAR}${window.pesHL&&window.pesHL(o)?window.pesHB():''}</span></div><h2 title="${esc(o.title)}">${esc(o.title)}${drop(o)?'<span class="nw d">Zlevněno</span>':''}<span class="sub">${sub}</span></h2><div class="row"><span><b style="color:#0a3f4d">od ${kc(o.price)}</b><small class="orig">/ měsíc${vat?' · '+vat:''}</small>${drop(o)?'<s>'+kc(o.prevPrice)+'</s>':''}</span><span class="dt">${d}</span></div><a target="_blank" rel="noopener noreferrer nofollow" href="${esc(o.url)}">Zobrazit nabídku</a></article>`;
 }
 function render(){
   const arr=items.filter(o=>okFuel(o)&&okX(o)&&okBrand(o)&&okSrc(o)).sort((a,b)=>a.price-b.price);
@@ -203,4 +467,357 @@ document.addEventListener('keydown',e=>{if(e.key!=='Escape')return;if(bOpen)clos
 fetch('../data/leasing/offers.json',{cache:'no-cache'}).then(r=>{if(!r.ok)throw 0;return r.json()}).then(d=>{items=(d.offers||[]).filter(o=>o&&o.price&&o.url);
   $('updated').textContent=d.updated?'Aktualizováno: '+new Date(d.updated).toLocaleString('cs-CZ'):'';render()}).catch(()=>{$('count').textContent='Zatím bez nabídek';render()});
 fetch('../data/leasing/status.json',{cache:'no-cache'}).then(r=>r.ok?r.json():null).then(d=>{if(!d)return;const p=(d.sources||[]).filter(x=>x.blocked).map(x=>x.name);if(p.length){const e=$('partial');e.textContent='Ze zdroje '+p.join(', ')+' se podařilo stáhnout jen část nabídek, web omezuje automatické stahování. Celou nabídku najdeš u zdroje.';e.hidden=false}}).catch(()=>{});
+/*HLJS*/
+/* ===== Hlídač (leasingy) ===== */
+
+const escapeHtml=esc,KCAR=CAR,oidC=x=>String(x.id||x.url);
+const h53=(s,e=0)=>{let a=0xdeadbeef^e,b=0x41c6ce57^e;for(let i=0,c;i<s.length;i++){c=s.charCodeAt(i);a=Math.imul(a^c,2654435761);b=Math.imul(b^c,1597334677)}a=Math.imul(a^(a>>>16),2246822507)^Math.imul(b^(b>>>13),3266489909);b=Math.imul(b^(b>>>16),2246822507)^Math.imul(a^(a>>>13),3266489909);return(4294967296*(2097151&b)+(a>>>0)).toString(36)};
+const money=n=>kc(Number(n));
+
+let PSRV=false,MAILON=true;const API='https://script.google.com/macros/s/AKfycby9X7wTxnE-YCYrgZOE_c302id45zocA_v9SQlpDp1jgx9zsVMIpSPh8SlcsQXfI0KazA/exec';
+const KEY='pesSession',MAXR=5;
+const ov=document.getElementById('dgov'),box=document.getElementById('pbox'),fab=document.getElementById('fab');
+const PAW=fab.querySelector('svg').outerHTML;
+const LOGO='<svg viewBox="0 0 110 110" aria-hidden="true"><rect width="110" height="110" rx="26" fill="#0a3f4d"/><g transform="translate(2 10)"><circle cx="44" cy="42" r="20" fill="none" stroke="#fff" stroke-width="14"/><path d="M64 22V66Q64 86 42 86Q26 86 18 76" fill="none" stroke="#fff" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/></g><path transform="translate(72 3) scale(1.4167)" fill="#ffd23a" d="M18.92 6.01C18.72 5.42 18.16 5 17.5 5h-11c-.66 0-1.21.42-1.42 1.01L3 12v8c0 .55.45 1 1 1h1c.55 0 1-.45 1-1v-1h12v1c0 .55.45 1 1 1h1c.55 0 1-.45 1-1v-8l-2.08-5.99zM6.5 16c-.83 0-1.5-.67-1.5-1.5S5.67 13 6.5 13s1.5.67 1.5 1.5S7.33 16 6.5 16zm11 0c-.83 0-1.5-.67-1.5-1.5s.67-1.5 1.5-1.5 1.5.67 1.5 1.5-.67 1.5-1.5 1.5zM5 11l1.5-4.5h11L19 11H5z"/></svg>';
+const E=s=>escapeHtml(s);
+const getS=()=>{try{return localStorage.getItem(KEY)||''}catch(e){return''}};
+const CKEY='pesCacheL';
+const setS=v=>{try{if(v)localStorage.setItem(KEY,v);else{localStorage.removeItem(KEY);localStorage.removeItem(CKEY);localStorage.removeItem('pesCache')}}catch(e){}hlRefresh()};
+const saveC=()=>{try{if(getS())localStorage.setItem(CKEY,JSON.stringify({e:st.email,r:st.rules,m:st.max}))}catch(e){}hlRefresh()};
+const readC=()=>{try{const c=JSON.parse(localStorage.getItem(CKEY)||'null');return c&&Array.isArray(c.r)&&c.e?c:null}catch(e){return null}};
+let warmed=0;const warm=()=>{if(warmed||!API)return;warmed=1;fetch(API,{method:'POST',body:JSON.stringify({a:'ping',cat:'leasing'})}).catch(()=>{})};
+let st={view:API?'email':'soon',msg:'',ok:'',email:'',sentTo:'',rules:[],max:MAXR,ed:null,pv:'',tok:'',exp:{}};
+
+// nabídky odpovídající hlídání (stejná pravidla jako na serveru)
+const ruleOk=(r,x)=>{const bs=Object.keys(r.brands||{});if(bs.length&&!bs.some(b=>brandOf(x)===b&&(!(r.brands[b]||[]).length||r.brands[b].includes(x.model))))return false;if(r.fuel&&x.fuel!==r.fuel)return false;if(r.gear&&x.gear!==r.gear)return false;if(r.maxPrice&&!(x.price>0&&x.price<=r.maxPrice))return false;return true};
+let HLR=[],HLSIG='';
+const HLM=x=>HLR.some(r=>ruleOk(r,x));window.pesHL=HLM;
+const hlRefresh=()=>{try{HLR=getS()?((st.rules&&st.rules.length?st.rules:((readC()||{}).r)||[]).filter(r=>r.active&&!r.expired)):[];const sig=HLR.map(r=>[r.id,r.fuel,r.gear,r.maxPrice,JSON.stringify(r.brands)].join('|')).join(';');if(sig!==HLSIG){HLSIG=sig;if(items&&items.length)render()}}catch(e){}};
+const hlBadge=()=>{const f=document.querySelector('#fab svg');return f?'<span class="hd" aria-hidden="true">'+f.outerHTML.replace(' aria-hidden="true"','')+'</span>':''};
+window.pesHB=hlBadge;hlRefresh();
+const offsHtml=r=>{const all=items.filter(x=>ruleOk(r,x)).sort((a,b)=>a.price-b.price),top=all.slice(0,12);if(!all.length)return'';
+  return '<div class="offs">'+top.map(x=>`<a class="orow" target="_blank" rel="noopener noreferrer" href="${esc(x.url)}"><span class="oi">${ICON[x.fuel]||CAR}${hlBadge()}</span><span class="t"><b>${esc(x.title)}</b><small>${esc(x.source||'')}</small></span><span class="p">${esc(kc(x.price))}</span><span class="go">›</span></a>`).join('')+(all.length>top.length?'<div class="omore">… a dalších '+(all.length-top.length)+'</div>':'')+'</div>'};
+
+let busy=false,pvTimer=0,PPEND=0,PSEQ=0,PLAST=0;
+async function api(b){
+  if(!API)return{ok:false,error:'Hlídač zatím není zapnutý.'};
+  const t0=Date.now();
+  try{const r=await fetch(API,{method:'POST',body:JSON.stringify(Object.assign({cat:'leasing'},b))});const j=await r.json();if(j&&typeof j.push==='boolean')PSRV=j.push;if(j&&typeof j.mail==='boolean'&&b.a!=='prefs'&&!PPEND&&t0>PLAST)MAILON=j.mail;return j}
+  catch(e){return{ok:false,error:'Spojení se nepodařilo. Zkus to prosím znovu.'}}
+}
+
+const KCAL='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3.5" y="5" width="17" height="15" rx="3"/><path d="M3.5 10h17M8 3v4M16 3v4"/></svg>';
+const expFmt=s=>{const m=String(s||'').match(/^(\d{4})-(\d{2})-(\d{2})$/);return m?(+m[3])+'. '+(+m[2])+'.'+(m[1]!==String(new Date().getFullYear())?' '+m[1]:''):''};
+const todayIso=()=>{const d=new Date();return d.getFullYear()+'-'+String(d.getMonth()+1).padStart(2,'0')+'-'+String(d.getDate()).padStart(2,'0')};
+const KCASH='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="2.5" y="4" width="16" height="10" rx="2"/><path d="M6 17.5h13.5a2 2 0 0 0 2-2V8.5"/><circle cx="10.5" cy="9" r="2.2"/></svg>';
+
+const vb=(n,a,b,c)=>n===1?a:n>=2&&n<=4?b:c;
+const nab=n=>n+' '+(n===1?'nabídka':n>=2&&n<=4?'nabídky':'nabídek');
+const head=(t,sub)=>`<div class="phd"><button type="button" class="px" data-act="close" aria-label="Zavřít"><svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg></button><div class="ph"><div class="pi">${LOGO}</div><div><h3 id="dgt">${t}</h3>${sub?`<small>${sub}</small>`:''}</div></div></div>`;
+const msgs=()=>(st.msg?`<div class="pm err" role="alert">${E(st.msg)}</div>`:'')+(st.ok?`<div class="pm ok">${E(st.ok)}</div>`:'');
+const dis=()=>busy?' disabled':'';
+const MN=['Leden','Únor','Březen','Duben','Květen','Červen','Červenec','Srpen','Září','Říjen','Listopad','Prosinec'];
+const iso=(y,m,d)=>y+'-'+String(m+1).padStart(2,'0')+'-'+String(d).padStart(2,'0');
+const fullFmt=s=>{const m=String(s||'').match(/^(\d{4})-(\d{2})-(\d{2})$/);return m?(+m[3])+'. '+(+m[2])+'. '+m[1]:''};
+function calHtml(){const c=st.cal;if(!c||!st.ed)return'';const t=todayIso(),sel=st.ed.expires||'',lead=(new Date(c.y,c.m,1).getDay()+6)%7,n=new Date(c.y,c.m+1,0).getDate();
+  let cells='';for(let i=0;i<lead;i++)cells+='<span></span>';
+  for(let d=1;d<=n;d++){const x=iso(c.y,c.m,d);cells+=x<t?'<span class="x">'+d+'</span>':'<button type="button" class="'+(x===sel?'s':x===t?'t':'')+'" data-act="calpick" data-d="'+x+'">'+d+'</button>'}
+  const canPrev=c.y*12+c.m>(+t.slice(0,4))*12+(+t.slice(5,7)-1);
+  return '<div class="calbk" data-act="calx"></div><div class="calsh" role="dialog" aria-label="Platí do"><div class="calgr"></div><div class="calhd"><button type="button" class="calnv" data-act="calprev" aria-label="Předchozí měsíc"'+(canPrev?'':' disabled')+'>‹</button><b>'+MN[c.m]+' '+c.y+'</b><button type="button" class="calnv" data-act="calnext" aria-label="Další měsíc">›</button></div><div class="calwk"><span>Po</span><span>Út</span><span>St</span><span>Čt</span><span>Pá</span><span>So</span><span>Ne</span></div><div class="caldg">'+cells+'</div><div class="calft"><button type="button" class="calcl" data-act="calclear">Bez omezení</button><button type="button" class="pb calok" data-act="calx">Hotovo</button></div></div>'}
+
+
+function vSoon(){return head('Hlídač')+'<p>Brzy ti pohlídá nabídky podle tvých pravidel (značka, model, palivo, převodovka, cena) a pošle upozornění. Zatím ho připravujeme.</p><button type="button" class="pb" data-act="close">Zavřít</button>'}
+function vEmail(){return head('Hlídač')+'<p>Zadej e-mail, nastav, co tě zajímá, a pošleme ti jen odpovídající nabídky. Žádné heslo ani registrace.</p>'+msgs()+
+ `<label for="pe">Tvůj e-mail</label><input id="pe" class="pin" type="email" inputmode="email" autocomplete="email" placeholder="jmeno@email.cz" value="${E(st.email)}"><button type="button" class="pb w" data-act="send"${dis()}>${busy?'Odesílám…':'Pokračovat'}</button>`+
+ '<p class="psm">Pošleme ti odkaz, kterým se k nastavení dostaneš odkudkoli. Adresu použijeme jen pro upozornění a odhlásit se můžeš kdykoli.</p>'}
+function vSent(){return head('Zkontroluj schránku')+(st.rid?`<p>Poslali jsme e-mail na <b>${E(st.sentTo)}</b>. Klepni na tlačítko v něm, v Safari přihlášení potvrď a vrať se sem. Přihlásíme tě automaticky. Odkaz platí 30 minut.</p>`:`<p>Poslali jsme odkaz na <b>${E(st.sentTo)}</b>. Kliknutím se dostaneš k nastavení hlídání. Odkaz platí 30 minut.</p>`)+msgs()+
+ `<button type="button" class="pb g w" data-act="resend"${dis()}>Poslat znovu</button><p class="psm">Nic nepřišlo? <b>Podívej se do spamu</b> nebo zkus jinou adresu. <a href="#" data-act="other">Změnit adresu</a></p>`}
+function vConfirm(){return head('Potvrdit přihlášení')+`<p>Někdo žádá o přihlášení do Hlídače jako <b>${E(st.email)}</b>. Potvrď jen tehdy, když jsi o přihlášení v aplikaci žádal(a) ty.</p>`+msgs()+`<button type="button" class="pb w" data-act="confirm"${dis()}>${busy?'Potvrzuji…':'Ano, přihlásit aplikaci'}</button><p class="psm">Nežádal(a) jsi o to? Okno zavři a nic se nestane.</p>`}
+function vHandoff(){return head('Hotovo')+`<p><b>Přihlášení je potvrzené.</b> Vrať se do aplikace na ploše, přihlásí se sama během pár sekund. Toto okno můžeš zavřít.</p>`}
+function vLoad(){return head('Hlídač')+`<div class="ld" role="status" aria-live="polite"><div class="sp"><div class="arc"></div><div class="mid">${CAR}</div></div><span>Načítám hlídání…</span></div>`}
+
+
+const gearTxt=g=>g==='automat'?'Automat':'Manuál';
+function ruleCard(r){
+  const bs=Object.keys(r.brands||{}),bl=bs.flatMap(b=>(r.brands[b]&&r.brands[b].length)?r.brands[b].map(m=>b+' '+m):[b]);
+  const PEN='<svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 4H6.5A2.5 2.5 0 0 0 4 6.5v11A2.5 2.5 0 0 0 6.5 20h11a2.5 2.5 0 0 0 2.5-2.5V12"/><path d="M18.4 3.6a2 2 0 0 1 2.9 2.9L12.5 15.3 9 16l.7-3.5z"/></svg>',XI='<svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 7h16"/><path d="M9 7V4.5h6V7"/><path d="M6.5 7l.8 12a1.5 1.5 0 0 0 1.5 1.4h6.4a1.5 1.5 0 0 0 1.5-1.4L17.5 7"/><path d="M10 11v6M14 11v6"/></svg>';
+  const sub=`<span class="chp">${CAR}${E(bl.length?(bl.length>3?bl.slice(0,3).join(', ')+' +'+(bl.length-3):bl.join(', ')):'Všechny značky')}</span>`+(r.fuel?`<span class="chp">${ICON[r.fuel]||''}${E(FUEL[r.fuel]||r.fuel)}</span>`:'')+(r.gear?`<span class="chp">${GIC[r.gear]||''}${gearTxt(r.gear)}</span>`:'')+(r.maxPrice?'<span class="chp kc">'+KCASH+'do '+money(r.maxPrice)+' / měs.</span>':'')+(r.expires?'<span class="chp kc">'+KCAL+(r.expired?'skončilo ':'do ')+E(expFmt(r.expires))+'</span>':'');
+  return `<div class="pr v${r.active?'':' off'}"><div class="vt"><span class="vf">${CAR}</span><div class="vd"><b>${E(r.name)}</b><small>Operativní leasing</small></div><span class="vi"><button type="button" class="ib${r.expired?' wd':''}" data-act="edit" data-id="${E(r.id)}" aria-label="${r.expired?'Prodloužit':'Upravit'} hlídání">${r.expired?'Prodloužit':PEN}</button><button type="button" class="ib" data-act="delask" data-id="${E(r.id)}" aria-label="Smazat hlídání">${XI}</button></span></div><div class="ln">${sub}</div><div class="vb"><span>${!r.active?'Upozornění jsou vypnutá':r.matchNow===undefined?'<span class="cn">Počítám nabídky…</span>':vb(r.matchNow,'Nyní odpovídá','Nyní odpovídají','Nyní odpovídá')+(r.matchNow>0?' <button type="button" class="lnk" data-act="hexp" data-id="'+E(r.id)+'" aria-expanded="'+!!st.exp[r.id]+'"><b>'+nab(r.matchNow)+'</b> <i>'+(st.exp[r.id]?'▴':'▾')+'</i></button>':' <b>'+nab(r.matchNow)+'</b>')}</span><span class="psw">${r.active?'Aktivní':'Pozastaveno'}<button type="button" class="tg${r.active?'':' off'}" data-act="toggle" data-id="${E(r.id)}" role="switch" aria-checked="${r.active}" aria-label="Zapnout nebo pozastavit hlídání ${E(r.name)}"></button></span></div>${r.active&&r.matchNow>0&&st.exp[r.id]?offsHtml(r):''}${st.delId===r.id?`<div class="dq" role="alert"><span>Opravdu smazat toto hlídání?</span><button type="button" class="y" data-act="del" data-id="${E(r.id)}"${dis()}>${busy?'Mažu…':'Ano, smazat'}</button><button type="button" data-act="delno">Ponechat</button></div>`:''}</div>`}
+
+function vList(){
+  const n=st.rules.length;
+  return head('Hlídač',E(st.email))+msgs()+(n?st.rules.map(ruleCard).join(''):'<p>Zatím nemáš žádné hlídání. Přidej první a my ti dáme vědět o nových nabídkách.</p>')+
+  (n<st.max?`<div class="sbar"><button type="button" class="padd" data-act="new">Přidat ${n?'další ':''}hlídání <span>(${n} z ${st.max})</span></button></div>`:`<p class="psm">Dosáhl jsi limitu ${st.max} hlídání.</p>`)+
+  pushCard()+
+  '<div class="pfoot"><button type="button" data-act="logout">Odhlásit toto zařízení</button><button type="button" class="d" data-act="wipeask">Zrušit vše a smazat e-mail</button></div>'}
+function vWipe(){return head('Smazat vše?')+'<p>Smažeme tvůj e-mail i všechna hlídání a už ti nepošleme žádný e-mail. Tuhle akci nejde vrátit zpět.</p>'+msgs()+`<div class="pacts"><button type="button" class="pb dg" data-act="wipedo"${dis()}>${busy?'Mažu…':'Ano, smazat vše'}</button><button type="button" class="pb g" data-act="${st.tok?'close':'back'}">Zrušit</button></div>`}
+function vDone(){return head('Hotovo')+`<p>${E(st.ok||'Hotovo.')}</p><button type="button" class="pb" data-act="close">Zavřít</button>`}
+
+
+const brandModels=()=>{const m={};items.forEach(o=>{const b=brandOf(o);if(b==='Ostatní')return;(m[b]=m[b]||new Set());if(o.model)m[b].add(o.model)});return m};
+const brandOpen=b=>{const d=st.ed;if(st.bcol&&b in st.bcol)return !!st.bcol[b];return !!(d&&(d.brands[b]||[]).length)};
+function vEdit(){
+  const d=st.ed;
+  const bm=brandModels();Object.keys(d.brands).forEach(b=>{(bm[b]=bm[b]||new Set());(d.brands[b]||[]).forEach(m=>bm[b].add(m))});
+  const brands=Object.keys(bm).sort((a,b)=>a.localeCompare(b,'cs'));
+  const selL=[];Object.keys(d.brands).forEach(b=>{const L=d.brands[b]||[];if(L.length)L.forEach(m=>selL.push(b+' '+m));else selL.push(b)});
+  const odd=`<div class="odd"><button type="button" class="ddbtn" data-act="odd" aria-expanded="${!!st.oOpen}">${selL.length?'<span class="v">'+E(selL[0])+(selL.length>1?' +'+(selL.length-1):'')+'</span>':'<span class="v">Všechny značky</span>'}<span class="arr">${st.oOpen?'▴':'▾'}</span></button><div class="opanel"${st.oOpen?'':' hidden'}>`+
+    brands.map(b=>{const on=b in d.brands,L=d.brands[b]||[],mods=[...bm[b]].sort((x,y)=>x.localeCompare(y,'cs')),op=brandOpen(b);return `<label class="bgrp"><input type="checkbox" data-act="obrand" data-b="${E(b)}"${on&&!L.length?' checked':''} data-ind="${on&&L.length?1:0}">${E(b)}${mods.length?`<button type="button" class="bx" data-act="obx" data-b="${E(b)}" aria-expanded="${op}" aria-label="Modely: ${E(b)}">${CHEV}</button>`:''}</label>`+(op?mods.map(m=>`<label class="bopt"><input type="checkbox" data-act="omodel" data-b="${E(b)}" data-m="${E(m)}"${L.includes(m)?' checked':''}>${E(m)}</label>`).join(''):'')}).join('')+
+    `<div class="bfoot"><span>Vybráno: ${selL.length}</span><span class="bfa"><button type="button" data-act="oclear">Zrušit výběr</button><button type="button" class="bdone" data-act="oclose">Hotovo</button></span></div></div></div>`;
+  const seg=(act,cur,opts)=>`<div class="pseg n${opts.length}" role="group">${opts.map(([v,l,ic])=>`<button type="button" class="${cur===v?'on':''}" data-act="${act}" data-v="${v}" aria-pressed="${cur===v}">${ic||''}${l}</button>`).join('')}</div>`;
+  return head(d.id?'Upravit hlídání':'Nové hlídání',E(st.email))+msgs()+
+  `<div class="cd"><div class="ct">Značka a model</div>${odd}<div class="hint dhint">Nic nevybráno = všechny značky</div></div>`+
+  `<div class="cd"><div class="ct">Palivo</div>${seg('fuel',d.fuel,['benzin','hybrid','elektro','diesel','plyn'].map(k=>[k,FUEL[k],ICON[k]]))}<label class="l2">Převodovka</label>${seg('gear',d.gear,[['automat','Automat',GIC.automat],['manuál','Manuál',GIC['manuál']]])}</div>`+
+  `<div class="cd"><div class="ct">Limity</div><div class="r2"><div><label for="pp" class="l2">Měsíční cena do</label><input id="pp" class="pin" type="number" inputmode="numeric" min="0" step="100" value="${d.maxPrice||''}" placeholder="bez omezení"></div><div><label for="pd" class="l2">Platí do</label><button type="button" id="pd" class="dwb${d.expires?'':' e'}" data-act="cal"><span>${d.expires?E(fullFmt(d.expires)):'bez omezení'}</span><i class="di">${KCAL}</i></button></div></div></div>`+
+  `<div class="sbar"><button type="button" class="pb g" data-act="back">Zrušit</button><button type="button" class="pb" data-act="save"${dis()}>${busy?'Ukládám…':'Uložit hlídání'}</button></div>`+calHtml()}
+const ruleFromEd=()=>{const d=st.ed;return{id:d.id,name:'',cat:'leasing',brands:d.brands,fuel:d.fuel,gear:d.gear,maxPrice:Number(d.maxPrice)||0,expires:d.expires||'',freq:'hned'}};
+function openEdit(r){st.ed={id:r.id,name:r.name,brands:JSON.parse(JSON.stringify(r.brands||{})),fuel:r.fuel||'',gear:r.gear||'',maxPrice:r.maxPrice||'',expires:r.expires||'',freq:r.freq||'hned'};st.pv='';st.bcol={};go('edit');return schedulePreview()}
+
+function paint(){
+  const v=({soon:vSoon,email:vEmail,sent:vSent,load:vLoad,list:vList,edit:vEdit,wipe:vWipe,done:vDone,confirm:vConfirm,handoff:vHandoff,nove:vNove})[st.view]||vEmail;
+  const keep=document.activeElement&&document.activeElement.id,pos=getPos();
+  box.innerHTML=v();box.querySelectorAll('.opanel input[data-ind="1"]').forEach(i=>{i.indeterminate=true});setPos(pos);
+  if(keep){const el=document.getElementById(keep);if(el&&/^(pe|pn|pp|pk)$/.test(keep)){el.focus();try{el.setSelectionRange(el.value.length,el.value.length)}catch(e){}}}
+}
+const go=(view,extra)=>{const changed=st.view!==view;st=Object.assign(st,{view,msg:'',ok:'',delId:'',oOpen:false,cal:null},extra||{});if(st.view==='list'){saveC();pushRefresh()}if(changed)setPos(0);paint()};
+const MQ=matchMedia('(max-width:700px)');let ySave=0;
+const getPos=()=>MQ.matches?window.scrollY:box.scrollTop,setPos=y=>{if(MQ.matches)window.scrollTo(0,y);else box.scrollTop=y};
+const open=()=>{st.exp={};st.nOpen=false;st.nmsg='';ov.classList.add('on');if(MQ.matches){ySave=window.scrollY;document.documentElement.classList.add('pesopen');window.scrollTo(0,0)}else document.body.style.overflow='hidden';box.scrollTop=0};
+const close=()=>{ov.classList.remove('on');st.exp={};st.nOpen=false;st.nmsg='';if(st.view==='list')paint();const m=document.documentElement.classList.contains('pesopen');document.documentElement.classList.remove('pesopen');document.body.style.overflow='';if(m)window.scrollTo(0,ySave);fab.focus({preventScroll:true})};
+
+function schedulePreview(){}
+let pre=null,preAt=0,pend=0,rfAt=0;
+const prefetch=()=>{if(!API||!getS())return;preAt=Date.now();pre=api({a:'list',s:getS()})};
+// seznam přijde rychle bez počtů nabídek; počty se dopočítají zvlášť (a u starší verze serveru už jsou v seznamu)
+const carry=(nw,old,skip)=>{(nw||[]).forEach(x=>{if(x.matchNow===undefined){const o=(old||[]).find(y=>y.id===x.id);if(o&&o.matchNow!==undefined&&x.id!==skip)x.matchNow=o.matchNow}});return nw};
+let cntReq=0;
+let cntAt=0;
+async function fetchCounts(soft){
+  if(soft&&Date.now()-cntAt<60000&&!st.rules.some(x=>x.matchNow===undefined))return;
+  cntAt=Date.now();const me=++cntReq,r=await api({a:'counts',s:getS()});
+  if(me!==cntReq||!r.ok||!r.counts)return;
+  st.rules.forEach(x=>{if(x.id in r.counts)x.matchNow=r.counts[x.id]});saveC();
+  if(st.view==='list'&&ov.classList.contains('on')&&!busy)paint()
+}
+async function silentRefresh(){
+  const r=await api({a:'list',s:getS()});
+  if(!r.ok||st.view!=='list'||busy||pend||!ov.classList.contains('on'))return;
+  const strip=a=>JSON.stringify((a||[]).map(x=>Object.assign({},x,{matchNow:0})));const same=strip(r.rules)===strip(st.rules);
+  st.email=r.email;st.rules=carry(r.rules,st.rules);st.max=r.max||MAXR;saveC();if(!same)paint();fetchCounts(true)
+}
+// po návratu na kartu/aplikaci hned stáhni čerstvá data (změny z jiného zařízení)
+const refreshSoon=()=>{
+  if(!API||!getS()||document.hidden||Date.now()-rfAt<1500)return;rfAt=Date.now();
+  if(ov.classList.contains('on')){if(st.view==='list'&&!busy&&!pend)silentRefresh()}else prefetch()
+};
+document.addEventListener('visibilitychange',refreshSoon);window.addEventListener('focus',refreshSoon);window.addEventListener('pageshow',e=>{if(e.persisted)refreshSoon()});
+async function loadList(){
+  // čerstvá data: buď už je načtená z pozadí (rychlé), nebo ukážeme načítání a počkáme – nikdy neukazujeme zastaralý seznam
+  if(!pre||Date.now()-preAt>15000)prefetch();
+  const c=readC(),req=pre;go('load');
+  const r=await req;if(pre===req)pre=null;
+  if(r.ok){st.email=r.email;st.rules=carry(r.rules,c&&c.r);st.max=r.max||MAXR;go('list');fetchCounts()}
+  else if(r.error==='auth'){setS('');go('email',{msg:'Přihlášení vypršelo. Zadej e-mail a pošleme ti nový odkaz.'})}
+  else if(c){st.email=c.e;st.rules=c.r;st.max=c.m||MAXR;go('list',{msg:'Nepodařilo se načíst aktuální stav, zobrazuji poslední uložený.'})}
+  else go('email',{msg:r.error})
+}
+
+async function act(a,el){
+  if(busy&&a!=='close')return;
+  const id=el&&el.dataset.id;
+  switch(a){
+    case'close':return close();
+    case'nlist':{const k=st.nove&&st.nove.keys;close();if(k&&k.length){render();const h=document.querySelector('#cards .hd'),c=h?h.closest('.card'):document.getElementById('cards');if(c)c.scrollIntoView({block:'start'})}return}
+    case'nhl':return API?(getS()?loadList():go('email')):go('soon');
+    case'nopen':{st.nOpen=!st.nOpen;st.nmsg='';paint();if(st.nOpen)setTimeout(()=>{const el=box.querySelector('.nbox');if(el)el.scrollIntoView({behavior:'smooth',block:'nearest'})},40);return}
+    case'pushtog':return st.push==='on'?pushOff():pushOn();
+    case'mailtog':{const to=!MAILON;MAILON=to;st.nmsg='';paint();const sq=++PSEQ;PPEND++;const r=await api({a:'prefs',s:getS(),mail:to});PPEND--;PLAST=Date.now();if(sq!==PSEQ)return;if(!r||!r.ok){MAILON=!to;st.nmsg=(r&&r.error==='neznámá akce')?'Server ještě neumí uložit toto nastavení. Je potřeba nasadit novou verzi skriptu Hlídače (Code.gs).':(r&&r.error)||'Nastavení se nepodařilo uložit.'}else if(typeof r.mail==='boolean')MAILON=r.mail;paint();return}
+    case'pushon':return pushOn();
+    case'pushoff':return pushOff();
+    case'pushtest':return pushTest();
+    case'hexp':{st.exp[id]=!st.exp[id];paint();return}
+    case'send':case'resend':{
+      const email=(a==='resend'?st.sentTo:(document.getElementById('pe')||{}).value||'').trim();
+      st.email=email;busy=true;st.msg='';paint();
+      const rid=STANDALONE?newRid():'';
+      const r=await api({a:'login',email,rid});busy=false;
+      if(r.ok){go('sent',{sentTo:email.toLowerCase(),rid,ok:a==='resend'?'Poslali jsme nový odkaz.':''});if(rid)pollLogin(rid)}else{st.msg=r.error||'Něco se nepovedlo.';paint()}return}
+    case'confirm':{
+      busy=true;paint();const r=await api({a:'exchange',t:st.tok,confirm:true});busy=false;
+      if(r.ok&&r.handoff)go('handoff');else if(r.ok&&r.session){setS(r.session);loadList()}else{st.msg=r.error||'Odkaz už nefunguje. Nech si poslat nový.';paint()}return}
+    case'other':return go('email',{email:''});
+    case'new':st.ed={id:'',name:'',brands:{},fuel:'',gear:'',maxPrice:'',expires:'',freq:'hned'};st.pv='';st.bcol={};go('edit');return schedulePreview();
+    case'edit':{const r=st.rules.find(x=>x.id===id);if(!r)return;return openEdit(r)}
+    case'back':return go(getS()?'list':'email');
+    case'odd':st.oOpen=!st.oOpen;return paint();
+    case'oclose':st.oOpen=false;return paint();
+    case'fuel':st.ed.fuel=st.ed.fuel===el.dataset.v?'':el.dataset.v;return paint();
+    case'gear':st.ed.gear=st.ed.gear===el.dataset.v?'':el.dataset.v;return paint();
+    case'cal':{const b=/^\d{4}-\d{2}-\d{2}$/.test(st.ed.expires)?st.ed.expires:todayIso();st.cal={y:+b.slice(0,4),m:+b.slice(5,7)-1};return paint()}
+    case'calx':st.cal=null;return paint();
+    case'calclear':st.ed.expires='';st.cal=null;return paint();
+    case'calpick':st.ed.expires=el.dataset.d;return paint();
+    case'calprev':case'calnext':{const c=st.cal,k=a==='calnext'?1:-1,d=new Date(c.y,c.m+k,1);st.cal={y:d.getFullYear(),m:d.getMonth()};return paint()}
+    case'obrand':{const b=el.dataset.b,o=st.ed.brands;if(b in o&&!(o[b]||[]).length)delete o[b];else o[b]=[];return paint()}
+    case'omodel':{const b=el.dataset.b,m=el.dataset.m,o=st.ed.brands,L=o[b]||[];const k=L.indexOf(m);if(k<0)L.push(m);else L.splice(k,1);if(L.length)o[b]=L;else delete o[b];return paint()}
+    case'obx':{const b=el.dataset.b;st.bcol=st.bcol||{};st.bcol[b]=!brandOpen(b);return paint()}
+    case'oclear':st.ed.brands={};return paint();
+    case'save':{
+      
+      busy=true;paint();const r=await api({a:'save',s:getS(),rule:ruleFromEd()});busy=false;
+      if(r.ok){st.rules=carry(r.rules,st.rules,st.ed&&st.ed.id);go('list');fetchCounts()}else if(r.error==='auth'){setS('');go('email',{msg:'Přihlášení vypršelo. Zadej e-mail znovu.'})}else{st.msg=r.error||'Uložení se nepovedlo.';paint()}return}
+    case'toggle':{const r=st.rules.find(x=>x.id===id);if(!r)return;if(r.expired)return openEdit(r);const to=!r.active;r.active=to;saveC();paint();let res;pend++;try{res=await api({a:'toggle',s:getS(),id,active:to})}catch(e){res={ok:false,error:'Nepodařilo se uložit, zkus to znovu.'}}pend--;if(!res||!res.ok){const q=st.rules.find(x=>x.id===id);if(q)q.active=!to;saveC();st.msg=(res&&res.error)||'Nepodařilo se uložit, zkus to znovu.';paint()}else fetchCounts();return}
+    case'delask':st.delId=id;st.msg='';return paint();
+    case'delno':st.delId='';return paint();
+    case'del':{busy=true;paint();const res=await api({a:'del',s:getS(),id});busy=false;st.delId='';if(res.ok){st.rules=carry(res.rules,st.rules);saveC();paint()}else{st.msg=res.error||'Smazání se nepovedlo.';paint()}return}
+    case'logout':await api({a:'logout',s:getS()});setS('');return go('email',{email:'',sentTo:'',rules:[],ed:null,tok:'',ok:'Toto zařízení je odhlášené.'});
+    case'wipeask':return go('wipe');
+    case'wipedo':{busy=true;paint();const r=await api({a:'wipe',s:getS(),t:st.tok});busy=false;
+      if(r.ok){setS('');go('done',{email:'',sentTo:'',rules:[],ed:null,tok:'',ok:'Všechno je smazané. Už ti nepošleme žádný e-mail.'})}else{st.msg=r.error==='auth'?'Odkaz už nefunguje.':(r.error||'Mazání se nepovedlo.');paint()}return}
+  }
+}
+
+box.addEventListener('click',e=>{const el=e.target.closest('[data-act]');if(!el)return;e.preventDefault();act(el.dataset.act,el)});
+box.addEventListener('input',e=>{const i=e.target.id,d=st.ed;if(!d)return;if(i==='pn')d.name=e.target.value;else if(i==='pp'){d.maxPrice=e.target.value;schedulePreview()}else if(i==='pk'){d.keywords=e.target.value;schedulePreview()}else if(i==='pd'){d.expires=e.target.value}});
+box.addEventListener('keydown',e=>{if(e.key==='Enter'&&e.target.id==='pe'){e.preventDefault();act('send')}});
+ov.addEventListener('click',e=>{if(e.target===ov)close()});
+document.addEventListener('keydown',e=>{if(e.key==='Escape'&&ov.classList.contains('on')){if(st.cal){st.cal=null;paint()}else close()}});
+['pointerenter','touchstart','focus'].forEach(ev=>fab.addEventListener(ev,warm,{once:true,passive:true}));
+fab.onclick=()=>{open();if(!API)return go('soon');if(getS())loadList();else go('email')};
+
+// automatická aktualizace: když je na webu novější verze stránky než ta, kterou má prohlížeč v paměti, stránka se jednou sama načte znovu
+const BUILD='2026-11-11-a';
+async function checkBuild(){
+  try{
+    if(ov.classList.contains('on')||document.hidden)return;
+    const t=await (await fetch(location.pathname+'?_='+Date.now(),{cache:'no-store'})).text();
+    const m=t.match(/const BUILD='([^']+)'/);
+    if(m&&m[1]!==BUILD&&sessionStorage.getItem('pesRl')!==m[1]){sessionStorage.setItem('pesRl',m[1]);location.reload()}
+  }catch(e){}
+}
+setTimeout(checkBuild,2500);document.addEventListener('visibilitychange',()=>{if(!document.hidden)setTimeout(checkBuild,800)});
+if(API&&getS())setTimeout(prefetch,250);
+// aplikace na ploše má vlastní úložiště: odkaz z e-mailu se otevře v Safari, tady si přihlášení vyzvedneme dotazem
+const STANDALONE=(()=>{try{return matchMedia('(display-mode: standalone)').matches||navigator.standalone===true}catch(e){return false}})();
+
+// ---- po klepnutí na notifikaci: celá obrazovka s novými nabídkami ----
+function parseNove(h){const m=(h||'').match(/^#nove=([A-Za-z0-9_-]+)$/);if(!m)return null;try{let b=m[1].replace(/-/g,'+').replace(/_/g,'/');while(b.length%4)b+='=';const j=JSON.parse(new TextDecoder().decode(Uint8Array.from(atob(b),c=>c.charCodeAt(0))));return j&&Array.isArray(j.g)?j:null}catch(e){return null}}
+
+
+async function reloadItems(){try{const d=await (await fetch('../data/leasing/offers.json',{cache:'no-cache'})).json();items=(d.offers||[]).filter(o=>o&&o.price&&o.url);render()}catch(e){}}
+async function showNove(h){
+  const d=parseNove(h);if(!d)return false;
+  const need=new Set(d.g.flatMap(g=>(g.i||[])));
+  const have=()=>{const m={};items.forEach(x=>{const k=h53(oidC(x));if(need.has(k))m[k]=x});return m};
+  let m=have();
+  if(!items.length||Object.keys(m).length<need.size){await reloadItems();m=have()}
+  const groups=d.g.map(g=>({n:String(g.n||''),x:(g.i||[]).map(k=>m[k]).filter(Boolean)})).filter(g=>g.x.length);
+  if(!groups.length)return false;
+  st.nove={groups,keys:groups.flatMap(g=>g.x.map(x=>h53(oidC(x)))),more:Math.max(0,(Number(d.t)||0)-groups.reduce((n,g)=>n+g.x.length,0))};
+  open();go('nove');return true;
+}
+function noveCard(x){
+  const vat=x.vat==='bez'?' · bez DPH':x.vat==='s'?' · s DPH':'';
+  return `<article class="ncard"><div class="nct"><span class="nci">${ICON[x.fuel]||CAR}${hlBadge()}</span><span>${E(x.title)}</span></div><div class="ncr"><span>${E(x.source||'')}</span><span class="ncp"><b>od ${E(kc(x.price))}</b><small>/ měsíc${vat}</small></span></div><a class="ncb" target="_blank" rel="noopener noreferrer" href="${E(x.url)}">Zobrazit nabídku</a></article>`;
+}
+
+function vNove(){
+  const n=st.nove;if(!n)return vEmail();
+  const cnt=k=>k+' '+(k===1?'nová':k<5?'nové':'nových');
+  const one=n.groups.length===1;
+  const sec=n.groups.map(g=>(one?'':`<h4 class="ngh"><span>${E(g.n)}</span><small>${cnt(g.x.length)}</small></h4>`)+g.x.map(noveCard).join('')).join('');
+  return head('Nové nabídky',one?E(n.groups[0].n):'z tvého Hlídače')+`<div class="nsc">${sec}${n.more?`<p class="psm">… a dalších ${n.more} najdeš v seznamu.</p>`:''}</div><div class="nbar"><button type="button" class="lnk" data-act="nhl">Otevřít Hlídače</button></div>`;
+}
+
+const noveGo=h=>{if(!/^#nove=/.test(h||''))return;showNove(h).then(ok=>{if(ok)try{history.replaceState(null,'',location.pathname+location.search)}catch(e){}})};
+if(/^#nove=/.test(location.hash))setTimeout(()=>noveGo(location.hash),300);
+addEventListener('hashchange',()=>noveGo(location.hash));
+if('serviceWorker' in navigator&&navigator.serviceWorker.addEventListener)navigator.serviceWorker.addEventListener('message',e=>{const d=e.data;if(d&&d.a==='nove'){try{noveGo(new URL(d.url).hash)}catch(x){}}});
+
+// ---- upozornění v telefonu (web push + číslo na ikoně) ----
+const VAPID='BKs66lGlOMTWX0l83WsRrJaRdM4xOVNd3hoemksen0d9QSrgRfYNGtf-fY5mLF_uB7R3Ub1L7cDOYY2jFEzApkA';
+const IOS=/iPad|iPhone|iPod/.test(navigator.userAgent)||(navigator.platform==='MacIntel'&&navigator.maxTouchPoints>1);
+const u8=b=>{b=b.replace(/-/g,'+').replace(/_/g,'/');while(b.length%4)b+='=';return Uint8Array.from(atob(b),c=>c.charCodeAt(0))};
+const PUSHOK=()=>'serviceWorker' in navigator&&'PushManager' in window&&'Notification' in window;
+if('serviceWorker' in navigator&&(location.protocol==='https:'||location.hostname==='localhost'))navigator.serviceWorker.register('../sw.js').catch(()=>{});
+const clearBadge=()=>{try{navigator.clearAppBadge&&navigator.clearAppBadge()}catch(e){}try{caches.delete('pesbadge')}catch(e){}};
+clearBadge();document.addEventListener('visibilitychange',()=>{if(!document.hidden)clearBadge()});
+let psync=false;
+async function pushRefresh(){
+  let s;
+  if(!PUSHOK())s=IOS&&!STANDALONE?'ios':'no';
+  else if(Notification.permission==='denied')s='denied';
+  else{try{const reg=await navigator.serviceWorker.getRegistration();const sub=reg&&await reg.pushManager.getSubscription();s=sub&&Notification.permission==='granted'?'on':'off';if(s==='on'&&!psync&&getS()){psync=true;api({a:'pushSub',s:getS(),sub:sub.toJSON()})}}catch(e){s='off'}}
+  if(st.push!==s){st.push=s;if(st.view==='list')paint()}
+}
+async function pushOn(){
+  if(!PUSHOK())return;
+  let perm;try{perm=await Notification.requestPermission()}catch(e){perm='denied'}
+  if(perm!=='granted'){st.push=perm==='denied'?'denied':'off';st.nmsg='';return paint()}
+  st.pbusy=true;paint();
+  try{
+    const reg=await navigator.serviceWorker.ready;
+    const sub=await reg.pushManager.subscribe({userVisibleOnly:true,applicationServerKey:u8(VAPID)});
+    const r=await api({a:'pushSub',s:getS(),sub:sub.toJSON()});
+    if(!r||!r.ok){try{await sub.unsubscribe()}catch(e){}st.nmsg=(r&&r.error)||'Notifikace se nepodařilo zapnout.';st.push='off'}
+    else{st.push='on';st.nmsg='';psync=true}
+  }catch(e){st.nmsg='Notifikace se nepodařilo zapnout.';st.push='off'}
+  st.pbusy=false;paint();
+}
+async function pushOff(){
+  st.pbusy=true;paint();
+  try{const reg=await navigator.serviceWorker.getRegistration();const sub=reg&&await reg.pushManager.getSubscription();if(sub){await api({a:'pushOff',s:getS(),endpoint:sub.endpoint});await sub.unsubscribe()}}catch(e){}
+  st.push='off';st.pbusy=false;st.nmsg='';paint();
+}
+async function pushTest(){
+  st.pbusy=true;paint();
+  const r=await api({a:'pushTest',s:getS()});
+  st.pbusy=false;st.nmsg=r&&r.ok&&r.sent>0?'Zkušební notifikace je na cestě.':(r&&r.error)||'Zkušební notifikaci se nepodařilo odeslat.';paint();
+}
+function pushCard(){
+  const BELL='<svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 8a6 6 0 0 1 12 0c0 7 3 9 3 9H3s3-2 3-9"/><path d="M10.3 21a1.94 1.94 0 0 0 3.4 0"/></svg>';
+  const s=st.push,pOn=PSRV&&s==='on',pShow=PSRV&&s&&s!=='no',d=st.pbusy?' disabled':'';
+  const val=pOn&&MAILON?'Push + e-mail':pOn?'Jen push':MAILON?'Jen e-mail':'Vypnuto';
+  const IC=i=>`<span class="ic">${i}</span>`,SV=p=>`<svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${p}</svg>`;
+  const ICP=IC(SV('<path d="M6 8a6 6 0 0 1 9.4-4.9M18 8c0 7 3 9 3 9H3s3-2 3-9"/><path d="M10.3 21a1.94 1.94 0 0 0 3.4 0"/><circle cx="18.5" cy="5.5" r="2.6" fill="currentColor" stroke="none"/>')),ICM=IC(SV('<rect x="2" y="4" width="20" height="16" rx="2.5"/><path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"/>'));
+  const SW=(on,act,lab)=>`<button type="button" class="tg${on?'':' off'}" data-act="${act}" role="switch" aria-checked="${on}" aria-label="${lab}"${d}></button>`;
+  let rows='';
+  if(pShow){
+    if(s==='ios')rows+='<div class="nr">'+ICP+'<div class="tx"><b>Push</b><small>Přidej greg na plochu (Sdílet → Přidat na plochu) a otevři ho odtud, pak tu půjde zapnout.</small></div></div>';
+    else if(s==='denied')rows+='<div class="nr">'+ICP+'<div class="tx"><b>Push</b><small>Je zakázaný v nastavení telefonu. Povol ho u aplikace greg a vrať se sem.</small></div></div>';
+    else rows+=`<div class="nr">${ICP}<div class="tx"><b>Push</b><small>Toto zařízení${st.pbusy?' · …':''}</small></div>${SW(s==='on','pushtog','Push notifikace v tomto zařízení')}</div>`;
+  }
+  rows+=`<div class="nr">${ICM}<div class="tx"><b>E-mail</b><small>${E(st.email)}</small></div>${SW(MAILON,'mailtog','E-mailové notifikace')}</div>`;
+  let foot='';
+  if(!pOn&&!MAILON)foot+='<p class="nn">Teď ti nepřijde žádná notifikace.</p>';
+  if(st.nmsg)foot+=`<p class="nn err">${E(st.nmsg)}</p>`;
+  if(pOn)foot+=`<p class="nn"><button type="button" class="lnk" data-act="pushtest"${d}>Poslat zkušební notifikaci</button></p>`;
+  return `<div class="nbox"><button type="button" class="qrow" data-act="nopen" aria-expanded="${!!st.nOpen}"><span class="ic">${BELL}</span><span class="tx"><b>Notifikace</b></span><span class="vl">${val}</span><span class="chev${st.nOpen?' op':''}">›</span></button>${st.nOpen?`<div class="npan">${rows}${foot}</div>`:''}</div>`;
+}
+
+const newRid=()=>{const a=new Uint8Array(16);(crypto.getRandomValues?crypto.getRandomValues(a):a.forEach((_,i)=>a[i]=Math.random()*256));return[...a].map(x=>x.toString(16).padStart(2,'0')).join('')};
+let pollT=0,pollRid='';
+function pollLogin(rid){
+  pollRid=rid;clearInterval(pollT);const t0=Date.now();let busyP=false;
+  const tick=async()=>{
+    if(pollRid!==rid||st.view!=='sent'||st.rid!==rid||Date.now()-t0>31*60000){if(pollRid===rid||st.view!=='sent')clearInterval(pollT);return}
+    if(busyP||document.hidden)return;busyP=true;
+    try{const r=await api({a:'poll',rid});if(r.ok&&r.session&&pollRid===rid){clearInterval(pollT);pollRid='';setS(r.session);if(Array.isArray(r.rules)){st.email=r.email;st.rules=r.rules;st.max=r.max||MAXR;go('list');fetchCounts()}else loadList()}}catch(e){}
+    busyP=false};
+  pollT=setInterval(tick,3000);document.addEventListener('visibilitychange',()=>{if(!document.hidden)tick()});
+}
+// odkazy z e-mailu: #pes=… (přihlášení) a #odhlasit=… (odhlášení)
+async function fromHash(){
+  const m=location.hash.match(/^#(pes|odhlasit)=(t[0-9a-f]{20,})$/);if(!m||!API)return;
+  const type=m[1],t=m[2];history.replaceState(null,'',location.pathname+location.search);open();
+  if(type==='odhlasit')return go('wipe',{tok:t,email:''});
+  go('load');const r=await api({a:'exchange',t});
+  if(r.ok&&r.confirm)return go('confirm',{tok:t,email:r.email});
+  if(r.ok&&!r.session)return go('email',{msg:'Přihlášení se nepovedlo. Zkus to prosím znovu.'});
+  if(r.ok){setS(r.session);if(Array.isArray(r.rules)){st.email=r.email;st.rules=r.rules;st.max=r.max||MAXR;go('list');fetchCounts()}else loadList()}else go('email',{msg:r.error||'Odkaz už nefunguje. Nech si poslat nový.'})
+}
+fromHash();
+window.addEventListener('hashchange',fromHash);
+
+/*HLJS-END*/
 })();</script></body></html>
