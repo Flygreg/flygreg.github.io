@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T15:05:59.785084+00:00",
+  "updated": "2026-11-11T17:12:16.720392+00:00",
   "offers": [
     {
       "title": "Přímé letenky na MADEIRU - 5 475 Kč",
@@ -12,6 +12,35 @@
       "image": "",
       "id": "https://honzovyletenky.cz/prime-letenky-na-madeiru-5/",
       "firstSeen": "2026-11-11T15:05:59.785084+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Holiday in Fuerteventura for €352 p.p. 🏖️ Cheap flights from Vienna + 7-night stay at well-rated aparthotel",
+      "summary": "Great price for a sunny escape to the Canary Islands! Book cheap non-stop flights from Vienna and secure your stay at the highly rated aparthotel for only €352 per person (based on 2 people sharing).",
+      "url": "https://www.fly4free.com/flight-deals/europe/holiday-in-fuerteventura-from-vienna-e352/",
+      "source": "Fly4free.com",
+      "date": "2026-11-11T16:00:57+00:00",
+      "dateLabel": "11. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/holiday-in-fuerteventura-from-vienna-e352/",
+      "firstSeen": "2026-11-11T17:12:16.720392+00:00",
+      "priceOrig": {
+        "amount": 352,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "Týden na Zanzibaru v 5* resortu u bílé pláže s All Inclusive za 25 990 Kč s odletem z Prahy i Bratislavy",
+      "summary": "Užijte si týden na Zanzibaru v 5* resortu s All Inclusive od 25 990 Kč. Čeká vás bílý písek, Stone Town i vůně koření. Odlety z Prahy i Bratislavy.",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/tyden-na-zanzibaru-v-5-resortu-u-bile-plaze-s-all-inclusive-za-25-990-kc-s-odletem-z-prahy-i-bratislavy?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-11-11T15:14:33+00:00",
+      "dateLabel": "11. 11. 2026",
+      "price": 25990,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/tyden-na-zanzibaru-v-5-resortu-u-bile-plaze-s-all-inclusive-za-25-990-kc-s-odletem-z-prahy-i-bratislavy?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-11-11T17:12:16.720392+00:00",
       "priceOrig": null
     },
     {
@@ -1020,7 +1049,7 @@
       "priceOrig": null
     },
     {
-      "title": "PEAK SEASON 🌊 🌴 Cheap full-service flights from London to Philippines 🏝️ for £425",
+      "title": "PEAK SEASON 🌊 🌴 Cheap full-service flights from London to Philippines for £425",
       "summary": "Dreaming of white-sand beaches and tropical sunsets? This excellent flight deal makes the Philippines more accessible than ever! Full-service flights with Xiamen Airlines to Manila start from just £425 return, offering fantastic value for l",
       "url": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-the-philippines-p425/",
       "source": "Fly4free.com",
@@ -3804,103 +3833,6 @@
       "image": "",
       "id": "https://levnocestovani.cz/akcni-zajezdy/last-minute-tenerife-4-blue-sea-puerto-resort-all-inclusive-a-odlet-z-prahy-jiz-zitra-za-11-490-kc?utm_source=rss&utm_medium=feed",
       "firstSeen": "2026-11-04T19:14:45.189881+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Round the World Trip 🌍 🤩 from Dublin for €919: Canada ✈ The USA ✈ Singapore ✈ Malaysia ✈ Vietnam",
-      "summary": "This is a proper round-the-world adventure, moving steadily west from Europe to Canada, crossing the Pacific into Southeast Asia, then continuing through Malaysia and Vietnam before returning to Dublin. And the variety is fantastic: Canadia",
-      "url": "https://www.fly4free.com/flight-deals/europe/round-the-world-trip-from-dublin/",
-      "source": "Fly4free.com",
-      "date": "2026-11-04T17:00:56+00:00",
-      "dateLabel": "4. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/round-the-world-trip-from-dublin/",
-      "firstSeen": "2026-11-04T17:10:05.531463+00:00",
-      "priceOrig": {
-        "amount": 919,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "United Airlines: Praha - Aruba - 12 790 Kč",
-      "summary": "",
-      "url": "https://www.akcniletenky.com",
-      "source": "AkčníLetenky.com",
-      "date": "2026-11-04T17:00:00+00:00",
-      "dateLabel": "4. 11. 2026",
-      "price": 12790,
-      "image": "",
-      "id": "691",
-      "firstSeen": "2026-11-04T19:14:45.189881+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "10 Best Places to Spend Christmas as a Solo Traveller",
-      "summary": "No one to spend Christmas with this year? In New York, you can head to a singles party, in Berlin, attend a free Christmas Eve gala, or in Paris, share a festive meal with strangers, exchange gifts and dance until 2am. For those looking for",
-      "url": "https://www.fly4free.com/news/christmas-with-strangers-10-places-around-the-world-for-solo-travellers/",
-      "source": "Fly4free.com",
-      "date": "2026-11-04T16:54:59+00:00",
-      "dateLabel": "4. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/news/christmas-with-strangers-10-places-around-the-world-for-solo-travellers/",
-      "firstSeen": "2026-11-04T17:10:05.531463+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Maledivy z Vídně: přes hlavní sezonu s Etihad Airways za 13 763 Kč",
-      "summary": "Rezervuj: přes náš vyhledávač Zavazadla: příručák s limitem 7 kg Dostupnost: leden – květen 2027 Termíny za 13 763 Kč: → Zobrazit kalendář Uvedená cena platí při použití kódu „ZALETSI“ v posledním kroku rezervace. O akci Lákavé cenovky u le",
-      "url": "https://zaletsi.cz/akce/maledivy-z-vidne-pres-hlavni-sezonu-s-etihad-airways/",
-      "source": "Zaleťsi.cz",
-      "date": "2026-11-04T16:23:29+00:00",
-      "dateLabel": "4. 11. 2026",
-      "price": 13763,
-      "image": "",
-      "id": "https://zaletsi.cz/akce/maledivy-z-vidne-pres-hlavni-sezonu-s-etihad-airways/",
-      "firstSeen": "2026-11-05T13:28:47.173883+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Týden u nádherné pláže Bávaro za 24 990 Kč s přímým letem z Prahy",
-      "summary": "Užijte si listopad pod palmami v Dominikáně! Čeká vás 4* resort u pláže s bílým pískem, tropické zahrady a 5 à la carte restaurací. Objevte nabídku Čedoku.",
-      "url": "https://levnocestovani.cz/akcni-zajezdy/tyden-u-nadherne-plaze-bavaro-za-24-990-kc-s-primym-letem-z-prahy?utm_source=rss&utm_medium=feed",
-      "source": "Levnocestovani.cz",
-      "date": "2026-11-04T16:05:53+00:00",
-      "dateLabel": "4. 11. 2026",
-      "price": 24990,
-      "image": "",
-      "id": "https://levnocestovani.cz/akcni-zajezdy/tyden-u-nadherne-plaze-bavaro-za-24-990-kc-s-primym-letem-z-prahy?utm_source=rss&utm_medium=feed",
-      "firstSeen": "2026-11-04T17:10:05.531463+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Bargain fares 🌴 🥥 Non-stop flights from Paris to Sri Lanka from €590",
-      "summary": "Want a tropical trip with a little more depth than just beaches? French bee is offering direct return flights from Paris to Colombo from just €590, including high-season dates — a very attractive fare for one of Asia’s most varied destinati",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-paris-to-sri-lanka-e590/",
-      "source": "Fly4free.com",
-      "date": "2026-11-04T15:30:00+00:00",
-      "dateLabel": "4. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-paris-to-sri-lanka-e590/",
-      "firstSeen": "2026-11-04T17:10:05.531463+00:00",
-      "priceOrig": {
-        "amount": 590,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Levně do DOMINIKÁNSKÉ REPUBLIKY - 11 990 Kč",
-      "summary": "Letenky na pláže Dominikánské republiky bez přestupu koupíme u CK Fischer. Ve výprodeji od CK Fischer najdeme levné letenky z Prahy do La Romana v Dominikánské republice. Za zpáteční letenky bez přestupu zaplatíme 11 990 Kč. Jde o přímý let",
-      "url": "https://honzovyletenky.cz/levne-do-dominikanske-republiky-2/",
-      "source": "Honzovy letenky",
-      "date": "2026-11-04T15:21:00+00:00",
-      "dateLabel": "4. 11. 2026",
-      "price": 11990,
-      "image": "",
-      "id": "https://honzovyletenky.cz/levne-do-dominikanske-republiky-2/",
-      "firstSeen": "2026-11-04T17:10:05.531463+00:00",
       "priceOrig": null
     }
   ]
