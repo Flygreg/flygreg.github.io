@@ -226,7 +226,7 @@ footer{margin-top:35px;color:#56677e;font-size:13px}
 .pbox .vf .fstack .flag.more{display:inline-flex;align-items:center;justify-content:center;background:#e6edf6;color:#0a3f4d;font-size:11px;font-weight:800}
 .pbox .vf .flag,.pbox .vf>svg{width:46px;height:46px;border-radius:50%;display:block;box-shadow:0 0 0 1px #dde5ef}
 .pbox .vf .flag img{width:100%;height:100%;object-fit:cover;display:block}
-.pbox .vlg{width:46px;height:46px;border-radius:50%;background:#fff;box-shadow:0 0 0 1px #dde5ef;display:flex;align-items:center;justify-content:center;overflow:hidden}.pbox .vlg img{max-width:36px;max-height:30px;width:auto;height:auto;object-fit:contain;display:block}.pbox .vlg.ph{background:#e3f3f6;color:#12798f;font-size:19px;font-weight:800}
+.pbox .vlg{width:50px;height:46px;display:flex;align-items:center;justify-content:center}.pbox .vlg img{max-width:50px;max-height:44px;width:auto;height:auto;object-fit:contain;display:block}.pbox .vlg.ph{width:46px;border-radius:50%;background:#e3f3f6;color:#12798f;font-size:19px;font-weight:800}
 .pbox .vd{min-width:0;flex:1}
 .pbox .vd b{display:block;font-size:21px;line-height:1.15;color:#0a3f4d;overflow-wrap:anywhere}
 .pbox .vd small{display:block;color:#56677e;font-size:13.5px;margin-top:3px;overflow-wrap:anywhere}
@@ -793,7 +793,7 @@ document.addEventListener('keydown',e=>{if(e.key==='Escape'&&ov.classList.contai
 fab.onclick=()=>{open();if(!API)return go('soon');if(getS())loadList();else go('email')};
 
 // automatická aktualizace: když je na webu novější verze stránky než ta, kterou má prohlížeč v paměti, stránka se jednou sama načte znovu
-const BUILD='2026-11-11-m';
+const BUILD='2026-11-11-n';
 async function checkBuild(){
   try{
     if(ov.classList.contains('on')||document.hidden)return;
