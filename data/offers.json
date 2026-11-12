@@ -1,6 +1,48 @@
 {
-  "updated": "2026-11-11T21:47:57.771219+00:00",
+  "updated": "2026-11-12T07:36:10.040659+00:00",
   "offers": [
+    {
+      "title": "Na víkend do GDAŇSKU - 895 Kč",
+      "summary": "Za výhodnou cenu pořídíme letenky na sever Polska. Zpáteční letenky z Prahy do Gdaňsku pořídíme už za 895 Kč. Nejvýhodnější letenky jsou dostupné na víkendové pobyty a to s ideálním odletem v sobotu ráno a návratem v pondělí pozdě večer. V",
+      "url": "https://honzovyletenky.cz/na-vikend-do-gdansku-2/",
+      "source": "Honzovy letenky",
+      "date": "2026-11-12T08:04:29+00:00",
+      "dateLabel": "12. 11. 2026",
+      "price": 895,
+      "image": "",
+      "id": "https://honzovyletenky.cz/na-vikend-do-gdansku-2/",
+      "firstSeen": "2026-11-12T07:36:10.040659+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Cheap last-minute direct flights from Warsaw to Cape Verde 🏝️ for €335",
+      "summary": "Discover a tropical paradise in the Atlantic Ocean, where golden beaches, turquoise waters and spectacular volcanic landscapes await! Enter Air is offering discounted direct flights from Warsaw or Katowice to the sun-soaked island of Sal st",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-warsaw-to-cape-verde-e335/",
+      "source": "Fly4free.com",
+      "date": "2026-11-12T07:00:13+00:00",
+      "dateLabel": "12. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-warsaw-to-cape-verde-e335/",
+      "firstSeen": "2026-11-12T07:36:10.040659+00:00",
+      "priceOrig": {
+        "amount": 335,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "Ryanair: Ostrava - Malaga - 1 070 Kč",
+      "summary": "",
+      "url": "https://www.akcniletenky.com",
+      "source": "AkčníLetenky.com",
+      "date": "2026-11-12T07:00:00+00:00",
+      "dateLabel": "12. 11. 2026",
+      "price": 1070,
+      "image": "",
+      "id": "718",
+      "firstSeen": "2026-11-12T07:36:10.040659+00:00",
+      "priceOrig": null
+    },
     {
       "title": "GREAT DEAL 🤩 Cheap full-service flights from London to Brunei for £453",
       "summary": "Experience award-winning service and world-class comfort with Singapore Airlines on your next adventure to Brunei. For a limited time, you can book return flights from London to Bandar Seri Begawan starting at only £453.",
@@ -3823,48 +3865,6 @@
       "image": "",
       "id": "https://zaletsi.cz/zajezdy/zajezd-na-porto-santo-z-prahy-skvele-hodnoceny-5-hotel-s-all-inclusive/",
       "firstSeen": "2026-11-05T13:28:47.173883+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Řím, Itálie – letenky za 1447 Kč",
-      "summary": "Řím je město, kde starověk není muzejní exponát, ale kulisa, ve které si kupujete rohlík. Foro Romano, Koloseum, Pantheon, Vatikán – všechno tohle tu existuje bok po boku s kavárnou, kde si dáte espresso u pultu a nikdo vám neúčtuje příplat",
-      "url": "https://www.levneletenkyzprahy.cz/2749_rim,-italie-–-letenky-za-1447-kc",
-      "source": "Levné letenky z Prahy",
-      "date": "2026-11-05T07:34:14+00:00",
-      "dateLabel": "5. 11. 2026",
-      "price": 1447,
-      "image": "",
-      "id": "https://www.levneletenkyzprahy.cz/2749_rim,-italie-–-letenky-za-1447-kc",
-      "firstSeen": "2026-11-05T07:35:17.834117+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Lower fares just landed! 💥 Cheap non-stop flights from Oslo to Thailand 🌴 from €335",
-      "summary": "Dreaming of turquoise waters, white sand beaches, and tropical adventures? Now’s the perfect time to plan your escape! Discover the beauty of Thailand with discounted Norse flights starting at just €335 round-trip.",
-      "url": "https://www.fly4free.com/flight-deals/europe/direct-flights-from-oslo-to-thailand-e335/",
-      "source": "Fly4free.com",
-      "date": "2026-11-05T07:00:11+00:00",
-      "dateLabel": "5. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/direct-flights-from-oslo-to-thailand-e335/",
-      "firstSeen": "2026-11-05T07:35:17.834117+00:00",
-      "priceOrig": {
-        "amount": 335,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Wizz Air: Praha - Skopje - 892 Kč",
-      "summary": "",
-      "url": "https://www.akcniletenky.com",
-      "source": "AkčníLetenky.com",
-      "date": "2026-11-05T07:00:00+00:00",
-      "dateLabel": "5. 11. 2026",
-      "price": 892,
-      "image": "",
-      "id": "692",
-      "firstSeen": "2026-11-05T07:35:17.834117+00:00",
       "priceOrig": null
     }
   ]
