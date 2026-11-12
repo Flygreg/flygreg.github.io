@@ -1,6 +1,51 @@
 {
-  "updated": "2026-11-12T19:13:08.553322+00:00",
+  "updated": "2026-11-12T21:02:23.032895+00:00",
   "offers": [
+    {
+      "title": "Act fast, new lower fares to Sri Lanka! 💥 Last-minute full-service direct flights from Poland from €419",
+      "summary": "Enter Air is offering discounted flights to Colombo from just €419 return , making Sri Lanka an easy last-minute option for anyone craving beaches, jungle, tea country and a completely different climate.",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-poland-to-sri-lanka-e419/",
+      "source": "Fly4free.com",
+      "date": "2026-11-12T21:00:45+00:00",
+      "dateLabel": "12. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-poland-to-sri-lanka-e419/",
+      "firstSeen": "2026-11-12T21:02:23.032895+00:00",
+      "priceOrig": {
+        "amount": 419,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "Cheap full-service flights from many European cities to Indonesia from €451",
+      "summary": "Fly with Air China to Indonesia at a discounted price! Tickets to Jakarta are on offer from €451 for a round trip.",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-indonesia-e451/",
+      "source": "Fly4free.com",
+      "date": "2026-11-12T20:00:48+00:00",
+      "dateLabel": "12. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-indonesia-e451/",
+      "firstSeen": "2026-11-12T21:02:23.032895+00:00",
+      "priceOrig": {
+        "amount": 451,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "Dominikána s All Inclusive za 29 990 Kč. Týden ve 4* resortu u pláže Bávaro",
+      "summary": "Bílý písek pláže Bávaro, kokosové palmy a slunce při 30 °C. Užijte Punta Canu ve 4* resortu s All Inclusive a přímým letem z Prahy – prohlédněte si zájezd.",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/dominikana-s-all-inclusive-za-29-990-kc-tyden-ve-4-resortu-u-plaze-bavaro?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-11-12T19:35:38+00:00",
+      "dateLabel": "12. 11. 2026",
+      "price": 29990,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/dominikana-s-all-inclusive-za-29-990-kc-tyden-ve-4-resortu-u-plaze-bavaro?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-11-12T21:02:23.032895+00:00",
+      "priceOrig": null
+    },
     {
       "title": "NEW YORK za 9k - 8 990 Kč",
       "summary": "Nejlevnější New York je stále dostupný v nabídce Aer Lingus. Letenky z Prahy do New Yorku (letiště JFK) s návratem do Berlína pořídíme za suprovou cenu 8 990 Kč. Nejvýhodnější letenky jsou dostupné od února do května 2027. Jen o pětistovku",
@@ -3755,77 +3800,6 @@
       "image": "",
       "id": "696",
       "firstSeen": "2026-11-06T07:32:02.421809+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Full-service flights from Paris to Bali, Indonesia 🌴 for €539",
-      "summary": "Dreaming of the ultimate tropical getaway? China Eastern Airlines are offering discounted flights to Denpasar, with roundtrip fares starting from just €539 - a superb value for travel to Indonesia’s premier island escape!",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-paris-to-bali-e532-2/",
-      "source": "Fly4free.com",
-      "date": "2026-11-05T21:00:33+00:00",
-      "dateLabel": "5. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-paris-to-bali-e532-2/",
-      "firstSeen": "2026-11-05T21:02:22.291974+00:00",
-      "priceOrig": {
-        "amount": 539,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Týden na Madeiře s polopenzí z Prahy. Zájezd od 11 490 Kč",
-      "summary": "Cestovní kancelář Čedok má opět v nabídce povedené zájezdy na Madeiru. Týden s polopenzí pořídíte už za 11 490 Kč na osobu. Nejlevněji vychází zájezd do hotelového komplexu Dorisol *** v termínu 24. 11.–1. 12.",
-      "url": "https://www.cestujlevne.com/akcni-letenky/tyden-na-madeire-s-polopenzi-z-prahy",
-      "source": "CestujLevne.com",
-      "date": "2026-11-05T20:48:57+00:00",
-      "dateLabel": "5. 11. 2026",
-      "price": 11490,
-      "image": "",
-      "id": "https://www.cestujlevne.com/akcni-letenky/tyden-na-madeire-s-polopenzi-z-prahy",
-      "firstSeen": "2026-11-05T21:02:22.291974+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Flights from London to Peru for £593 🦙",
-      "summary": "Dreaming of an unforgettable South American adventure? Now is the perfect time to book discounted flights to Lima from just £593 return. This incredible Air Europa deal opens the door to one of the most diverse and fascinating destinations",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-peru-p593-2/",
-      "source": "Fly4free.com",
-      "date": "2026-11-05T20:00:21+00:00",
-      "dateLabel": "5. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-peru-p593-2/",
-      "firstSeen": "2026-11-05T21:02:22.291974+00:00",
-      "priceOrig": {
-        "amount": 593,
-        "cur": "GBP"
-      }
-    },
-    {
-      "title": "Levný VIETNAM - 10 763 Kč",
-      "summary": "V zajímavé kombinaci letů od China Eastern pořídíme levné letenky do Vietnamu. Letenky na trase Vídeň – Hanoj – Budapešť pořídíme už za 10 763 Kč. Nejvýhodnější letenky jsou dostupné na přelom listopadu a prosince 2026. Letenky jsou se dvěm",
-      "url": "https://honzovyletenky.cz/levny-vietnam/",
-      "source": "Honzovy letenky",
-      "date": "2026-11-05T19:31:49+00:00",
-      "dateLabel": "5. 11. 2026",
-      "price": 10763,
-      "image": "",
-      "id": "https://honzovyletenky.cz/levny-vietnam/",
-      "firstSeen": "2026-11-05T19:12:26.269472+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Konec listopadu v Thajsku za 23 490 Kč: 7 nocí v 5* resortu přímo u pláže",
-      "summary": "Vyměňte sychravý listopad za tropické Thajsko. Čedok nabízí zájezd do moderního 5* resortu přímo u pláže, se snídaní a přímým letem z Prahy.",
-      "url": "https://levnocestovani.cz/akcni-zajezdy/konec-listopadu-v-thajsku-za-23-490-kc-7-noci-v-5-resortu-primo-u-plaze?utm_source=rss&utm_medium=feed",
-      "source": "Levnocestovani.cz",
-      "date": "2026-11-05T19:19:22+00:00",
-      "dateLabel": "5. 11. 2026",
-      "price": 23490,
-      "image": "",
-      "id": "https://levnocestovani.cz/akcni-zajezdy/konec-listopadu-v-thajsku-za-23-490-kc-7-noci-v-5-resortu-primo-u-plaze?utm_source=rss&utm_medium=feed",
-      "firstSeen": "2026-11-05T21:02:22.291974+00:00",
       "priceOrig": null
     }
   ]
