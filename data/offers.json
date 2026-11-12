@@ -1,6 +1,64 @@
 {
-  "updated": "2026-11-12T15:10:47.882699+00:00",
+  "updated": "2026-11-12T17:15:52.177240+00:00",
   "offers": [
+    {
+      "title": "Well-rated and central 4🌟 hotel in Athens for €47/double",
+      "summary": "Athens is calling, and this hotel deal makes a Greek city break even more tempting! Stay at a well-rated 4-star hotel in a central location for only €47 per night for two people. Whether you're interested in ancient history, delicious Greek",
+      "url": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-athens-e47/",
+      "source": "Fly4free.com",
+      "date": "2026-11-12T17:00:52+00:00",
+      "dateLabel": "12. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-athens-e47/",
+      "firstSeen": "2026-11-12T17:15:52.177240+00:00",
+      "priceOrig": {
+        "amount": 47,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "GREAT DEAL 😎 Non-stop flights from Brussels to Sao Paulo, Brazil for €553",
+      "summary": "Discover the vibrant culture and stunning landscapes of Brazil! Book discounted LATAM flights to Sao Paulo starting at only €553 for a round trip.",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-brussels-to-sao-paulo-e553/",
+      "source": "Fly4free.com",
+      "date": "2026-11-12T16:00:36+00:00",
+      "dateLabel": "12. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-brussels-to-sao-paulo-e553/",
+      "firstSeen": "2026-11-12T17:15:52.177240+00:00",
+      "priceOrig": {
+        "amount": 553,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "Turkish Airlines: Praha - Bombaj - 11 790 Kč",
+      "summary": "",
+      "url": "https://www.akcniletenky.com",
+      "source": "AkčníLetenky.com",
+      "date": "2026-11-12T16:00:00+00:00",
+      "dateLabel": "12. 11. 2026",
+      "price": 11790,
+      "image": "",
+      "id": "721",
+      "firstSeen": "2026-11-12T17:15:52.177240+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "8 dní na Madeiře za 11 790 Kč: 4* resort s nádherným výhledem na Atlantik",
+      "summary": "Výhledy na Atlantik, zelené hory a vavřínový les Fanal – užijte si týden na Madeiře ve 4* resortu s polopenzí za 11 790 Kč. Odlet z Prahy už 20. listopadu.",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/8-dni-na-madeire-za-11-790-kc-4-resort-s-nadhernym-vyhledem-na-atlantik?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-11-12T15:53:52+00:00",
+      "dateLabel": "12. 11. 2026",
+      "price": 11790,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/8-dni-na-madeire-za-11-790-kc-4-resort-s-nadhernym-vyhledem-na-atlantik?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-11-12T17:15:52.177240+00:00",
+      "priceOrig": null
+    },
     {
       "title": "Levný zájezd na MADEIRU z Prahy - 8 990 Kč",
       "summary": "Levný zájezd na Madeiru koupíme u Čedoku. CK Čedok nabízí levný last minute zájezd z Prahy na Madeiru. Za týdenní zájezd do 4* hotelu se snídaní zaplatíme 8 990 Kč. V ceně zájezdu je také odbavené zavazadlo, transfery v cíli zájezdu a deleg",
@@ -3755,77 +3813,6 @@
       "image": "",
       "id": "https://levnocestovani.cz/akcni-zajezdy/za-sluncem-do-egypta-9-dni-v-marsa-alam-v-5-resortu-s-all-inclusive-od-14-670-kc?utm_source=rss&utm_medium=feed",
       "firstSeen": "2026-11-05T19:12:26.269472+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Last-minute full-service direct flights from Poland to Vietnam 😍 for €621",
-      "summary": "Wander far, pay less – Vietnam awaits! Book now affordable LOT flights to Ho Chi Minh starting at €621 for a round trip with checked bags included.",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-katowice-to-vietnam/",
-      "source": "Fly4free.com",
-      "date": "2026-11-05T17:00:07+00:00",
-      "dateLabel": "5. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-katowice-to-vietnam/",
-      "firstSeen": "2026-11-05T17:25:26.162736+00:00",
-      "priceOrig": {
-        "amount": 621,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Maledivy s plnou penzí a přímým letem. Ceny od 34 990 Kč",
-      "summary": "Užijte si 7 nocí na malém tropickém ostrově Fihalhohi! Bílé pláže, šnorchlování u korálového útesu, plná penze a přímý let z Prahy – mrkněte na nabídku Čedoku.",
-      "url": "https://levnocestovani.cz/akcni-zajezdy/maledivy-s-plnou-penzi-a-primym-letem-ceny-od-34-990-kc?utm_source=rss&utm_medium=feed",
-      "source": "Levnocestovani.cz",
-      "date": "2026-11-05T16:17:23+00:00",
-      "dateLabel": "5. 11. 2026",
-      "price": 34990,
-      "image": "",
-      "id": "https://levnocestovani.cz/akcni-zajezdy/maledivy-s-plnou-penzi-a-primym-letem-ceny-od-34-990-kc?utm_source=rss&utm_medium=feed",
-      "firstSeen": "2026-11-05T17:25:26.162736+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Qatar Airways flights from Prague to many Asian destinations from €594",
-      "summary": "Asia is closer than you think! Qatar Airways is offering fantastic fares from Prague to Vietnam, Thailand, Singapore, and Sri Lanka starting at just €594 return. Enjoy Qatar Airways' renowned full-service experience and convenient connectio",
-      "url": "https://www.fly4free.com/flight-deals/europe/qatar-airways-flights-from-prague-to-asia-e594/",
-      "source": "Fly4free.com",
-      "date": "2026-11-05T16:00:30+00:00",
-      "dateLabel": "5. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/qatar-airways-flights-from-prague-to-asia-e594/",
-      "firstSeen": "2026-11-05T17:25:26.162736+00:00",
-      "priceOrig": {
-        "amount": 594,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Omán na týden v lednu s all inclusive. Od 19 990 Kč.",
-      "summary": "Omán na týden v lednu s all inclusive za 19 990 Kč.",
-      "url": "https://www.obletsvet.cz/akcni-letenka/na-tyden-do-omanu-v-lednu-s-all-inclusive",
-      "source": "Obletsvet.cz",
-      "date": "2026-11-05T15:44:16+00:00",
-      "dateLabel": "5. 11. 2026",
-      "price": 19990,
-      "image": "",
-      "id": "https://www.obletsvet.cz/akcni-letenka/na-tyden-do-omanu-v-lednu-s-all-inclusive",
-      "firstSeen": "2026-11-05T17:25:26.162736+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "JAPONSKO z Prahy za fajn cenu - 16 538 Kč",
-      "summary": "Letenky do Japonska pořídíme za dobrou cenu s Korean Air. U aerolinky Korean Air najdeme levné letenky z Prahy do Japonska. Letenky do Tokia za 16 538 Kč, do Osaky vyjdou na 16 601 Kč. Po cestě máme vždy jeden přestup v jihokorejském Soulu.",
-      "url": "https://honzovyletenky.cz/japonsko-z-prahy-za-fajn-cenu/",
-      "source": "Honzovy letenky",
-      "date": "2026-11-05T15:14:03+00:00",
-      "dateLabel": "5. 11. 2026",
-      "price": 16538,
-      "image": "",
-      "id": "https://honzovyletenky.cz/japonsko-z-prahy-za-fajn-cenu/",
-      "firstSeen": "2026-11-05T15:13:00.814535+00:00",
       "priceOrig": null
     }
   ]
