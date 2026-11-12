@@ -1,6 +1,90 @@
 {
-  "updated": "2026-11-12T17:15:52.177240+00:00",
+  "updated": "2026-11-12T19:13:08.553322+00:00",
   "offers": [
+    {
+      "title": "NEW YORK za 9k - 8 990 Kč",
+      "summary": "Nejlevnější New York je stále dostupný v nabídce Aer Lingus. Letenky z Prahy do New Yorku (letiště JFK) s návratem do Berlína pořídíme za suprovou cenu 8 990 Kč. Nejvýhodnější letenky jsou dostupné od února do května 2027. Jen o pětistovku",
+      "url": "https://honzovyletenky.cz/new-york-za-9k/",
+      "source": "Honzovy letenky",
+      "date": "2026-11-12T19:05:58+00:00",
+      "dateLabel": "12. 11. 2026",
+      "price": 8990,
+      "image": "",
+      "id": "https://honzovyletenky.cz/new-york-za-9k/",
+      "firstSeen": "2026-11-12T19:13:08.553322+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Cheap full-service flights from Amsterdam to Malaysia for €493",
+      "summary": "Experience the convenience of China Eastern Airlines flights to Malaysia from just €493 for a round trip. Whether it's the enchanting local culture, tropical adventures, or fabulous cuisine you crave, Malaysia offers it all in a unique and",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-kuala-lumpur-e493/",
+      "source": "Fly4free.com",
+      "date": "2026-11-12T19:00:46+00:00",
+      "dateLabel": "12. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-kuala-lumpur-e493/",
+      "firstSeen": "2026-11-12T19:13:08.553322+00:00",
+      "priceOrig": {
+        "amount": 493,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "Chinese airlines cut flights to Europe, with cancellations affecting major hubs",
+      "summary": "Travelling between Europe and China is set to become more difficult this winter. Three major Chinese airlines are scaling back their flight schedules, with some routes temporarily suspended and others reduced to just a few services a week.",
+      "url": "https://www.fly4free.com/news/chinese-airlines-cut-flights-to-europe-with-cancellations-affecting-major-hubs/",
+      "source": "Fly4free.com",
+      "date": "2026-11-12T18:47:04+00:00",
+      "dateLabel": "12. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/news/chinese-airlines-cut-flights-to-europe-with-cancellations-affecting-major-hubs/",
+      "firstSeen": "2026-11-12T19:13:08.553322+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Full-service direct Hainan Airlines flights from Prague to Beijing, China for €585",
+      "summary": "Experience rich culture, dazzling cities, and timeless traditions — all at an unbeatable fare. Fly Hainan Airlines to Beijing starting at just €585 for a round trip. Pack your bags, China is calling!",
+      "url": "https://www.fly4free.com/flight-deals/europe/direct-flights-from-prague-to-beijing-e585/",
+      "source": "Fly4free.com",
+      "date": "2026-11-12T18:00:17+00:00",
+      "dateLabel": "12. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/direct-flights-from-prague-to-beijing-e585/",
+      "firstSeen": "2026-11-12T19:13:08.553322+00:00",
+      "priceOrig": {
+        "amount": 585,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "Egypt na 11 dní za 17 990 Kč v 5* resortu přímo u krásné laguny",
+      "summary": "Tyrkysová laguna, písečná pláž a aquapark. Užijte si 11 dní v Egyptě v 5* resortu s All Inclusive za 17 990 Kč. Prohlédněte si zájezd od EXIM tours a Fischer.",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/egypt-na-11-dni-za-17-990-kc-v-5-resortu-primo-u-krasne-laguny?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-11-12T17:25:36+00:00",
+      "dateLabel": "12. 11. 2026",
+      "price": 17990,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/egypt-na-11-dni-za-17-990-kc-v-5-resortu-primo-u-krasne-laguny?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-11-12T19:13:08.553322+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Zimní víkendy v Neapoli. Od 1 093 Kč.",
+      "summary": "Zimní víkendy v Neapoli od 1 093 Kč.",
+      "url": "https://www.obletsvet.cz/akcni-letenka/zimni-vikendy-v-neapoli-bratislava",
+      "source": "Obletsvet.cz",
+      "date": "2026-11-12T17:18:09+00:00",
+      "dateLabel": "12. 11. 2026",
+      "price": 1093,
+      "image": "",
+      "id": "https://www.obletsvet.cz/akcni-letenka/zimni-vikendy-v-neapoli-bratislava",
+      "firstSeen": "2026-11-12T19:13:08.553322+00:00",
+      "priceOrig": null
+    },
     {
       "title": "Well-rated and central 4🌟 hotel in Athens for €47/double",
       "summary": "Athens is calling, and this hotel deal makes a Greek city break even more tempting! Stay at a well-rated 4-star hotel in a central location for only €47 per night for two people. Whether you're interested in ancient history, delicious Greek",
@@ -3742,77 +3826,6 @@
       "image": "",
       "id": "https://levnocestovani.cz/akcni-zajezdy/konec-listopadu-v-thajsku-za-23-490-kc-7-noci-v-5-resortu-primo-u-plaze?utm_source=rss&utm_medium=feed",
       "firstSeen": "2026-11-05T21:02:22.291974+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Cheap full-service flights from Frankfurt & Belgrade to Bali, Indonesia 🌸 from €505",
-      "summary": "Escape to paradise without breaking the bank — discover stunning Bali with round-trip China Southern Airlines flights to Denpasar starting at €505 return. Your tropical adventure awaits!",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-frankfurt-belgrade-to-bali-e505/",
-      "source": "Fly4free.com",
-      "date": "2026-11-05T19:00:06+00:00",
-      "dateLabel": "5. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-frankfurt-belgrade-to-bali-e505/",
-      "firstSeen": "2026-11-05T19:12:26.269472+00:00",
-      "priceOrig": {
-        "amount": 505,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "New European airline launches 11 routes, including flights to Dublin, Rome and Prague",
-      "summary": "A new airline, Polaris, is launching operations in Moldova, with seven scheduled routes from Chișinău to Turkey, Italy, the Czech Republic and Ireland starting in November 2026. The carrier plans to begin flights to a total of 11 destinatio",
-      "url": "https://www.fly4free.com/news/new-european-airline-launches-11-routes-including-flights-to-dublin-rome-and-prague/",
-      "source": "Fly4free.com",
-      "date": "2026-11-05T18:12:35+00:00",
-      "dateLabel": "5. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/news/new-european-airline-launches-11-routes-including-flights-to-dublin-rome-and-prague/",
-      "firstSeen": "2026-11-05T19:12:26.269472+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Xmas Markets 🎄❄️ 4* hotel in the heart of Vilnius for €52/double",
-      "summary": "Experience the magic of Christmas markets with a festive city break in Lithuania's capital! Stay at a centrally located 4-star hotel in the heart of the city for just €52 per double room. Wander through the charming Old Town, admire its bea",
-      "url": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-vilnius-e52/",
-      "source": "Fly4free.com",
-      "date": "2026-11-05T18:00:05+00:00",
-      "dateLabel": "5. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-vilnius-e52/",
-      "firstSeen": "2026-11-05T19:12:26.269472+00:00",
-      "priceOrig": {
-        "amount": 52,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Croatia Airlnes: Praha - Dubrovník - 4 290 Kč",
-      "summary": "",
-      "url": "https://www.akcniletenky.com",
-      "source": "AkčníLetenky.com",
-      "date": "2026-11-05T18:00:00+00:00",
-      "dateLabel": "5. 11. 2026",
-      "price": 4290,
-      "image": "",
-      "id": "695",
-      "firstSeen": "2026-11-05T19:12:26.269472+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Za sluncem do Egypta: 9 dní v Marsa Alam v 5* resortu s All Inclusive od 14 670 Kč",
-      "summary": "Dopřejte si relax u Rudého moře. 5* resort v Marsa Alam nabízí pláž s lagunou, aquapark pro děti i plážový bar. 9 dní s all inclusive z Prahy jen za 14 670 Kč.",
-      "url": "https://levnocestovani.cz/akcni-zajezdy/za-sluncem-do-egypta-9-dni-v-marsa-alam-v-5-resortu-s-all-inclusive-od-14-670-kc?utm_source=rss&utm_medium=feed",
-      "source": "Levnocestovani.cz",
-      "date": "2026-11-05T17:55:30+00:00",
-      "dateLabel": "5. 11. 2026",
-      "price": 14670,
-      "image": "",
-      "id": "https://levnocestovani.cz/akcni-zajezdy/za-sluncem-do-egypta-9-dni-v-marsa-alam-v-5-resortu-s-all-inclusive-od-14-670-kc?utm_source=rss&utm_medium=feed",
-      "firstSeen": "2026-11-05T19:12:26.269472+00:00",
       "priceOrig": null
     }
   ]
