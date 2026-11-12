@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T08:00:17Z",
+ "updated": "2026-11-12T09:41:28Z",
  "sources": [
   {
    "name": "Cartop",
@@ -13,25 +13,25 @@
    "pageLog": [
     [
      1,
-     826690,
+     825153,
      13,
      13
     ],
     [
      2,
-     826131,
+     826415,
      13,
      10
     ],
     [
      3,
-     823410,
+     821873,
      13,
      10
     ],
     [
      4,
-     823191,
+     824634,
      13,
      10
     ],
@@ -225,7 +225,7 @@
    "ok": true,
    "complete": true,
    "pages": 6,
-   "cards": 232,
+   "cards": 233,
    "noPrice": 2,
    "requests": 7,
    "note": "",
@@ -248,7 +248,7 @@
     ],
     [
      5,
-     32
+     33
     ],
     [
      6,
@@ -257,7 +257,7 @@
    ],
    "robots": "robots.txt přečten",
    "types": {
-    "Operativní leasing": 232
+    "Operativní leasing": 233
    },
    "unavailable": 2
   },
@@ -266,7 +266,7 @@
    "ok": true,
    "complete": true,
    "pages": 3,
-   "cards": 75,
+   "cards": 74,
    "noPrice": 0,
    "requests": 4,
    "note": "",
@@ -277,7 +277,7 @@
     ],
     [
      2,
-     25
+     24
     ],
     [
      3,
@@ -286,7 +286,7 @@
    ],
    "robots": "robots.txt přečten",
    "types": {
-    "Car": 75
+    "Car": 74
    }
   },
   {
@@ -307,7 +307,7 @@
     ],
     [
      2,
-     350447,
+     350420,
      12,
      12
     ],
