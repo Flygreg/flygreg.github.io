@@ -1,6 +1,35 @@
 {
-  "updated": "2026-11-13T19:12:18.907909+00:00",
+  "updated": "2026-11-13T21:05:06.337007+00:00",
   "offers": [
+    {
+      "title": "HUGE collection of cheap Etihad Airways flights from many European cities to Phuket, Krabi, and Bangkok, Thailand 🔥 from €434",
+      "summary": "Planning a winter escape to Thailand? Etihad Airways is offering a large selection of return fares from European cities to Bangkok, Phuket and Krabi from just €434, with comfortable full-service flights and connections via Abu Dhabi.",
+      "url": "https://www.fly4free.com/flight-deals/europe/etihad-airways-flights-from-europe-to-phuket-bangkok-krabi/",
+      "source": "Fly4free.com",
+      "date": "2026-11-13T21:00:56+00:00",
+      "dateLabel": "13. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/etihad-airways-flights-from-europe-to-phuket-bangkok-krabi/",
+      "firstSeen": "2026-11-13T21:05:06.337007+00:00",
+      "priceOrig": {
+        "amount": 434,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "8 dní na Kapverdách za 24 990 Kč: All Inclusive ve 4* Halos Casa Resort",
+      "summary": "Písečné pláže ostrova Sal, slunečné počasí a pohodlí All Inclusive. Užijte si 8 dní na Kapverdách ve 4* Halos Casa Resortu za 24 990 Kč s odletem z Prahy.",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/8-dni-na-kapverdach-za-24-990-kc-all-inclusive-ve-4-halos-casa-resort?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-11-13T20:37:36+00:00",
+      "dateLabel": "13. 11. 2026",
+      "price": 24990,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/8-dni-na-kapverdach-za-24-990-kc-all-inclusive-ve-4-halos-casa-resort?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-11-13T21:05:06.337007+00:00",
+      "priceOrig": null
+    },
     {
       "title": "Levné letenky do ARGENTINY - 13 690 Kč",
       "summary": "U aerolinky United a Lufthansa najdeme levné letenky do Argentiny. V kombinaci letenky u aerolinek United a Lufthansa najdeme letenky z Prahy do Buenos Aires s návratem do Mnichova za fajn cenu. Za zpáteční letenky zaplatíme 13 690 Kč. Po c",
@@ -12,6 +41,35 @@
       "image": "",
       "id": "https://honzovyletenky.cz/levne-letenky-do-argentiny/",
       "firstSeen": "2026-11-13T19:12:18.907909+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "🇫🇮 Skiing and Northern Lights chasing in Levi, Lapland for £298 p.p: non-stop flights from London + 5-day stay with private sauna",
+      "summary": "Want to experience proper Finnish Lapland without paying glass-igloo prices? This winter deal combines direct easyJet flights from London to Kittilä with 4 nights at Levilehto Apartments in central Levi for £298 per person, based on two peo",
+      "url": "https://www.fly4free.com/flight-deals/europe/skiing-northern-lights-levi-lapland-p298/",
+      "source": "Fly4free.com",
+      "date": "2026-11-13T20:00:10+00:00",
+      "dateLabel": "13. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/skiing-northern-lights-levi-lapland-p298/",
+      "firstSeen": "2026-11-13T21:05:06.337007+00:00",
+      "priceOrig": {
+        "amount": 298,
+        "cur": "GBP"
+      }
+    },
+    {
+      "title": "Londýn (Gatwick) z Prahy na víkend: odlet v pátek večer, návrat v neděli večer. Letenky od 1 528 Kč",
+      "summary": "Do Londýna můžete vyrazit klidně jen na víkend, aniž byste si museli brát jediný den dovolené. Wizz Air teď nabízí zpáteční letenky z Prahy na letiště Londýn Gatwick za 1 528 Kč, s WDC dokonce jen za 1 083 Kč.",
+      "url": "https://www.cestujlevne.com/akcni-letenky/londyn-gatwick-z-prahy-na-vikend-odlet-v-patek-vecer-navrat-v-nedeli-vecer",
+      "source": "CestujLevne.com",
+      "date": "2026-11-13T19:42:07+00:00",
+      "dateLabel": "13. 11. 2026",
+      "price": 1528,
+      "image": "",
+      "id": "https://www.cestujlevne.com/akcni-letenky/londyn-gatwick-z-prahy-na-vikend-odlet-v-patek-vecer-navrat-v-nedeli-vecer",
+      "firstSeen": "2026-11-13T21:05:06.337007+00:00",
       "priceOrig": null
     },
     {
@@ -3805,51 +3863,6 @@
       "id": "700",
       "firstSeen": "2026-11-07T07:17:59.848933+00:00",
       "priceOrig": null
-    },
-    {
-      "title": "Asian classics in high season from Copenhagen 🌴 Singapore + Kuala Lumpur + Krabi — all flights for €612 total with Etihad and SAS",
-      "summary": "This itinerary has a really satisfying progression: start with futuristic Singapore, move on to buzzing Kuala Lumpur, then leave the skyscrapers behind for a full week of beaches, limestone cliffs and island-hopping in Krabi.",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-copenhagen-to-krabi-singapore-kl/",
-      "source": "Fly4free.com",
-      "date": "2026-11-06T21:00:40+00:00",
-      "dateLabel": "6. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-copenhagen-to-krabi-singapore-kl/",
-      "firstSeen": "2026-11-06T22:54:40.045935+00:00",
-      "priceOrig": {
-        "amount": 612,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "7 nocí v 5* hotelu nad Atlantikem: Madeira s All Inclusive za 18 490 Kč",
-      "summary": "5* hotel s výhledy na oceán, bazény, wellness a All Inclusive – Čedok nabízí 7 nocí na Madeiře za 18 490 Kč. Podívejte se na tento zájezd s odletem z Prahy.",
-      "url": "https://levnocestovani.cz/akcni-zajezdy/7-noci-v-5-hotelu-nad-atlantikem-madeira-s-all-inclusive-za-18-490-kc?utm_source=rss&utm_medium=feed",
-      "source": "Levnocestovani.cz",
-      "date": "2026-11-06T20:34:33+00:00",
-      "dateLabel": "6. 11. 2026",
-      "price": 18490,
-      "image": "",
-      "id": "https://levnocestovani.cz/akcni-zajezdy/7-noci-v-5-hotelu-nad-atlantikem-madeira-s-all-inclusive-za-18-490-kc?utm_source=rss&utm_medium=feed",
-      "firstSeen": "2026-11-06T20:58:28.581379+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Lisbon with attitude! ❤️‍🔥 4* Adults-only hotel with bold design from just €71/double",
-      "summary": "If you’re bored of beige hotel rooms and minimalist interiors, this one goes completely in the opposite direction. Upon Angels - Adults Only is a bold 4-star stay in Lisbon built around sensual design, theatrical details and a deliberately",
-      "url": "https://www.fly4free.com/flight-deals/europe/4-star-stylish-hotel-in-lisbon-e71/",
-      "source": "Fly4free.com",
-      "date": "2026-11-06T20:00:02+00:00",
-      "dateLabel": "6. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/4-star-stylish-hotel-in-lisbon-e71/",
-      "firstSeen": "2026-11-06T20:58:28.581379+00:00",
-      "priceOrig": {
-        "amount": 71,
-        "cur": "EUR"
-      }
     }
   ]
 }
