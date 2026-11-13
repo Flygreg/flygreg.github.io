@@ -1,6 +1,87 @@
 {
-  "updated": "2026-11-13T11:13:14.381335+00:00",
+  "updated": "2026-11-13T13:26:37.443302+00:00",
   "offers": [
+    {
+      "title": "Wizz Air: Praha - Catania - 952 Kč",
+      "summary": "",
+      "url": "https://www.akcniletenky.com",
+      "source": "AkčníLetenky.com",
+      "date": "2026-11-13T13:00:00+00:00",
+      "dateLabel": "13. 11. 2026",
+      "price": 952,
+      "image": "",
+      "id": "724",
+      "firstSeen": "2026-11-13T13:26:37.443302+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Dominikána za 28 990 Kč. Týden v novém 5* resortu u pláže s All Inclusive",
+      "summary": "Nový 5* resort v Punta Caně s 5 bazény, aquaparkem, lazy river a 8 restauracemi. Čedok nabízí týden s All Inclusive a přímým letem z Prahy – mrkněte na zájezd.",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/dominikana-za-28-990-kc-tyden-v-novem-5-resortu-u-plaze-s-all-inclusive?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-11-13T12:58:40+00:00",
+      "dateLabel": "13. 11. 2026",
+      "price": 28990,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/dominikana-za-28-990-kc-tyden-v-novem-5-resortu-u-plaze-s-all-inclusive?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-11-13T13:26:37.443302+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Pickalbatros Sea World, Marsa Alam: 5★ předvánoční restart s vyhřívanými bazény od 15 335 Kč. Od 15 335 Kč.",
+      "summary": "5★ Pickalbatros Sea World, Marsa Alam: 5denní zájezd (4 noci) s All Inclusive a vyhřívanými bazény od 15 335 Kč. Denní odlet z Prahy.",
+      "url": "https://www.obletsvet.cz/akcni-letenka/pickalbatros-sea-world-marsa-alam-13-17-12-2026",
+      "source": "Obletsvet.cz",
+      "date": "2026-11-13T12:57:32+00:00",
+      "dateLabel": "13. 11. 2026",
+      "price": 15335,
+      "image": "",
+      "id": "https://www.obletsvet.cz/akcni-letenka/pickalbatros-sea-world-marsa-alam-13-17-12-2026",
+      "firstSeen": "2026-11-13T13:26:37.443302+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "🚢🔥 Rare repositioning cruise deal! Sail from the Canary Islands to Barcelona from just €264 p.p. for 6 days",
+      "summary": "This is one of those cruises where the price immediately gets your attention: from just €264 per person for a 5-night journey aboard Costa Smeralda, starting under the Canary Islands sun and finishing in Barcelona.",
+      "url": "https://www.fly4free.com/flight-deals/europe/canary-islands-costa-smeralda-e264/",
+      "source": "Fly4free.com",
+      "date": "2026-11-13T12:30:35+00:00",
+      "dateLabel": "13. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/canary-islands-costa-smeralda-e264/",
+      "firstSeen": "2026-11-13T13:26:37.443302+00:00",
+      "priceOrig": {
+        "amount": 264,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "Zimní víkend (so-ne) v Tatrách z Prahy. Letenky od 1 172 Kč",
+      "summary": "Za krásami zasněžených Tater můžete vyrazit klidně jen na víkend, a to pohodlně letadlem z Prahy. V sobotu se odlétá už v 7:35 a v Popradu přistanete v 8:40. Zpátky se letí až v neděli v 18:50.",
+      "url": "https://www.cestujlevne.com/akcni-letenky/zimni-vikend-so-ne-v-tatrach-z-prahy",
+      "source": "CestujLevne.com",
+      "date": "2026-11-13T11:46:31+00:00",
+      "dateLabel": "13. 11. 2026",
+      "price": 1172,
+      "image": "",
+      "id": "https://www.cestujlevne.com/akcni-letenky/zimni-vikend-so-ne-v-tatrach-z-prahy",
+      "firstSeen": "2026-11-13T13:26:37.443302+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Týdenní ráj na Maledivách ve 4* Gangehi Island Resort s plnou penzí za 33 490 Kč",
+      "summary": "Bílý písek, palmy a vlastní korálový útes. Vyrazte na týden do komorního 4* Gangehi Island Resort na Maledivách přímým letem z Prahy a plnou penzí za 33 490 Kč.",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/tydenni-raj-na-maledivach-ve-4-gangehi-island-resort-s-plnou-penzi-za-33-490-kc?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-11-13T11:38:03+00:00",
+      "dateLabel": "13. 11. 2026",
+      "price": 33490,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/tydenni-raj-na-maledivach-ve-4-gangehi-island-resort-s-plnou-penzi-za-33-490-kc?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-11-13T13:26:37.443302+00:00",
+      "priceOrig": null
+    },
     {
       "title": "Levná KEŇA z Prahy - 10 657 Kč",
       "summary": "Akční letenky na pobřeží Keni koupíme u Condora. V aktuální akci od Condora najdeme levné letenky z Prahy do Keni. Za zpáteční letenky zaplatíme 10 657 Kč. Po cestě tam nás čekají dva rychlý přestupy ve Frankfurtu a na Zanzibaru a po cestě",
@@ -12,6 +93,19 @@
       "image": "",
       "id": "https://honzovyletenky.cz/levna-kena-z-prahy/",
       "firstSeen": "2026-11-13T11:13:14.381335+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Wizz Air returns to domestic flights in Romania after eight-year break",
+      "summary": "Low-cost airline Wizz Air is resuming flights between two of Romania’s largest cities, Bucharest and Cluj-Napoca. The carrier is returning to the route after an eight-year absence, offering up to two flights a day. The first services are sc",
+      "url": "https://www.fly4free.com/flight-deals/europe/wizz-air-returns-to-domestic-flights-in-romania-after-eight-year-break/",
+      "source": "Fly4free.com",
+      "date": "2026-11-13T11:17:08+00:00",
+      "dateLabel": "13. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/wizz-air-returns-to-domestic-flights-in-romania-after-eight-year-break/",
+      "firstSeen": "2026-11-13T13:26:37.443302+00:00",
       "priceOrig": null
     },
     {
@@ -3784,74 +3878,6 @@
       "image": "",
       "id": "https://zaletsi.cz/zajezdy/listopadove-zajezdy-z-prahy-na-gran-canaria-4-hotely-s-polopenzi/",
       "firstSeen": "2026-11-07T10:55:26.121375+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Andalusie z Ostravy. Od 1 223 Kč.",
-      "summary": "Andalusie z Ostravy od 1 223 Kč.",
-      "url": "https://www.obletsvet.cz/akcni-letenka/andalusie-z-ostravy",
-      "source": "Obletsvet.cz",
-      "date": "2026-11-06T13:26:13+00:00",
-      "dateLabel": "6. 11. 2026",
-      "price": 1223,
-      "image": "",
-      "id": "https://www.obletsvet.cz/akcni-letenka/andalusie-z-ostravy",
-      "firstSeen": "2026-11-06T15:00:09.004020+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Týden u Atlantiku za 14 990 Kč: Gran Canaria s All Inclusive",
-      "summary": "Užijte si listopadové slunce na Gran Canarii! Čedok nabízí týdenní zájezd s All Inclusive za 14 990 Kč, ubytování s výhledy na Atlantik a odlet z Prahy.",
-      "url": "https://levnocestovani.cz/akcni-zajezdy/tyden-u-atlantiku-za-14-990-kc-gran-canaria-s-all-inclusive?utm_source=rss&utm_medium=feed",
-      "source": "Levnocestovani.cz",
-      "date": "2026-11-06T12:51:18+00:00",
-      "dateLabel": "6. 11. 2026",
-      "price": 14990,
-      "image": "",
-      "id": "https://levnocestovani.cz/akcni-zajezdy/tyden-u-atlantiku-za-14-990-kc-gran-canaria-s-all-inclusive?utm_source=rss&utm_medium=feed",
-      "firstSeen": "2026-11-06T13:24:07.661442+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "🇩🇪 Premium stay at 4* Pullman Munich from €102/double (including festive period 🎄)",
-      "summary": "Finding a genuinely good hotel in Munich for around €100 can already be tricky — finding one even during the festive period is much more interesting. From €102 per night, you can stay at a modern hotel from Pullman, one of Accor’s well-know",
-      "url": "https://www.fly4free.com/flight-deals/europe/motel-one-hotel-in-munich-e69-2/",
-      "source": "Fly4free.com",
-      "date": "2026-11-06T12:30:38+00:00",
-      "dateLabel": "6. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/motel-one-hotel-in-munich-e69-2/",
-      "firstSeen": "2026-11-06T13:24:07.661442+00:00",
-      "priceOrig": {
-        "amount": 102,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Panama z Prahy na 10 nocí s all-inclusive na přelomu listopadu a prosince. Zájezd od 33 990 Kč",
-      "summary": "Další povedený zájezd do exotiky, tentokrát na přelomu listopadu a prosince do Panamy. Exim Tours a Fischer mají v nabídce 10 nocí s all-inclusive za 33 990 Kč na osobu.",
-      "url": "https://www.cestujlevne.com/akcni-letenky/panama-z-prahy-na-10-noci-s-all-inclusive-na-prelomu-listopadu-a-prosince",
-      "source": "CestujLevne.com",
-      "date": "2026-11-06T12:26:53+00:00",
-      "dateLabel": "6. 11. 2026",
-      "price": 33990,
-      "image": "",
-      "id": "https://www.cestujlevne.com/akcni-letenky/panama-z-prahy-na-10-noci-s-all-inclusive-na-prelomu-listopadu-a-prosince",
-      "firstSeen": "2026-11-06T13:24:07.661442+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Víkendová LAMEZIE - 875 Kč",
-      "summary": "Za výhodnou cenu jsou dostupné víkendové letenky na jih Itálie. Zpáteční letenky z Bratislavy do Lamezie pořídíme už za 35 €, tedy asi 875 Kč. Nejlevnější letenky jsou dostupné na víkendové termíny v lednu a únoru příštího roku. V ceně nejv",
-      "url": "https://honzovyletenky.cz/vikendova-lamezie/",
-      "source": "Honzovy letenky",
-      "date": "2026-11-06T12:22:50+00:00",
-      "dateLabel": "6. 11. 2026",
-      "price": 875,
-      "image": "",
-      "id": "https://honzovyletenky.cz/vikendova-lamezie/",
-      "firstSeen": "2026-11-06T13:24:07.661442+00:00",
       "priceOrig": null
     }
   ]
