@@ -1,6 +1,74 @@
 {
-  "updated": "2026-11-13T05:14:13.038049+00:00",
+  "updated": "2026-11-13T07:33:55.912909+00:00",
   "offers": [
+    {
+      "title": "ANDALUSIE za tisícovku - 1 071 Kč",
+      "summary": "V dnešní nabídce nejlevnějších letenek od Ryanair pořídíme levně letenky na jih Španělska. Zpáteční letenky z Ostravy do Malagy pořídíme už za 1 071 Kč. Nejvýhodnější letenky jsou dostupné na lednové termíny 2027 a to hlavně na týdenní poby",
+      "url": "https://honzovyletenky.cz/andalusie-za-tisicovku/",
+      "source": "Honzovy letenky",
+      "date": "2026-11-13T08:03:50+00:00",
+      "dateLabel": "13. 11. 2026",
+      "price": 1071,
+      "image": "",
+      "id": "https://honzovyletenky.cz/andalusie-za-tisicovku/",
+      "firstSeen": "2026-11-13T07:33:55.912909+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Letenky do Říma z Prahy za 1303 Kč",
+      "summary": "Řím je jedno z mála měst, kde si dáte ranní espresso u pultu a pak pěšky dojdete ke Koloseu – a to není metafora, ale doslova plán na dopoledne. Vatikán, Pantheon, Fontána di Trevi, večerní Trastevere s hlasitými trattorii bez anglického me",
+      "url": "https://www.levneletenkyzprahy.cz/2757_letenky-do-rima-z-prahy-za-1303-kc",
+      "source": "Levné letenky z Prahy",
+      "date": "2026-11-13T08:02:42+00:00",
+      "dateLabel": "13. 11. 2026",
+      "price": 1303,
+      "image": "",
+      "id": "https://www.levneletenkyzprahy.cz/2757_letenky-do-rima-z-prahy-za-1303-kc",
+      "firstSeen": "2026-11-13T07:33:55.912909+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Etihad Airways flights from many European cities to Chiang Mai, Thailand from €513",
+      "summary": "Dreaming of an unforgettable trip to Thailand? Fly Etihad Airways to Chiang Mai starting at only €513 round trip. Enjoy Etihad’s award-winning service, comfortable cabins, and smooth connections via Abu Dhabi.",
+      "url": "https://www.fly4free.com/flight-deals/europe/etihad-airways-flights-from-europe-to-chiang-mai-e513/",
+      "source": "Fly4free.com",
+      "date": "2026-11-13T07:00:30+00:00",
+      "dateLabel": "13. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/etihad-airways-flights-from-europe-to-chiang-mai-e513/",
+      "firstSeen": "2026-11-13T07:33:55.912909+00:00",
+      "priceOrig": {
+        "amount": 513,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "Buzz: Praha - Řím - 900 Kč",
+      "summary": "",
+      "url": "https://www.akcniletenky.com",
+      "source": "AkčníLetenky.com",
+      "date": "2026-11-13T07:00:00+00:00",
+      "dateLabel": "13. 11. 2026",
+      "price": 900,
+      "image": "",
+      "id": "722",
+      "firstSeen": "2026-11-13T07:33:55.912909+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Zimní Gdaňsk od soboty do pondělí z Prahy. Letenky od 978 Kč",
+      "summary": "Na prodloužený víkend do polského Gdaňsku za necelou tisícovku. Ryanair teď nabízí zpáteční letenky z Prahy za 978 Kč, nejlevněji v termínu 23.–25.1. Časy letů jsou navíc super – v sobotu odlétáte brzy ráno a zpátky se vracíte až v pondělí",
+      "url": "https://www.cestujlevne.com/akcni-letenky/zimni-gdansk-od-soboty-do-pondeli-z-prahy",
+      "source": "CestujLevne.com",
+      "date": "2026-11-13T06:34:10+00:00",
+      "dateLabel": "13. 11. 2026",
+      "price": 978,
+      "image": "",
+      "id": "https://www.cestujlevne.com/akcni-letenky/zimni-gdansk-od-soboty-do-pondeli-z-prahy",
+      "firstSeen": "2026-11-13T07:33:55.912909+00:00",
+      "priceOrig": null
+    },
     {
       "title": "Act fast, new lower fares to Sri Lanka! 💥 Last-minute full-service direct flights from Poland from €419",
       "summary": "Enter Air is offering discounted flights to Colombo from just €419 return , making Sri Lanka an easy last-minute option for anyone craving beaches, jungle, tea country and a completely different climate.",
@@ -523,7 +591,7 @@
     },
     {
       "title": "Ženeva, Švýcarsko | letenky z Prahy za 2268 Kč",
-      "summary": "Ženeva je jedno z těch míst, kde i krátká procházka po nábřeží jezera Léman připomene, proč se sem lidé vracejí – vodotrysk Jet d\\'Eau stříkající vodu do výšky přes 140 metrů, Staré město s katedrálou Saint-Pierre a na obzoru alpské panoram",
+      "summary": "Ženeva je jedno z těch míst, kde i krátká procházka po nábřeží jezera Léman připomene, proč se sem lidé vracejí – vodotrysk Jet d'Eau stříkající vodu do výšky přes 140 metrů, Staré město s katedrálou Saint-Pierre a na obzoru alpské panorama",
       "url": "https://www.levneletenkyzprahy.cz/2756_zeneva,-svycarsko-|-letenky-z-prahy-za-2268-kc",
       "source": "Levné letenky z Prahy",
       "date": "2026-11-12T08:43:15+00:00",
@@ -3837,48 +3905,6 @@
         "amount": 804,
         "cur": "EUR"
       }
-    },
-    {
-      "title": "Nová moldavská aerolinka Polaris začne létat do Prahy. Letenky od 1 899 Kč",
-      "summary": "Nově založená moldavská aerolinka Polaris spouští v listopadu 2026 lety z Kišiněva do 11 destinací, mezi nimiž bude i Praha.",
-      "url": "https://www.cestujlevne.com/akcni-letenky/nova-moldavska-aerolinka-polaris-zacne-letat-do-prahy",
-      "source": "CestujLevne.com",
-      "date": "2026-11-06T07:01:02+00:00",
-      "dateLabel": "6. 11. 2026",
-      "price": 1899,
-      "image": "",
-      "id": "https://www.cestujlevne.com/akcni-letenky/nova-moldavska-aerolinka-polaris-zacne-letat-do-prahy",
-      "firstSeen": "2026-11-06T07:32:02.421809+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Crazy-low prices 😱 Cheap flights from Spain to New York from €244",
-      "summary": "Avianca is offering super discounted flights to New York (JFK)! Tickets available from only €244 for a round trip.",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-spain-to-new-york-e244-4/",
-      "source": "Fly4free.com",
-      "date": "2026-11-06T07:00:57+00:00",
-      "dateLabel": "6. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-spain-to-new-york-e244-4/",
-      "firstSeen": "2026-11-06T07:32:02.421809+00:00",
-      "priceOrig": {
-        "amount": 244,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Buzz: Bratislava - Lamezia Terme - 850 Kč",
-      "summary": "",
-      "url": "https://www.akcniletenky.com",
-      "source": "AkčníLetenky.com",
-      "date": "2026-11-06T07:00:00+00:00",
-      "dateLabel": "6. 11. 2026",
-      "price": 850,
-      "image": "",
-      "id": "696",
-      "firstSeen": "2026-11-06T07:32:02.421809+00:00",
-      "priceOrig": null
     }
   ]
 }
