@@ -1,6 +1,58 @@
 {
-  "updated": "2026-11-13T17:10:14.408875+00:00",
+  "updated": "2026-11-13T19:12:18.907909+00:00",
   "offers": [
+    {
+      "title": "Levné letenky do ARGENTINY - 13 690 Kč",
+      "summary": "U aerolinky United a Lufthansa najdeme levné letenky do Argentiny. V kombinaci letenky u aerolinek United a Lufthansa najdeme letenky z Prahy do Buenos Aires s návratem do Mnichova za fajn cenu. Za zpáteční letenky zaplatíme 13 690 Kč. Po c",
+      "url": "https://honzovyletenky.cz/levne-letenky-do-argentiny/",
+      "source": "Honzovy letenky",
+      "date": "2026-11-13T20:02:40+00:00",
+      "dateLabel": "13. 11. 2026",
+      "price": 13690,
+      "image": "",
+      "id": "https://honzovyletenky.cz/levne-letenky-do-argentiny/",
+      "firstSeen": "2026-11-13T19:12:18.907909+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Washington Dulles opens its first new concourse in 20 years, with a giant United lounge",
+      "summary": "Washington Dulles International Airport is opening its first new passenger concourse in nearly two decades. The facility will feature 14 boarding gates, direct access to the airport's internal rail system and one of the largest airline loun",
+      "url": "https://www.fly4free.com/news/washington-dulles-opens-its-first-new-concourse-in-20-years-with-a-giant-united-lounge/",
+      "source": "Fly4free.com",
+      "date": "2026-11-13T18:46:44+00:00",
+      "dateLabel": "13. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/news/washington-dulles-opens-its-first-new-concourse-in-20-years-with-a-giant-united-lounge/",
+      "firstSeen": "2026-11-13T19:12:18.907909+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "🇲🇾 5-star Kuala Lumpur stay: Hotel Stripes by Autograph Collection from €86/night",
+      "summary": "At €86 per night, this is not a basic city hotel somewhere on the outskirts. You’re getting a 5-star lifestyle property from Marriott’s Autograph Collection, with a rooftop pool, skyline views, stylish interiors, proper dining, a fitness ce",
+      "url": "https://www.fly4free.com/flight-deals/europe/5-star-hotel-in-kuala-lumpur-e86/",
+      "source": "Fly4free.com",
+      "date": "2026-11-13T18:30:59+00:00",
+      "dateLabel": "13. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/5-star-hotel-in-kuala-lumpur-e86/",
+      "firstSeen": "2026-11-13T19:12:18.907909+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Madeira letecky z Prahy: Týden ve 4* hotelu Jardins d’Ajuda se snídaní za 9 490 Kč",
+      "summary": "Madeira z Prahy za 9 490 Kč na osobu! Užijte si týden ve 4* hotelu Jardins d’Ajuda se snídaní, objevujte Funchal a odpočívejte u bazénu. Prohlédněte si nabídku!",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/madeira-letecky-z-prahy-tyden-ve-4-hotelu-jardins-dajuda-se-snidani-za-9-490-kc?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-11-13T17:51:52+00:00",
+      "dateLabel": "13. 11. 2026",
+      "price": 9490,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/madeira-letecky-z-prahy-tyden-ve-4-hotelu-jardins-dajuda-se-snidani-za-9-490-kc?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-11-13T19:12:18.907909+00:00",
+      "priceOrig": null
+    },
     {
       "title": "🔥 ASIA FOR LESS! Full-service flights from Athens to Japan & South Korea from just €391 return",
       "summary": "This is a seriously good fare for a long-haul Asia trip. ✈️ Full-service return flights from Athens to Japan and South Korea start from only €391, making it a great excuse to finally plan that Asian adventure — or build a longer multi-city",
@@ -16,6 +68,19 @@
         "amount": 391,
         "cur": "EUR"
       }
+    },
+    {
+      "title": "Pegasus Airlines: Praha - Karáčí - 4 990 Kč",
+      "summary": "",
+      "url": "https://www.akcniletenky.com",
+      "source": "AkčníLetenky.com",
+      "date": "2026-11-13T17:00:00+00:00",
+      "dateLabel": "13. 11. 2026",
+      "price": 4990,
+      "image": "",
+      "id": "725",
+      "firstSeen": "2026-11-13T19:12:18.907909+00:00",
+      "priceOrig": null
     },
     {
       "title": "Dovolená na tropickém ostrově v Thajsku: 7 nocí v 5* resortu za 25 990 Kč",
@@ -3785,48 +3850,6 @@
         "amount": 71,
         "cur": "EUR"
       }
-    },
-    {
-      "title": "✈️ 🌴🌸 4 different worlds in one trip: Dublin, Toronto, Los Angeles, and Hawaii from Poland 🏝️ for €766",
-      "summary": "This is a brilliantly varied spring itinerary that keeps moving west: start with a short stop in Dublin, cross the Atlantic to Toronto, continue to sunny Los Angeles and finish with a full week in Hawaii before flying back to Wroclaw or War",
-      "url": "https://www.fly4free.com/flight-deals/europe/4-in-1-trip-to-hawaii-from-wroclaw/",
-      "source": "Fly4free.com",
-      "date": "2026-11-06T18:30:01+00:00",
-      "dateLabel": "6. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/4-in-1-trip-to-hawaii-from-wroclaw/",
-      "firstSeen": "2026-11-06T19:09:02.673630+00:00",
-      "priceOrig": {
-        "amount": 766,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "British Airways: Praha - Los Angeles - 12 290 Kč",
-      "summary": "",
-      "url": "https://www.akcniletenky.com",
-      "source": "AkčníLetenky.com",
-      "date": "2026-11-06T18:00:00+00:00",
-      "dateLabel": "6. 11. 2026",
-      "price": 12290,
-      "image": "",
-      "id": "699",
-      "firstSeen": "2026-11-06T19:09:02.673630+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Listopad u Indického oceánu. Exotická Keňa s All Inclusive za 19 590 Kč",
-      "summary": "Prozkoumejte korálové zahrady ve Watamu a odpočívejte na bílých plážích. Týdenní dovolená v Keni s all inclusive a odletem z Prahy vychází na 19 590 Kč.",
-      "url": "https://levnocestovani.cz/akcni-zajezdy/listopad-u-indickeho-oceanu-exoticka-kena-s-all-inclusive-za-19-590-kc?utm_source=rss&utm_medium=feed",
-      "source": "Levnocestovani.cz",
-      "date": "2026-11-06T17:58:13+00:00",
-      "dateLabel": "6. 11. 2026",
-      "price": 19590,
-      "image": "",
-      "id": "https://levnocestovani.cz/akcni-zajezdy/listopad-u-indickeho-oceanu-exoticka-kena-s-all-inclusive-za-19-590-kc?utm_source=rss&utm_medium=feed",
-      "firstSeen": "2026-11-06T19:09:02.673630+00:00",
-      "priceOrig": null
     }
   ]
 }
