@@ -1,6 +1,64 @@
 {
-  "updated": "2026-11-14T16:54:02.761993+00:00",
+  "updated": "2026-11-14T18:59:48.020728+00:00",
   "offers": [
+    {
+      "title": "Akční letenky do IRÁKU - 3 740 Kč",
+      "summary": "Levné letenky do netradiční destinace pořídíme u Pegasus. V nabídce aerolinky Pegasus najdeme levné letenky z Bratislavy do Iráku. Za letenky do Bagdádu a Erbílu zaplatíme 149 EUR, tedy asi 3 740 Kč, do Sulejmánie o 2 EUR dráž. Po cestě mám",
+      "url": "https://honzovyletenky.cz/akcni-letenky-do-iraku/",
+      "source": "Honzovy letenky",
+      "date": "2026-11-14T19:12:08+00:00",
+      "dateLabel": "14. 11. 2026",
+      "price": 3740,
+      "image": "",
+      "id": "https://honzovyletenky.cz/akcni-letenky-do-iraku/",
+      "firstSeen": "2026-11-14T18:59:48.020728+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "7 nocí na Madeiře ve 4* Savoy Calheta Beach s All Inclusive za 14 690 Kč",
+      "summary": "Písečná pláž, výhledy na Atlantik a výlety do zelených hor – Čedok nabízí 7 nocí na Madeiře s All Inclusive ve 4* resortu s vynikajícím hodnocením.",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/7-noci-na-madeire-ve-4-savoy-calheta-beach-s-all-inclusive-za-14-690-kc?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-11-14T18:34:09+00:00",
+      "dateLabel": "14. 11. 2026",
+      "price": 14690,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/7-noci-na-madeire-ve-4-savoy-calheta-beach-s-all-inclusive-za-14-690-kc?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-11-14T18:59:48.020728+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Full-service flights from London & Stockholm to New Zealand from €621",
+      "summary": "Looking for an unforgettable long-haul getaway? Take advantage of this amazing deal: fly to Auckland with China Eastern Airlines for just €621 roundtrip! Full-service means your fare includes meals, drinks, checked baggage, and in-flight en",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-london-stockholm-to-new-zealand-e621/",
+      "source": "Fly4free.com",
+      "date": "2026-11-14T18:00:07+00:00",
+      "dateLabel": "14. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-london-stockholm-to-new-zealand-e621/",
+      "firstSeen": "2026-11-14T18:59:48.020728+00:00",
+      "priceOrig": {
+        "amount": 621,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "Beachfront 4* hotel & spa on the Portuguese island of Porto Santo (Madeira archipelago) 🌴 🌊 for €62/double",
+      "summary": "Hotel bargain in the Madeira archipelago! Book a double room at 4* aparthotel & spa with a beachfront setting and swimming pools for only €31/night per person.",
+      "url": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-porto-santo-e62/",
+      "source": "Fly4free.com",
+      "date": "2026-11-14T17:00:03+00:00",
+      "dateLabel": "14. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-porto-santo-e62/",
+      "firstSeen": "2026-11-14T18:59:48.020728+00:00",
+      "priceOrig": {
+        "amount": 62,
+        "cur": "EUR"
+      }
+    },
     {
       "title": "Týden na Tenerife za 15 990 Kč: Skvěle hodnocený hotel u Los Gigantes",
       "summary": "Útesy Los Gigantes, pláže s černým pískem i výlety za delfíny. Prohlédněte si tento zájezd od Čedoku na Tenerife do skvěle hodnoceného hotelu s polopenzí.",
@@ -12,6 +70,19 @@
       "image": "",
       "id": "https://levnocestovani.cz/akcni-zajezdy/tyden-na-tenerife-za-15-990-kc-skvele-hodnoceny-hotel-u-los-gigantes?utm_source=rss&utm_medium=feed",
       "firstSeen": "2026-11-14T16:54:02.761993+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Prodloužený víkend v Tiraně z Prahy. Od 1 492 Kč.",
+      "summary": "Prodloužený víkend v Tiraně z Prahy od 1 495 Kč.",
+      "url": "https://www.obletsvet.cz/akcni-letenka/prodlouzeny-vikend-v-tirane-z-prahy",
+      "source": "Obletsvet.cz",
+      "date": "2026-11-14T16:40:32+00:00",
+      "dateLabel": "14. 11. 2026",
+      "price": 1492,
+      "image": "",
+      "id": "https://www.obletsvet.cz/akcni-letenka/prodlouzeny-vikend-v-tirane-z-prahy",
+      "firstSeen": "2026-11-14T18:59:48.020728+00:00",
       "priceOrig": null
     },
     {
@@ -3843,64 +3914,6 @@
       "priceOrig": {
         "amount": 458,
         "cur": "GBP"
-      }
-    },
-    {
-      "title": "Záletník 241: Ryanair mění podmínky odbavení, na pražské letiště nově jezdí BusAir",
-      "summary": "Do světa vylétá další díl našeho magazínu Záletník – na křídlech nese pořadové číslo 241. A na jaká témata si dnes posvítíme? Ryanair mění pravidla odbavení a omezuje některé linky z Prahy i Vídně. Oproti tomu představil novinky pro letní s",
-      "url": "https://zaletsi.cz/magazin/zaletnik-241/",
-      "source": "Zaleťsi.cz",
-      "date": "2026-11-07T18:41:14+00:00",
-      "dateLabel": "7. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://zaletsi.cz/magazin/zaletnik-241/",
-      "firstSeen": "2026-11-09T11:11:59.463692+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "15 dní na Madeiře za 15 590 Kč. 4* hotel u oceánu se snídaní a letenky z Prahy",
-      "summary": "Prozkoumejte Madeiru vlastním tempem! 15 dní ve 4* hotelu u pobřeží od 15 590 Kč. V ceně jsou lety z Prahy i snídaně. Poznejte levády a relaxujte u moře.",
-      "url": "https://levnocestovani.cz/akcni-zajezdy/15-dni-na-madeire-za-15-590-kc-4-hotel-u-oceanu-se-snidani-a-letenky-z-prahy?utm_source=rss&utm_medium=feed",
-      "source": "Levnocestovani.cz",
-      "date": "2026-11-07T18:10:20+00:00",
-      "dateLabel": "7. 11. 2026",
-      "price": 15590,
-      "image": "",
-      "id": "https://levnocestovani.cz/akcni-zajezdy/15-dni-na-madeire-za-15-590-kc-4-hotel-u-oceanu-se-snidani-a-letenky-z-prahy?utm_source=rss&utm_medium=feed",
-      "firstSeen": "2026-11-07T18:59:35.958280+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Discover the nature of Costa Rica 🦜🌋 Cheap flights from Madrid from €437 or €482 during High Season",
-      "summary": "Time to plan a tropical adventure! Discounted Avianca flights to San José are available from just €437 return, opening the door to one of Central America’s most spectacular nature destinations.",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-madrid-to-costa-rica-e437/",
-      "source": "Fly4free.com",
-      "date": "2026-11-07T18:00:33+00:00",
-      "dateLabel": "7. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-madrid-to-costa-rica-e437/",
-      "firstSeen": "2026-11-07T18:59:35.958280+00:00",
-      "priceOrig": {
-        "amount": 437,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "St. Valentine Day in Vienna 🥰 🥂 Well-rated 4* Austria Trend Hotel Doppio for €61/double",
-      "summary": "Looking for a stylish escape without overspending? This deal brings you to Vienna with a stay in a well-rated 4★ hotel for just €61/night per double room. It’s a rare opportunity to experience one of Europe’s most elegant capitals at an unb",
-      "url": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-vienna-e61-5/",
-      "source": "Fly4free.com",
-      "date": "2026-11-07T17:00:21+00:00",
-      "dateLabel": "7. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-vienna-e61-5/",
-      "firstSeen": "2026-11-07T18:59:35.958280+00:00",
-      "priceOrig": {
-        "amount": 61,
-        "cur": "EUR"
       }
     }
   ]
