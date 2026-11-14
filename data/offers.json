@@ -1,6 +1,77 @@
 {
-  "updated": "2026-11-14T14:55:43.508089+00:00",
+  "updated": "2026-11-14T16:54:02.761993+00:00",
   "offers": [
+    {
+      "title": "Týden na Tenerife za 15 990 Kč: Skvěle hodnocený hotel u Los Gigantes",
+      "summary": "Útesy Los Gigantes, pláže s černým pískem i výlety za delfíny. Prohlédněte si tento zájezd od Čedoku na Tenerife do skvěle hodnoceného hotelu s polopenzí.",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/tyden-na-tenerife-za-15-990-kc-skvele-hodnoceny-hotel-u-los-gigantes?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-11-14T16:52:40+00:00",
+      "dateLabel": "14. 11. 2026",
+      "price": 15990,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/tyden-na-tenerife-za-15-990-kc-skvele-hodnoceny-hotel-u-los-gigantes?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-11-14T16:54:02.761993+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Výprodej Pegasus Airlines z Prahy, Bratislavy na celý Blízký východ. Letenky od 2 538 Kč",
+      "summary": "Pegasus Airlines přichází s další super akcí z Prahy, Bratislavy, ale třeba i Vídně nebo Norimberka do mnoha míst na Blízkém východě nebo ve střední Asii.",
+      "url": "https://www.cestujlevne.com/akcni-letenky/vyprodej-pegasus-airlines-z-prahy-bratislavy-na-cely-blizky-vychod",
+      "source": "CestujLevne.com",
+      "date": "2026-11-14T16:14:32+00:00",
+      "dateLabel": "14. 11. 2026",
+      "price": 2538,
+      "image": "",
+      "id": "https://www.cestujlevne.com/akcni-letenky/vyprodej-pegasus-airlines-z-prahy-bratislavy-na-cely-blizky-vychod",
+      "firstSeen": "2026-11-14T16:54:02.761993+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Air France flights from Italian cities to Fortaleza, Brazil 😎 🍹 from €506",
+      "summary": "Escape the European cold with these cheap Air France flights to Fortaleza, one of Brazil’s most exciting beach destinations, from just €506 return. Fortaleza is famous for its long sandy beaches, warm temperatures, lively waterfront and vib",
+      "url": "https://www.fly4free.com/flight-deals/europe/air-france-flights-from-italy-to-fortaleza-e506/",
+      "source": "Fly4free.com",
+      "date": "2026-11-14T16:00:44+00:00",
+      "dateLabel": "14. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/air-france-flights-from-italy-to-fortaleza-e506/",
+      "firstSeen": "2026-11-14T16:54:02.761993+00:00",
+      "priceOrig": {
+        "amount": 506,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "Thajsko za 21 990 Kč v moderním 5* resortu se snídaní a přímým letem",
+      "summary": "Moderní 5* resort na Phuketu, obří lagunový bazén a krásná pláž Layan. Vydejte se s Čedokem na týden do Thajska se snídaní a přímým letem z Prahy.",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/thajsko-za-21-990-kc-v-modernim-5-resortu-se-snidani-a-primym-letem?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-11-14T15:14:38+00:00",
+      "dateLabel": "14. 11. 2026",
+      "price": 21990,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/thajsko-za-21-990-kc-v-modernim-5-resortu-se-snidani-a-primym-letem?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-11-14T16:54:02.761993+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Luxury stay in Venice 😏 ✨ Elegant 4* Hotel Carlton On The Grand Canal for €80/double",
+      "summary": "Experience the magic of Venice with an elegant 4-star stay at Hotel Carlton! Located right along the iconic Grand Canal, this charming hotel offers a refined atmosphere and a fantastic base for exploring the city's romantic canals, historic",
+      "url": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-venice-e80/",
+      "source": "Fly4free.com",
+      "date": "2026-11-14T15:00:58+00:00",
+      "dateLabel": "14. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-venice-e80/",
+      "firstSeen": "2026-11-14T16:54:02.761993+00:00",
+      "priceOrig": {
+        "amount": 80,
+        "cur": "EUR"
+      }
+    },
     {
       "title": "CHEAP 💥 Non-stop flights from Barcelona to New York for €349",
       "summary": "Level by Iberia is offering discounted non-stop flights from to New York (JFK)! Tickets available from only €349 for a round trip.",
@@ -1370,7 +1441,7 @@
     },
     {
       "title": "Ženeva, Švýcarsko | letenky z Prahy za 2268 Kč",
-      "summary": "Ženeva je jedno z těch míst, kde i krátká procházka po nábřeží jezera Léman připomene, proč se sem lidé vracejí – vodotrysk Jet d\\'Eau stříkající vodu do výšky přes 140 metrů, Staré město s katedrálou Saint-Pierre a na obzoru alpské panoram",
+      "summary": "Ženeva je jedno z těch míst, kde i krátká procházka po nábřeží jezera Léman připomene, proč se sem lidé vracejí – vodotrysk Jet d'Eau stříkající vodu do výšky přes 140 metrů, Staré město s katedrálou Saint-Pierre a na obzoru alpské panorama",
       "url": "https://www.levneletenkyzprahy.cz/2756_zeneva,-svycarsko-|-letenky-z-prahy-za-2268-kc",
       "source": "Levné letenky z Prahy",
       "date": "2026-11-12T08:43:15+00:00",
@@ -3829,90 +3900,6 @@
       "firstSeen": "2026-11-07T18:59:35.958280+00:00",
       "priceOrig": {
         "amount": 61,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Na Kanáry za 15 990 Kč: Týden na Fuerteventuře ve 4* resortu",
-      "summary": "Dlouhé písečné pláže, tyrkysový Atlantik a krásné výhledy – Čedok nabízí týden na Fuerteventuře ve 4* resortu s All Inclusive. Prohlédněte si zájezd.",
-      "url": "https://levnocestovani.cz/akcni-zajezdy/na-kanary-za-15-990-kc-tyden-na-fuerteventure-ve-4-resortu?utm_source=rss&utm_medium=feed",
-      "source": "Levnocestovani.cz",
-      "date": "2026-11-07T16:38:58+00:00",
-      "dateLabel": "7. 11. 2026",
-      "price": 15990,
-      "image": "",
-      "id": "https://levnocestovani.cz/akcni-zajezdy/na-kanary-za-15-990-kc-tyden-na-fuerteventure-ve-4-resortu?utm_source=rss&utm_medium=feed",
-      "firstSeen": "2026-11-07T16:53:17.322472+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Fly for less, stay for less: Skyscanner names the 10 best-value destinations",
-      "summary": "Flight prices to Bilbao in Spain have fallen by 66%, while fares to Wrocław in Poland and Bordeaux in France have dropped by 47% and 34% respectively. The three cities top a new Skyscanner ranking of ten destinations offering some of the bi",
-      "url": "https://www.fly4free.com/news/skyscanner-reveals-best-value-destinations-for-2027/",
-      "source": "Fly4free.com",
-      "date": "2026-11-07T16:29:49+00:00",
-      "dateLabel": "7. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/news/skyscanner-reveals-best-value-destinations-for-2027/",
-      "firstSeen": "2026-11-07T16:53:17.322472+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Cheap full-service flights from Amsterdam to Taiwan for €443",
-      "summary": "Taiwan is a traveler’s paradise — safe, welcoming, and filled with vibrant experiences. Whether you’re chasing outdoor adventures, cultural immersion, or simply great food, this island has it all! Xiamen Air is offering discounted flights t",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-taiwan-e443/",
-      "source": "Fly4free.com",
-      "date": "2026-11-07T16:00:43+00:00",
-      "dateLabel": "7. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-taiwan-e443/",
-      "firstSeen": "2026-11-07T16:53:17.322472+00:00",
-      "priceOrig": {
-        "amount": 443,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Levný zájezd na MADEIRU z Prahy - 10 490 Kč",
-      "summary": "Levný zájezd na Madeiru koupíme u Čedoku. CK Čedok nabízí levný last minute zájezd z Prahy na Madeiru. Za týdenní zájezd do 4* hotelu se snídaní zaplatíme 10 490 Kč, o pouhých 500 Kč pořídíme další zájezd i s polopenzí. V ceně zájezdu je ta",
-      "url": "https://honzovyletenky.cz/levny-zajezd-na-madeiru-z-prahy/",
-      "source": "Honzovy letenky",
-      "date": "2026-11-07T15:51:45+00:00",
-      "dateLabel": "7. 11. 2026",
-      "price": 10490,
-      "image": "",
-      "id": "https://honzovyletenky.cz/levny-zajezd-na-madeiru-z-prahy/",
-      "firstSeen": "2026-11-07T14:53:51.907536+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Advent v Dominikáně: 5* resort s All Inclusive přímým letem z Prahy za 27 590 Kč",
-      "summary": "Zažijte advent v Dominikáně od 27 590 Kč. Přímý let z Prahy, 5* resort Bakour Punta Cana, pláž u hotelu a teplé karibské moře. Podívejte se na nabídku zájezdu.",
-      "url": "https://levnocestovani.cz/akcni-zajezdy/advent-v-dominikane-5-resort-s-all-inclusive-primym-letem-z-prahy-za-27-590-kc?utm_source=rss&utm_medium=feed",
-      "source": "Levnocestovani.cz",
-      "date": "2026-11-07T15:12:54+00:00",
-      "dateLabel": "7. 11. 2026",
-      "price": 27590,
-      "image": "",
-      "id": "https://levnocestovani.cz/akcni-zajezdy/advent-v-dominikane-5-resort-s-all-inclusive-primym-letem-z-prahy-za-27-590-kc?utm_source=rss&utm_medium=feed",
-      "firstSeen": "2026-11-07T16:53:17.322472+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Top-rated 4✨ country hotel in the Garda Lake, Italy from €58/double",
-      "summary": "Enjoy a relaxing getaway on the shores of Lake Garda, Italy, with a stay at a charming 4* Agriturismo La Filanda! Starting at just €58 per double room, this affordable deal is a great opportunity to discover one of Italy's most picturesque",
-      "url": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-garda-lake-e58/",
-      "source": "Fly4free.com",
-      "date": "2026-11-07T15:00:49+00:00",
-      "dateLabel": "7. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-garda-lake-e58/",
-      "firstSeen": "2026-11-07T16:53:17.322472+00:00",
-      "priceOrig": {
-        "amount": 58,
         "cur": "EUR"
       }
     }
