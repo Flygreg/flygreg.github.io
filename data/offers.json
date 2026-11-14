@@ -1,6 +1,74 @@
 {
-  "updated": "2026-11-14T09:01:41.579883+00:00",
+  "updated": "2026-11-14T10:56:19.472999+00:00",
   "offers": [
+    {
+      "title": "BARI za super cenu - 1 280 Kč",
+      "summary": "Levné letenky na jih Itálie pořídíme z Prahy. Zpáteční letenky z Prahy do Bari pořídíme v nabídce Ryanair už za 1 280 Kč. Nejvýhodnější letenky jsou dostupné na lednové termíny 2027. V ceně základního tarifu od aerolinky Ryanair máme malé p",
+      "url": "https://honzovyletenky.cz/bari-za-super-cenu-2/",
+      "source": "Honzovy letenky",
+      "date": "2026-11-14T11:33:56+00:00",
+      "dateLabel": "14. 11. 2026",
+      "price": 1280,
+      "image": "",
+      "id": "https://honzovyletenky.cz/bari-za-super-cenu-2/",
+      "firstSeen": "2026-11-14T10:56:19.472999+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Levné letenky do Rigy, Lotyšsko – 1490 Kč z Prahy",
+      "summary": "Riga je jedno z těch měst, která si vás podmaní dřív, než si stihnete udělat plán. Lotyšské hlavní město je proslulé secesní architekturou – hustší koncentraci těchto fasád na jednom místě v Evropě hledáte marně – a historické centrum tu ne",
+      "url": "https://www.levneletenkyzprahy.cz/2758_levne-letenky-do-rigy,-lotyssko-–-1490-kc-z-prahy",
+      "source": "Levné letenky z Prahy",
+      "date": "2026-11-14T10:59:19+00:00",
+      "dateLabel": "14. 11. 2026",
+      "price": 1490,
+      "image": "",
+      "id": "https://www.levneletenkyzprahy.cz/2758_levne-letenky-do-rigy,-lotyssko-–-1490-kc-z-prahy",
+      "firstSeen": "2026-11-14T10:56:19.472999+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "8 dní na Maledivách v 5* resortu s All Inclusive a přímým letem z Prahy za 35 990 Kč",
+      "summary": "Dopřejte si 8 dní odpočinku na Maledivách v oblíbeném 5* resortu Makunudu Island. All inclusive, přímý let z Prahy a cena od 35 990 Kč. Rezervujte u Čedoku!",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/8-dni-na-maledivach-v-5-resortu-s-all-inclusive-a-primym-letem-z-prahy-za-35-990-kc?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-11-14T10:50:55+00:00",
+      "dateLabel": "14. 11. 2026",
+      "price": 35990,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/8-dni-na-maledivach-v-5-resortu-s-all-inclusive-a-primym-letem-z-prahy-za-35-990-kc?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-11-14T10:56:19.472999+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Cheap non-stop flights from many European cities to Madeira ☀️ 🌊 from €38",
+      "summary": "Your island getaway is just one flight away – no layovers, no hassle! Book now affordable Ryanair and Easyjet flights to Funchal starting at only €38 for a round trip.",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-madeira-e38/",
+      "source": "Fly4free.com",
+      "date": "2026-11-14T10:00:01+00:00",
+      "dateLabel": "14. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-madeira-e38/",
+      "firstSeen": "2026-11-14T10:56:19.472999+00:00",
+      "priceOrig": {
+        "amount": 38,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "Gran Canaria na týden s all inclusive. Od 14 590 Kč.",
+      "summary": "Gran Canaria na týden s all inclusive za 14 590 Kč.",
+      "url": "https://www.obletsvet.cz/akcni-letenka/gran-canaria-na-tyden-s-all-inclusive-prosinec",
+      "source": "Obletsvet.cz",
+      "date": "2026-11-14T09:37:50+00:00",
+      "dateLabel": "14. 11. 2026",
+      "price": 14590,
+      "image": "",
+      "id": "https://www.obletsvet.cz/akcni-letenka/gran-canaria-na-tyden-s-all-inclusive-prosinec",
+      "firstSeen": "2026-11-14T10:56:19.472999+00:00",
+      "priceOrig": null
+    },
     {
       "title": "🏝️ CARIBBEAN DEAL! Direct flights from Amsterdam to Bonaire for €380",
       "summary": "Swap grey Dutch weather for turquoise water, coral reefs and slow Caribbean days! TUI and Corendon are offering direct flights from Amsterdam to Bonaire from just €380 return, making this one of the easiest ways to reach a quieter side of t",
@@ -16,6 +84,19 @@
         "amount": 380,
         "cur": "EUR"
       }
+    },
+    {
+      "title": "Ryanair: Praha - Budapešť - 876 Kč",
+      "summary": "",
+      "url": "https://www.akcniletenky.com",
+      "source": "AkčníLetenky.com",
+      "date": "2026-11-14T09:00:00+00:00",
+      "dateLabel": "14. 11. 2026",
+      "price": 876,
+      "image": "",
+      "id": "727",
+      "firstSeen": "2026-11-14T10:56:19.472999+00:00",
+      "priceOrig": null
     },
     {
       "title": "Egypt za 12 790 Kč – týden u Rudého moře s All Inclusive, odlet z Prahy",
@@ -3847,48 +3928,6 @@
         "amount": 464,
         "cur": "EUR"
       }
-    },
-    {
-      "title": "Holiday in Cape Verde for €662 p.p. 🌴 🥥 Cheap direct flights from Poland + 7-night B&B stay at well-rated hotel",
-      "summary": "Exotic escape to the island of Sal! Book a stay at the highly rated hotel and non-stop Enter Air flights from Warsaw and Katowice for just €662 per person (based on 2 people sharing).",
-      "url": "https://www.fly4free.com/flight-deals/europe/holiday-in-cape-verde-from-poland/",
-      "source": "Fly4free.com",
-      "date": "2026-11-07T10:00:13+00:00",
-      "dateLabel": "7. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/holiday-in-cape-verde-from-poland/",
-      "firstSeen": "2026-11-07T10:55:26.121375+00:00",
-      "priceOrig": {
-        "amount": 662,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Wizz Air: Bratislava - Athény - 980 Kč",
-      "summary": "",
-      "url": "https://www.akcniletenky.com",
-      "source": "AkčníLetenky.com",
-      "date": "2026-11-07T10:00:00+00:00",
-      "dateLabel": "7. 11. 2026",
-      "price": 980,
-      "image": "",
-      "id": "701",
-      "firstSeen": "2026-11-07T10:55:26.121375+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Luxusní Maledivy od 38 990 Kč: 5* Royal Island Resort & Spa s All Inclusive",
-      "summary": "Luxusní dovolená na Maledivách od 38 990 Kč! 5* resort, all inclusive, ubytování v plážové vile a přímý let z Prahy. Počet míst je omezen, rezervujte si pobyt.",
-      "url": "https://levnocestovani.cz/akcni-zajezdy/luxusni-maledivy-od-38-990-kc-5-royal-island-resort-and-spa-s-all-inclusive?utm_source=rss&utm_medium=feed",
-      "source": "Levnocestovani.cz",
-      "date": "2026-11-07T09:43:32+00:00",
-      "dateLabel": "7. 11. 2026",
-      "price": 38990,
-      "image": "",
-      "id": "https://levnocestovani.cz/akcni-zajezdy/luxusni-maledivy-od-38-990-kc-5-royal-island-resort-and-spa-s-all-inclusive?utm_source=rss&utm_medium=feed",
-      "firstSeen": "2026-11-07T10:55:26.121375+00:00",
-      "priceOrig": null
     }
   ]
 }
