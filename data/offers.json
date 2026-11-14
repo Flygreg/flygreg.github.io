@@ -1,6 +1,48 @@
 {
-  "updated": "2026-11-14T13:09:33.214700+00:00",
+  "updated": "2026-11-14T14:55:43.508089+00:00",
   "offers": [
+    {
+      "title": "CHEAP 💥 Non-stop flights from Barcelona to New York for €349",
+      "summary": "Level by Iberia is offering discounted non-stop flights from to New York (JFK)! Tickets available from only €349 for a round trip.",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-barcelona-to-new-york-e349/",
+      "source": "Fly4free.com",
+      "date": "2026-11-14T14:00:50+00:00",
+      "dateLabel": "14. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-barcelona-to-new-york-e349/",
+      "firstSeen": "2026-11-14T14:55:43.508089+00:00",
+      "priceOrig": {
+        "amount": 349,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "Zanzibar all-inclusive v úplně novém 5* resortu Kwanza. Zájezd od 25 490 Kč",
+      "summary": "U cestovní kanceláře Čedok mě velmi zaujala nabídka na týdenní all-inclusive pobyt na Zanzibaru v Kwanza Resort by Sunrise za 25 490 Kč.",
+      "url": "https://www.cestujlevne.com/akcni-letenky/zanzibar-all-inclusive-v-uplne-novem-resortu-kwanza",
+      "source": "CestujLevne.com",
+      "date": "2026-11-14T13:54:01+00:00",
+      "dateLabel": "14. 11. 2026",
+      "price": 25490,
+      "image": "",
+      "id": "https://www.cestujlevne.com/akcni-letenky/zanzibar-all-inclusive-v-uplne-novem-resortu-kwanza",
+      "firstSeen": "2026-11-14T14:55:43.508089+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Na Kapverdy za 23 990 Kč – 7 nocí s All Inclusive ve 4* resortu u pláže",
+      "summary": "Bílá pláž, slunce a All Inclusive na Kapverdách: Blue Style nabízí týden ve 4* resortu za 23 990 Kč. Odlet z Prahy už 19. listopadu, nenechte si ho ujít.",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/na-kapverdy-za-23-990-kc-7-noci-s-all-inclusive-ve-4-resortu-u-plaze?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-11-14T13:51:37+00:00",
+      "dateLabel": "14. 11. 2026",
+      "price": 23990,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/na-kapverdy-za-23-990-kc-7-noci-s-all-inclusive-ve-4-resortu-u-plaze?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-11-14T14:55:43.508089+00:00",
+      "priceOrig": null
+    },
     {
       "title": "SUMMER ☀️ Flights from Prague to Seoul, South Korea 🍜 for €551",
       "summary": "Looking for an unforgettable summer adventure in Asia? This peak-season flight deal is your chance to experience the vibrant energy of Seoul at an incredible price. Fly with LOT from Prague to South Korea’s dynamic capital for just €551 ret",
@@ -28,6 +70,19 @@
       "image": "",
       "id": "https://levnocestovani.cz/akcni-zajezdy/advent-na-zanzibaru-5-resort-se-soukromou-plazi-a-all-inclusive-za-25-490-kc?utm_source=rss&utm_medium=feed",
       "firstSeen": "2026-11-14T13:09:33.214700+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Na zimní prodloužené víkendy z Prahy do Gdaňsku od 1 301 Kč",
+      "summary": "Rezervuj: přes náš vyhledávač Zavazadla: příruční bágl o rozměrech do 40 × 30 × 20 cm Dostupnost: leden – březen 2027 Termíny a ceny: 9. 1. – 11. 1. za 1 628 Kč→ Zobrazit let 16. 1. – 18. 1. za 1 326 Kč→ Zobrazit let 23. 1. – 25. 1. za 1 30",
+      "url": "https://zaletsi.cz/akce/na-zimni-prodlouzene-vikendy-z-prahy-do-gdansku-2/",
+      "source": "Zaleťsi.cz",
+      "date": "2026-11-14T12:13:07+00:00",
+      "dateLabel": "14. 11. 2026",
+      "price": 1301,
+      "image": "",
+      "id": "https://zaletsi.cz/akce/na-zimni-prodlouzene-vikendy-z-prahy-do-gdansku-2/",
+      "firstSeen": "2026-11-14T14:55:43.508089+00:00",
       "priceOrig": null
     },
     {
@@ -1315,7 +1370,7 @@
     },
     {
       "title": "Ženeva, Švýcarsko | letenky z Prahy za 2268 Kč",
-      "summary": "Ženeva je jedno z těch míst, kde i krátká procházka po nábřeží jezera Léman připomene, proč se sem lidé vracejí – vodotrysk Jet d'Eau stříkající vodu do výšky přes 140 metrů, Staré město s katedrálou Saint-Pierre a na obzoru alpské panorama",
+      "summary": "Ženeva je jedno z těch míst, kde i krátká procházka po nábřeží jezera Léman připomene, proč se sem lidé vracejí – vodotrysk Jet d\\'Eau stříkající vodu do výšky přes 140 metrů, Staré město s katedrálou Saint-Pierre a na obzoru alpské panoram",
       "url": "https://www.levneletenkyzprahy.cz/2756_zeneva,-svycarsko-|-letenky-z-prahy-za-2268-kc",
       "source": "Levné letenky z Prahy",
       "date": "2026-11-12T08:43:15+00:00",
@@ -3860,35 +3915,6 @@
         "amount": 58,
         "cur": "EUR"
       }
-    },
-    {
-      "title": "Cheap flights from Prague to Phuket & Bangkok, Thailand from €448",
-      "summary": "Score an unbeatable travel bargain with discounted Air Arabia flights t starting from just €448 return — an incredible price for a long-haul adventure to one of Asia’s most exciting destinations. This limited flight deal is perfect for trav",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-prague-to-bangkok-e448/",
-      "source": "Fly4free.com",
-      "date": "2026-11-07T14:00:15+00:00",
-      "dateLabel": "7. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-prague-to-bangkok-e448/",
-      "firstSeen": "2026-11-07T14:53:51.907536+00:00",
-      "priceOrig": {
-        "amount": 448,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Od pláží až po safari: 8 dní v Keni za 23 990 Kč",
-      "summary": "Objevte keňské Watamu s písečnými plážemi, korálovými útesy a tropickou přírodou. Čedok nabízí pobyt ve 4* resortu s All Inclusive – prohlédněte si zájezd.",
-      "url": "https://levnocestovani.cz/akcni-zajezdy/od-plazi-az-po-safari-8-dni-v-keni-za-23-990-kc?utm_source=rss&utm_medium=feed",
-      "source": "Levnocestovani.cz",
-      "date": "2026-11-07T13:57:48+00:00",
-      "dateLabel": "7. 11. 2026",
-      "price": 23990,
-      "image": "",
-      "id": "https://levnocestovani.cz/akcni-zajezdy/od-plazi-az-po-safari-8-dni-v-keni-za-23-990-kc?utm_source=rss&utm_medium=feed",
-      "firstSeen": "2026-11-07T14:53:51.907536+00:00",
-      "priceOrig": null
     }
   ]
 }
