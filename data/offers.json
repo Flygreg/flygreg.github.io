@@ -1,6 +1,35 @@
 {
-  "updated": "2026-11-14T20:53:36.380578+00:00",
+  "updated": "2026-11-14T22:51:03.793883+00:00",
   "offers": [
+    {
+      "title": "Wizz Air switches Brussels airports: reach the city centre in under 20 minutes",
+      "summary": "Travelling from Budapest to Brussels is about to become more convenient. Wizz Air is moving its flights from the more distant Charleroi Airport to Brussels Airport in Zaventem, the Belgian capital’s main airport. The change will allow passe",
+      "url": "https://www.fly4free.com/news/wizz-air-switches-brussels-airports-reach-the-city-centre-in-under-20-minutes/",
+      "source": "Fly4free.com",
+      "date": "2026-11-14T21:37:42+00:00",
+      "dateLabel": "14. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/news/wizz-air-switches-brussels-airports-reach-the-city-centre-in-under-20-minutes/",
+      "firstSeen": "2026-11-14T22:51:03.793883+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Full-service flights from London to the island of Hainan, China for £468",
+      "summary": "Discover China like never before: fly Tianjin and Hainan Airlines to the tropical paradise of Hainan with full-service comfort — starting from just £468 return with checked bags included. Your next adventure awaits!",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-hainan-p468/",
+      "source": "Fly4free.com",
+      "date": "2026-11-14T21:00:56+00:00",
+      "dateLabel": "14. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-hainan-p468/",
+      "firstSeen": "2026-11-14T22:51:03.793883+00:00",
+      "priceOrig": {
+        "amount": 468,
+        "cur": "GBP"
+      }
+    },
     {
       "title": "Keňa na týden za 22 490 Kč – 4* plážový resort, All Inclusive a možnost safari",
       "summary": "Korálové útesy Watamu, bílé pláže a možnost safari v Tsavo: Čedok nabízí týden v Keni ve 4* resortu s All Inclusive za 22 490 Kč. Prohlédněte si zájezd.",
@@ -1557,7 +1586,7 @@
     },
     {
       "title": "Ženeva, Švýcarsko | letenky z Prahy za 2268 Kč",
-      "summary": "Ženeva je jedno z těch míst, kde i krátká procházka po nábřeží jezera Léman připomene, proč se sem lidé vracejí – vodotrysk Jet d'Eau stříkající vodu do výšky přes 140 metrů, Staré město s katedrálou Saint-Pierre a na obzoru alpské panorama",
+      "summary": "Ženeva je jedno z těch míst, kde i krátká procházka po nábřeží jezera Léman připomene, proč se sem lidé vracejí – vodotrysk Jet d\\'Eau stříkající vodu do výšky přes 140 metrů, Staré město s katedrálou Saint-Pierre a na obzoru alpské panoram",
       "url": "https://www.levneletenkyzprahy.cz/2756_zeneva,-svycarsko-|-letenky-z-prahy-za-2268-kc",
       "source": "Levné letenky z Prahy",
       "date": "2026-11-12T08:43:15+00:00",
@@ -3912,22 +3941,6 @@
       "id": "703",
       "firstSeen": "2026-11-08T07:19:42.741550+00:00",
       "priceOrig": null
-    },
-    {
-      "title": "HIGH SEASON 🌴 🥥 Etihad Airways flights from several European cities to exotic Zanzibar from €519",
-      "summary": "Escape to paradise! Fly Etihad Airways to the island of Zanzibar starting at only €519 for a round trip. Sun, sand, and adventure await-book your island getaway now.",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-zanzibar-e519/",
-      "source": "Fly4free.com",
-      "date": "2026-11-07T21:00:33+00:00",
-      "dateLabel": "7. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-zanzibar-e519/",
-      "firstSeen": "2026-11-07T22:50:49.233481+00:00",
-      "priceOrig": {
-        "amount": 519,
-        "cur": "EUR"
-      }
     }
   ]
 }
