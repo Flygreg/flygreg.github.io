@@ -1,6 +1,35 @@
 {
-  "updated": "2026-11-14T18:59:48.020728+00:00",
+  "updated": "2026-11-14T20:53:36.380578+00:00",
   "offers": [
+    {
+      "title": "Keňa na týden za 22 490 Kč – 4* plážový resort, All Inclusive a možnost safari",
+      "summary": "Korálové útesy Watamu, bílé pláže a možnost safari v Tsavo: Čedok nabízí týden v Keni ve 4* resortu s All Inclusive za 22 490 Kč. Prohlédněte si zájezd.",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/kena-na-tyden-za-22-490-kc-4-plazovy-resort-all-inclusive-a-moznost-safari?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-11-14T20:16:04+00:00",
+      "dateLabel": "14. 11. 2026",
+      "price": 22490,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/kena-na-tyden-za-22-490-kc-4-plazovy-resort-all-inclusive-a-moznost-safari?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-11-14T20:53:36.380578+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Singapore Airlines direct flights from Frankfurt to New York 🗽 for €486",
+      "summary": "Looking for a great deal on flights to the Big Apple? Take advantage of this limited-time offer from Singapore Airlines, one of the world’s top-rated carriers. Fly non-stop to New York (JFK) for €486 round-trip! Comfort, convenience, and wo",
+      "url": "https://www.fly4free.com/flight-deals/europe/singapore-airlines-flights-from-frankfurt-to-new-york-e486/",
+      "source": "Fly4free.com",
+      "date": "2026-11-14T20:00:07+00:00",
+      "dateLabel": "14. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/singapore-airlines-flights-from-frankfurt-to-new-york-e486/",
+      "firstSeen": "2026-11-14T20:53:36.380578+00:00",
+      "priceOrig": {
+        "amount": 486,
+        "cur": "EUR"
+      }
+    },
     {
       "title": "Akční letenky do IRÁKU - 3 740 Kč",
       "summary": "Levné letenky do netradiční destinace pořídíme u Pegasus. V nabídce aerolinky Pegasus najdeme levné letenky z Bratislavy do Iráku. Za letenky do Bagdádu a Erbílu zaplatíme 149 EUR, tedy asi 3 740 Kč, do Sulejmánie o 2 EUR dráž. Po cestě mám",
@@ -13,6 +42,22 @@
       "id": "https://honzovyletenky.cz/akcni-letenky-do-iraku/",
       "firstSeen": "2026-11-14T18:59:48.020728+00:00",
       "priceOrig": null
+    },
+    {
+      "title": "Cheap full-service flights from Amsterdam to Bali, Indonesia 🌸 from €512",
+      "summary": "Dreaming of a tropical escape? This excellent deal with China Eastern Airlines ets you fly to Denpasar from €512 return — an unbeatable price for such a long-haul adventure!",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-bali-e512/",
+      "source": "Fly4free.com",
+      "date": "2026-11-14T19:00:04+00:00",
+      "dateLabel": "14. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-bali-e512/",
+      "firstSeen": "2026-11-14T20:53:36.380578+00:00",
+      "priceOrig": {
+        "amount": 512,
+        "cur": "EUR"
+      }
     },
     {
       "title": "7 nocí na Madeiře ve 4* Savoy Calheta Beach s All Inclusive za 14 690 Kč",
@@ -3882,38 +3927,6 @@
       "priceOrig": {
         "amount": 519,
         "cur": "EUR"
-      }
-    },
-    {
-      "title": "Bargain fares! 😎 Cheap non-stop flights from Paris to Montreal, Canada for €353",
-      "summary": "Looking for an incredible escape to Canada? This limited-time flight deal makes it easier than ever! Air Transat is offering discounted direct flights to Montreal from just €353 return, offering one of the most affordable ways to experience",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-paris-to-montreal-e353-2/",
-      "source": "Fly4free.com",
-      "date": "2026-11-07T20:00:28+00:00",
-      "dateLabel": "7. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-paris-to-montreal-e353-2/",
-      "firstSeen": "2026-11-07T20:51:57.276357+00:00",
-      "priceOrig": {
-        "amount": 353,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Caribbean escape 🌴 🥥 Direct flights from the UK to Jamaica from £458",
-      "summary": "Trade cloudy days for palm trees, blue water and that unmistakable island rhythm — Jamaica is pure good vibes! Grab discounted TUI flights to Montego Bay from just £458 return and dive straight into the tropics.",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-the-uk-to-jamaica-p458/",
-      "source": "Fly4free.com",
-      "date": "2026-11-07T19:00:12+00:00",
-      "dateLabel": "7. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-the-uk-to-jamaica-p458/",
-      "firstSeen": "2026-11-07T20:51:57.276357+00:00",
-      "priceOrig": {
-        "amount": 458,
-        "cur": "GBP"
       }
     }
   ]
