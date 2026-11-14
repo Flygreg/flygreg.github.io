@@ -1,6 +1,19 @@
 {
-  "updated": "2026-11-14T01:21:08.467799+00:00",
+  "updated": "2026-11-14T07:21:01.927440+00:00",
   "offers": [
+    {
+      "title": "Wizz Air: Praha - Poprad - 892 Kč",
+      "summary": "",
+      "url": "https://www.akcniletenky.com",
+      "source": "AkčníLetenky.com",
+      "date": "2026-11-14T06:00:00+00:00",
+      "dateLabel": "14. 11. 2026",
+      "price": 892,
+      "image": "",
+      "id": "726",
+      "firstSeen": "2026-11-14T07:21:01.927440+00:00",
+      "priceOrig": null
+    },
     {
       "title": "HUGE collection of cheap Etihad Airways flights from many European cities to Phuket, Krabi, and Bangkok, Thailand 🔥 from €434",
       "summary": "Planning a winter escape to Thailand? Etihad Airways is offering a large selection of return fares from European cities to Bangkok, Phuket and Krabi from just €434, with comfortable full-service flights and connections via Abu Dhabi.",
@@ -3876,32 +3889,6 @@
         "amount": 460,
         "cur": "EUR"
       }
-    },
-    {
-      "title": "Přímo z Prahy do Asie: kam doletíš s China Airlines přes Taipei",
-      "summary": "Zima v Česku, léto v jihovýchodní Asii. Kdo chce v lednu až březnu utéct za sluncem, sakurami nebo prašanem na Hokkaidó, nemusí přestupovat v Dubaji ani v Istanbulu. China Airlines létá z Prahy přímo do Taipei a odtud pohodlně dál do Japons",
-      "url": "https://zaletsi.cz/prime-lety-praha-asie-china-airlines/",
-      "source": "Zaleťsi.cz",
-      "date": "2026-11-07T07:19:03+00:00",
-      "dateLabel": "7. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://zaletsi.cz/prime-lety-praha-asie-china-airlines/",
-      "firstSeen": "2026-11-07T10:55:26.121375+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Buzz: Praha - Gdaňsk - 982 Kč",
-      "summary": "",
-      "url": "https://www.akcniletenky.com",
-      "source": "AkčníLetenky.com",
-      "date": "2026-11-07T07:00:00+00:00",
-      "dateLabel": "7. 11. 2026",
-      "price": 982,
-      "image": "",
-      "id": "700",
-      "firstSeen": "2026-11-07T07:17:59.848933+00:00",
-      "priceOrig": null
     }
   ]
 }
