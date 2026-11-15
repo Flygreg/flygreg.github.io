@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-15T20:53:25.879528+00:00",
+  "updated": "2026-11-15T22:52:25.738068+00:00",
   "offers": [
+    {
+      "title": "Cheap full-service flights from Budapest to Taiwan for €477",
+      "summary": "Now’s your chance to explore Taiwan with round-trip, discounted Air China flights to Taipei starting at only €477! Whether you're drawn by the vibrant streets of Taipei, the natural beauty of Taroko Gorge, or the rich heritage of Tainan, th",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-budapest-to-taiwan-e477/",
+      "source": "Fly4free.com",
+      "date": "2026-11-15T21:00:00+00:00",
+      "dateLabel": "15. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-budapest-to-taiwan-e477/",
+      "firstSeen": "2026-11-15T22:52:25.738068+00:00",
+      "priceOrig": {
+        "amount": 477,
+        "cur": "EUR"
+      }
+    },
     {
       "title": "HIGH SEASON 🌊 🐠 Full-service flights from Amsterdam to the Philippines for €559",
       "summary": "Dreaming of tropical beaches, island hopping, and unforgettable sunsets? This China Southern Airlines deal makes it possible with full-service flights to Manila starting from just €559 return. It’s an excellent opportunity for travelers loo",
@@ -3899,22 +3915,6 @@
       "id": "706",
       "firstSeen": "2026-11-09T07:43:20.196123+00:00",
       "priceOrig": null
-    },
-    {
-      "title": "XMAS, NYE & SUMMER! 🎆 🍾 Non-stop flights from London to Seattle for £448",
-      "summary": "Quick escape or epic adventure? Your Seattle story starts now! Explore the vibrant streets of Pike Place, get lost in the rhythm of the Emerald City, and sip coffee where it all began — book discounted Delta flights starting at only £448 re",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-seattle-p448/",
-      "source": "Fly4free.com",
-      "date": "2026-11-08T21:00:23+00:00",
-      "dateLabel": "8. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-seattle-p448/",
-      "firstSeen": "2026-11-08T22:51:05.357020+00:00",
-      "priceOrig": {
-        "amount": 448,
-        "cur": "GBP"
-      }
     }
   ]
 }
