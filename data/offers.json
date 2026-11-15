@@ -1,6 +1,38 @@
 {
-  "updated": "2026-11-15T07:23:15.640599+00:00",
+  "updated": "2026-11-15T09:01:44.391916+00:00",
   "offers": [
+    {
+      "title": "Cheap full-service flights from London to the island of Jeju, South Korea for £477",
+      "summary": "Looking for a unique, full-service getaway in Asia? Fly to Seoul starting at £477 round trip with Air China and Juneyao Airlines. This means checked luggage, meals, and comfortable seating are included - no hidden fees or budget-airline sur",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-jeju/",
+      "source": "Fly4free.com",
+      "date": "2026-11-15T08:59:33+00:00",
+      "dateLabel": "15. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-jeju/",
+      "firstSeen": "2026-11-15T09:01:44.391916+00:00",
+      "priceOrig": {
+        "amount": 477,
+        "cur": "GBP"
+      }
+    },
+    {
+      "title": "Cheap full-service flights from Vienna to Bangkok, Thailand for €465",
+      "summary": "Fantastic chance to fly to Thailand on a budget! Saudia is offering discounted flights from Vienna to Bangkok starting at only €465 for a round trip.",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-vienna-to-bangkok-e465/",
+      "source": "Fly4free.com",
+      "date": "2026-11-15T08:00:38+00:00",
+      "dateLabel": "15. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-vienna-to-bangkok-e465/",
+      "firstSeen": "2026-11-15T09:01:44.391916+00:00",
+      "priceOrig": {
+        "amount": 465,
+        "cur": "EUR"
+      }
+    },
     {
       "title": "Letenky Florencie, Itálie z Prahy za 1490 Kč",
       "summary": "Florencie je jedno z mála měst na světě, kde se pověst naprosto shoduje s realitou – Uffizi, Ponte Vecchio, Brunelleschiho kupole nad střechami, Michelangelův David. Tohle všechno tu skutečně je a působí přesně tak, jak si představujete. Zp",
@@ -3922,38 +3954,6 @@
       "id": "704",
       "firstSeen": "2026-11-08T10:56:36.235716+00:00",
       "priceOrig": null
-    },
-    {
-      "title": "Explore the Land of the Incas! 🦙 Flights from London to Peru for £595",
-      "summary": "Dreaming of an unforgettable South American adventure? Now is the perfect time to book affordable Avianca flights to Lima from just £595 return. This incredible Avianca deal opens the door to one of the most diverse and fascinating destinat",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-peru-p595/",
-      "source": "Fly4free.com",
-      "date": "2026-11-08T09:00:06+00:00",
-      "dateLabel": "8. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-peru-p595/",
-      "firstSeen": "2026-11-08T09:02:02.409606+00:00",
-      "priceOrig": {
-        "amount": 595,
-        "cur": "GBP"
-      }
-    },
-    {
-      "title": "PEAK SEASON 🌊 🌴 Cheap flights from Vienna to Sri Lanka for €474",
-      "summary": "Whether you're after relaxing days by the Indian Ocean or unforgettable adventures inland, Sri Lanka promises an incredible holiday experience. Salamair is offering affordable flights to Colombo for just €474 for a round trip!",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-vienna-to-sri-lanka-e474/",
-      "source": "Fly4free.com",
-      "date": "2026-11-08T08:00:23+00:00",
-      "dateLabel": "8. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-vienna-to-sri-lanka-e474/",
-      "firstSeen": "2026-11-08T09:02:02.409606+00:00",
-      "priceOrig": {
-        "amount": 474,
-        "cur": "EUR"
-      }
     }
   ]
 }
