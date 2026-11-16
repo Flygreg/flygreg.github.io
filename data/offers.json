@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-16T21:02:11.613858+00:00",
+  "updated": "2026-11-16T22:59:40.879546+00:00",
   "offers": [
+    {
+      "title": "Stay at the tallest hotel in Thailand with insane views 🤩 4* iconic hotel in Bangkok from €59/double",
+      "summary": "Stay inside one of Bangkok’s most recognizable towers, with observation decks, panoramic restaurants and some of the city’s best views right above your room.",
+      "url": "https://www.fly4free.com/flight-deals/europe/iconic-hotel-bangkok-baiyoke/",
+      "source": "Fly4free.com",
+      "date": "2026-11-16T21:00:56+00:00",
+      "dateLabel": "16. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/iconic-hotel-bangkok-baiyoke/",
+      "firstSeen": "2026-11-16T22:59:40.879546+00:00",
+      "priceOrig": {
+        "amount": 59,
+        "cur": "EUR"
+      }
+    },
     {
       "title": "Jarní výlet 2v1 z Prahy: Turín + Barcelona. Od 2 097 Kč.",
       "summary": "Jarní výlet 2v1 z Prahy: Turín + Barcelona od 2 097 Kč.",
@@ -2620,7 +2636,7 @@
     },
     {
       "title": "Ženeva, Švýcarsko | letenky z Prahy za 2268 Kč",
-      "summary": "Ženeva je jedno z těch míst, kde i krátká procházka po nábřeží jezera Léman připomene, proč se sem lidé vracejí – vodotrysk Jet d'Eau stříkající vodu do výšky přes 140 metrů, Staré město s katedrálou Saint-Pierre a na obzoru alpské panorama",
+      "summary": "Ženeva je jedno z těch míst, kde i krátká procházka po nábřeží jezera Léman připomene, proč se sem lidé vracejí – vodotrysk Jet d\\'Eau stříkající vodu do výšky přes 140 metrů, Staré město s katedrálou Saint-Pierre a na obzoru alpské panoram",
       "url": "https://www.levneletenkyzprahy.cz/2756_zeneva,-svycarsko-|-letenky-z-prahy-za-2268-kc",
       "source": "Levné letenky z Prahy",
       "date": "2026-11-12T08:43:15+00:00",
@@ -3873,19 +3889,6 @@
       "image": "",
       "id": "710",
       "firstSeen": "2026-11-10T07:27:38.094702+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Warm waters beneath winter skies: 10 thermal spas in Europe for a short break",
-      "summary": "Winter bathing in the open air can mean soaking among Alpine peaks, relaxing in a park filled with centuries-old trees or enjoying a panoramic pool overlooking a river. This selection brings together ten thermal spas across Europe for a sho",
-      "url": "https://www.fly4free.com/news/warm-waters-beneath-winter-skies-10-thermal-spas-in-europe-for-a-short-break/",
-      "source": "Fly4free.com",
-      "date": "2026-11-09T21:26:53+00:00",
-      "dateLabel": "9. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/news/warm-waters-beneath-winter-skies-10-thermal-spas-in-europe-for-a-short-break/",
-      "firstSeen": "2026-11-09T22:57:54.949128+00:00",
       "priceOrig": null
     }
   ]
