@@ -1,9 +1,106 @@
 {
-  "updated": "2026-11-15T22:52:25.738068+00:00",
+  "updated": "2026-11-16T09:00:35.304803+00:00",
   "offers": [
     {
+      "title": "Týden v Keni s all-inclusive na krásném pobřeží Indického oceánu. Zájezd od 22 990 Kč",
+      "summary": "Za exotikou do Keni můžete vyrazit za super cenu, a navíc s odletem až za více než týden. Čedok nabízí týdenní dovolenou ve čtyřhvězdičkovém hotelu AHG Lion Beach Resort v letovisku Watamu za 22 990 Kč na osobu.",
+      "url": "https://www.cestujlevne.com/akcni-letenky/tyden-v-keni-s-all-inclusive-na-krasnem-pobrezi-indickeho-oceanu",
+      "source": "CestujLevne.com",
+      "date": "2026-11-16T08:51:53+00:00",
+      "dateLabel": "16. 11. 2026",
+      "price": 22990,
+      "image": "",
+      "id": "https://www.cestujlevne.com/akcni-letenky/tyden-v-keni-s-all-inclusive-na-krasnem-pobrezi-indickeho-oceanu",
+      "firstSeen": "2026-11-16T09:00:35.304803+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "5* hotel Pestana Royal, All Inclusive a odlet z Prahy – Madeira na týden za 16 990 Kč",
+      "summary": "Týden v 5* hotelu Pestana Royal na Madeiře s all inclusive a odletem z Prahy za 16 990 Kč. Objevujte uličky Funchalu i divoký Atlantik vlastním tempem.",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/5-hotel-pestana-royal-all-inclusive-a-odlet-z-prahy-madeira-na-tyden-za-16-990-kc?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-11-16T08:07:27+00:00",
+      "dateLabel": "16. 11. 2026",
+      "price": 16990,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/5-hotel-pestana-royal-all-inclusive-a-odlet-z-prahy-madeira-na-tyden-za-16-990-kc?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-11-16T09:00:35.304803+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Good deal 😎 ✌️ Cheap full-service flights from Budapest to Seoul, South Korea for €475",
+      "summary": "Ready for your next adventure? Discover the vibrant culture, delicious cuisine, and stunning landscapes of South Korea with this excellent China Eastern Airlines deal!",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-budapest-to-south-korea-e475/",
+      "source": "Fly4free.com",
+      "date": "2026-11-16T08:00:13+00:00",
+      "dateLabel": "16. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-budapest-to-south-korea-e475/",
+      "firstSeen": "2026-11-16T09:00:35.304803+00:00",
+      "priceOrig": {
+        "amount": 475,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "Buzz: Praha - Benátky - 852 Kč",
+      "summary": "",
+      "url": "https://www.akcniletenky.com",
+      "source": "AkčníLetenky.com",
+      "date": "2026-11-16T08:00:00+00:00",
+      "dateLabel": "16. 11. 2026",
+      "price": 852,
+      "image": "",
+      "id": "732",
+      "firstSeen": "2026-11-16T09:00:35.304803+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Levně z Prahy do KATÁNIE - 1 145 Kč",
+      "summary": "V nabídce nízkonákladovky Ryanair pořídíme levné letenky na Sicílii. Zpáteční letenky z Prahy do Katánie jsou dostupné u aerolinky Ryanair už za 1 145 Kč. Za nejnižší cenu pořídíme spíše delší týdenní termíny ideální k procestování ostrova.",
+      "url": "https://honzovyletenky.cz/levne-z-prahy-do-katanie/",
+      "source": "Honzovy letenky",
+      "date": "2026-11-16T07:58:11+00:00",
+      "dateLabel": "16. 11. 2026",
+      "price": 1145,
+      "image": "",
+      "id": "https://honzovyletenky.cz/levne-z-prahy-do-katanie/",
+      "firstSeen": "2026-11-16T09:00:35.304803+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Londýn, Anglie – akční letenky z Prahy za 1344 Kč, z Brna za 1230 Kč",
+      "summary": "Z Prahy se do Londýna dostanete s Ryanairem od 1 344 Kč – a za takovou cenu se prostě neváhá. Z Brna vyjde letenka ještě levněji, od 1 230 Kč. Londýn má pověst, která ho předchází: Big Ben, Temže, červené doubledeckery, ulice plné historie",
+      "url": "https://www.levneletenkyzprahy.cz/2760_londyn,-anglie-–-akcni-letenky-z-prahy-za-1344-kc,-z-brna-za-1230-kc",
+      "source": "Levné letenky z Prahy",
+      "date": "2026-11-16T07:15:17+00:00",
+      "dateLabel": "16. 11. 2026",
+      "price": 1344,
+      "image": "",
+      "id": "https://www.levneletenkyzprahy.cz/2760_londyn,-anglie-–-akcni-letenky-z-prahy-za-1344-kc,-z-brna-za-1230-kc",
+      "firstSeen": "2026-11-16T09:00:35.304803+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Thailand in High Season 😎 ☀️ Holiday in Phuket for €673 p.p: Full-service flights from Vienna + 10-night stay at top-rated 4* hotel",
+      "summary": "Looking for an easy winter escape to Thailand without paying peak-season package prices? This deal combines full-service Saudia flights to Phuket with a stay at the highly rated 4-star hotel for €673 per person, based on two people sharing.",
+      "url": "https://www.fly4free.com/flight-deals/europe/holiday-in-phuket-from-vienna-e673/",
+      "source": "Fly4free.com",
+      "date": "2026-11-16T07:00:08+00:00",
+      "dateLabel": "16. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/holiday-in-phuket-from-vienna-e673/",
+      "firstSeen": "2026-11-16T09:00:35.304803+00:00",
+      "priceOrig": {
+        "amount": 673,
+        "cur": "EUR"
+      }
+    },
+    {
       "title": "Cheap full-service flights from Budapest to Taiwan for €477",
-      "summary": "Now’s your chance to explore Taiwan with round-trip, discounted Air China flights to Taipei starting at only €477! Whether you're drawn by the vibrant streets of Taipei, the natural beauty of Taroko Gorge, or the rich heritage of Tainan, th",
+      "summary": "Now’s your chance to explore Taiwan with discounted Air China flights to Taipei starting at only €477 round-trip! Whether you're drawn by the vibrant streets of Taipei, the natural beauty of Taroko Gorge, or the rich heritage of Tainan, thi",
       "url": "https://www.fly4free.com/flight-deals/europe/flights-from-budapest-to-taiwan-e477/",
       "source": "Fly4free.com",
       "date": "2026-11-15T21:00:00+00:00",
@@ -366,7 +463,7 @@
       }
     },
     {
-      "title": "Cheap full-service flights from Vienna to Bangkok, Thailand for €465",
+      "title": "Cheap full-service flights from Vienna to Phuket & Bangkok, Thailand from €465",
       "summary": "Fantastic chance to fly to Thailand on a budget! Saudia is offering discounted flights from Vienna to Bangkok starting at only €465 for a round trip.",
       "url": "https://www.fly4free.com/flight-deals/europe/flights-from-vienna-to-bangkok-e465/",
       "source": "Fly4free.com",
@@ -3805,116 +3902,6 @@
         "amount": 544,
         "cur": "EUR"
       }
-    },
-    {
-      "title": "Buy & Fly: Týden na Madeiře s polopenzí pod 10 tisíc. Zájezd od 9 290 Kč",
-      "summary": "Týdenní zájezdy na Madeiru s polopenzí, letenkami z Prahy i transferem teď Čedok nabízí za méně než 10 tisíc korun. V termínu 10.–17. listopadu si můžete vybrat mezi hotelovým komplexem Dorisol *** za 9 290 Kč a hotelem Montemar Palace ****",
-      "url": "https://www.cestujlevne.com/akcni-letenky/buy-fly-tyden-na-madeire-s-polopenzi-pod-10-tisic",
-      "source": "CestujLevne.com",
-      "date": "2026-11-09T08:54:58+00:00",
-      "dateLabel": "9. 11. 2026",
-      "price": 9290,
-      "image": "",
-      "id": "https://www.cestujlevne.com/akcni-letenky/buy-fly-tyden-na-madeire-s-polopenzi-pod-10-tisic",
-      "firstSeen": "2026-11-09T09:26:56.327344+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Týdenní zájezdy z Prahy na Madeiru: 3* a 4* hotely se snídaní nebo polopenzí od 8 990 Kč",
-      "summary": "Zajisti si dovolenou: REZERVUJ ONLINE nebo telefonicky na čísle +420 770 104 598 Termín: 10. – 17. listopad 2026 Hotely: 4* Hotel Vila Gale Santa Cruz – snídaně | 10 990 Kč 8 990 Kč 3* Hotelový komplex Dorisol – snídaně | 11 690 Kč 9 290 Kč",
-      "url": "https://zaletsi.cz/zajezdy/tydenni-zajezdy-z-prahy-na-madeiru-3-a-4-hotely-se-snidani-nebo-polopenzi/",
-      "source": "Zaleťsi.cz",
-      "date": "2026-11-09T08:52:28+00:00",
-      "dateLabel": "9. 11. 2026",
-      "price": 8990,
-      "image": "",
-      "id": "https://zaletsi.cz/zajezdy/tydenni-zajezdy-z-prahy-na-madeiru-3-a-4-hotely-se-snidani-nebo-polopenzi/",
-      "firstSeen": "2026-11-07T10:55:26.121375+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Týden na Madeiře od 9 590 Kč: 4* hotel na útesu s polopenzí",
-      "summary": "Užijte si výhledy na Atlantik, saunu a krytý bazén v hotelu Montemar Palace. Přímý odlet z Prahy, polopenze a koupání v sopečných bazéncích za 9 590 Kč.",
-      "url": "https://levnocestovani.cz/akcni-zajezdy/tyden-na-madeire-od-9-590-kc-4-hotel-na-utesu-s-polopenzi?utm_source=rss&utm_medium=feed",
-      "source": "Levnocestovani.cz",
-      "date": "2026-11-09T08:17:28+00:00",
-      "dateLabel": "9. 11. 2026",
-      "price": 9590,
-      "image": "",
-      "id": "https://levnocestovani.cz/akcni-zajezdy/tyden-na-madeire-od-9-590-kc-4-hotel-na-utesu-s-polopenzi?utm_source=rss&utm_medium=feed",
-      "firstSeen": "2026-11-09T09:26:56.327344+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Cheap non-stop flights from Manchester & London to Bangkok, Thailand for £412",
-      "summary": "Explore the vibrant streets of Bangkok, indulge in delicious street food, and soak up the sun on Phuket’s stunning beaches — all without breaking the bank. Don’t miss out these discounted Norse flights — Thailand is calling!",
-      "url": "https://www.fly4free.com/flight-deals/europe/direct-flights-from-the-uk-to-bangkok-p412/",
-      "source": "Fly4free.com",
-      "date": "2026-11-09T08:00:45+00:00",
-      "dateLabel": "9. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/direct-flights-from-the-uk-to-bangkok-p412/",
-      "firstSeen": "2026-11-09T09:26:56.327344+00:00",
-      "priceOrig": {
-        "amount": 412,
-        "cur": "GBP"
-      }
-    },
-    {
-      "title": "KYPR za super cenu - 920 Kč",
-      "summary": "V dnešní akci Wizz Air pořídíme letenky na Kypr za parádní cenovku. Zpáteční letenky z Bratislavy do Larnaky jsou dostupné už za 37 €, tedy asi 920 Kč. Na nejnižší cenu dosáhnou členové klubu WDC, ostatní si připlatí 200 Kč v jednom směru.",
-      "url": "https://honzovyletenky.cz/kypr-za-super-cenu-2/",
-      "source": "Honzovy letenky",
-      "date": "2026-11-09T07:57:04+00:00",
-      "dateLabel": "9. 11. 2026",
-      "price": 920,
-      "image": "",
-      "id": "https://honzovyletenky.cz/kypr-za-super-cenu-2/",
-      "firstSeen": "2026-11-09T07:43:20.196123+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Řecko: na prodloužené víkendy z Bratislavy do Athén od 1 591 Kč",
-      "summary": "Rezervuj: přes náš vyhledávač Zavazadla: příruční bágl s rozměry do 40 × 30 × 20 cm Dostupnost: leden – červen 2027 Termíny od 1 591 Kč: 8. – 11. 1. → Zobrazit let 15. – 18. 1. → Zobrazit let 22. – 25. 1. → Zobrazit let 29. 1. – 1. 2. → Zob",
-      "url": "https://zaletsi.cz/akce/recko-na-prodlouzene-vikendy-z-bratislavy-do-athen/",
-      "source": "Zaleťsi.cz",
-      "date": "2026-11-09T07:32:06+00:00",
-      "dateLabel": "9. 11. 2026",
-      "price": 1591,
-      "image": "",
-      "id": "https://zaletsi.cz/akce/recko-na-prodlouzene-vikendy-z-bratislavy-do-athen/",
-      "firstSeen": "2026-11-09T11:11:59.463692+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Etihad Airways flights from several European cities to South Korea 🍜 from €537",
-      "summary": "Looking for an unforgettable adventure in Asia? This flight deal is your chance to experience the vibrant energy of Seoul at an incredible price. Fly with Etihad Airways from Prague to South Korea’s dynamic capital for just €537 return and",
-      "url": "https://www.fly4free.com/flight-deals/europe/etihad-airways-flights-from-europe-to-south-korea/",
-      "source": "Fly4free.com",
-      "date": "2026-11-09T07:00:37+00:00",
-      "dateLabel": "9. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/etihad-airways-flights-from-europe-to-south-korea/",
-      "firstSeen": "2026-11-09T07:43:20.196123+00:00",
-      "priceOrig": {
-        "amount": 537,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Ryanair: Praha - Bergamo - 978 Kč",
-      "summary": "",
-      "url": "https://www.akcniletenky.com",
-      "source": "AkčníLetenky.com",
-      "date": "2026-11-09T07:00:00+00:00",
-      "dateLabel": "9. 11. 2026",
-      "price": 978,
-      "image": "",
-      "id": "706",
-      "firstSeen": "2026-11-09T07:43:20.196123+00:00",
-      "priceOrig": null
     }
   ]
 }
