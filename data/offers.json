@@ -1,6 +1,77 @@
 {
-  "updated": "2026-11-16T15:23:22.679445+00:00",
+  "updated": "2026-11-16T17:28:13.501140+00:00",
   "offers": [
+    {
+      "title": "A Schengen for Southeast Asia? Vietnam, Cambodia and Laos discuss a single visa",
+      "summary": "Cambodia, Laos and Vietnam are joining forces to make it easier for tourists to visit all three countries in a single trip. Officials have agreed to develop joint tourist routes, improve transport links and simplify border crossings. Among",
+      "url": "https://www.fly4free.com/news/a-schengen-for-southeast-asia-vietnam-cambodia-and-laos-discuss-a-single-visa/",
+      "source": "Fly4free.com",
+      "date": "2026-11-16T17:17:36+00:00",
+      "dateLabel": "16. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/news/a-schengen-for-southeast-asia-vietnam-cambodia-and-laos-discuss-a-single-visa/",
+      "firstSeen": "2026-11-16T17:28:13.501140+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "🌊🌵 Discover Mexico’s Pacific side! Flights from Europe to Baja California from €413 return",
+      "summary": "If you want Mexico without the classic Caribbean-resort feel, Baja California is a very different kind of trip. Condor is offering return flights from several European cities to Baja California from just €413, opening the door to a road tri",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-baja-california-2/",
+      "source": "Fly4free.com",
+      "date": "2026-11-16T17:00:17+00:00",
+      "dateLabel": "16. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-baja-california-2/",
+      "firstSeen": "2026-11-16T17:28:13.501140+00:00",
+      "priceOrig": {
+        "amount": 413,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "Madeira s polopenzí za 11 490 Kč ve výborně hodnoceném 4* Jardim Atlantico",
+      "summary": "Výhledy na Atlantik, klidné prostředí a krásná příroda Madeiry. Čedok nabízí 8 dní ve 4* resortu s polopenzí za 11 490 Kč. Poznejte ostrov i vy!",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/madeira-s-polopenzi-za-11-490-kc-ve-vyborne-hodnocenem-4-jardim-atlantico?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-11-16T16:21:24+00:00",
+      "dateLabel": "16. 11. 2026",
+      "price": 11490,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/madeira-s-polopenzi-za-11-490-kc-ve-vyborne-hodnocenem-4-jardim-atlantico?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-11-16T17:28:13.501140+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Prodloužený zimní víkend na horách v Itálii. Od 5 700 Kč.",
+      "summary": "Zimní prodloužený víkend na horách v Itálii od 5 700 Kč.",
+      "url": "https://www.obletsvet.cz/akcni-letenka/prodlouzeny-zimni-vikend-na-horach-v-italii",
+      "source": "Obletsvet.cz",
+      "date": "2026-11-16T16:19:28+00:00",
+      "dateLabel": "16. 11. 2026",
+      "price": 5700,
+      "image": "",
+      "id": "https://www.obletsvet.cz/akcni-letenka/prodlouzeny-zimni-vikend-na-horach-v-italii",
+      "firstSeen": "2026-11-16T17:28:13.501140+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "🇧🇴 Bolivia from €502! Cheap flights from Madrid to one of South America’s wildest destinations",
+      "summary": "If you’re looking for a trip that feels genuinely different from the usual long-haul escape, Bolivia is hard to beat. Flights from Madrid to Santa Cruz (Viru Viru) start from just €502 return, giving you a very affordable entry point into a",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-madrid-to-bolivia-e502/",
+      "source": "Fly4free.com",
+      "date": "2026-11-16T15:30:29+00:00",
+      "dateLabel": "16. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-madrid-to-bolivia-e502/",
+      "firstSeen": "2026-11-16T17:28:13.501140+00:00",
+      "priceOrig": {
+        "amount": 502,
+        "cur": "EUR"
+      }
+    },
     {
       "title": "Týden u Rudého moře s all-inclusive a sluníčkem i na konci listopadu. Zájezd od 11 990 Kč",
       "summary": "Za teplem a sluníčkem nemusíte ani v listopadu cestovat daleko. Stačí něco málo přes čtyři hodiny letu z Prahy a můžete si užívat příjemné teploty kolem 25 °C, pláže i koupání v Rudém moři.",
@@ -25,6 +96,19 @@
       "image": "",
       "id": "https://levnocestovani.cz/akcni-zajezdy/za-klidem-na-zanzibar-8-dni-v-utulnem-4-resortu-primo-u-plaze-za-24-990-kc?utm_source=rss&utm_medium=feed",
       "firstSeen": "2026-11-16T15:23:22.679445+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Mexiko: předvánoční letenky z Prahy do San José del Cabo za 10 783 Kč",
+      "summary": "Rezervuj: přímo přes náš vyhledávač Zavazadla: příruční bágl o rozměrech do 40 × 30 × 10 cm Dostupnost: listopad a prosinec 2026 Příkladové termíny a ceny: 20. – 27. 11. za 11 027 Kč → Zobrazit let 20. – 30. 11. za 11 271 Kč → Zobrazit let",
+      "url": "https://zaletsi.cz/akce/mexiko-predvanocni-letenky-z-prahy-do-san-jose-del-cabo/",
+      "source": "Zaleťsi.cz",
+      "date": "2026-11-16T15:09:14+00:00",
+      "dateLabel": "16. 11. 2026",
+      "price": 10783,
+      "image": "",
+      "id": "https://zaletsi.cz/akce/mexiko-predvanocni-letenky-z-prahy-do-san-jose-del-cabo/",
+      "firstSeen": "2026-11-16T17:28:13.501140+00:00",
       "priceOrig": null
     },
     {
@@ -2426,7 +2510,7 @@
     },
     {
       "title": "Ženeva, Švýcarsko | letenky z Prahy za 2268 Kč",
-      "summary": "Ženeva je jedno z těch míst, kde i krátká procházka po nábřeží jezera Léman připomene, proč se sem lidé vracejí – vodotrysk Jet d\\'Eau stříkající vodu do výšky přes 140 metrů, Staré město s katedrálou Saint-Pierre a na obzoru alpské panoram",
+      "summary": "Ženeva je jedno z těch míst, kde i krátká procházka po nábřeží jezera Léman připomene, proč se sem lidé vracejí – vodotrysk Jet d'Eau stříkající vodu do výšky přes 140 metrů, Staré město s katedrálou Saint-Pierre a na obzoru alpské panorama",
       "url": "https://www.levneletenkyzprahy.cz/2756_zeneva,-svycarsko-|-letenky-z-prahy-za-2268-kc",
       "source": "Levné letenky z Prahy",
       "date": "2026-11-12T08:43:15+00:00",
@@ -3835,77 +3919,6 @@
       "id": "https://levnocestovani.cz/akcni-zajezdy/advent-v-egypte-4-resort-v-marsa-alam-s-all-inclusive-za-15-990-kc?utm_source=rss&utm_medium=feed",
       "firstSeen": "2026-11-09T19:11:48.087860+00:00",
       "priceOrig": null
-    },
-    {
-      "title": "Budapest city break 🥰 B&B stay at highly rated and modern 4* Impulso Hotel for €56/double",
-      "summary": "Visit the beautiful capital of Hungary! Take advantage of this good deal and book a double room at 4* hotel for only €56 per night.",
-      "url": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-budapest-e56-5/",
-      "source": "Fly4free.com",
-      "date": "2026-11-09T16:55:01+00:00",
-      "dateLabel": "9. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-budapest-e56-5/",
-      "firstSeen": "2026-11-09T17:22:09.294228+00:00",
-      "priceOrig": {
-        "amount": 56,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Lanzarote z Prahy s all-inclusive v prosinci. Zájezd od 13 190 Kč",
-      "summary": "Dovolená na Lanzarote s all-inclusive za 13 190 Kč na osobu, a navíc nemusíte balit kufry na poslední chvíli. Odlet z Prahy je až 8. prosince, takže na plánování i přípravy máte ještě skoro měsíc.",
-      "url": "https://www.cestujlevne.com/akcni-letenky/lanzarote-z-prahy-s-all-inclusive-v-prosinci",
-      "source": "CestujLevne.com",
-      "date": "2026-11-09T16:14:46+00:00",
-      "dateLabel": "9. 11. 2026",
-      "price": 13190,
-      "image": "",
-      "id": "https://www.cestujlevne.com/akcni-letenky/lanzarote-z-prahy-s-all-inclusive-v-prosinci",
-      "firstSeen": "2026-11-09T17:22:09.294228+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "7 nocí na malém ostrově Makunudu. Maledivy s přímým letem za 37 990 Kč",
-      "summary": "Jen 36 bungalovů, korálový útes a pláže pár kroků od pokoje. Objevte 4* resort Makunudu s hodnocením 9,1/10 na Bookingu. Prohlédněte si zájezd od Čedoku.",
-      "url": "https://levnocestovani.cz/akcni-zajezdy/7-noci-na-malem-ostrove-makunudu-maledivy-s-primym-letem-za-37-990-kc?utm_source=rss&utm_medium=feed",
-      "source": "Levnocestovani.cz",
-      "date": "2026-11-09T16:11:54+00:00",
-      "dateLabel": "9. 11. 2026",
-      "price": 37990,
-      "image": "",
-      "id": "https://levnocestovani.cz/akcni-zajezdy/7-noci-na-malem-ostrove-makunudu-maledivy-s-primym-letem-za-37-990-kc?utm_source=rss&utm_medium=feed",
-      "firstSeen": "2026-11-09T17:22:09.294228+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Pegasus Airlines: Praha - Dubaj - 6 290 Kč",
-      "summary": "",
-      "url": "https://www.akcniletenky.com",
-      "source": "AkčníLetenky.com",
-      "date": "2026-11-09T16:00:00+00:00",
-      "dateLabel": "9. 11. 2026",
-      "price": 6290,
-      "image": "",
-      "id": "709",
-      "firstSeen": "2026-11-09T17:22:09.294228+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Full-service flights from Helsinki to Bali, Indonesia 🌸 for €629",
-      "summary": "Check out these discounted Juneyao Airlines flights from Helsinki, Finland to beautiful Bali, Indonesia! Tickets are available now from €629 for a round trip.",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-helsinki-to-bali-e629-2/",
-      "source": "Fly4free.com",
-      "date": "2026-11-09T15:50:45+00:00",
-      "dateLabel": "9. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-helsinki-to-bali-e629-2/",
-      "firstSeen": "2026-11-09T17:22:09.294228+00:00",
-      "priceOrig": {
-        "amount": 629,
-        "cur": "EUR"
-      }
     }
   ]
 }
