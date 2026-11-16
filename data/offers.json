@@ -1,6 +1,61 @@
 {
-  "updated": "2026-11-16T19:14:44.102757+00:00",
+  "updated": "2026-11-16T21:02:11.613858+00:00",
   "offers": [
+    {
+      "title": "Jarní výlet 2v1 z Prahy: Turín + Barcelona. Od 2 097 Kč.",
+      "summary": "Jarní výlet 2v1 z Prahy: Turín + Barcelona od 2 097 Kč.",
+      "url": "https://www.obletsvet.cz/akcni-letenka/jarni-vylet-2v1-z-prahy-turin-barcelona",
+      "source": "Obletsvet.cz",
+      "date": "2026-11-16T20:12:42+00:00",
+      "dateLabel": "16. 11. 2026",
+      "price": 2097,
+      "image": "",
+      "id": "https://www.obletsvet.cz/akcni-letenka/jarni-vylet-2v1-z-prahy-turin-barcelona",
+      "firstSeen": "2026-11-16T21:02:11.613858+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Kanáry z Prahy: 7 nocí na Tenerife s polopenzí za 14 990 Kč",
+      "summary": "Zkraťte si podzim a vyměňte vrstvy oblečení za plavky. Týden na Tenerife s polopenzí i letenkou z Prahy teď pořídíte za skvělých 14 990 Kč.",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/kanary-z-prahy-7-noci-na-tenerife-s-polopenzi-za-14-990-kc?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-11-16T20:08:11+00:00",
+      "dateLabel": "16. 11. 2026",
+      "price": 14990,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/kanary-z-prahy-7-noci-na-tenerife-s-polopenzi-za-14-990-kc?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-11-16T21:02:11.613858+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "☀️ Caribbean winter escape! Full-service flights from Frankfurt to Puerto Rico from €570 return",
+      "summary": "Swap grey winter days for turquoise water, palm-lined beaches and warm Caribbean evenings. Condor and JetBlue are offering return flights from Frankfurt to San Juan from €571, including high-season dates.",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-frankfurt-to-puerto-rico-e570/",
+      "source": "Fly4free.com",
+      "date": "2026-11-16T20:00:27+00:00",
+      "dateLabel": "16. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-frankfurt-to-puerto-rico-e570/",
+      "firstSeen": "2026-11-16T21:02:11.613858+00:00",
+      "priceOrig": {
+        "amount": 570,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "Varna z Bratislavy na prodloužené víkendy u Černého moře i v zimě. Letenky od 880 Kč",
+      "summary": "S Wizz Airem se můžete během zimy vydat z Bratislavy do bulharské Varny. Zpáteční letenky pořídíte za 36 EUR.",
+      "url": "https://www.cestujlevne.com/akcni-letenky/varna-z-bratislavy-na-prodlouzene-vikendy-u-cerneho-more-i-v-zime",
+      "source": "CestujLevne.com",
+      "date": "2026-11-16T19:30:24+00:00",
+      "dateLabel": "16. 11. 2026",
+      "price": 880,
+      "image": "",
+      "id": "https://www.cestujlevne.com/akcni-letenky/varna-z-bratislavy-na-prodlouzene-vikendy-u-cerneho-more-i-v-zime",
+      "firstSeen": "2026-11-16T21:02:11.613858+00:00",
+      "priceOrig": null
+    },
     {
       "title": "Týden u Indického oceánu s All Inclusive: Keňa ve 4* resortu za 19 990 Kč",
       "summary": "Pláž Bamburi, historická Mombasa i možnost výletu na safari. EXIM tours a Fischer nabízí týden v Keni s All Inclusive za 19 990 Kč, prohlédněte si nabídku.",
@@ -3831,77 +3886,6 @@
       "image": "",
       "id": "https://www.fly4free.com/news/warm-waters-beneath-winter-skies-10-thermal-spas-in-europe-for-a-short-break/",
       "firstSeen": "2026-11-09T22:57:54.949128+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Fares down! 💥 Non-stop flights from several UK cities to exotic Barbados 🏝️ from £417",
-      "summary": "This excellent TUI deal makes Caribbean sunshine more affordable than ever. You can now book direct flights to Bridgetown for just £417 return, even during peak travel months when prices are usually much higher.",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-the-uk-to-barbados-p417/",
-      "source": "Fly4free.com",
-      "date": "2026-11-09T21:00:30+00:00",
-      "dateLabel": "9. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-the-uk-to-barbados-p417/",
-      "firstSeen": "2026-11-09T21:05:39.350898+00:00",
-      "priceOrig": {
-        "amount": 417,
-        "cur": "GBP"
-      }
-    },
-    {
-      "title": "Skopje z Prahy – spousta termínů od ledna do března. Letenky od 1 045 Kč",
-      "summary": "Skopje je skvělý tip na levný výlet. V hlavním městě Severní Makedonie se můžete projít historickým bazarem, poznat místní památky a užít si pár dní bez velkého utrácení.",
-      "url": "https://www.cestujlevne.com/akcni-letenky/skopje-z-prahy-spousta-terminu-od-ledna-do-brezna",
-      "source": "CestujLevne.com",
-      "date": "2026-11-09T20:30:49+00:00",
-      "dateLabel": "9. 11. 2026",
-      "price": 1045,
-      "image": "",
-      "id": "https://www.cestujlevne.com/akcni-letenky/skopje-z-prahy-spousta-terminu-od-ledna-do-brezna",
-      "firstSeen": "2026-11-09T21:05:39.350898+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "PRICE DROP 💥 Last-minute full-service direct flights from Poland to Sri Lanka 🌴 from €476",
-      "summary": "Enter Air is offering discounted flights to Colombo from just €476 return , making Sri Lanka an easy last-minute option for anyone craving beaches, jungle, tea country and a completely different climate.",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-poland-to-sri-lanka-e476/",
-      "source": "Fly4free.com",
-      "date": "2026-11-09T20:00:24+00:00",
-      "dateLabel": "9. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-poland-to-sri-lanka-e476/",
-      "firstSeen": "2026-11-09T21:05:39.350898+00:00",
-      "priceOrig": {
-        "amount": 476,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "První prosincový týden na Madeiře v 5* hotelu za 14 190 Kč",
-      "summary": "Vánoční výzdoba Funchalu, výlety do zelených hor a odpočinek u oceánu. Čedok nabízí Madeiru v 5* hotelu s All Inclusive za 14 190 Kč. Prohlédněte si zájezd.",
-      "url": "https://levnocestovani.cz/akcni-zajezdy/prvni-prosincovy-tyden-na-madeire-v-5-hotelu-za-14-190-kc?utm_source=rss&utm_medium=feed",
-      "source": "Levnocestovani.cz",
-      "date": "2026-11-09T19:36:19+00:00",
-      "dateLabel": "9. 11. 2026",
-      "price": 14190,
-      "image": "",
-      "id": "https://levnocestovani.cz/akcni-zajezdy/prvni-prosincovy-tyden-na-madeire-v-5-hotelu-za-14-190-kc?utm_source=rss&utm_medium=feed",
-      "firstSeen": "2026-11-09T21:05:39.350898+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Víkendové letenky do ABERDEENU - 1 210 Kč",
-      "summary": "Levné letenky na víkend ve Skotsku koupíme u Ryanair. V rezervačním systému aerolinky Ryanair pořídíme levné letenky z Krakowa do Aberdeenu. Za zpáteční letenky zaplatíme 213 PLN, tedy asi 1 210 Kč. Letenky za tuto nebo podobnou cenu najdem",
-      "url": "https://honzovyletenky.cz/vikendove-letenky-do-aberdeenu/",
-      "source": "Honzovy letenky",
-      "date": "2026-11-09T19:25:45+00:00",
-      "dateLabel": "9. 11. 2026",
-      "price": 1210,
-      "image": "",
-      "id": "https://honzovyletenky.cz/vikendove-letenky-do-aberdeenu/",
-      "firstSeen": "2026-11-09T19:11:48.087860+00:00",
       "priceOrig": null
     }
   ]
