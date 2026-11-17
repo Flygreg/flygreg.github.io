@@ -1,6 +1,35 @@
 {
-  "updated": "2026-11-17T01:29:22.329304+00:00",
+  "updated": "2026-11-17T07:37:11.335872+00:00",
   "offers": [
+    {
+      "title": "It’s Mexico time! 😎 🍹 Flights from many European cities to Cancun from €569",
+      "summary": "Dreaming of turquoise water and white-sand beaches? This unbeatable Condor deal makes it real: fly from multiple European cities to Cancun from just €569 return and experience the magic of Mexico!",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-cancun-e569/",
+      "source": "Fly4free.com",
+      "date": "2026-11-17T07:00:57+00:00",
+      "dateLabel": "17. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-cancun-e569/",
+      "firstSeen": "2026-11-17T07:37:11.335872+00:00",
+      "priceOrig": {
+        "amount": 569,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "Buzz: Bratislava - Malta - 980 Kč",
+      "summary": "",
+      "url": "https://www.akcniletenky.com",
+      "source": "AkčníLetenky.com",
+      "date": "2026-11-17T07:00:00+00:00",
+      "dateLabel": "17. 11. 2026",
+      "price": 980,
+      "image": "",
+      "id": "736",
+      "firstSeen": "2026-11-17T07:37:11.335872+00:00",
+      "priceOrig": null
+    },
     {
       "title": "Stay at the tallest hotel in Thailand with insane views 🤩 4* iconic hotel in Bangkok from €59/double",
       "summary": "Stay inside one of Bangkok’s most recognizable towers, with observation decks, panoramic restaurants and some of the city’s best views right above your room.",
@@ -3861,35 +3890,6 @@
         "amount": 455,
         "cur": "EUR"
       }
-    },
-    {
-      "title": "Cheap full-service flights from many European cities to Los Angeles 🏄 for €394",
-      "summary": "Soak up the sun, stroll Hollywood Boulevard, or explore Yosemite — your West Coast adventure awaits! Royal Air Maroc is offering discounted airfares to Los Angeles starting at €394 for a round trip.",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-los-angeles-e394/",
-      "source": "Fly4free.com",
-      "date": "2026-11-10T07:00:10+00:00",
-      "dateLabel": "10. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-los-angeles-e394/",
-      "firstSeen": "2026-11-10T07:27:38.094702+00:00",
-      "priceOrig": {
-        "amount": 394,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Ryanair: Praha - Turín - 975 Kč",
-      "summary": "",
-      "url": "https://www.akcniletenky.com",
-      "source": "AkčníLetenky.com",
-      "date": "2026-11-10T07:00:00+00:00",
-      "dateLabel": "10. 11. 2026",
-      "price": 975,
-      "image": "",
-      "id": "710",
-      "firstSeen": "2026-11-10T07:27:38.094702+00:00",
-      "priceOrig": null
     }
   ]
 }
