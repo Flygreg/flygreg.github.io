@@ -1,6 +1,51 @@
 {
-  "updated": "2026-11-17T17:19:26.726994+00:00",
+  "updated": "2026-11-17T19:18:57.617154+00:00",
   "offers": [
+    {
+      "title": "Cheap full-service flights from Amsterdam to Melbourne & Sydney, Australia 🐨 from €652. Open-jaw for €670",
+      "summary": "This amazing deal makes it more affordable than ever to explore the land Down Under! Xiamen Airlines are offering discounted flights starting at €652 for a round trip.",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-australia-e652/",
+      "source": "Fly4free.com",
+      "date": "2026-11-17T19:00:16+00:00",
+      "dateLabel": "17. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-australia-e652/",
+      "firstSeen": "2026-11-17T19:18:57.617154+00:00",
+      "priceOrig": {
+        "amount": 652,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "Full-service flights from Frankfurt to Hawaii 🏝️ from €586",
+      "summary": "Hawaii is the ultimate island escape, where picture-perfect beaches meet lush jungles and turquoise bays. Walk in the shadow of legendary volcanoes, catch epic sunsets over Waikiki, and snorkel in crystal-clear waters filled with vibrant ma",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-frankfurt-to-the-hawaii-e606/",
+      "source": "Fly4free.com",
+      "date": "2026-11-17T18:02:18+00:00",
+      "dateLabel": "17. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-frankfurt-to-the-hawaii-e606/",
+      "firstSeen": "2026-11-17T19:18:57.617154+00:00",
+      "priceOrig": {
+        "amount": 586,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "Na Tenerife za 12 490 Kč: Dovolená ve 4* hotelu Fergus Puerto de la Cruz s odletem z Prahy",
+      "summary": "Kanáry za 12 490 Kč na osobu? Objevte Tenerife s Čedokem a odletem z Prahy. Čeká vás 4* hotel Fergus Puerto de la Cruz i procházky u Atlantiku.",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/na-tenerife-za-12-490-kc-dovolena-ve-4-hotelu-fergus-puerto-de-la-cruz-s-odletem-z-prahy?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-11-17T17:40:35+00:00",
+      "dateLabel": "17. 11. 2026",
+      "price": 12490,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/na-tenerife-za-12-490-kc-dovolena-ve-4-hotelu-fergus-puerto-de-la-cruz-s-odletem-z-prahy?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-11-17T19:18:57.617154+00:00",
+      "priceOrig": null
+    },
     {
       "title": "Well-rated 4✨ Akeah Verdi Budapest for €45/double",
       "summary": "Take advantage of this good deal and book a stay at the well-rated 4* hotel in Budapest for only €45 per night (based on 2 people sharing).",
@@ -3775,35 +3820,6 @@
       "image": "",
       "id": "https://www.obletsvet.cz/akcni-letenka/portugalsko-2v1-porto-faro",
       "firstSeen": "2026-11-10T20:58:50.636941+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "🌏✈️ The world’s longest flight in premium economy! One-way flights from New York to Singapore from €484",
-      "summary": "Almost 18 hours in the air and more than 15,000 km across the globe! Singapore Airlines is offering one-way Premium Economy tickets from New York JFK to Singapore from just €498 on what is currently the world’s longest scheduled non-stop pa",
-      "url": "https://www.fly4free.com/flight-deals/europe/longest-flight-in-the-world-new-york-to-singapore/",
-      "source": "Fly4free.com",
-      "date": "2026-11-10T18:30:11+00:00",
-      "dateLabel": "10. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/longest-flight-in-the-world-new-york-to-singapore/",
-      "firstSeen": "2026-11-10T19:12:38.620916+00:00",
-      "priceOrig": {
-        "amount": 484,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "💞Valentine’s Day: 10 romantic trips for two, from an overnight train to a chocolate workshop",
-      "summary": "Fall asleep on an overnight train and wake up in Switzerland, learn to make apple strudel together or end Valentine’s Day looking through a telescope. A romantic getaway can be built around an experience you have always wanted to share. It",
-      "url": "https://www.fly4free.com/flight-deals/europe/valentines-day-10-romantic-trips-for-two-from-an-overnight-train-to-a-chocolate-workshop/",
-      "source": "Fly4free.com",
-      "date": "2026-11-10T18:17:33+00:00",
-      "dateLabel": "10. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/valentines-day-10-romantic-trips-for-two-from-an-overnight-train-to-a-chocolate-workshop/",
-      "firstSeen": "2026-11-10T19:12:38.620916+00:00",
       "priceOrig": null
     }
   ]
