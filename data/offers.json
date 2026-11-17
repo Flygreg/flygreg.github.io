@@ -1,6 +1,77 @@
 {
-  "updated": "2026-11-17T07:37:11.335872+00:00",
+  "updated": "2026-11-17T09:18:38.191785+00:00",
   "offers": [
+    {
+      "title": "Itálie: Treviso - Benátky – letenky z Prahy za 1297 Kč",
+      "summary": "Benátky jsou město, které se architekturou nepodobá ničemu jinému v Evropě – a přitom ho poznáte nejlíp pěšky, bez cíle, když se necháte vtáhnout do spleti uliček, přes kamenné mostky a kolem fasád, které by jinde vydaly na celé muzeum. Z P",
+      "url": "https://www.levneletenkyzprahy.cz/2761_italie:-treviso-benatky-–-letenky-z-prahy-za-1297-kc",
+      "source": "Levné letenky z Prahy",
+      "date": "2026-11-17T09:56:25+00:00",
+      "dateLabel": "17. 11. 2026",
+      "price": 1297,
+      "image": "",
+      "id": "https://www.levneletenkyzprahy.cz/2761_italie:-treviso-benatky-–-letenky-z-prahy-za-1297-kc",
+      "firstSeen": "2026-11-17T09:18:38.191785+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Winter escape to Cape Verde 🏝️ Cheap direct flights from London & Manchester to the island of Boa Vista from £199",
+      "summary": "Sun, sea, and adventure await — don’t miss this excellent deal! TUI is offering discounted flights to Cape Verde starting at only £199 for a round trip.",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-the-uk-to-boa-vista/",
+      "source": "Fly4free.com",
+      "date": "2026-11-17T09:00:06+00:00",
+      "dateLabel": "17. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-the-uk-to-boa-vista/",
+      "firstSeen": "2026-11-17T09:18:38.191785+00:00",
+      "priceOrig": {
+        "amount": 199,
+        "cur": "GBP"
+      }
+    },
+    {
+      "title": "Madeira s pětihvězdičkovým pohodlím: Týden s All Inclusive a odletem z Prahy za 13 990 Kč",
+      "summary": "Dopřejte si týden na Madeiře v 5* hotelu Pestana Royal s all inclusive za 13 990 Kč na osobu. Odlet z Prahy, odpočinek u bazénů i objevování ostrova.",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/madeira-s-petihvezdickovym-pohodlim-tyden-s-all-inclusive-a-odletem-z-prahy-za-13-990-kc?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-11-17T08:37:01+00:00",
+      "dateLabel": "17. 11. 2026",
+      "price": 13990,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/madeira-s-petihvezdickovym-pohodlim-tyden-s-all-inclusive-a-odletem-z-prahy-za-13-990-kc?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-11-17T09:18:38.191785+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Mexické Los Cabos z Prahy ještě levněji a vč. odbaveného zavazadla. Letenky od 11 680 Kč",
+      "summary": "Do mexického Los Cabos se teď z Prahy podíváte ještě výhodněji! Zpáteční letenky s Condorem vycházejí od 11 680 Kč včetně odbaveného zavazadla.",
+      "url": "https://www.cestujlevne.com/akcni-letenky/mexicke-los-cabos-z-prahy-jeste-levneji-a-vc-odbaveneho-zavazadla",
+      "source": "CestujLevne.com",
+      "date": "2026-11-17T08:35:08+00:00",
+      "dateLabel": "17. 11. 2026",
+      "price": 11680,
+      "image": "",
+      "id": "https://www.cestujlevne.com/akcni-letenky/mexicke-los-cabos-z-prahy-jeste-levneji-a-vc-odbaveneho-zavazadla",
+      "firstSeen": "2026-11-17T09:18:38.191785+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "PEAK SEASON ☀️ 🌴 Cheap full-service flights from Brussels to Thailand & Malaysia from €427",
+      "summary": "Looking for an exotic escape or an unforgettable adventure in Southeast Asia? Take advantage of this incredible flight deal: fly to Bangkok or Kuala Lumpur with Hainan Airlines for €427 roundtrip with checked bags included.",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-brussels-to-thailand-malaysia-e427/",
+      "source": "Fly4free.com",
+      "date": "2026-11-17T08:00:13+00:00",
+      "dateLabel": "17. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-brussels-to-thailand-malaysia-e427/",
+      "firstSeen": "2026-11-17T09:18:38.191785+00:00",
+      "priceOrig": {
+        "amount": 427,
+        "cur": "EUR"
+      }
+    },
     {
       "title": "It’s Mexico time! 😎 🍹 Flights from many European cities to Cancun from €569",
       "summary": "Dreaming of turquoise water and white-sand beaches? This unbeatable Condor deal makes it real: fly from multiple European cities to Cancun from just €569 return and experience the magic of Mexico!",
@@ -3819,77 +3890,6 @@
       "id": "https://www.cestujlevne.com/akcni-letenky/neapol-z-prahy-na-vikend-odlet-v-patek-vecer-navrat-v-nedeli-vecer",
       "firstSeen": "2026-11-10T11:04:03.755338+00:00",
       "priceOrig": null
-    },
-    {
-      "title": "Leden v Egyptě: all inclusive zájezdy z Prahy do skvěle hodnocených hotelů od 13 640 Kč",
-      "summary": "Zajisti si dovolenou: REZERVUJ ONLINE nebo telefonicky na čísle +420 770 104 598 Termín: 7. – 14. leden 2027 Hotely: 4* Jaz Neo Reef Marsa – all inclusive | 13 640 Kč 5* Jaz Grand Marsa Alam – all inclusive | 14 780 Kč 4* Swiss Touches Reso",
-      "url": "https://zaletsi.cz/zajezdy/leden-v-egypte-all-inclusive-zajezdy-z-prahy-do-skvele-hodnocenych-hotelu/",
-      "source": "Zaleťsi.cz",
-      "date": "2026-11-10T09:12:24+00:00",
-      "dateLabel": "10. 11. 2026",
-      "price": 13640,
-      "image": "",
-      "id": "https://zaletsi.cz/zajezdy/leden-v-egypte-all-inclusive-zajezdy-z-prahy-do-skvele-hodnocenych-hotelu/",
-      "firstSeen": "2026-11-12T22:58:46.943478+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Cheap holiday in Madeira for €371 p.p. ☀️ 🌊 Direct flights from Poland + 7-night B&B stay at 4* hotel",
-      "summary": "Discover the scenic Portuguese island of Madeira! Book cheap direct Wizz Air flights to Funchal and accommodation at well-rated hotel for only €371 per person (based on 2 people sharing).",
-      "url": "https://www.fly4free.com/flight-deals/europe/holiday-in-madeira-from-katowice-e371/",
-      "source": "Fly4free.com",
-      "date": "2026-11-10T09:00:54+00:00",
-      "dateLabel": "10. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/holiday-in-madeira-from-katowice-e371/",
-      "firstSeen": "2026-11-10T11:04:03.755338+00:00",
-      "priceOrig": {
-        "amount": 371,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Letenky do Bergamu u Milána, Itálie z Prahy za 1397 Kč",
-      "summary": "Bergamo má pověst města, které turisté přehlédnou – a pak se k němu v myšlenkách vracejí roky. Città Alta, horní město opevněné benátskými hradbami, je jedno z těch míst, kde se procházíte a říkáte si, že přesně takhle si Itálii představuje",
-      "url": "https://www.levneletenkyzprahy.cz/2754_letenky-do-bergamu-u-milana,-italie-z-prahy-za-1397-kc",
-      "source": "Levné letenky z Prahy",
-      "date": "2026-11-10T08:19:15+00:00",
-      "dateLabel": "10. 11. 2026",
-      "price": 1397,
-      "image": "",
-      "id": "https://www.levneletenkyzprahy.cz/2754_letenky-do-bergamu-u-milana,-italie-z-prahy-za-1397-kc",
-      "firstSeen": "2026-11-10T11:04:03.755338+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Víkendová TIRANA z Prahy - 899 Kč",
-      "summary": "Za výhodnou cenu jsou dostupné letenky do albánské Tirany. Zpáteční letenky z Prahy do Tirany jsou dostupné už za 899 Kč. Nejvýhodnější letenky pořídíme na víkendové lednové termíny. V ceně základního tarifu u Ryanair máme vždy malé příručn",
-      "url": "https://honzovyletenky.cz/vikendova-tirana-z-prahy/",
-      "source": "Honzovy letenky",
-      "date": "2026-11-10T08:10:07+00:00",
-      "dateLabel": "10. 11. 2026",
-      "price": 899,
-      "image": "",
-      "id": "https://honzovyletenky.cz/vikendova-tirana-z-prahy/",
-      "firstSeen": "2026-11-10T07:27:38.094702+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Cheap full-service flights from Brussels to Thailand & Malaysia 🌴 from €455",
-      "summary": "Looking for an exotic escape or an unforgettable adventure in Southeast Asia? Take advantage of this incredible flight deal: fly to Bangkok or Kuala Lumpur with Hainan Airlines for €455 roundtrip with checked bags included.",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-brussels-to-thailand-malaysia-e458/",
-      "source": "Fly4free.com",
-      "date": "2026-11-10T08:00:06+00:00",
-      "dateLabel": "10. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-brussels-to-thailand-malaysia-e458/",
-      "firstSeen": "2026-11-10T09:05:50.574045+00:00",
-      "priceOrig": {
-        "amount": 455,
-        "cur": "EUR"
-      }
     }
   ]
 }
