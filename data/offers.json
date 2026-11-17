@@ -1,6 +1,90 @@
 {
-  "updated": "2026-11-17T09:18:38.191785+00:00",
+  "updated": "2026-11-17T11:15:16.691232+00:00",
   "offers": [
+    {
+      "title": "BENÁTKY za tisícovku - 975 Kč",
+      "summary": "Za výhodou cenu se můžeme vydat z Prahy do Benátek. Zpáteční letenky z Prahy do Benátek pořídíme už za 975 Kč. Nejvýhodnější letenk jsou dostupné na únorové termíny 2027. V ceně nejlevnějšího tarifu máme malé příruční zavazadlo o rozměrech",
+      "url": "https://honzovyletenky.cz/benatky-za-tisicovku/",
+      "source": "Honzovy letenky",
+      "date": "2026-11-17T11:46:45+00:00",
+      "dateLabel": "17. 11. 2026",
+      "price": 975,
+      "image": "",
+      "id": "https://honzovyletenky.cz/benatky-za-tisicovku/",
+      "firstSeen": "2026-11-17T11:15:16.691232+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Explore the Land of the Incas! 🦙 Air France/KLM flights from many UK cities to Peru from £578",
+      "summary": "Dreaming of an unforgettable South American adventure? Now is the perfect time to book affordable KLM and Air France flights to Lima from just £578 return. This incredible Avianca deal opens the door to one of the most diverse and fascinati",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-the-uk-to-peru-p578/",
+      "source": "Fly4free.com",
+      "date": "2026-11-17T11:00:38+00:00",
+      "dateLabel": "17. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-the-uk-to-peru-p578/",
+      "firstSeen": "2026-11-17T11:15:16.691232+00:00",
+      "priceOrig": {
+        "amount": 578,
+        "cur": "GBP"
+      }
+    },
+    {
+      "title": "Na týden do ráje: Zanzibar z Prahy s All Inclusive v 5* resortu za 25 990 Kč",
+      "summary": "Vyrazte na Zanzibar z Prahy za 25 990 Kč na osobu. Užijte si týden v 5* resortu Jaz Amaluna s all inclusive, písečnou pláží a odpočinkem u oceánu.",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/na-tyden-do-raje-zanzibar-z-prahy-s-all-inclusive-v-5-resortu-za-25-990-kc?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-11-17T10:43:27+00:00",
+      "dateLabel": "17. 11. 2026",
+      "price": 25990,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/na-tyden-do-raje-zanzibar-z-prahy-s-all-inclusive-v-5-resortu-za-25-990-kc?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-11-17T11:15:16.691232+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Mauricius z Prahy za TOP cenu a s odbaveným zavazadlem v ceně. Letenky od 11 419 Kč",
+      "summary": "Kromě levných letenek do mexického Los Cabos má Condor další TOP nabídku, tentokrát na exotický Mauricius. Zpáteční letenky z Prahy pořídíte od 11 419 Kč, a to včetně příručního i odbaveného zavazadla do 20 kg.",
+      "url": "https://www.cestujlevne.com/akcni-letenky/mauricius-z-prahy-za-top-cenu-a-s-odbavenym-zavazadlem-v-cene",
+      "source": "CestujLevne.com",
+      "date": "2026-11-17T10:14:28+00:00",
+      "dateLabel": "17. 11. 2026",
+      "price": 11419,
+      "image": "",
+      "id": "https://www.cestujlevne.com/akcni-letenky/mauricius-z-prahy-za-top-cenu-a-s-odbavenym-zavazadlem-v-cene",
+      "firstSeen": "2026-11-17T11:15:16.691232+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "HIGH SEASON 🏝️ Etihad Airways flights from Warsaw to the Philippines for €572",
+      "summary": "Looking for your next tropical getaway? Take advantage of this great Etihad Airways flight deal to Manila for just €572 round trip!",
+      "url": "https://www.fly4free.com/flight-deals/europe/etihad-airways-flights-from-warsaw-to-the-philippines-e572/",
+      "source": "Fly4free.com",
+      "date": "2026-11-17T10:00:50+00:00",
+      "dateLabel": "17. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/etihad-airways-flights-from-warsaw-to-the-philippines-e572/",
+      "firstSeen": "2026-11-17T11:15:16.691232+00:00",
+      "priceOrig": {
+        "amount": 572,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "Buzz: Bratislava - Agadir - 980 Kč",
+      "summary": "",
+      "url": "https://www.akcniletenky.com",
+      "source": "AkčníLetenky.com",
+      "date": "2026-11-17T10:00:00+00:00",
+      "dateLabel": "17. 11. 2026",
+      "price": 980,
+      "image": "",
+      "id": "737",
+      "firstSeen": "2026-11-17T11:15:16.691232+00:00",
+      "priceOrig": null
+    },
     {
       "title": "Itálie: Treviso - Benátky – letenky z Prahy za 1297 Kč",
       "summary": "Benátky jsou město, které se architekturou nepodobá ničemu jinému v Evropě – a přitom ho poznáte nejlíp pěšky, bez cíle, když se necháte vtáhnout do spleti uliček, přes kamenné mostky a kolem fasád, které by jinde vydaly na celé muzeum. Z P",
@@ -3766,129 +3850,6 @@
       "image": "",
       "id": "https://levnocestovani.cz/akcni-zajezdy/kenske-watamu-za-22-990-kc-4-resort-primo-u-plaze-7-noci-s-all-inclusive?utm_source=rss&utm_medium=feed",
       "firstSeen": "2026-11-10T13:22:14.413502+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "🌊 Polished stay in the French Riviera: Best Western 4* hotel in Nice from €77/double",
-      "summary": "If you want to stay somewhere that puts the beach, Old Town, shopping streets and the flower market all within easy walking distance, this is a very practical and premium option in central Nice.",
-      "url": "https://www.fly4free.com/flight-deals/europe/best-western-nice-hotel/",
-      "source": "Fly4free.com",
-      "date": "2026-11-10T11:00:01+00:00",
-      "dateLabel": "10. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/best-western-nice-hotel/",
-      "firstSeen": "2026-11-10T11:04:03.755338+00:00",
-      "priceOrig": {
-        "amount": 77,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Maledivy v listopadu přímým letem z Prahy do skvěle hodnocených resortů. Zájezd od 35 990 Kč",
-      "summary": "Ještě v listopadu můžete vyrazit na Maledivy za akční ceny. Čedok teď nabízí hned tři krásné resorty s cenami od 35 990 Kč za osobu. Všechny zájezdy mají stravování all-inclusive soft, což je v podstatě plná penze – snídaně, obědy a večeře,",
-      "url": "https://www.cestujlevne.com/akcni-letenky/maledivy-v-listopadu-primym-letem-z-prahy-do-skvele-hodnocenych-resortu",
-      "source": "CestujLevne.com",
-      "date": "2026-11-10T10:45:35+00:00",
-      "dateLabel": "10. 11. 2026",
-      "price": 35990,
-      "image": "",
-      "id": "https://www.cestujlevne.com/akcni-letenky/maledivy-v-listopadu-primym-letem-z-prahy-do-skvele-hodnocenych-resortu",
-      "firstSeen": "2026-11-10T11:04:03.755338+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Týden u Indického oceánu za 23 990 Kč. Zanzibar s All Inclusive ve 4* resortu",
-      "summary": "Široká pláž s bílým pískem, potápění i výlety do tropické přírody. Vyrazte s Čedokem na týden na Zanzibar s All Inclusive a odletem z Bratislavy.",
-      "url": "https://levnocestovani.cz/akcni-zajezdy/tyden-u-indickeho-oceanu-za-23-990-kc-zanzibar-s-all-inclusive-ve-4-resortu?utm_source=rss&utm_medium=feed",
-      "source": "Levnocestovani.cz",
-      "date": "2026-11-10T10:19:19+00:00",
-      "dateLabel": "10. 11. 2026",
-      "price": 23990,
-      "image": "",
-      "id": "https://levnocestovani.cz/akcni-zajezdy/tyden-u-indickeho-oceanu-za-23-990-kc-zanzibar-s-all-inclusive-ve-4-resortu?utm_source=rss&utm_medium=feed",
-      "firstSeen": "2026-11-10T11:04:03.755338+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Lago di Garda na 3 dny v květnu s all inclusive. Od 3 895 Kč.",
-      "summary": "Lago di Garda na 3 dny v květnu s all inclusive za 3 895 Kč.",
-      "url": "https://www.obletsvet.cz/akcni-letenka/lago-di-garda-na-3-dny-v-kvetnu-s-all-inclusive",
-      "source": "Obletsvet.cz",
-      "date": "2026-11-10T10:07:36+00:00",
-      "dateLabel": "10. 11. 2026",
-      "price": 3895,
-      "image": "",
-      "id": "https://www.obletsvet.cz/akcni-letenka/lago-di-garda-na-3-dny-v-kvetnu-s-all-inclusive",
-      "firstSeen": "2026-11-10T13:22:14.413502+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Jarní Barcelona z Prahy. Od 1 678 Kč.",
-      "summary": "Jarní Barcelona z Prahy od 1 678 Kč.",
-      "url": "https://www.obletsvet.cz/akcni-letenka/jarni-barcelona-z-prahy",
-      "source": "Obletsvet.cz",
-      "date": "2026-11-10T10:07:08+00:00",
-      "dateLabel": "10. 11. 2026",
-      "price": 1678,
-      "image": "",
-      "id": "https://www.obletsvet.cz/akcni-letenka/jarni-barcelona-z-prahy",
-      "firstSeen": "2026-11-10T11:04:03.755338+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Cheap non-stop flights from London to Phuket, Thailand 🌴 for £458",
-      "summary": "Don't miss out on this great opportunity to explore the vibrant culture, stunning beaches, and delicious cuisine of Thailand with these Norse non-stop flights to Phuket!",
-      "url": "https://www.fly4free.com/flight-deals/europe/direct-flights-from-london-to-phuket-p458/",
-      "source": "Fly4free.com",
-      "date": "2026-11-10T10:00:58+00:00",
-      "dateLabel": "10. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/direct-flights-from-london-to-phuket-p458/",
-      "firstSeen": "2026-11-10T11:04:03.755338+00:00",
-      "priceOrig": {
-        "amount": 458,
-        "cur": "GBP"
-      }
-    },
-    {
-      "title": "Zájezd do 5* DOMINIKÁNY s all inclusive - 26 990 Kč",
-      "summary": "Levný zájezd do Dominikánské republiky koupíme u CK Fischer. V nabídce CK Fischer najdeme levný last minute zájezd z Prahy do Dominikánské republiky. Za týdenní zájezd do 5* hotelu s all inclusive přímým letem z Prahy zaplatíme 26 990 Kč. V",
-      "url": "https://honzovyletenky.cz/zajezd-do-5-dominikany-s-all-inclusive/",
-      "source": "Honzovy letenky",
-      "date": "2026-11-10T10:00:43+00:00",
-      "dateLabel": "10. 11. 2026",
-      "price": 26990,
-      "image": "",
-      "id": "https://honzovyletenky.cz/zajezd-do-5-dominikany-s-all-inclusive/",
-      "firstSeen": "2026-11-10T09:05:50.574045+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Buzz: Bratislava - Trapani - 800 Kč",
-      "summary": "",
-      "url": "https://www.akcniletenky.com",
-      "source": "AkčníLetenky.com",
-      "date": "2026-11-10T10:00:00+00:00",
-      "dateLabel": "10. 11. 2026",
-      "price": 800,
-      "image": "",
-      "id": "711",
-      "firstSeen": "2026-11-10T11:04:03.755338+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Neapol z Prahy na víkend: odlet v pátek večer, návrat v neděli večer. Letenky od 1 495 Kč",
-      "summary": "Vyrazte na víkend do Neapole za skvělou pizzou, pravou italskou atmosférou a výhledy na Vesuv. EasyJet nabízí přímé zpáteční letenky z Prahy od 1 495 Kč, navíc s časy letů, díky kterým si nemusíte brát ani den dovolené.",
-      "url": "https://www.cestujlevne.com/akcni-letenky/neapol-z-prahy-na-vikend-odlet-v-patek-vecer-navrat-v-nedeli-vecer",
-      "source": "CestujLevne.com",
-      "date": "2026-11-10T09:23:13+00:00",
-      "dateLabel": "10. 11. 2026",
-      "price": 1495,
-      "image": "",
-      "id": "https://www.cestujlevne.com/akcni-letenky/neapol-z-prahy-na-vikend-odlet-v-patek-vecer-navrat-v-nedeli-vecer",
-      "firstSeen": "2026-11-10T11:04:03.755338+00:00",
       "priceOrig": null
     }
   ]
