@@ -1,6 +1,87 @@
 {
-  "updated": "2026-11-18T11:15:30.192180+00:00",
+  "updated": "2026-11-18T13:30:08.758078+00:00",
   "offers": [
+    {
+      "title": "Předvánoční SICÍLIE - 805 Kč",
+      "summary": "Ještě před Vánocemi se můžeme zaletět ohřát na Sicílii. Zpáteční letenky z Bratislavy do Trapani pořídíme už za 32 €, tedy asi 805 Kč. Nejvýhodnější letenky jsou v nabídce na předvánoční týden. V ceně nejlevnějšího tarifu od aerolinky Ryana",
+      "url": "https://honzovyletenky.cz/predvanocni-sicilie/",
+      "source": "Honzovy letenky",
+      "date": "2026-11-18T13:54:32+00:00",
+      "dateLabel": "18. 11. 2026",
+      "price": 805,
+      "image": "",
+      "id": "https://honzovyletenky.cz/predvanocni-sicilie/",
+      "firstSeen": "2026-11-18T13:30:08.758078+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "TAP Portugal: Praha - Miami - 12 690 Kč",
+      "summary": "",
+      "url": "https://www.akcniletenky.com",
+      "source": "AkčníLetenky.com",
+      "date": "2026-11-18T13:00:00+00:00",
+      "dateLabel": "18. 11. 2026",
+      "price": 12690,
+      "image": "",
+      "id": "742",
+      "firstSeen": "2026-11-18T13:30:08.758078+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Exotická dovolená na Zanzibaru v 5* resortu s All Inclusive přímo u oceánu za 24 990 Kč",
+      "summary": "Vyměňte zimu za Indický oceán. Čeká vás 5* hotel přímo na zanzibarské pláži, All Inclusive, tyrkysové moře i odlet z Prahy za skvělých 24 990 Kč na osobu.",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/exoticka-dovolena-na-zanzibaru-v-5-resortu-s-all-inclusive-primo-u-oceanu-za-24-990-kc?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-11-18T12:33:19+00:00",
+      "dateLabel": "18. 11. 2026",
+      "price": 24990,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/exoticka-dovolena-na-zanzibaru-v-5-resortu-s-all-inclusive-primo-u-oceanu-za-24-990-kc?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-11-18T13:30:08.758078+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "✨Aurora hunting and skiing in Finland: a week in Kuuasamo with direct flights from Berlin from €522 p.p.",
+      "summary": "Want to experience proper Finnish winter and see the stunning Aurora? This deal combines direct Eurowings flights from Berlin to Kuusamo with 7 nights at a proper 4-star with breakfast for just €522 per person.",
+      "url": "https://www.fly4free.com/flight-deals/europe/winter-deal-in-kuusamo-hotel-direct-flights-from-berlin/",
+      "source": "Fly4free.com",
+      "date": "2026-11-18T12:30:06+00:00",
+      "dateLabel": "18. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/winter-deal-in-kuusamo-hotel-direct-flights-from-berlin/",
+      "firstSeen": "2026-11-18T13:30:08.758078+00:00",
+      "priceOrig": {
+        "amount": 522,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "Applying for an Indian visa is about to get much easier",
+      "summary": "Getting a visa to visit India could soon become much easier. The country is reducing the number of visa categories, revising the rules for tourists and removing up to 70% of the fields from application forms. The existing Tourist Visa will",
+      "url": "https://www.fly4free.com/news/india-simplifies-visa-rules-for-tourists/",
+      "source": "Fly4free.com",
+      "date": "2026-11-18T12:23:21+00:00",
+      "dateLabel": "18. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/news/india-simplifies-visa-rules-for-tourists/",
+      "firstSeen": "2026-11-18T13:30:08.758078+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Za sluncem na Maltu s last minute letenkami z Prahy. Letenky od 3 424 Kč",
+      "summary": "Na Maltu se objevil jeden pěkný last minute termín. S aerolinkou KM Malta Airlines můžete vyrazit přímo z Prahy 21.–24.11., tedy od soboty do úterý. I koncem listopadu si tu navíc můžete užít spoustu sluníčka a příjemné teploty kolem 22 °C.",
+      "url": "https://www.cestujlevne.com/akcni-letenky/za-sluncem-na-maltu-s-last-minute-letenkami-z-prahy",
+      "source": "CestujLevne.com",
+      "date": "2026-11-18T12:16:13+00:00",
+      "dateLabel": "18. 11. 2026",
+      "price": 3424,
+      "image": "",
+      "id": "https://www.cestujlevne.com/akcni-letenky/za-sluncem-na-maltu-s-last-minute-letenkami-z-prahy",
+      "firstSeen": "2026-11-18T13:30:08.758078+00:00",
+      "priceOrig": null
+    },
     {
       "title": "Levné MIAMI z Prahy - 12 304 Kč",
       "summary": "Letenky do Miami za fajn cenu pořídíme u TAP. Aerolinka TAP Portugal v aktuální akci prodává levné letenky z Prahy do Miami. Za nejlevnější letenky s jedním rychlým přestupem v Lisabonu zaplatíme 12 304 Kč. Tuto cenu najdeme různě dlouhé te",
@@ -12,6 +93,19 @@
       "image": "",
       "id": "https://honzovyletenky.cz/levne-miami-z-prahy-2/",
       "firstSeen": "2026-11-18T11:15:30.192180+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Předvánoční pohoda v exotice: Kapverdy z Prahy s All Inclusive v 5* resortu za 23 990 Kč",
+      "summary": "Exotické Kapverdy z Prahy na týden za 23 990 Kč! Ubytování v 5* resortu s All Inclusive přímo u písečné pláže. Zjistěte více a unikněte za sluncem.",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/predvanocni-pohoda-v-exotice-kapverdy-z-prahy-s-all-inclusive-v-5-resortu-za-23-990-kc?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-11-18T11:39:47+00:00",
+      "dateLabel": "18. 11. 2026",
+      "price": 23990,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/predvanocni-pohoda-v-exotice-kapverdy-z-prahy-s-all-inclusive-v-5-resortu-za-23-990-kc?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-11-18T13:30:08.758078+00:00",
       "priceOrig": null
     },
     {
@@ -3697,116 +3791,6 @@
       "image": "",
       "id": "https://levnocestovani.cz/akcni-zajezdy/sever-tenerife-za-16-990-kc-tyden-s-all-inclusive-ve-4-hotelu?utm_source=rss&utm_medium=feed",
       "firstSeen": "2026-11-11T15:05:59.785084+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Winter escape to Florida 😎 🌊 Cheap direct flights from London to Orlando for £370",
-      "summary": "Escape the ordinary and fly Norse to the sun-soaked shores of Florida for just £370 return. No stopovers, no hassle — just you, the beach, and the best deal of the season.",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-florida-p370/",
-      "source": "Fly4free.com",
-      "date": "2026-11-11T13:00:22+00:00",
-      "dateLabel": "11. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-florida-p370/",
-      "firstSeen": "2026-11-11T13:27:49.507367+00:00",
-      "priceOrig": {
-        "amount": 370,
-        "cur": "GBP"
-      }
-    },
-    {
-      "title": "KLM: Praha - Madeira - 5 990 Kč",
-      "summary": "",
-      "url": "https://www.akcniletenky.com",
-      "source": "AkčníLetenky.com",
-      "date": "2026-11-11T13:00:00+00:00",
-      "dateLabel": "11. 11. 2026",
-      "price": 5990,
-      "image": "",
-      "id": "716",
-      "firstSeen": "2026-11-11T13:27:49.507367+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Ještě levnější letenky na Srí Lanku se SalamAir z Vídně na leden i únor. Letenky od 9 901 Kč",
-      "summary": "Akční letenky na Srí Lanku, o kterých jsme psali před pár dny, jsou teď ještě levnější. Se společností SalamAir můžete z Vídně vyrazit za parádních 406 EUR zpátečně, a to během ledna i února, kdy je na jihu a jihozápadě ostrova hlavní sezón",
-      "url": "https://www.cestujlevne.com/akcni-letenky/jeste-levnejsi-letenky-na-sri-lanku-se-salamair-z-vidne-na-leden-i-unor",
-      "source": "CestujLevne.com",
-      "date": "2026-11-11T12:47:53+00:00",
-      "dateLabel": "11. 11. 2026",
-      "price": 9901,
-      "image": "",
-      "id": "https://www.cestujlevne.com/akcni-letenky/jeste-levnejsi-letenky-na-sri-lanku-se-salamair-z-vidne-na-leden-i-unor",
-      "firstSeen": "2026-11-11T13:27:49.507367+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Dovolená v Keni za 19 990 Kč z Prahy: All Inclusive, bílé pláže Watamu a safari na dosah",
-      "summary": "Leťte z Prahy do Keni za 19 990 Kč! Odpočiňte si na bílých plážích Watamu ve 4* resortu s All Inclusive a vyrazte na safari! Rezervujte si týden v ráji!",
-      "url": "https://levnocestovani.cz/akcni-zajezdy/dovolena-v-keni-za-19-990-kc-z-prahy-all-inclusive-bile-plaze-watamu-a-safari-na-dosah?utm_source=rss&utm_medium=feed",
-      "source": "Levnocestovani.cz",
-      "date": "2026-11-11T12:16:34+00:00",
-      "dateLabel": "11. 11. 2026",
-      "price": 19990,
-      "image": "",
-      "id": "https://levnocestovani.cz/akcni-zajezdy/dovolena-v-keni-za-19-990-kc-z-prahy-all-inclusive-bile-plaze-watamu-a-safari-na-dosah?utm_source=rss&utm_medium=feed",
-      "firstSeen": "2026-11-11T13:27:49.507367+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "All inclusive KEŇA z Prahy - 18 630 Kč",
-      "summary": "Levný zájezd do Keni koupíme u CK Fischer. U cestovní kanceláře Fischer najdeme levný last minute zájezd do Bamburi v Keni. Za týdenní zájezd z Prahy do 4* hotelu s all inclusive zaplatíme 18 630 Kč. Po cestě nás čeká rychlé mezipřistání v",
-      "url": "https://honzovyletenky.cz/all-inclusive-kena-z-prahy-2/",
-      "source": "Honzovy letenky",
-      "date": "2026-11-11T12:02:19+00:00",
-      "dateLabel": "11. 11. 2026",
-      "price": 18630,
-      "image": "",
-      "id": "https://honzovyletenky.cz/all-inclusive-kena-z-prahy-2/",
-      "firstSeen": "2026-11-11T11:13:44.883993+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "High Season ☀️ 🌴 B&B stay at 5* hotel by Hyatt in Da Nang, Vietnam for €42/double",
-      "summary": "Planning a trip to Vietnam? We've got a great hotel deal for you! Book a double room at the 5* hotel with a rooftop swimming pool for only €42 per night!",
-      "url": "https://www.fly4free.com/flight-deals/europe/5-star-hotel-in-da-nang-vietnam-e42-3/",
-      "source": "Fly4free.com",
-      "date": "2026-11-11T12:00:00+00:00",
-      "dateLabel": "11. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/5-star-hotel-in-da-nang-vietnam-e42-3/",
-      "firstSeen": "2026-11-11T13:27:49.507367+00:00",
-      "priceOrig": {
-        "amount": 42,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Exotika za TOP cenu! Týden v Keni s all-inclusive light a přímým letem z Prahy. Zájezd od 19 990 Kč",
-      "summary": "Týden u Indického oceánu s all-inclusive teď pořídíte za necelých 20 tisíc korun. A místo listopadového počasí vás čekají bílé pláže, palmy a teploty kolem 30 °C.",
-      "url": "https://www.cestujlevne.com/akcni-letenky/exotika-za-top-cenu-tyden-v-keni-s-all-inclusive-a-primym-letem-z-prahy",
-      "source": "CestujLevne.com",
-      "date": "2026-11-11T11:21:06+00:00",
-      "dateLabel": "11. 11. 2026",
-      "price": 19990,
-      "image": "",
-      "id": "https://www.cestujlevne.com/akcni-letenky/exotika-za-top-cenu-tyden-v-keni-s-all-inclusive-a-primym-letem-z-prahy",
-      "firstSeen": "2026-11-11T13:27:49.507367+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Maledivy přímým letem z Prahy za 34 490 Kč: Ubytování v plážové vile jen pár kroků od moře",
-      "summary": "Maledivy z Prahy za 34 490 Kč! Užijte si týden v 5* resortu Royal Island. Bydlení v plážové vile jen pár kroků od moře se soft all inclusive. Rezervujte!",
-      "url": "https://levnocestovani.cz/akcni-zajezdy/maledivy-primym-letem-z-prahy-za-34-490-kc-ubytovani-v-plazove-vile-jen-par-kroku-od-more?utm_source=rss&utm_medium=feed",
-      "source": "Levnocestovani.cz",
-      "date": "2026-11-11T11:19:56+00:00",
-      "dateLabel": "11. 11. 2026",
-      "price": 34490,
-      "image": "",
-      "id": "https://levnocestovani.cz/akcni-zajezdy/maledivy-primym-letem-z-prahy-za-34-490-kc-ubytovani-v-plazove-vile-jen-par-kroku-od-more?utm_source=rss&utm_medium=feed",
-      "firstSeen": "2026-11-11T13:27:49.507367+00:00",
       "priceOrig": null
     }
   ]
