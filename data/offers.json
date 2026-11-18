@@ -1,6 +1,48 @@
 {
-  "updated": "2026-11-18T15:12:19.271272+00:00",
+  "updated": "2026-11-18T17:19:27.402239+00:00",
   "offers": [
+    {
+      "title": "🔥 HIGH SEASON in Barbados! Flights from several European cities from €436 return",
+      "summary": "Trade winter coats for white-sand beaches, turquoise Caribbean water and warm island evenings. Condor is offering discounted return flights from Germany and the Czech Republic to Bridgetown from just €453, including high-season dates.",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-barbados-condor-2/",
+      "source": "Fly4free.com",
+      "date": "2026-11-18T17:00:43+00:00",
+      "dateLabel": "18. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-barbados-condor-2/",
+      "firstSeen": "2026-11-18T17:19:27.402239+00:00",
+      "priceOrig": {
+        "amount": 436,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "Polish Airlines: Praha - Taškent - 11 790 Kč",
+      "summary": "",
+      "url": "https://www.akcniletenky.com",
+      "source": "AkčníLetenky.com",
+      "date": "2026-11-18T17:00:00+00:00",
+      "dateLabel": "18. 11. 2026",
+      "price": 11790,
+      "image": "",
+      "id": "743",
+      "firstSeen": "2026-11-18T17:19:27.402239+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Za 30 990 Kč do Karibiku – Týden u pláže Bávaro s All Inclusive a přímými lety",
+      "summary": "Pláž Bávaro, 4* resort a pohodlí All Inclusive. Čedok nabízí týden v Dominikáně s přímými lety z Prahy za 30 990 Kč. Rezervujte si dovolenou v Karibiku.",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/za-30-990-kc-do-karibiku-tyden-u-plaze-bavaro-s-all-inclusive-a-primymi-lety?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-11-18T16:51:06+00:00",
+      "dateLabel": "18. 11. 2026",
+      "price": 30990,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/za-30-990-kc-do-karibiku-tyden-u-plaze-bavaro-s-all-inclusive-a-primymi-lety?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-11-18T17:19:27.402239+00:00",
+      "priceOrig": null
+    },
     {
       "title": "Akční NEAPOL - 775 Kč",
       "summary": "Ryanair má v nabídce levné letenky z Katowic do Neapole. Zpáteční letenky z Katowic do Neapole pořídíme v akci od Ryanair za 136 PLN, tedy asi 775 Kč. Nejlevnější letenky pořídíme na termíny v prosinci, lehce přes 1 000 Kč pak i v lednu. V",
@@ -13,6 +55,22 @@
       "id": "https://honzovyletenky.cz/akcni-neapol/",
       "firstSeen": "2026-11-18T15:12:19.271272+00:00",
       "priceOrig": null
+    },
+    {
+      "title": "SPRING 2027 ✈️ 🌸 2 different worlds in one trip: Tokyo and Toronto in one trip from Frankfurt 🏙 for €855",
+      "summary": "This is a brilliant way to turn two city breaks into one mini round-the-world journey: start in Europe, travel east to Japan, cross the Pacific to Canada, then continue across the Atlantic back to Frankfurt.",
+      "url": "https://www.fly4free.com/flight-deals/europe/toronto-tokyo-in-one-trip/",
+      "source": "Fly4free.com",
+      "date": "2026-11-18T15:32:24+00:00",
+      "dateLabel": "18. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/toronto-tokyo-in-one-trip/",
+      "firstSeen": "2026-11-18T17:19:27.402239+00:00",
+      "priceOrig": {
+        "amount": 855,
+        "cur": "EUR"
+      }
     },
     {
       "title": "Týden u Rudého moře za 9 990 Kč: 4* resort v Egyptě s odletem z Prahy a All Inclusive v ceně",
@@ -3769,77 +3827,6 @@
       "image": "",
       "id": "https://levnocestovani.cz/akcni-zajezdy/za-29-990-kc-do-thajska-na-7-noci-v-5-apartma-s-vlastni-virivkou?utm_source=rss&utm_medium=feed",
       "firstSeen": "2026-11-11T19:15:32.882920+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Lower prices! 🤩 Cheap non-stop flights from Amsterdam to Curaçao🦩 for €383",
-      "summary": "Trade grey skies for turquoise bays, warm Caribbean evenings and colorful waterfront streets. With discounted TUI and Corendon flights to Curaçao from €383 return, this is an easy way to turn winter into a proper tropical break.",
-      "url": "https://www.fly4free.com/flight-deals/europe/direct-flights-from-amsterdam-to-curacao-e383/",
-      "source": "Fly4free.com",
-      "date": "2026-11-11T17:00:23+00:00",
-      "dateLabel": "11. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/direct-flights-from-amsterdam-to-curacao-e383/",
-      "firstSeen": "2026-11-11T19:15:32.882920+00:00",
-      "priceOrig": {
-        "amount": 383,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "SWISS: Praha - Tenerife - 4 990 Kč",
-      "summary": "",
-      "url": "https://www.akcniletenky.com",
-      "source": "AkčníLetenky.com",
-      "date": "2026-11-11T17:00:00+00:00",
-      "dateLabel": "11. 11. 2026",
-      "price": 4990,
-      "image": "",
-      "id": "717",
-      "firstSeen": "2026-11-11T19:15:32.882920+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Přímé letenky na MADEIRU - 5 475 Kč",
-      "summary": "Levné letenky na Madeiru nabízí Smartwings. V nabídce aerolinky Smartwings se objevily levné letenky z Prahy na Madeiru. Za zpáteční letenky zaplatíme 5 475 Kč. Jde o přímé lety bez přestupu. Za tuto cenu najdeme termín jak na týden, tak na",
-      "url": "https://honzovyletenky.cz/prime-letenky-na-madeiru-5/",
-      "source": "Honzovy letenky",
-      "date": "2026-11-11T16:01:03+00:00",
-      "dateLabel": "11. 11. 2026",
-      "price": 5475,
-      "image": "",
-      "id": "https://honzovyletenky.cz/prime-letenky-na-madeiru-5/",
-      "firstSeen": "2026-11-11T15:05:59.785084+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Holiday in Fuerteventura for €352 p.p. 🏖️ Cheap flights from Vienna + 7-night stay at well-rated aparthotel",
-      "summary": "Great price for a sunny escape to the Canary Islands! Book cheap non-stop flights from Vienna and secure your stay at the highly rated aparthotel for only €352 per person (based on 2 people sharing).",
-      "url": "https://www.fly4free.com/flight-deals/europe/holiday-in-fuerteventura-from-vienna-e352/",
-      "source": "Fly4free.com",
-      "date": "2026-11-11T16:00:57+00:00",
-      "dateLabel": "11. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/holiday-in-fuerteventura-from-vienna-e352/",
-      "firstSeen": "2026-11-11T17:12:16.720392+00:00",
-      "priceOrig": {
-        "amount": 352,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Týden na Zanzibaru v 5* resortu u bílé pláže s All Inclusive za 25 990 Kč s odletem z Prahy i Bratislavy",
-      "summary": "Užijte si týden na Zanzibaru v 5* resortu s All Inclusive od 25 990 Kč. Čeká vás bílý písek, Stone Town i vůně koření. Odlety z Prahy i Bratislavy.",
-      "url": "https://levnocestovani.cz/akcni-zajezdy/tyden-na-zanzibaru-v-5-resortu-u-bile-plaze-s-all-inclusive-za-25-990-kc-s-odletem-z-prahy-i-bratislavy?utm_source=rss&utm_medium=feed",
-      "source": "Levnocestovani.cz",
-      "date": "2026-11-11T15:14:33+00:00",
-      "dateLabel": "11. 11. 2026",
-      "price": 25990,
-      "image": "",
-      "id": "https://levnocestovani.cz/akcni-zajezdy/tyden-na-zanzibaru-v-5-resortu-u-bile-plaze-s-all-inclusive-za-25-990-kc-s-odletem-z-prahy-i-bratislavy?utm_source=rss&utm_medium=feed",
-      "firstSeen": "2026-11-11T17:12:16.720392+00:00",
       "priceOrig": null
     }
   ]
