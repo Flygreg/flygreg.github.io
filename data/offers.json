@@ -1,6 +1,51 @@
 {
-  "updated": "2026-11-18T19:13:37.257787+00:00",
+  "updated": "2026-11-18T21:07:48.754918+00:00",
   "offers": [
+    {
+      "title": "Full-service flights from Lisbon to mega exotic Sao Tome and Principe 🌴 from €469",
+      "summary": "Visit one of the most unique destinations in Africa - all with comfort included. Jet off to Sao Tome and Principe with TAAG Angola Airlines flights starting at just €469! Adventure’s calling. Will you answer?",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-lisbon-to-sao-tome/",
+      "source": "Fly4free.com",
+      "date": "2026-11-18T21:00:26+00:00",
+      "dateLabel": "18. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-lisbon-to-sao-tome/",
+      "firstSeen": "2026-11-18T21:07:48.754918+00:00",
+      "priceOrig": {
+        "amount": 469,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "HIGH SEASON 2026 – 2027 ☀️ ITA Airways non-stop flights from Rome to Bangkok, Thailand from €666",
+      "summary": "Dreaming of Thailand during the best travel season? This incredible flight deal makes it possible. ITA Airways are offering affordable non-stop flights to Bangkok starting at €666 round-trip - a rare opportunity to visit one of Asia’s most",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-rome-to-thailand-3-2/",
+      "source": "Fly4free.com",
+      "date": "2026-11-18T20:00:26+00:00",
+      "dateLabel": "18. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-rome-to-thailand-3-2/",
+      "firstSeen": "2026-11-18T21:07:48.754918+00:00",
+      "priceOrig": {
+        "amount": 666,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "Madeira za 9 990 Kč. 7 nocí na evropské Havaji ve 4* hotelu se snídaní",
+      "summary": "Zelené hory, vodopády a nádherné vyhlídky. Objevte Madeiru s Čedokem za 9 990 Kč. Týden ve 4* hotelu Jardins d'Ajuda se snídaní – Rezervujte si zájezd.",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/madeira-za-9-990-kc-7-noci-na-evropske-havaji-ve-4-hotelu-se-snidani?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-11-18T19:43:42+00:00",
+      "dateLabel": "18. 11. 2026",
+      "price": 9990,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/madeira-za-9-990-kc-7-noci-na-evropske-havaji-ve-4-hotelu-se-snidani?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-11-18T21:07:48.754918+00:00",
+      "priceOrig": null
+    },
     {
       "title": "VIETNAM za super cenu - 12 990 Kč",
       "summary": "V nabídce čínských aerolinek pořídíme levné letenky do Vietnamu. Zpáteční letenky z Mnichova do Hanoje pořídíme už za 12 990 Kč. Nejlevnější letenky jsou dostupné na prosincové termíny 2026 a to na kratší i delší termíny. V ceně máme klasic",
@@ -28,7 +73,7 @@
       "priceOrig": null
     },
     {
-      "title": "Prices down! 🤩️️️️️️ Cheap full-service Hainan Airlines flights from Brussels to Bangkok, Thailand from €425 in high season",
+      "title": "Prices down! 🤩️️️️️️ Cheap full-service Hainan Airlines flights from Brussels to Thailand from €425 in high season",
       "summary": "Thailand for €425 return in high season is already a strong deal — and this time you’re flying full-service with Hainan Airlines, making it even more attractive for a long-haul winter escape.",
       "url": "https://www.fly4free.com/flight-deals/europe/hainan-airlines-flights-from-brussels-to-thailand-e425/",
       "source": "Fly4free.com",
@@ -3753,77 +3798,6 @@
       "image": "",
       "id": "718",
       "firstSeen": "2026-11-12T07:36:10.040659+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "GREAT DEAL 🤩 Cheap full-service flights from London to Brunei for £447",
-      "summary": "Experience award-winning service and world-class comfort with Singapore Airlines on your next adventure to Brunei. For a limited time, you can book return flights from London to Bandar Seri Begawan starting at only £447.",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-brunei-p453/",
-      "source": "Fly4free.com",
-      "date": "2026-11-11T21:00:50+00:00",
-      "dateLabel": "11. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-brunei-p453/",
-      "firstSeen": "2026-11-11T21:47:57.771219+00:00",
-      "priceOrig": {
-        "amount": 447,
-        "cur": "GBP"
-      }
-    },
-    {
-      "title": "Cheap full-service flights from Budapest to Beijing, China for €495",
-      "summary": "China Eastern Airlines are offering discounted flights from Budapest to Beijing, China starting at only €495 for a round trip with checked bag included.",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-budapest-to-beijing-e495/",
-      "source": "Fly4free.com",
-      "date": "2026-11-11T20:00:41+00:00",
-      "dateLabel": "11. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-budapest-to-beijing-e495/",
-      "firstSeen": "2026-11-11T21:47:57.771219+00:00",
-      "priceOrig": {
-        "amount": 495,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Za 20 090 Kč na 15 dní do Egypta: Skvěle hodnocený 4* resort u korálového útesu",
-      "summary": "Korálový útes přímo u hotelu, šnorchlování a klid daleko od rušných letovisek. EXIM tours a Fischer nabízí 15 dní u Rudého moře. Prohlédněte si zájezd.",
-      "url": "https://levnocestovani.cz/akcni-zajezdy/za-20-090-kc-na-15-dni-do-egypta-skvele-hodnoceny-4-resort-u-koraloveho-utesu?utm_source=rss&utm_medium=feed",
-      "source": "Levnocestovani.cz",
-      "date": "2026-11-11T19:50:47+00:00",
-      "dateLabel": "11. 11. 2026",
-      "price": 20090,
-      "image": "",
-      "id": "https://levnocestovani.cz/akcni-zajezdy/za-20-090-kc-na-15-dni-do-egypta-skvele-hodnoceny-4-resort-u-koraloveho-utesu?utm_source=rss&utm_medium=feed",
-      "firstSeen": "2026-11-11T21:47:57.771219+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Florencie z Prahy v létě. Od 1 939 Kč.",
-      "summary": "Florencie z Prahy v létě od 1 939 Kč.",
-      "url": "https://www.obletsvet.cz/akcni-letenka/florencie-z-prahy-v-lete",
-      "source": "Obletsvet.cz",
-      "date": "2026-11-11T19:50:33+00:00",
-      "dateLabel": "11. 11. 2026",
-      "price": 1939,
-      "image": "",
-      "id": "https://www.obletsvet.cz/akcni-letenka/florencie-z-prahy-v-lete",
-      "firstSeen": "2026-11-11T21:47:57.771219+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Zimní víkendy v Bergamu z Prahy. Od 1 161 Kč.",
-      "summary": "Zimní víkendy v Bergamu z Prahy od 1 161 Kč.",
-      "url": "https://www.obletsvet.cz/akcni-letenka/vikend-v-bergamu-z-prahy-zima",
-      "source": "Obletsvet.cz",
-      "date": "2026-11-11T19:42:30+00:00",
-      "dateLabel": "11. 11. 2026",
-      "price": 1161,
-      "image": "",
-      "id": "https://www.obletsvet.cz/akcni-letenka/vikend-v-bergamu-z-prahy-zima",
-      "firstSeen": "2026-11-12T11:16:14.027350+00:00",
       "priceOrig": null
     }
   ]
