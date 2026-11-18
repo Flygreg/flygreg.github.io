@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T09:42:23Z",
+ "updated": "2026-11-18T11:41:27Z",
  "sources": [
   {
    "name": "Cartop",
@@ -13,7 +13,7 @@
    "pageLog": [
     [
      1,
-     789072,
+     789305,
      13,
      13
     ],
@@ -31,7 +31,7 @@
     ],
     [
      4,
-     787082,
+     786859,
      13,
      10
     ],
@@ -43,7 +43,7 @@
     ],
     [
      6,
-     794404,
+     794447,
      13,
      10
     ]
@@ -81,7 +81,7 @@
     ],
     [
      4,
-     237023,
+     237017,
      9,
      9
     ],
@@ -232,7 +232,7 @@
    "complete": true,
    "pages": 6,
    "cards": 234,
-   "noPrice": 2,
+   "noPrice": 3,
    "requests": 7,
    "note": "",
    "pageLog": [
@@ -265,14 +265,14 @@
    "types": {
     "Operativní leasing": 234
    },
-   "unavailable": 2
+   "unavailable": 3
   },
   {
    "name": "Birne",
    "ok": true,
    "complete": true,
    "pages": 3,
-   "cards": 70,
+   "cards": 69,
    "noPrice": 0,
    "requests": 4,
    "note": "",
@@ -283,7 +283,7 @@
     ],
     [
      2,
-     20
+     19
     ],
     [
      3,
@@ -292,7 +292,7 @@
    ],
    "robots": "robots.txt přečten",
    "types": {
-    "Car": 70
+    "Car": 69
    }
   },
   {
