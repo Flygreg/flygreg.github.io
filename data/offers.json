@@ -1,6 +1,48 @@
 {
-  "updated": "2026-11-18T07:34:53.242228+00:00",
+  "updated": "2026-11-18T09:19:16.174978+00:00",
   "offers": [
+    {
+      "title": "Zájezd na TENERIFE do 4* hotelu s all inclusive - 13 990 Kč",
+      "summary": "Levný zájezd na Kanáry koupíme u CK Čedok. Čedok má nyní ve své nabídce levný all inclusive zájezd na Kanárské ostrovy. Za týdenní zájezd s all inclusive na Tenerife zaplatíme 13 990 Kč. Odlet je až začátkem prosince. V ceně zájezdu je také",
+      "url": "https://honzovyletenky.cz/zajezd-na-tenerife-do-4-hotelu-s-all-inclusive-2/",
+      "source": "Honzovy letenky",
+      "date": "2026-11-18T10:01:59+00:00",
+      "dateLabel": "18. 11. 2026",
+      "price": 13990,
+      "image": "",
+      "id": "https://honzovyletenky.cz/zajezd-na-tenerife-do-4-hotelu-s-all-inclusive-2/",
+      "firstSeen": "2026-11-18T09:19:16.174978+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Full-service flights from Bucharest to Taiwan for €544",
+      "summary": "Explore the wonders of Taiwan with full-service Air China flights to Taipei for just €544 return! Discover the vibrant streets of Taipei, admire the island's spectacular mountain scenery, sample delicious Taiwanese street food and experienc",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-bucharest-to-taiwan-e550/",
+      "source": "Fly4free.com",
+      "date": "2026-11-18T09:00:16+00:00",
+      "dateLabel": "18. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-bucharest-to-taiwan-e550/",
+      "firstSeen": "2026-11-18T09:19:16.174978+00:00",
+      "priceOrig": {
+        "amount": 544,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "Předvánoční Kapverdy s all-inclusive a ubytováním v bungalovech. Zájezd od 23 070 Kč",
+      "summary": "Ještě před Vánoci můžete vyrazit za sluncem na Kapverdy. Místo zimy a předvánočního shonu vás čekají dlouhé písečné pláže, oceán a pořádná dávka odpočinku. Cestovky EXIM tours a Fischer teď nabízejí týdenní dovolenou na ostrově Sal za 23 07",
+      "url": "https://www.cestujlevne.com/akcni-letenky/predvanocni-kapverdy-s-all-inclusive-a-ubytovanim-v-bungalovech",
+      "source": "CestujLevne.com",
+      "date": "2026-11-18T08:28:28+00:00",
+      "dateLabel": "18. 11. 2026",
+      "price": 23070,
+      "image": "",
+      "id": "https://www.cestujlevne.com/akcni-letenky/predvanocni-kapverdy-s-all-inclusive-a-ubytovanim-v-bungalovech",
+      "firstSeen": "2026-11-18T09:19:16.174978+00:00",
+      "priceOrig": null
+    },
     {
       "title": "MAURICIUS pod 10k z Prahy - 9 940 Kč",
       "summary": "Ultra levnou letenku na Mauricius nabízí Condor z Prahy. Zpáteční letenky z Prahy na Mauricius pořídíme v průběhu prosince už za 9 940 Kč. Nejvýhodnější letenka je dostupná s návratem na Štedrý den, i ostatní termíny jsou ale dostupné za vý",
@@ -13,6 +55,22 @@
       "id": "https://honzovyletenky.cz/mauricius-pod-10k-z-prahy/",
       "firstSeen": "2026-11-18T07:34:53.242228+00:00",
       "priceOrig": null
+    },
+    {
+      "title": "Prices down! 💥 Non-stop flights from several UK cities to exotic Barbados 🏝️ from £401",
+      "summary": "This excellent TUI deal makes Caribbean sunshine more affordable than ever. You can now book direct flights to Bridgetown for just £401 return, even during peak travel months when prices are usually much higher.",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-the-uk-to-barbados-p401/",
+      "source": "Fly4free.com",
+      "date": "2026-11-18T08:00:52+00:00",
+      "dateLabel": "18. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-the-uk-to-barbados-p401/",
+      "firstSeen": "2026-11-18T09:19:16.174978+00:00",
+      "priceOrig": {
+        "amount": 401,
+        "cur": "GBP"
+      }
     },
     {
       "title": "Francie: Marseille – letenky za 1707 Kč",
@@ -57,7 +115,7 @@
       "priceOrig": null
     },
     {
-      "title": "GREAT DEAL 💥 Cheap full-service flights from London to Macau from €329",
+      "title": "GREAT DEAL 💥 Cheap full-service flights from London to Macau for £329",
       "summary": "From glittering skylines to rich cultural gems, your next unforgettable escape is just a booking away. Book now these discounted China Southern Airlines flights to Macau before this deal takes off!",
       "url": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-macau-p329/",
       "source": "Fly4free.com",
@@ -69,7 +127,7 @@
       "firstSeen": "2026-11-17T21:06:19.303241+00:00",
       "priceOrig": {
         "amount": 329,
-        "cur": "EUR"
+        "cur": "GBP"
       }
     },
     {
@@ -3801,77 +3859,6 @@
       "image": "",
       "id": "https://levnocestovani.cz/akcni-zajezdy/singles-day-u-fischer-a-exim-tours-vyrazte-na-solo-dovolenou-se-slevou-1-111-kc?utm_source=rss&utm_medium=feed",
       "firstSeen": "2026-11-11T11:13:44.883993+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Last-minute full-service direct flights from Poland to Vietnam for €539",
-      "summary": "Take advantage of an incredible long-haul deal with LOT and fly to Ho Chi Minh City from just €539 return. This full-service fare is a rare find, combining comfort, value, and convenience for travelers looking to explore Southeast Asia with",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-katowice-to-vietnam-e539/",
-      "source": "Fly4free.com",
-      "date": "2026-11-11T09:00:10+00:00",
-      "dateLabel": "11. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-katowice-to-vietnam-e539/",
-      "firstSeen": "2026-11-11T11:13:44.883993+00:00",
-      "priceOrig": {
-        "amount": 539,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Přímé lety z Katovic na Island na leden a únor. Letenky od 2 122 Kč",
-      "summary": "Wizz Air má teď akci na letenky a super vycházejí přímé lety z polských Katovic na Island. Nabídka se hodí hlavně cestovatelům z Moravy a Slezska, kteří to mají na katovické letiště kousek. Zpáteční letenky do Reykjavíku pořídíte za 383 PLN",
-      "url": "https://www.cestujlevne.com/akcni-letenky/prime-lety-z-katovic-na-island-na-leden-a-unor",
-      "source": "CestujLevne.com",
-      "date": "2026-11-11T08:47:13+00:00",
-      "dateLabel": "11. 11. 2026",
-      "price": 2122,
-      "image": "",
-      "id": "https://www.cestujlevne.com/akcni-letenky/prime-lety-z-katovic-na-island-na-leden-a-unor",
-      "firstSeen": "2026-11-11T09:10:38.569927+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "BARCELONA za tisícovku - 1 050 Kč",
-      "summary": "V nabídce letenek od Wizz Air najdeme za výhodnou cenu letenky do Barcelony. Na Valentýnský prodloužený víkend můžeme vyrazit z Bratislavy do Barcelony už za 42 €, tedy asi 1 050 Kč. Na nejnižší cenu dosáhnou členové klubu WDC, ostatní si p",
-      "url": "https://honzovyletenky.cz/barcelona-za-tisicovku-3/",
-      "source": "Honzovy letenky",
-      "date": "2026-11-11T08:07:10+00:00",
-      "dateLabel": "11. 11. 2026",
-      "price": 1050,
-      "image": "",
-      "id": "https://honzovyletenky.cz/barcelona-za-tisicovku-3/",
-      "firstSeen": "2026-11-11T07:31:28.310358+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "FARE DROP 💥 Cheap non-stop flights from Scandinavia to Thailand 🌴 🥥 from €305",
-      "summary": "Dreaming of turquoise waters, white sand beaches, and tropical adventures? Now’s the perfect time to plan your escape! Discover the beauty of Thailand with discounted Norse flights starting at just €305 round-trip.",
-      "url": "https://www.fly4free.com/flight-deals/europe/direct-flights-from-scandinavia-to-thailand-e305/",
-      "source": "Fly4free.com",
-      "date": "2026-11-11T08:00:09+00:00",
-      "dateLabel": "11. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/direct-flights-from-scandinavia-to-thailand-e305/",
-      "firstSeen": "2026-11-11T09:10:38.569927+00:00",
-      "priceOrig": {
-        "amount": 305,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Malaga (Španělsko) – letenky z Prahy za 2648 Kč, z Ostravy za 1290 Kč",
-      "summary": "Malaga je město, kde se andaluský způsob života projevuje nejlépe u stolu – a místní tapas bary to vědí moc dobře. Přijdete na sklenku a odejdete po třech hodinách, protože jídlo a povídání prostě nekončí. Přes den stojí za to vyšlapat na m",
-      "url": "https://www.levneletenkyzprahy.cz/2755_malaga-spanelsko-–-letenky-z-prahy-za-2648-kc,-z-ostravy-za-1290-kc",
-      "source": "Levné letenky z Prahy",
-      "date": "2026-11-11T07:54:16+00:00",
-      "dateLabel": "11. 11. 2026",
-      "price": 2648,
-      "image": "",
-      "id": "https://www.levneletenkyzprahy.cz/2755_malaga-spanelsko-–-letenky-z-prahy-za-2648-kc,-z-ostravy-za-1290-kc",
-      "firstSeen": "2026-11-11T07:31:28.310358+00:00",
       "priceOrig": null
     }
   ]
