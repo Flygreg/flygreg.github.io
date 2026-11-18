@@ -1,6 +1,61 @@
 {
-  "updated": "2026-11-18T05:17:35.699070+00:00",
+  "updated": "2026-11-18T07:34:53.242228+00:00",
   "offers": [
+    {
+      "title": "MAURICIUS pod 10k z Prahy - 9 940 Kč",
+      "summary": "Ultra levnou letenku na Mauricius nabízí Condor z Prahy. Zpáteční letenky z Prahy na Mauricius pořídíme v průběhu prosince už za 9 940 Kč. Nejvýhodnější letenka je dostupná s návratem na Štedrý den, i ostatní termíny jsou ale dostupné za vý",
+      "url": "https://honzovyletenky.cz/mauricius-pod-10k-z-prahy/",
+      "source": "Honzovy letenky",
+      "date": "2026-11-18T08:02:41+00:00",
+      "dateLabel": "18. 11. 2026",
+      "price": 9940,
+      "image": "",
+      "id": "https://honzovyletenky.cz/mauricius-pod-10k-z-prahy/",
+      "firstSeen": "2026-11-18T07:34:53.242228+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Francie: Marseille – letenky za 1707 Kč",
+      "summary": "Z Prahy do Marseille seženete letenku s Ryanairem od 1 707 Kč – a přiletíte do města, které je proslulé především jednou věcí: bouillabaisse. Tahle hustá rybí polévka není jen jídlo, je to marseillský rituál. V restauracích u přístavu Vieux",
+      "url": "https://www.levneletenkyzprahy.cz/2762_francie:-marseille-–-letenky-za-1707-kc",
+      "source": "Levné letenky z Prahy",
+      "date": "2026-11-18T07:40:14+00:00",
+      "dateLabel": "18. 11. 2026",
+      "price": 1707,
+      "image": "",
+      "id": "https://www.levneletenkyzprahy.cz/2762_francie:-marseille-–-letenky-za-1707-kc",
+      "firstSeen": "2026-11-18T07:34:53.242228+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Last minute holiday in Dominican Republic for €835 p.p. ☀️ 🌊 LOT direct flights from Warsaw + 7-night B&B stay at well-rated aparthotel",
+      "summary": "Looking for an affordable Caribbean getaway? Discover the Dominican Republic with this attractive holiday package from €835 per person! Fly directly from Warsaw with LOT and enjoy 7 nights at a well-rated aparthotel with breakfast included.",
+      "url": "https://www.fly4free.com/flight-deals/europe/holiday-in-dominican-republic-from-warsaw-e835/",
+      "source": "Fly4free.com",
+      "date": "2026-11-18T07:00:24+00:00",
+      "dateLabel": "18. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/holiday-in-dominican-republic-from-warsaw-e835/",
+      "firstSeen": "2026-11-18T07:34:53.242228+00:00",
+      "priceOrig": {
+        "amount": 835,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "Buzz: Bratislava - Lamezia Terme - 800 Kč",
+      "summary": "",
+      "url": "https://www.akcniletenky.com",
+      "source": "AkčníLetenky.com",
+      "date": "2026-11-18T07:00:00+00:00",
+      "dateLabel": "18. 11. 2026",
+      "price": 800,
+      "image": "",
+      "id": "740",
+      "firstSeen": "2026-11-18T07:34:53.242228+00:00",
+      "priceOrig": null
+    },
     {
       "title": "GREAT DEAL 💥 Cheap full-service flights from London to Macau from €329",
       "summary": "From glittering skylines to rich cultural gems, your next unforgettable escape is just a booking away. Book now these discounted China Southern Airlines flights to Macau before this deal takes off!",
@@ -3816,35 +3871,6 @@
       "price": 2648,
       "image": "",
       "id": "https://www.levneletenkyzprahy.cz/2755_malaga-spanelsko-–-letenky-z-prahy-za-2648-kc,-z-ostravy-za-1290-kc",
-      "firstSeen": "2026-11-11T07:31:28.310358+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "HIGH SEASON 🏝️ Cheap full-service flights from Vienna to Zanzibar for €495",
-      "summary": "Escape to paradise where white sandy beaches, crystal-clear waters, and unforgettable sunsets await! Book discounted Air Cairo flights to Zanzibar for €495 for a round trip.",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-vienna-to-zanzibar-e495/",
-      "source": "Fly4free.com",
-      "date": "2026-11-11T07:00:15+00:00",
-      "dateLabel": "11. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-vienna-to-zanzibar-e495/",
-      "firstSeen": "2026-11-11T07:31:28.310358+00:00",
-      "priceOrig": {
-        "amount": 495,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Lauda: Vídeň - Malta - 980 Kč",
-      "summary": "",
-      "url": "https://www.akcniletenky.com",
-      "source": "AkčníLetenky.com",
-      "date": "2026-11-11T07:00:00+00:00",
-      "dateLabel": "11. 11. 2026",
-      "price": 980,
-      "image": "",
-      "id": "714",
       "firstSeen": "2026-11-11T07:31:28.310358+00:00",
       "priceOrig": null
     }
