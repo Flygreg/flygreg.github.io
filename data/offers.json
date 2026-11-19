@@ -1,6 +1,77 @@
 {
-  "updated": "2026-11-19T17:19:14.820696+00:00",
+  "updated": "2026-11-19T19:15:36.595975+00:00",
   "offers": [
+    {
+      "title": "🏔️🚢 Norwegian fjords in spring! 7-night Holland America cruise from Amsterdam from €974 p.p.",
+      "summary": "This is a beautifully balanced 7-night Norway cruise in May aboard Holland America Line’s Zuiderdam, starting and ending in Amsterdam.",
+      "url": "https://www.fly4free.com/flight-deals/europe/holland-america-cruise-through-norway-from-amsterdam/",
+      "source": "Fly4free.com",
+      "date": "2026-11-19T18:45:32+00:00",
+      "dateLabel": "19. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/holland-america-cruise-through-norway-from-amsterdam/",
+      "firstSeen": "2026-11-19T19:15:36.595975+00:00",
+      "priceOrig": {
+        "amount": 974,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "NEW YORK z Prahy za 10k - 10 297 Kč",
+      "summary": "V aktuální akci TAPu pořídíme levné letenky do New Yorku. Zpáteční letenky z Prahy do New Yorku pořídíme už za 10 297 Kč. Nejvýhodnější letenky jsou dostupné na spoustu termínů během zimy a jara 2027. Letenky jsou s jedním přestupem v Lisab",
+      "url": "https://honzovyletenky.cz/new-york-z-prahy-za-10k/",
+      "source": "Honzovy letenky",
+      "date": "2026-11-19T18:39:58+00:00",
+      "dateLabel": "19. 11. 2026",
+      "price": 10297,
+      "image": "",
+      "id": "https://honzovyletenky.cz/new-york-z-prahy-za-10k/",
+      "firstSeen": "2026-11-19T19:15:36.595975+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Ryanair new routes for summer: Toulouse, Burgas and Varna",
+      "summary": "Ryanair has announced four new routes for the summer 2027 season. Two will connect Toulouse in France with destinations in Ireland and the UK, while the other two will link the Bulgarian coastal resorts of Burgas and Varna with Poland and G",
+      "url": "https://www.fly4free.com/flight-deals/europe/ryanair-launches-four-new-routes-for-summer-2027/",
+      "source": "Fly4free.com",
+      "date": "2026-11-19T18:22:05+00:00",
+      "dateLabel": "19. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/ryanair-launches-four-new-routes-for-summer-2027/",
+      "firstSeen": "2026-11-19T19:15:36.595975+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Prices down 💥 Cheap flights from many European cities to Mombasa, Kenya 🌴 from €337",
+      "summary": "Dreaming of a tropical getaway on Kenya’s spectacular Indian Ocean coast? Now is your chance to discover Mombasa, where palm-fringed beaches, turquoise waters, and fascinating Swahili culture await! Condor flights to Mombasa are available s",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-mombasa-e340/",
+      "source": "Fly4free.com",
+      "date": "2026-11-19T17:40:10+00:00",
+      "dateLabel": "19. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-mombasa-e340/",
+      "firstSeen": "2026-11-19T19:15:36.595975+00:00",
+      "priceOrig": {
+        "amount": 337,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "Za safari i Indickým oceánem: Týdenní Keňa s All Inclusive z Prahy za 18 990 Kč",
+      "summary": "Zlevněno na 18 990 Kč! Zažijte týdenní dovolenou v Keni s All Inclusive, odletem z Prahy a možností safari. Ubytování ve 4* resortu u zálivu Watamu.",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/za-safari-i-indickym-oceanem-tydenni-kena-s-all-inclusive-z-prahy-za-18-990-kc?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-11-19T17:37:12+00:00",
+      "dateLabel": "19. 11. 2026",
+      "price": 18990,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/za-safari-i-indickym-oceanem-tydenni-kena-s-all-inclusive-z-prahy-za-18-990-kc?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-11-19T19:15:36.595975+00:00",
+      "priceOrig": null
+    },
     {
       "title": "Experience premium stay in Brussels 🇧🇪 Stylish 4-star Pullman hotel from €109/double",
       "summary": "If convenience matters but you still want something polished and upscale, this is a very strong option. The hotel is built directly into Brussels-Midi station, giving you immediate access to international trains while keeping the historic c",
@@ -16,6 +87,19 @@
         "amount": 109,
         "cur": "EUR"
       }
+    },
+    {
+      "title": "China Eastern: Budapešť - Brisbane - 18 990 Kč",
+      "summary": "",
+      "url": "https://www.akcniletenky.com",
+      "source": "AkčníLetenky.com",
+      "date": "2026-11-19T17:00:00+00:00",
+      "dateLabel": "19. 11. 2026",
+      "price": 18990,
+      "image": "",
+      "id": "747",
+      "firstSeen": "2026-11-19T19:15:36.595975+00:00",
+      "priceOrig": null
     },
     {
       "title": "Čínská HAVAJ z Prahy - 14 290 Kč",
@@ -3734,77 +3818,6 @@
       "image": "",
       "id": "https://levnocestovani.cz/akcni-zajezdy/dominikana-s-all-inclusive-za-29-990-kc-tyden-ve-4-resortu-u-plaze-bavaro?utm_source=rss&utm_medium=feed",
       "firstSeen": "2026-11-12T21:02:23.032895+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "NEW YORK za 9k - 8 990 Kč",
-      "summary": "Nejlevnější New York je stále dostupný v nabídce Aer Lingus. Letenky z Prahy do New Yorku (letiště JFK) s návratem do Berlína pořídíme za suprovou cenu 8 990 Kč. Nejvýhodnější letenky jsou dostupné od února do května 2027. Jen o pětistovku",
-      "url": "https://honzovyletenky.cz/new-york-za-9k/",
-      "source": "Honzovy letenky",
-      "date": "2026-11-12T19:05:58+00:00",
-      "dateLabel": "12. 11. 2026",
-      "price": 8990,
-      "image": "",
-      "id": "https://honzovyletenky.cz/new-york-za-9k/",
-      "firstSeen": "2026-11-12T19:13:08.553322+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Cheap full-service flights from Amsterdam to Malaysia for €493",
-      "summary": "Experience the convenience of China Eastern Airlines flights to Malaysia from just €493 for a round trip. Whether it's the enchanting local culture, tropical adventures, or fabulous cuisine you crave, Malaysia offers it all in a unique and",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-kuala-lumpur-e493/",
-      "source": "Fly4free.com",
-      "date": "2026-11-12T19:00:46+00:00",
-      "dateLabel": "12. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-kuala-lumpur-e493/",
-      "firstSeen": "2026-11-12T19:13:08.553322+00:00",
-      "priceOrig": {
-        "amount": 493,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Chinese airlines cut flights to Europe, with cancellations affecting major hubs",
-      "summary": "Travelling between Europe and China is set to become more difficult this winter. Three major Chinese airlines are scaling back their flight schedules, with some routes temporarily suspended and others reduced to just a few services a week.",
-      "url": "https://www.fly4free.com/news/chinese-airlines-cut-flights-to-europe-with-cancellations-affecting-major-hubs/",
-      "source": "Fly4free.com",
-      "date": "2026-11-12T18:47:04+00:00",
-      "dateLabel": "12. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/news/chinese-airlines-cut-flights-to-europe-with-cancellations-affecting-major-hubs/",
-      "firstSeen": "2026-11-12T19:13:08.553322+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Full-service direct Hainan Airlines flights from Prague to Beijing, China for €585",
-      "summary": "Experience rich culture, dazzling cities, and timeless traditions — all at an unbeatable fare. Fly Hainan Airlines to Beijing starting at just €585 for a round trip. Pack your bags, China is calling!",
-      "url": "https://www.fly4free.com/flight-deals/europe/direct-flights-from-prague-to-beijing-e585/",
-      "source": "Fly4free.com",
-      "date": "2026-11-12T18:00:17+00:00",
-      "dateLabel": "12. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/direct-flights-from-prague-to-beijing-e585/",
-      "firstSeen": "2026-11-12T19:13:08.553322+00:00",
-      "priceOrig": {
-        "amount": 585,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Egypt na 11 dní za 17 990 Kč v 5* resortu přímo u krásné laguny",
-      "summary": "Tyrkysová laguna, písečná pláž a aquapark. Užijte si 11 dní v Egyptě v 5* resortu s All Inclusive za 17 990 Kč. Prohlédněte si zájezd od EXIM tours a Fischer.",
-      "url": "https://levnocestovani.cz/akcni-zajezdy/egypt-na-11-dni-za-17-990-kc-v-5-resortu-primo-u-krasne-laguny?utm_source=rss&utm_medium=feed",
-      "source": "Levnocestovani.cz",
-      "date": "2026-11-12T17:25:36+00:00",
-      "dateLabel": "12. 11. 2026",
-      "price": 17990,
-      "image": "",
-      "id": "https://levnocestovani.cz/akcni-zajezdy/egypt-na-11-dni-za-17-990-kc-v-5-resortu-primo-u-krasne-laguny?utm_source=rss&utm_medium=feed",
-      "firstSeen": "2026-11-12T19:13:08.553322+00:00",
       "priceOrig": null
     }
   ]
