@@ -1,6 +1,87 @@
 {
-  "updated": "2026-11-19T09:23:05.307741+00:00",
+  "updated": "2026-11-19T11:15:03.900616+00:00",
   "offers": [
+    {
+      "title": "11 dní plavby po ŠPANĚLSKU a MAROKU - 22 990 Kč",
+      "summary": "Levnou plavbu Středozemním mořem i Atlantikem pořídíme u Čedoku. U Čedoku najdeme v nabídce také plavby s delegátem. V aktuální nabídce najdeme třeba 11denní plavbu z Barcelony za 22 990 Kč. Trasa vede přes Gibraltar, Casablanku, Tanger, Cá",
+      "url": "https://honzovyletenky.cz/11-dni-plavby-po-spanelsku-a-maroku/",
+      "source": "Honzovy letenky",
+      "date": "2026-11-19T12:09:07+00:00",
+      "dateLabel": "19. 11. 2026",
+      "price": 22990,
+      "image": "",
+      "id": "https://honzovyletenky.cz/11-dni-plavby-po-spanelsku-a-maroku/",
+      "firstSeen": "2026-11-19T11:15:03.900616+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Safari na dosah, Indický oceán a 4* resort s All Inclusive: Týden v Keni z Prahy za 20 990 Kč",
+      "summary": "Indický oceán, písčitá pláž Watamu i safari na dosah. Vyrazte na týden do Keni z Prahy do dobře hodnoceného 4* resortu s All Inclusive za 20 990 Kč.",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/safari-na-dosah-indicky-ocean-a-4-resort-s-all-inclusive-tyden-v-keni-z-prahy-za-20-990-kc?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-11-19T11:10:57+00:00",
+      "dateLabel": "19. 11. 2026",
+      "price": 20990,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/safari-na-dosah-indicky-ocean-a-4-resort-s-all-inclusive-tyden-v-keni-z-prahy-za-20-990-kc?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-11-19T11:15:03.900616+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "🌴 More resort than city hotel — 5-star Kuala Lumpur stay from €81/double",
+      "summary": "If you like having a little more space, greenery and resort-style comfort, this is a very different option from the usual downtown Kuala Lumpur hotel.",
+      "url": "https://www.fly4free.com/flight-deals/europe/5-star-hotel-in-kuala-lumpur-e81/",
+      "source": "Fly4free.com",
+      "date": "2026-11-19T11:00:57+00:00",
+      "dateLabel": "19. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/5-star-hotel-in-kuala-lumpur-e81/",
+      "firstSeen": "2026-11-19T11:15:03.900616+00:00",
+      "priceOrig": {
+        "amount": 81,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "Egypt z Prahy za 10 990 Kč: Týden u Rudého moře ve 4* resortu s aquaparkem a All Inclusive",
+      "summary": "Dopřejte si týden u vyhřátého Rudého moře pod 11 tisíc! Zájezd do Egypta s odletem z Prahy a All Inclusive ve 4* resortu s aquaparkem pořídíte za 10 990 Kč.",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/egypt-z-prahy-za-10-990-kc-tyden-u-rudeho-more-ve-4-resortu-s-aquaparkem-a-all-inclusive?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-11-19T10:54:33+00:00",
+      "dateLabel": "19. 11. 2026",
+      "price": 10990,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/egypt-z-prahy-za-10-990-kc-tyden-u-rudeho-more-ve-4-resortu-s-aquaparkem-a-all-inclusive?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-11-19T11:15:03.900616+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Prosincový Zanzibar v hotelu přímo u pláže s all-inclusive. Zájezd od 22 990 Kč",
+      "summary": "Na Zanzibar se můžete na konci listopadu vydat za skvělou cenu. Tentokrát je v nabídce Nest Style Beach Hotel Zanzibar ****, který leží přímo u písečné pláže na jihovýchodním pobřeží ostrova.",
+      "url": "https://www.cestujlevne.com/akcni-letenky/prosincovy-zanzibar-v-hotelu-primo-u-plaze-s-all-inclusive",
+      "source": "CestujLevne.com",
+      "date": "2026-11-19T10:48:45+00:00",
+      "dateLabel": "19. 11. 2026",
+      "price": 22990,
+      "image": "",
+      "id": "https://www.cestujlevne.com/akcni-letenky/prosincovy-zanzibar-v-hotelu-primo-u-plaze-s-all-inclusive",
+      "firstSeen": "2026-11-19T11:15:03.900616+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Týden na Madeiře za 8 990 Kč: Ostrov věčného jara z Prahy ve 4* hotelu ve Funchalu se snídaní",
+      "summary": "Dramatické útesy, horské levády i rozkvetlé zahrady. Vyrazte na týden na Madeiru z Prahy do skvěle hodnoceného 4* hotelu ve Funchalu se snídaní za 8 990 Kč.",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/tyden-na-madeire-za-8-990-kc-ostrov-vecneho-jara-z-prahy-ve-4-hotelu-ve-funchalu-se-snidani?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-11-19T10:19:48+00:00",
+      "dateLabel": "19. 11. 2026",
+      "price": 8990,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/tyden-na-madeire-za-8-990-kc-ostrov-vecneho-jara-z-prahy-ve-4-hotelu-ve-funchalu-se-snidani?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-11-19T11:15:03.900616+00:00",
+      "priceOrig": null
+    },
     {
       "title": "Na BARBADOS za super cenu - 11 602 Kč",
       "summary": "Na Barbados se levně dostaneme s Condorem. V rezervačním systému aerolinky Condor najdeme levné letenky z Prahy na Barbados. Za zpáteční letenky zaplatíme 11 602 Kč. Po cestě tam nás čeká rychlý přestup ve Frankfurtu a mezipřistání v Tobagu",
@@ -15,6 +96,35 @@
       "priceOrig": null
     },
     {
+      "title": "Deal alert! 💥 Cheap flights from many European cities to tropical Mauritius 🏝️ from €345",
+      "summary": "Amazing fares by Condor to the exotic Mauritius, now even cheaper — just from €345 from many European cities!",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-mauritius-e345/",
+      "source": "Fly4free.com",
+      "date": "2026-11-19T10:00:33+00:00",
+      "dateLabel": "19. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-mauritius-e345/",
+      "firstSeen": "2026-11-19T11:15:03.900616+00:00",
+      "priceOrig": {
+        "amount": 345,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "Wizz Air: Bratislava - Kypr - 980 Kč",
+      "summary": "",
+      "url": "https://www.akcniletenky.com",
+      "source": "AkčníLetenky.com",
+      "date": "2026-11-19T10:00:00+00:00",
+      "dateLabel": "19. 11. 2026",
+      "price": 980,
+      "image": "",
+      "id": "745",
+      "firstSeen": "2026-11-19T11:15:03.900616+00:00",
+      "priceOrig": null
+    },
+    {
       "title": "Malaga, Španělsko – letenky za 2541 Kč, z Ostravy za 1396 Kč",
       "summary": "Z Prahy se do Malagy dostanete Ryanairem od 2 541 Kč, z Ostravy pak dokonce od 1 396 Kč. Malaga má pověst města, které se do škatulky „přímořské letovisko\" prostě nevejde – patří k ní maurská pevnost Alcazaba tyčící se nad střechami starého",
       "url": "https://www.levneletenkyzprahy.cz/2763_malaga,-spanelsko-–-letenky-za-2541-kc,-z-ostravy-za-1396-kc",
@@ -25,6 +135,19 @@
       "image": "",
       "id": "https://www.levneletenkyzprahy.cz/2763_malaga,-spanelsko-–-letenky-za-2541-kc,-z-ostravy-za-1396-kc",
       "firstSeen": "2026-11-19T09:23:05.307741+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Až na druhý konec světa za nádhernými plážemi Cookových ostrovů z Prahy. Letenky od 28 535 Kč",
+      "summary": "Cookovy ostrovy jsou pořádná exotika na druhém konci světa. Čekají vás tu krásné pláže s bílým pískem, tyrkysové laguny, zelené hory a spousta míst, která stojí za prozkoumání. A pokud rádi šnorchlujete, tady si taky přijdete na své.",
+      "url": "https://www.cestujlevne.com/akcni-letenky/az-na-druhy-konec-sveta-za-nadhernymi-plazemi-cookovych-ostrovu-z-prahy",
+      "source": "CestujLevne.com",
+      "date": "2026-11-19T09:25:09+00:00",
+      "dateLabel": "19. 11. 2026",
+      "price": 28535,
+      "image": "",
+      "id": "https://www.cestujlevne.com/akcni-letenky/az-na-druhy-konec-sveta-za-nadhernymi-plazemi-cookovych-ostrovu-z-prahy",
+      "firstSeen": "2026-11-19T11:15:03.900616+00:00",
       "priceOrig": null
     },
     {
@@ -70,8 +193,8 @@
       "priceOrig": null
     },
     {
-      "title": "Last-minute full-service direct flights from Poland to Vietnam & Thailand 🌴 🥥 from €534",
-      "summary": "LOT and World2Fly are offering discounted flights to Phuket, Bangkok, and Ho Chi Minh — making it a great moment to plan a tropical escape to Southeast Asia! Book return tickets starting at only €534.",
+      "title": "Last-minute full-service direct flights from Poland to Malaysia, Vietnam & Thailand 🌴 🥥 from €496",
+      "summary": "LOT and World2Fly are offering discounted flights to Penang, Phuket, Bangkok, and Ho Chi Minh — making it a great moment to plan a tropical escape to Southeast Asia! Book return tickets starting at only €496.",
       "url": "https://www.fly4free.com/flight-deals/europe/direct-flights-from-poland-to-vietnam-thailand/",
       "source": "Fly4free.com",
       "date": "2026-11-19T08:00:16+00:00",
@@ -81,7 +204,7 @@
       "id": "https://www.fly4free.com/flight-deals/europe/direct-flights-from-poland-to-vietnam-thailand/",
       "firstSeen": "2026-11-19T09:23:05.307741+00:00",
       "priceOrig": {
-        "amount": 534,
+        "amount": 496,
         "cur": "EUR"
       }
     },
@@ -3714,103 +3837,6 @@
       "image": "",
       "id": "https://levnocestovani.cz/akcni-zajezdy/tyden-v-karibiku-za-30-590-kc-5-resort-u-bile-plaze-all-inclusive-a-primy-let?utm_source=rss&utm_medium=feed",
       "firstSeen": "2026-11-12T13:29:37.228240+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "PRICE DROP 💥 Cheap non-stop flights from Milan to Cape Verde 🏝️ for €148",
-      "summary": "If you are dreaming of warm weather, golden beaches, and crystal-clear Atlantic waters, this is the perfect opportunity for an affordable tropical getaway. Cape Verde is famous for its year-round sunshine, relaxed atmosphere, colourful cult",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-milan-to-cape-verde-e148/",
-      "source": "Fly4free.com",
-      "date": "2026-11-12T11:00:02+00:00",
-      "dateLabel": "12. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-milan-to-cape-verde-e148/",
-      "firstSeen": "2026-11-12T11:16:14.027350+00:00",
-      "priceOrig": {
-        "amount": 148,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Korsika přímým letem z Prahy v prosinci jen v jediném termínu. Letenky od 4 824 Kč",
-      "summary": "Na začátku prosince se stále nabízí zajímavá příležitost vyrazit přímo z Prahy na Korsiku. Aerolinka Air Corsica pořádá speciální adventní lety z Korsiky do evropských měst. Díky tomu se můžete i z Prahy dostat přímým letem do Ajaccia.",
-      "url": "https://www.cestujlevne.com/akcni-letenky/korsika-primym-letem-z-prahy-v-prosinci-jen-v-jedinem-terminu",
-      "source": "CestujLevne.com",
-      "date": "2026-11-12T10:31:41+00:00",
-      "dateLabel": "12. 11. 2026",
-      "price": 4824,
-      "image": "",
-      "id": "https://www.cestujlevne.com/akcni-letenky/korsika-primym-letem-z-prahy-v-prosinci-jen-v-jedinem-terminu",
-      "firstSeen": "2026-11-12T11:16:14.027350+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Thajsko, Phuket: 5* hotel s vířivkou, polopenzí a přímým letem z Prahy za 28 990 Kč",
-      "summary": "Týden v tropech na Coconut Islandu u Phuketu s odletem 23. 11. z Prahy. Čeká vás 5* resort s polopenzí, vlastní vířivka na terase i výlety lodí zdarma.",
-      "url": "https://levnocestovani.cz/akcni-zajezdy/thajsko-phuket-5-hotel-s-virivkou-polopenzi-a-primym-letem-z-prahy-za-28-990-kc?utm_source=rss&utm_medium=feed",
-      "source": "Levnocestovani.cz",
-      "date": "2026-11-12T10:12:27+00:00",
-      "dateLabel": "12. 11. 2026",
-      "price": 28990,
-      "image": "",
-      "id": "https://levnocestovani.cz/akcni-zajezdy/thajsko-phuket-5-hotel-s-virivkou-polopenzi-a-primym-letem-z-prahy-za-28-990-kc?utm_source=rss&utm_medium=feed",
-      "firstSeen": "2026-11-12T11:16:14.027350+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "4* MALEDIVY v resortu s plnou penzí - 33 990 Kč",
-      "summary": "Levný zájezd na Maledivy koupíme u Čedoku. U cestovní kanceláře Čedok najdeme levný zájezd z Prahy na Maledivy. Za týdenní zájezd přímým letem z Prahy do 4* rezortu s plnou penzí zaplatíme 33 990 Kč. V ceně zájezdu je transfer, zavazadlo i",
-      "url": "https://honzovyletenky.cz/4-maledivy-v-resortu-s-plnou-penzi/",
-      "source": "Honzovy letenky",
-      "date": "2026-11-12T10:11:55+00:00",
-      "dateLabel": "12. 11. 2026",
-      "price": 33990,
-      "image": "",
-      "id": "https://honzovyletenky.cz/4-maledivy-v-resortu-s-plnou-penzi/",
-      "firstSeen": "2026-11-12T09:16:17.094190+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Turkish Airlines flights from Prague to the Middle East & many Asian destinations from €372",
-      "summary": "Dreaming of Asia without spending a fortune? This Turkish Airlines sale is a fantastic opportunity to book cheap flights from just €372 return. Whether you're planning an unforgettable holiday, a cultural adventure, or a tropical escape, th",
-      "url": "https://www.fly4free.com/flight-deals/europe/turkish-airlines-flights-from-prague-to-middle-east-and-asia-e372/",
-      "source": "Fly4free.com",
-      "date": "2026-11-12T10:00:44+00:00",
-      "dateLabel": "12. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/turkish-airlines-flights-from-prague-to-middle-east-and-asia-e372/",
-      "firstSeen": "2026-11-12T11:16:14.027350+00:00",
-      "priceOrig": {
-        "amount": 372,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Buzz: Bratislava - Malta - 980 Kč",
-      "summary": "",
-      "url": "https://www.akcniletenky.com",
-      "source": "AkčníLetenky.com",
-      "date": "2026-11-12T10:00:00+00:00",
-      "dateLabel": "12. 11. 2026",
-      "price": 980,
-      "image": "",
-      "id": "719",
-      "firstSeen": "2026-11-12T11:16:14.027350+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Přímé lety z Prahy na Madeiru v listopadu a prosinci za 5 334 Kč",
-      "summary": "Rezervuj: přes náš vyhledávač Zavazadla: příruční á 8 kg (max. rozměry 55 × 40 × 23 cm) Dostupnost: listopad a prosinec 2026 Termíny a ceny: 17. – 24. 11. za 6 134 Kč → Zobrazit let 20. – 24. 11. za 6 134 Kč → Zobrazit let 24. 11. – 1. 12.",
-      "url": "https://zaletsi.cz/akce/prime-lety-z-prahy-na-madeiru-v-listopadu-a-prosinci-2/",
-      "source": "Zaleťsi.cz",
-      "date": "2026-11-12T09:40:46+00:00",
-      "dateLabel": "12. 11. 2026",
-      "price": 5334,
-      "image": "",
-      "id": "https://zaletsi.cz/akce/prime-lety-z-prahy-na-madeiru-v-listopadu-a-prosinci-2/",
-      "firstSeen": "2026-11-12T22:58:46.943478+00:00",
       "priceOrig": null
     }
   ]
