@@ -1,6 +1,48 @@
 {
-  "updated": "2026-11-18T23:05:29.490241+00:00",
+  "updated": "2026-11-19T07:37:39.532067+00:00",
   "offers": [
+    {
+      "title": "CHEAP 💥 Last minute flights from many European cities to exotic Trinidad and Tobago 🏝️ from €386",
+      "summary": "Ready to trade the European winter chill for Caribbean sunshine? Now you can fly to the island of Trinidad from just €386 return with Condor! These round-trip deals from European cities bring you closer to a tropical paradise filled with pa",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-trinidad-and-tobago-e386/",
+      "source": "Fly4free.com",
+      "date": "2026-11-19T07:00:46+00:00",
+      "dateLabel": "19. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-trinidad-and-tobago-e386/",
+      "firstSeen": "2026-11-19T07:37:39.532067+00:00",
+      "priceOrig": {
+        "amount": 386,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "Lauda: Vídeň - Neapol - 980 Kč",
+      "summary": "",
+      "url": "https://www.akcniletenky.com",
+      "source": "AkčníLetenky.com",
+      "date": "2026-11-19T07:00:00+00:00",
+      "dateLabel": "19. 11. 2026",
+      "price": 980,
+      "image": "",
+      "id": "744",
+      "firstSeen": "2026-11-19T07:37:39.532067+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Heymondo Black Friday Sale! 15% off your travel insurance ✈️🏥",
+      "summary": "Grab a 15% discount on Heymondo travel insurance by using the link provided in this article during this Black Friday sale!",
+      "url": "https://www.fly4free.com/flight-deals/europe/travel-insurance-sale-black-friday-3/",
+      "source": "Fly4free.com",
+      "date": "2026-11-19T06:15:25+00:00",
+      "dateLabel": "19. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/travel-insurance-sale-black-friday-3/",
+      "firstSeen": "2026-11-19T07:37:39.532067+00:00",
+      "priceOrig": null
+    },
     {
       "title": "Full-service flights from Lisbon to mega exotic Sao Tome and Principe 🌴 from €469",
       "summary": "Visit one of the most unique destinations in Africa - all with comfort included. Jet off to Sao Tome and Principe with TAAG Angola Airlines flights starting at just €469! Adventure’s calling. Will you answer?",
@@ -3757,48 +3799,6 @@
         "amount": 345,
         "cur": "GBP"
       }
-    },
-    {
-      "title": "Ryanair launches 10 new winter routes from Italy",
-      "summary": "Turin is becoming an even more attractive destination for budget travellers. Ryanair has unveiled its largest-ever winter schedule at the Italian city's airport, featuring 40 routes, ten additions to its winter network and 25% more seats th",
-      "url": "https://www.fly4free.com/flight-deals/europe/ryanair-launches-ten-new-winter-routes-from-italy/",
-      "source": "Fly4free.com",
-      "date": "2026-11-12T07:35:38+00:00",
-      "dateLabel": "12. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/ryanair-launches-ten-new-winter-routes-from-italy/",
-      "firstSeen": "2026-11-12T09:16:17.094190+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Cheap last-minute direct flights from Warsaw to Cape Verde 🏝️ for €259",
-      "summary": "Discover a tropical paradise in the Atlantic Ocean, where golden beaches, turquoise waters and spectacular volcanic landscapes await! Enter Air is offering discounted direct flights from Warsaw or Katowice to the sun-soaked island of Sal st",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-warsaw-to-cape-verde-e335/",
-      "source": "Fly4free.com",
-      "date": "2026-11-12T07:00:13+00:00",
-      "dateLabel": "12. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-warsaw-to-cape-verde-e335/",
-      "firstSeen": "2026-11-12T07:36:10.040659+00:00",
-      "priceOrig": {
-        "amount": 259,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Ryanair: Ostrava - Malaga - 1 070 Kč",
-      "summary": "",
-      "url": "https://www.akcniletenky.com",
-      "source": "AkčníLetenky.com",
-      "date": "2026-11-12T07:00:00+00:00",
-      "dateLabel": "12. 11. 2026",
-      "price": 1070,
-      "image": "",
-      "id": "718",
-      "firstSeen": "2026-11-12T07:36:10.040659+00:00",
-      "priceOrig": null
     }
   ]
 }
