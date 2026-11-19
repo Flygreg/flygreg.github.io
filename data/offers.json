@@ -1,6 +1,64 @@
 {
-  "updated": "2026-11-19T19:15:36.595975+00:00",
+  "updated": "2026-11-19T21:05:34.296659+00:00",
   "offers": [
+    {
+      "title": "Pure heaven 🌴️️️️️️Top-rated 4* hotel on Koh Samui, Thailand for €75/double with breakfast in high season",
+      "summary": "If you want Koh Samui without staying right in the middle of its busiest resort areas, this is a particularly beautiful option. Set on a lush coastal hillside between Chaweng and Lamai, the resort combines tropical gardens, sweeping Gulf of",
+      "url": "https://www.fly4free.com/flight-deals/europe/4-star-resort-on-koh-samui-e75/",
+      "source": "Fly4free.com",
+      "date": "2026-11-19T21:00:35+00:00",
+      "dateLabel": "19. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/4-star-resort-on-koh-samui-e75/",
+      "firstSeen": "2026-11-19T21:05:34.296659+00:00",
+      "priceOrig": {
+        "amount": 75,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "Adventní víkendy v Manchesteru. Od 1 569 Kč.",
+      "summary": "Adventní víkendy v Manchesteru z Prahy od 1 569 Kč.",
+      "url": "https://www.obletsvet.cz/akcni-letenka/adventni-vikendy-v-manchesteru",
+      "source": "Obletsvet.cz",
+      "date": "2026-11-19T20:16:32+00:00",
+      "dateLabel": "19. 11. 2026",
+      "price": 1569,
+      "image": "",
+      "id": "https://www.obletsvet.cz/akcni-letenka/adventni-vikendy-v-manchesteru",
+      "firstSeen": "2026-11-19T21:05:34.296659+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "☀️ Winter sun in Lanzarote! Direct flights from Bratislava + 7 nights at a 4-star hotel for €474 p.p.",
+      "summary": "Swap cold European winter for volcanic landscapes, ocean views and plenty of Canary Islands sunshine. This deal combines direct Ryanair flights from Bratislava with a week at a well-rated 4-star THB hotel for €474 per person, based on two p",
+      "url": "https://www.fly4free.com/flight-deals/europe/holiday-in-lanzarote-from-bratislava-2/",
+      "source": "Fly4free.com",
+      "date": "2026-11-19T20:00:27+00:00",
+      "dateLabel": "19. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/holiday-in-lanzarote-from-bratislava-2/",
+      "firstSeen": "2026-11-19T21:05:34.296659+00:00",
+      "priceOrig": {
+        "amount": 474,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "Prosincové Tenerife za 13 990 Kč – 7 nocí s All Inclusive v Playa de las Américas",
+      "summary": "Pláže, promenáda až do Los Cristianos i surfařské školy. Užijte si Kanáry s Čedokem a ubytujte se v hotelu Las Pirámides. Odlet z Prahy – mrkněte na zájezd.",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/prosincove-tenerife-za-13-990-kc-7-noci-s-all-inclusive-v-playa-de-las-americas?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-11-19T19:22:40+00:00",
+      "dateLabel": "19. 11. 2026",
+      "price": 13990,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/prosincove-tenerife-za-13-990-kc-7-noci-s-all-inclusive-v-playa-de-las-americas?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-11-19T21:05:34.296659+00:00",
+      "priceOrig": null
+    },
     {
       "title": "🏔️🚢 Norwegian fjords in spring! 7-night Holland America cruise from Amsterdam from €974 p.p.",
       "summary": "This is a beautifully balanced 7-night Norway cruise in May aboard Holland America Line’s Zuiderdam, starting and ending in Amsterdam.",
@@ -3773,51 +3831,6 @@
       "image": "",
       "id": "https://www.cestujlevne.com/akcni-letenky/zimni-gdansk-od-soboty-do-pondeli-z-prahy",
       "firstSeen": "2026-11-13T07:33:55.912909+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Act fast, new lower fares to Sri Lanka! 💥 Last-minute full-service direct flights from Poland from €419",
-      "summary": "Enter Air is offering discounted flights to Colombo from just €419 return , making Sri Lanka an easy last-minute option for anyone craving beaches, jungle, tea country and a completely different climate.",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-poland-to-sri-lanka-e419/",
-      "source": "Fly4free.com",
-      "date": "2026-11-12T21:00:45+00:00",
-      "dateLabel": "12. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-poland-to-sri-lanka-e419/",
-      "firstSeen": "2026-11-12T21:02:23.032895+00:00",
-      "priceOrig": {
-        "amount": 419,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Cheap full-service flights from many European cities to Indonesia from €451",
-      "summary": "Fly with Air China to Indonesia at a discounted price! Tickets to Jakarta are on offer from €451 for a round trip.",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-indonesia-e451/",
-      "source": "Fly4free.com",
-      "date": "2026-11-12T20:00:48+00:00",
-      "dateLabel": "12. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-indonesia-e451/",
-      "firstSeen": "2026-11-12T21:02:23.032895+00:00",
-      "priceOrig": {
-        "amount": 451,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Dominikána s All Inclusive za 29 990 Kč. Týden ve 4* resortu u pláže Bávaro",
-      "summary": "Bílý písek pláže Bávaro, kokosové palmy a slunce při 30 °C. Užijte Punta Canu ve 4* resortu s All Inclusive a přímým letem z Prahy – prohlédněte si zájezd.",
-      "url": "https://levnocestovani.cz/akcni-zajezdy/dominikana-s-all-inclusive-za-29-990-kc-tyden-ve-4-resortu-u-plaze-bavaro?utm_source=rss&utm_medium=feed",
-      "source": "Levnocestovani.cz",
-      "date": "2026-11-12T19:35:38+00:00",
-      "dateLabel": "12. 11. 2026",
-      "price": 29990,
-      "image": "",
-      "id": "https://levnocestovani.cz/akcni-zajezdy/dominikana-s-all-inclusive-za-29-990-kc-tyden-ve-4-resortu-u-plaze-bavaro?utm_source=rss&utm_medium=feed",
-      "firstSeen": "2026-11-12T21:02:23.032895+00:00",
       "priceOrig": null
     }
   ]
