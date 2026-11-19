@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T15:41:28Z",
+ "updated": "2026-11-19T17:40:21Z",
  "sources": [
   {
    "name": "Cartop",
@@ -25,13 +25,13 @@
     ],
     [
      3,
-     782853,
+     782620,
      13,
      10
     ],
     [
      4,
-     784878,
+     784921,
      13,
      10
     ],
@@ -63,7 +63,7 @@
    "pageLog": [
     [
      1,
-     236020,
+     236102,
      9,
      9
     ],
@@ -272,8 +272,8 @@
    "ok": true,
    "complete": true,
    "pages": 3,
-   "cards": 63,
-   "noPrice": 1,
+   "cards": 77,
+   "noPrice": 0,
    "requests": 4,
    "note": "",
    "pageLog": [
@@ -283,7 +283,7 @@
     ],
     [
      2,
-     13
+     27
     ],
     [
      3,
@@ -292,9 +292,8 @@
    ],
    "robots": "robots.txt přečten",
    "types": {
-    "Car": 63
-   },
-   "unavailable": 1
+    "Car": 77
+   }
   },
   {
    "name": "IN LEASE",
