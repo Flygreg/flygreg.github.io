@@ -1,6 +1,77 @@
 {
-  "updated": "2026-11-19T15:14:03.007198+00:00",
+  "updated": "2026-11-19T17:19:14.820696+00:00",
   "offers": [
+    {
+      "title": "Experience premium stay in Brussels 🇧🇪 Stylish 4-star Pullman hotel from €109/double",
+      "summary": "If convenience matters but you still want something polished and upscale, this is a very strong option. The hotel is built directly into Brussels-Midi station, giving you immediate access to international trains while keeping the historic c",
+      "url": "https://www.fly4free.com/flight-deals/europe/pullman-hotel-brussels/",
+      "source": "Fly4free.com",
+      "date": "2026-11-19T17:00:34+00:00",
+      "dateLabel": "19. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/pullman-hotel-brussels/",
+      "firstSeen": "2026-11-19T17:19:14.820696+00:00",
+      "priceOrig": {
+        "amount": 109,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "Čínská HAVAJ z Prahy - 14 290 Kč",
+      "summary": "Zajímavý let bez přestupu můžeme využít z Prahy u SCAT. Zpáteční letenky z Prahy do Sanya v Číně pořídíme už za 14 290 Kč. Let je provozován kazašskou společností SCAT a je operován s jedním mezipřistáním v Samarkandu v Uzbekistánu. V ceně",
+      "url": "https://honzovyletenky.cz/cinska-havaj-z-prahy-3/",
+      "source": "Honzovy letenky",
+      "date": "2026-11-19T16:34:32+00:00",
+      "dateLabel": "19. 11. 2026",
+      "price": 14290,
+      "image": "",
+      "id": "https://honzovyletenky.cz/cinska-havaj-z-prahy-3/",
+      "firstSeen": "2026-11-19T17:19:14.820696+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Madeira za 9 990 Kč: Týdenní zájezd s polopenzí do 4* hotelu",
+      "summary": "Zelené hory, vodopády a nádherné výhledy na Atlantik. Objevte Madeiru s Čedokem a ubytujte se v oblíbeném Jardim Atlantico s polopenzí – prohlédněte si zájezd.",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/madeira-za-9-990-kc-tydenni-zajezd-s-polopenzi-do-4-hotelu?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-11-19T16:23:16+00:00",
+      "dateLabel": "19. 11. 2026",
+      "price": 9990,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/madeira-za-9-990-kc-tydenni-zajezd-s-polopenzi-do-4-hotelu?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-11-19T17:19:14.820696+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Objevte západní Kypr. Z Bratislavy do Paphosu i na prodloužené víkendy. Letenky od 1 075 Kč",
+      "summary": "Vyrazte za sluncem na Kypr a objevte jeho krásnou západní část. Okolí Paphosu nabízí nádherné pláže, fotogenické pobřeží, historické památky i pohoří Troodos, kam se snadno dostanete půjčeným autem.",
+      "url": "https://www.cestujlevne.com/akcni-letenky/objevte-zapadni-kypr-z-bratislavy-do-paphosu-i-na-prodlouzene-vikendy",
+      "source": "CestujLevne.com",
+      "date": "2026-11-19T15:31:45+00:00",
+      "dateLabel": "19. 11. 2026",
+      "price": 1075,
+      "image": "",
+      "id": "https://www.cestujlevne.com/akcni-letenky/objevte-zapadni-kypr-z-bratislavy-do-paphosu-i-na-prodlouzene-vikendy",
+      "firstSeen": "2026-11-19T17:19:14.820696+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "🎄🌴 Christmas in Bali! Full-service flights from Amsterdam from €447 return",
+      "summary": "Thinking about swapping European winter for tropical beaches, rice terraces and warm evenings in Bali? Xiamen Airlines is offering full-service return flights from Amsterdam to Denpasar from just €447, including dates over the Christmas per",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-bali-e447/",
+      "source": "Fly4free.com",
+      "date": "2026-11-19T15:30:19+00:00",
+      "dateLabel": "19. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-bali-e447/",
+      "firstSeen": "2026-11-19T17:19:14.820696+00:00",
+      "priceOrig": {
+        "amount": 447,
+        "cur": "EUR"
+      }
+    },
     {
       "title": "Luxusní dovolená v Karibiku za 29 990 Kč. 5* resort s All Inclusive",
       "summary": "Pláž Bávaro, 6 bazénů a 10 restaurací. Užijte si Dominikánu s All Inclusive v 5* resortu za 29 990 Kč. Přímé lety z Prahy v ceně. Rezervujte si zájezd.",
@@ -3734,103 +3805,6 @@
       "image": "",
       "id": "https://levnocestovani.cz/akcni-zajezdy/egypt-na-11-dni-za-17-990-kc-v-5-resortu-primo-u-krasne-laguny?utm_source=rss&utm_medium=feed",
       "firstSeen": "2026-11-12T19:13:08.553322+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Zimní víkendy v Neapoli. Od 1 093 Kč.",
-      "summary": "Zimní víkendy v Neapoli od 1 093 Kč.",
-      "url": "https://www.obletsvet.cz/akcni-letenka/zimni-vikendy-v-neapoli-bratislava",
-      "source": "Obletsvet.cz",
-      "date": "2026-11-12T17:18:09+00:00",
-      "dateLabel": "12. 11. 2026",
-      "price": 1093,
-      "image": "",
-      "id": "https://www.obletsvet.cz/akcni-letenka/zimni-vikendy-v-neapoli-bratislava",
-      "firstSeen": "2026-11-12T19:13:08.553322+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Well-rated and central 4🌟 hotel in Athens for €47/double",
-      "summary": "Athens is calling, and this hotel deal makes a Greek city break even more tempting! Stay at a well-rated 4-star hotel in a central location for only €47 per night for two people. Whether you're interested in ancient history, delicious Greek",
-      "url": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-athens-e47/",
-      "source": "Fly4free.com",
-      "date": "2026-11-12T17:00:52+00:00",
-      "dateLabel": "12. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-athens-e47/",
-      "firstSeen": "2026-11-12T17:15:52.177240+00:00",
-      "priceOrig": {
-        "amount": 47,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "GREAT DEAL 😎 Non-stop flights from Brussels to Sao Paulo, Brazil for €553",
-      "summary": "Discover the vibrant culture and stunning landscapes of Brazil! Book discounted LATAM flights to Sao Paulo starting at only €553 for a round trip.",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-brussels-to-sao-paulo-e553/",
-      "source": "Fly4free.com",
-      "date": "2026-11-12T16:00:36+00:00",
-      "dateLabel": "12. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-brussels-to-sao-paulo-e553/",
-      "firstSeen": "2026-11-12T17:15:52.177240+00:00",
-      "priceOrig": {
-        "amount": 553,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Turkish Airlines: Praha - Bombaj - 11 790 Kč",
-      "summary": "",
-      "url": "https://www.akcniletenky.com",
-      "source": "AkčníLetenky.com",
-      "date": "2026-11-12T16:00:00+00:00",
-      "dateLabel": "12. 11. 2026",
-      "price": 11790,
-      "image": "",
-      "id": "721",
-      "firstSeen": "2026-11-12T17:15:52.177240+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "8 dní na Madeiře za 11 790 Kč: 4* resort s nádherným výhledem na Atlantik",
-      "summary": "Výhledy na Atlantik, zelené hory a vavřínový les Fanal – užijte si týden na Madeiře ve 4* resortu s polopenzí za 11 790 Kč. Odlet z Prahy už 20. listopadu.",
-      "url": "https://levnocestovani.cz/akcni-zajezdy/8-dni-na-madeire-za-11-790-kc-4-resort-s-nadhernym-vyhledem-na-atlantik?utm_source=rss&utm_medium=feed",
-      "source": "Levnocestovani.cz",
-      "date": "2026-11-12T15:53:52+00:00",
-      "dateLabel": "12. 11. 2026",
-      "price": 11790,
-      "image": "",
-      "id": "https://levnocestovani.cz/akcni-zajezdy/8-dni-na-madeire-za-11-790-kc-4-resort-s-nadhernym-vyhledem-na-atlantik?utm_source=rss&utm_medium=feed",
-      "firstSeen": "2026-11-12T17:15:52.177240+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Levný zájezd na MADEIRU z Prahy - 8 990 Kč",
-      "summary": "Levný zájezd na Madeiru koupíme u Čedoku. CK Čedok nabízí levný last minute zájezd z Prahy na Madeiru. Za týdenní zájezd do 4* hotelu se snídaní zaplatíme 8 990 Kč. V ceně zájezdu je také odbavené zavazadlo, transfery v cíli zájezdu a deleg",
-      "url": "https://honzovyletenky.cz/levny-zajezd-na-madeiru-z-prahy-2/",
-      "source": "Honzovy letenky",
-      "date": "2026-11-12T15:49:29+00:00",
-      "dateLabel": "12. 11. 2026",
-      "price": 8990,
-      "image": "",
-      "id": "https://honzovyletenky.cz/levny-zajezd-na-madeiru-z-prahy-2/",
-      "firstSeen": "2026-11-12T15:10:47.882699+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Irák a Irácký Kurdistán: přímé lety z Berlína do Bagdádu a Erbílu od 5 685 Kč",
-      "summary": "Rezervuj: přes náš vyhledávač nebo přímo na webu aerolinky Zavazadla: malé příruční zavazadlo (40 × 30 × 25 cm) á 8 kg Dostupnost: prosinec 2026 – březen 2027 Termíny a ceny: Bagdád (Federální Irák) 14. – 28. 1. za 6 673 Kč → Zobrazit let 2",
-      "url": "https://zaletsi.cz/akce/irak-a-iracky-kurdistan-prime-lety-z-berlina-do-bagdadu-a-erbilu/",
-      "source": "Zaleťsi.cz",
-      "date": "2026-11-12T15:14:47+00:00",
-      "dateLabel": "12. 11. 2026",
-      "price": 5685,
-      "image": "",
-      "id": "https://zaletsi.cz/akce/irak-a-iracky-kurdistan-prime-lety-z-berlina-do-bagdadu-a-erbilu/",
-      "firstSeen": "2026-11-12T22:58:46.943478+00:00",
       "priceOrig": null
     }
   ]
