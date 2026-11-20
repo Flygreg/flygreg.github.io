@@ -1,6 +1,77 @@
 {
-  "updated": "2026-11-20T13:29:27.147573+00:00",
+  "updated": "2026-11-20T15:11:55.225685+00:00",
   "offers": [
+    {
+      "title": "B&B stay at well-rated & beachfront 4* hotel in Zanzibar 🏝️ from €54/double",
+      "summary": "Plan an exotic escape to Zanzibar booking a double room at the highly rated 4* hotel with a beachfront setting for only €54/night.",
+      "url": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-zanzibar-e54-4/",
+      "source": "Fly4free.com",
+      "date": "2026-11-20T15:00:11+00:00",
+      "dateLabel": "20. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-zanzibar-e54-4/",
+      "firstSeen": "2026-11-20T15:11:55.225685+00:00",
+      "priceOrig": {
+        "amount": 54,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "Super levné letenky na severozápad USA z Prahy do Seattlu s Condorem. Letenky od 7 130 Kč",
+      "summary": "Další povedená akce od Condoru, tentokrát na severozápad USA. Zpáteční letenky z Prahy do Seattlu teď pořídíte za super ceny, nejlevněji v těchto last minute termínech:",
+      "url": "https://www.cestujlevne.com/akcni-letenky/super-levne-letenky-na-severozapad-usa-z-prahy-do-seattlu-s-condorem",
+      "source": "CestujLevne.com",
+      "date": "2026-11-20T14:03:05+00:00",
+      "dateLabel": "20. 11. 2026",
+      "price": 7130,
+      "image": "",
+      "id": "https://www.cestujlevne.com/akcni-letenky/super-levne-letenky-na-severozapad-usa-z-prahy-do-seattlu-s-condorem",
+      "firstSeen": "2026-11-20T15:11:55.225685+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Lauda: Vídeň - Catania - 950 Kč",
+      "summary": "",
+      "url": "https://www.akcniletenky.com",
+      "source": "AkčníLetenky.com",
+      "date": "2026-11-20T14:00:00+00:00",
+      "dateLabel": "20. 11. 2026",
+      "price": 950,
+      "image": "",
+      "id": "750",
+      "firstSeen": "2026-11-20T15:11:55.225685+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Cheap full-service flights from several European cities to Bali, Indonesia 🌸 from €505",
+      "summary": "Escape to paradise without breaking the bank — discover stunning Bali with round-trip China Southern Airlines flights to Denpasar starting at €505 return. Your tropical adventure awaits!",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-feurope-to-bali-e505/",
+      "source": "Fly4free.com",
+      "date": "2026-11-20T14:00:00+00:00",
+      "dateLabel": "20. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-feurope-to-bali-e505/",
+      "firstSeen": "2026-11-20T15:11:55.225685+00:00",
+      "priceOrig": {
+        "amount": 505,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "Na týden k Indickému oceánu: Keňa z Prahy ve 4* resortu s All Inclusive za 16 740 Kč",
+      "summary": "Užijte si týden v Keni za 16 740 Kč na osobu. Z Prahy do 4* AHG Lion Beach Resort & Spa ve Watamu s all inclusive a pláží na dosah.",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/na-tyden-k-indickemu-oceanu-kena-z-prahy-ve-4-resortu-s-all-inclusive-za-16-740-kc?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-11-20T13:48:24+00:00",
+      "dateLabel": "20. 11. 2026",
+      "price": 16740,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/na-tyden-k-indickemu-oceanu-kena-z-prahy-ve-4-resortu-s-all-inclusive-za-16-740-kc?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-11-20T15:11:55.225685+00:00",
+      "priceOrig": null
+    },
     {
       "title": "Good deal 😎 ✌️ Cheap full-service flights from Barcelona to Vietnam & Thailand from €453",
       "summary": "Take advantage of an incredible long-haul deal with Shenzhen Airlines and fly to Hanoi or Ho Chi Minh City from just €453 return. This full-service fare is a rare find, combining comfort, value, and convenience for travelers looking to expl",
@@ -3765,74 +3836,6 @@
       "firstSeen": "2026-11-13T17:10:14.408875+00:00",
       "priceOrig": {
         "amount": 523,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Za exotikou na Phuket! 5* hotel u pláže a přímý let z Prahy. Zájezd od 21 990 Kč",
-      "summary": "Na thajský Phuket se teď můžete vydat za super cenu s cestovní kanceláří Čedok. Čekají vás krásné pláže, thajská kuchyně a spousta možností, kam vyrazit na výlet.",
-      "url": "https://www.cestujlevne.com/akcni-letenky/za-exotikou-na-phuket-5-hotel-u-plaze-a-primy-let-z-prahy",
-      "source": "CestujLevne.com",
-      "date": "2026-11-13T15:04:15+00:00",
-      "dateLabel": "13. 11. 2026",
-      "price": 21990,
-      "image": "",
-      "id": "https://www.cestujlevne.com/akcni-letenky/za-exotikou-na-phuket-5-hotel-u-plaze-a-primy-let-z-prahy",
-      "firstSeen": "2026-11-13T17:10:14.408875+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Kanárské ostrovy: Týdenní pobyt na Tenerife s All Inclusive za 15 990 Kč",
-      "summary": "Utečte před zimou na Kanáry. Čeká vás 4* resort na Tenerife s all inclusive a odletem z Prahy za 15 990 Kč. Klikněte a zajistěte si pobyt plný slunce a pohody.",
-      "url": "https://levnocestovani.cz/akcni-zajezdy/kanarske-ostrovy-tydenni-pobyt-na-tenerife-s-all-inclusive-za-15-990-kc?utm_source=rss&utm_medium=feed",
-      "source": "Levnocestovani.cz",
-      "date": "2026-11-13T14:32:12+00:00",
-      "dateLabel": "13. 11. 2026",
-      "price": 15990,
-      "image": "",
-      "id": "https://levnocestovani.cz/akcni-zajezdy/kanarske-ostrovy-tydenni-pobyt-na-tenerife-s-all-inclusive-za-15-990-kc?utm_source=rss&utm_medium=feed",
-      "firstSeen": "2026-11-13T15:03:41.509157+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Levně z Prahy na KARNEVAL v BENÁTKÁCH - 1 486 Kč",
-      "summary": "Akční letenky do Benátek koupíme i na termín karnevalu. V rezervačním systému aerolinky Ryanair najdeme levné letenky z Prahy do Benátek Trevisa v době karnevalu. Za nejlevnější zpáteční letenky zaplatíme 1 486 Kč. Mimo karneval pořídíme le",
-      "url": "https://honzovyletenky.cz/levne-z-prahy-na-karneval-v-benatkach/",
-      "source": "Honzovy letenky",
-      "date": "2026-11-13T14:30:05+00:00",
-      "dateLabel": "13. 11. 2026",
-      "price": 1486,
-      "image": "",
-      "id": "https://honzovyletenky.cz/levne-z-prahy-na-karneval-v-benatkach/",
-      "firstSeen": "2026-11-13T15:03:41.509157+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Keňa – z Prahy do Mombasy na pobřeží Indického oceánu za 11 510 Kč",
-      "summary": "Rezervuj: přes náš vyhledávač Zavazadla: odbavené á 20 kg + příručák do 8 kg Dostupnost: listopad & prosinec 2026 Termíny a ceny: 24. 11. – 2. 12. za 11 753 Kč → Zobrazit let 27. 11. – 7. 12. za 11 510 Kč → Zobrazit let 29. 11. – 7. 12. za",
-      "url": "https://zaletsi.cz/akce/kena-z-prahy-do-mombasy-na-pobrezi-indickeho-oceanu/",
-      "source": "Zaleťsi.cz",
-      "date": "2026-11-13T14:15:59+00:00",
-      "dateLabel": "13. 11. 2026",
-      "price": 11510,
-      "image": "",
-      "id": "https://zaletsi.cz/akce/kena-z-prahy-do-mombasy-na-pobrezi-indickeho-oceanu/",
-      "firstSeen": "2026-11-14T01:21:08.467799+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "LAST MINUTE 🔥 Cheap flights from several European cities to exotic Barbados 🏝️ from €495",
-      "summary": "Condor is offering discounted flights from several European countries to Bridgetown starting at only €495 for a round trip!",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-barbados-condor/",
-      "source": "Fly4free.com",
-      "date": "2026-11-13T14:00:22+00:00",
-      "dateLabel": "13. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-barbados-condor/",
-      "firstSeen": "2026-11-13T15:03:41.509157+00:00",
-      "priceOrig": {
-        "amount": 495,
         "cur": "EUR"
       }
     }
