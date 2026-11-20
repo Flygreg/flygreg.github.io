@@ -1,6 +1,90 @@
 {
-  "updated": "2026-11-20T11:15:40.149681+00:00",
+  "updated": "2026-11-20T13:29:27.147573+00:00",
   "offers": [
+    {
+      "title": "Good deal 😎 ✌️ Cheap full-service flights from Barcelona to Vietnam & Thailand from €453",
+      "summary": "Take advantage of an incredible long-haul deal with Shenzhen Airlines and fly to Hanoi or Ho Chi Minh City from just €453 return. This full-service fare is a rare find, combining comfort, value, and convenience for travelers looking to expl",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-barcelona-to-vietnam-thailand-e453/",
+      "source": "Fly4free.com",
+      "date": "2026-11-20T13:00:42+00:00",
+      "dateLabel": "20. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-barcelona-to-vietnam-thailand-e453/",
+      "firstSeen": "2026-11-20T13:29:27.147573+00:00",
+      "priceOrig": {
+        "amount": 453,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "Slevový kód v hodnotě 2 500 Kč na First Minute zájezdy od CK Blue Style!",
+      "summary": "Blue Friday u CK Blue Style přináší slevu 2 500 Kč na First Minute dovolenou v roce 2027. Kód BLUEFRIDAY platí do 22. listopadu 2026.",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/slevovy-kod-v-hodnote-2-500-kc-na-first-minute-zajezdy-od-ck-blue-style?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-11-20T12:42:22+00:00",
+      "dateLabel": "20. 11. 2026",
+      "price": 2500,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/slevovy-kod-v-hodnote-2-500-kc-na-first-minute-zajezdy-od-ck-blue-style?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-11-20T13:29:27.147573+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "TURÍN z Prahy - 838 Kč",
+      "summary": "Levné letenky do Turína koupíme u Ryanair i Wizz Air. Na trase z Prahy do Turína letos v zimě budou létat jak Ryanair, tak Wizz Air. Obě aerolinky si pro provoz vybrali sobotu – Ryanair poletí večer, Wizz Air dopoledne. Aktuálně nejlevnější",
+      "url": "https://honzovyletenky.cz/turin-z-prahy-3/",
+      "source": "Honzovy letenky",
+      "date": "2026-11-20T12:30:07+00:00",
+      "dateLabel": "20. 11. 2026",
+      "price": 838,
+      "image": "",
+      "id": "https://honzovyletenky.cz/turin-z-prahy-3/",
+      "firstSeen": "2026-11-20T13:29:27.147573+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Valentine’s Day in Prague 🥰 Top-rated and central 5🌟 Eurostars Thalia Hotel for €61/double",
+      "summary": "If you plan to visit Prague jump at the chance to book a double room at the luxurious 5* Eurostars Thalia - located in the city centre - from only €61 per night.",
+      "url": "https://www.fly4free.com/flight-deals/europe/5-star-hotel-in-prague-e61/",
+      "source": "Fly4free.com",
+      "date": "2026-11-20T12:00:01+00:00",
+      "dateLabel": "20. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/5-star-hotel-in-prague-e61/",
+      "firstSeen": "2026-11-20T13:29:27.147573+00:00",
+      "priceOrig": {
+        "amount": 61,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "Čtyři země během jedné dovolené! TOP plavba z Barcelony až do Maroka vč. letenek z Prahy. Zájezd od 16 740 Kč",
+      "summary": "Vydejte se na plavbu, během které poznáte Španělsko, Maroko, Francii i Itálii, a to bez neustálého balení kufrů a přesouvání mezi hotely. Čedok má teď super last minute nabídku s odletem z Prahy a naloděním v Barceloně, kterou díky Black Fr",
+      "url": "https://www.cestujlevne.com/akcni-letenky/ctyri-zeme-behem-jedne-dovolene-top-plavba-z-barcelony-az-do-maroka-vc-letenek-z-prahy",
+      "source": "CestujLevne.com",
+      "date": "2026-11-20T11:56:27+00:00",
+      "dateLabel": "20. 11. 2026",
+      "price": 16740,
+      "image": "",
+      "id": "https://www.cestujlevne.com/akcni-letenky/ctyri-zeme-behem-jedne-dovolene-top-plavba-z-barcelony-az-do-maroka-vc-letenek-z-prahy",
+      "firstSeen": "2026-11-20T13:29:27.147573+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Last minute Zanzibar za 22 990 Kč – 7 nocí s All Inclusive a odletem z Prahy",
+      "summary": "4* resort, tropická zahrada, dva bazény a pláž u Indického oceánu. Vyrazte na dovolenou na exotický Zanzibar. Zbývá poslední volný pokoj – mrkněte na zájezd.",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/last-minute-zanzibar-za-22-990-kc-7-noci-s-all-inclusive-a-odletem-z-prahy?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-11-20T11:19:55+00:00",
+      "dateLabel": "20. 11. 2026",
+      "price": 22990,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/last-minute-zanzibar-za-22-990-kc-7-noci-s-all-inclusive-a-odletem-z-prahy?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-11-20T13:29:27.147573+00:00",
+      "priceOrig": null
+    },
     {
       "title": "HIGH SEASON ☀️ Full-service flights from Budapest to Laos & Cambodia from €565",
       "summary": "Discover the wonders of Southeast Asia during the high season with discounted China Southern Airlines to Vientiane and Phnom Penh from just €565 return! Explore the magnificent temples of Angkor Wat, wander through the charming streets of L",
@@ -561,13 +645,13 @@
       }
     },
     {
-      "title": "11 dní plavby po ŠPANĚLSKU a MAROKU - 22 990 Kč",
-      "summary": "Levnou plavbu Středozemním mořem i Atlantikem pořídíme u Čedoku. U Čedoku najdeme v nabídce také plavby s delegátem. V aktuální nabídce najdeme třeba 11denní plavbu z Barcelony za 22 990 Kč. Trasa vede přes Gibraltar, Casablanku, Tanger, Cá",
+      "title": "11 dní plavby po ŠPANĚLSKU a MAROKU - 17 990 Kč",
+      "summary": "Levnou plavbu Středozemním mořem i Atlantikem pořídíme u Čedoku. UPDATE 20.11. 13:10 – Cena plavby klesla na 17 990 Kč. U Čedoku najdeme v nabídce také plavby s delegátem. V aktuální nabídce najdeme třeba 11denní plavbu z Barcelony za 22 99",
       "url": "https://honzovyletenky.cz/11-dni-plavby-po-spanelsku-a-maroku/",
       "source": "Honzovy letenky",
       "date": "2026-11-19T12:09:07+00:00",
       "dateLabel": "19. 11. 2026",
-      "price": 22990,
+      "price": 17990,
       "image": "",
       "id": "https://honzovyletenky.cz/11-dni-plavby-po-spanelsku-a-maroku/",
       "firstSeen": "2026-11-19T11:15:03.900616+00:00",
@@ -3751,126 +3835,6 @@
         "amount": 495,
         "cur": "EUR"
       }
-    },
-    {
-      "title": "Karibik: z Prahy na Barbados ještě během listopadu či prosince za 12 728 Kč",
-      "summary": "Rezervuj: přímo přes náš vyhledávač Zavazadla: příruční bágl o rozměrech do 40 × 30 × 10 cm Dostupnost: listopad a prosinec 2026 Termíny a ceny: 17. – 24. 11. za 13 215 Kč → Zobrazit let 1. – 8. 12. za 13 703 Kč → Zobrazit let 8. – 15. 12.",
-      "url": "https://zaletsi.cz/akce/karibik-z-prahy-na-barbados-jeste-behem-listopadu-ci-prosince/",
-      "source": "Zaleťsi.cz",
-      "date": "2026-11-13T13:03:50+00:00",
-      "dateLabel": "13. 11. 2026",
-      "price": 12728,
-      "image": "",
-      "id": "https://zaletsi.cz/akce/karibik-z-prahy-na-barbados-jeste-behem-listopadu-ci-prosince/",
-      "firstSeen": "2026-11-14T01:21:08.467799+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Wizz Air: Praha - Catania - 952 Kč",
-      "summary": "",
-      "url": "https://www.akcniletenky.com",
-      "source": "AkčníLetenky.com",
-      "date": "2026-11-13T13:00:00+00:00",
-      "dateLabel": "13. 11. 2026",
-      "price": 952,
-      "image": "",
-      "id": "724",
-      "firstSeen": "2026-11-13T13:26:37.443302+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Dominikána za 28 990 Kč. Týden v novém 5* resortu u pláže s All Inclusive",
-      "summary": "Nový 5* resort v Punta Caně s 5 bazény, aquaparkem, lazy river a 8 restauracemi. Čedok nabízí týden s All Inclusive a přímým letem z Prahy – mrkněte na zájezd.",
-      "url": "https://levnocestovani.cz/akcni-zajezdy/dominikana-za-28-990-kc-tyden-v-novem-5-resortu-u-plaze-s-all-inclusive?utm_source=rss&utm_medium=feed",
-      "source": "Levnocestovani.cz",
-      "date": "2026-11-13T12:58:40+00:00",
-      "dateLabel": "13. 11. 2026",
-      "price": 28990,
-      "image": "",
-      "id": "https://levnocestovani.cz/akcni-zajezdy/dominikana-za-28-990-kc-tyden-v-novem-5-resortu-u-plaze-s-all-inclusive?utm_source=rss&utm_medium=feed",
-      "firstSeen": "2026-11-13T13:26:37.443302+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Pickalbatros Sea World, Marsa Alam: 5★ předvánoční restart s vyhřívanými bazény od 15 335 Kč. Od 15 335 Kč.",
-      "summary": "5★ Pickalbatros Sea World, Marsa Alam: 5denní zájezd (4 noci) s All Inclusive a vyhřívanými bazény od 15 335 Kč. Denní odlet z Prahy.",
-      "url": "https://www.obletsvet.cz/akcni-letenka/pickalbatros-sea-world-marsa-alam-13-17-12-2026",
-      "source": "Obletsvet.cz",
-      "date": "2026-11-13T12:57:32+00:00",
-      "dateLabel": "13. 11. 2026",
-      "price": 15335,
-      "image": "",
-      "id": "https://www.obletsvet.cz/akcni-letenka/pickalbatros-sea-world-marsa-alam-13-17-12-2026",
-      "firstSeen": "2026-11-13T13:26:37.443302+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "🚢🔥 Rare repositioning cruise deal! Sail from the Canary Islands to Barcelona from just €264 p.p. for 6 days",
-      "summary": "This is one of those cruises where the price immediately gets your attention: from just €264 per person for a 5-night journey aboard Costa Smeralda, starting under the Canary Islands sun and finishing in Barcelona.",
-      "url": "https://www.fly4free.com/flight-deals/europe/canary-islands-costa-smeralda-e264/",
-      "source": "Fly4free.com",
-      "date": "2026-11-13T12:30:35+00:00",
-      "dateLabel": "13. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/canary-islands-costa-smeralda-e264/",
-      "firstSeen": "2026-11-13T13:26:37.443302+00:00",
-      "priceOrig": {
-        "amount": 264,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Zimní víkend (so-ne) v Tatrách z Prahy. Letenky od 1 172 Kč",
-      "summary": "Za krásami zasněžených Tater můžete vyrazit klidně jen na víkend, a to pohodlně letadlem z Prahy. V sobotu se odlétá už v 7:35 a v Popradu přistanete v 8:40. Zpátky se letí až v neděli v 18:50.",
-      "url": "https://www.cestujlevne.com/akcni-letenky/zimni-vikend-so-ne-v-tatrach-z-prahy",
-      "source": "CestujLevne.com",
-      "date": "2026-11-13T11:46:31+00:00",
-      "dateLabel": "13. 11. 2026",
-      "price": 1172,
-      "image": "",
-      "id": "https://www.cestujlevne.com/akcni-letenky/zimni-vikend-so-ne-v-tatrach-z-prahy",
-      "firstSeen": "2026-11-13T13:26:37.443302+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Týdenní ráj na Maledivách ve 4* Gangehi Island Resort s plnou penzí za 33 490 Kč",
-      "summary": "Bílý písek, palmy a vlastní korálový útes. Vyrazte na týden do komorního 4* Gangehi Island Resort na Maledivách přímým letem z Prahy a plnou penzí za 33 490 Kč.",
-      "url": "https://levnocestovani.cz/akcni-zajezdy/tydenni-raj-na-maledivach-ve-4-gangehi-island-resort-s-plnou-penzi-za-33-490-kc?utm_source=rss&utm_medium=feed",
-      "source": "Levnocestovani.cz",
-      "date": "2026-11-13T11:38:03+00:00",
-      "dateLabel": "13. 11. 2026",
-      "price": 33490,
-      "image": "",
-      "id": "https://levnocestovani.cz/akcni-zajezdy/tydenni-raj-na-maledivach-ve-4-gangehi-island-resort-s-plnou-penzi-za-33-490-kc?utm_source=rss&utm_medium=feed",
-      "firstSeen": "2026-11-13T13:26:37.443302+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Levná KEŇA z Prahy - 10 657 Kč",
-      "summary": "Akční letenky na pobřeží Keni koupíme u Condora. V aktuální akci od Condora najdeme levné letenky z Prahy do Keni. Za zpáteční letenky zaplatíme 10 657 Kč. Po cestě tam nás čekají dva rychlý přestupy ve Frankfurtu a na Zanzibaru a po cestě",
-      "url": "https://honzovyletenky.cz/levna-kena-z-prahy/",
-      "source": "Honzovy letenky",
-      "date": "2026-11-13T11:29:05+00:00",
-      "dateLabel": "13. 11. 2026",
-      "price": 10657,
-      "image": "",
-      "id": "https://honzovyletenky.cz/levna-kena-z-prahy/",
-      "firstSeen": "2026-11-13T11:13:14.381335+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Wizz Air returns to domestic flights in Romania after eight-year break",
-      "summary": "Low-cost airline Wizz Air is resuming flights between two of Romania’s largest cities, Bucharest and Cluj-Napoca. The carrier is returning to the route after an eight-year absence, offering up to two flights a day. The first services are sc",
-      "url": "https://www.fly4free.com/flight-deals/europe/wizz-air-returns-to-domestic-flights-in-romania-after-eight-year-break/",
-      "source": "Fly4free.com",
-      "date": "2026-11-13T11:17:08+00:00",
-      "dateLabel": "13. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/wizz-air-returns-to-domestic-flights-in-romania-after-eight-year-break/",
-      "firstSeen": "2026-11-13T13:26:37.443302+00:00",
-      "priceOrig": null
     }
   ]
 }
