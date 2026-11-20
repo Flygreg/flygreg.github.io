@@ -24,7 +24,7 @@
  },
  "Carhunt": {
   "noPrice": [],
-  "firstPageHead": "Nabídka vozů - Carhunt.cz Přejít k obsahu Search Hlavní stránka Nabídka vozů Close Nabídka vozů Open Nabídka vozů Zobrazit kompletní nabídku vozů Dle vlastnosti Palivo Benzín Nafta Hybrid Elektro Převodovka Automatická Manuální Roční nájezd (km) 10 000 15 000 20 000 25 000 30 000 Dle značky Akční nabídky O nás Časté dotazy Kontakt Ceny s DPH Hlavní stránka Nabídka vozů Close Nabídka vozů Open Nabídka vozů O nás Časté dotazy Kontakt Ceny s DPH Nový název, stejný tým Hlavní stránka Nabídka vozů Nabídka vozů Značka vozidla Vyberte Audi (2) BMW (8) BYD (6) Cupra (14) Dacia (1) Fiat (2) Ford (27) H",
+  "firstPageHead": "Nabídka vozů - Carhunt.cz Přejít k obsahu Search Hlavní stránka Nabídka vozů Close Nabídka vozů Open Nabídka vozů Zobrazit kompletní nabídku vozů Dle vlastnosti Palivo Benzín Nafta Hybrid Elektro Převodovka Automatická Manuální Roční nájezd (km) 10 000 15 000 20 000 25 000 30 000 Dle značky Akční nabídky O nás Časté dotazy Kontakt Ceny s DPH Hlavní stránka Nabídka vozů Close Nabídka vozů Open Nabídka vozů O nás Časté dotazy Kontakt Ceny s DPH Nový název, stejný tým Hlavní stránka Nabídka vozů Nabídka vozů Značka vozidla Vyberte Audi (3) BMW (8) BYD (6) Cupra (14) Dacia (1) Fiat (2) Ford (27) H",
   "okSamples": [
    {
     "href": "https://carhunt.cz/auto/bmw-ix3-40-m-paket-320k-dojezd-645km/?kilometers=10000&duration=6",
@@ -46,15 +46,15 @@
   "noPrice": [
    {
     "href": "https://inlease.cz/nabidka-vozu/peugeot-2008-allure-puretech-130-20236/",
-    "segLen": 2588,
+    "segLen": 2584,
     "text": "Operativní leasing Peugeot 2008 ALLURE PureTech 130 7 990 CZK bez DPH 9 668 CZK s DPH Značka Peugeot Model 2008 Převodovka Automatická Karoserie SUV Palivo Benzín Více",
     "kcHtml": null,
     "html": "<a href=\"https://inlease.cz/nabidka-vozu/peugeot-2008-allure-puretech-130-20236/\"><span class=\"label car-condition operativni-leasing\" style=\"background:#005092\">Operativní leasing</span><img loading=\"lazy\" decoding=\"async\" class=\"img-responsive cardealer-lazy-load\" alt=\"\" width=\"1006\" height=\"755\" src=\"https://inlease.cz/wp-content/plugins//cardealer-helper-library/images/loader.gif\" data-src=\"https://inlease.cz/wp-content/uploads/2026/09/fd0739a4.avif\" /></a>\t\t\t</div>\n\t\t\t<div class=\"car-content\">\n\t\t\t\t<a href=\"https://inlease.cz/nabidka-vozu/peugeot-2008-allure-puretech-130-20236/\">Peugeot 20"
    },
    {
     "href": "https://inlease.cz/nabidka-vozu/kia-k4-10-t-gdi-85kw-6mt-spin-vybava-22188/",
-    "segLen": 2613,
-    "text": "Operativní leasing Kia K4 1.0 T-GDi 85kW 6MT SPIN výbava 438 000 CZK bez DPH 529 980 CZK s DPH Značka Kia Model K4 Převodovka Manuální Karoserie Hatchback Palivo Benzín Více",
+    "segLen": 20409,
+    "text": "Operativní leasing Kia K4 1.0 T-GDi 85kW 6MT SPIN výbava 438 000 CZK bez DPH 529 980 CZK s DPH Značka Kia Model K4 Převodovka Manuální Karoserie Hatchback Palivo Benzín Více ← Zpět 1 … 9 10 11 12 Další → Doporučené kategorie Váš vůz nestárne Jezdíte bez starostí. Vozidlo patří nám, my se staráme, vy jezdíte. Neplatíte výdaje na servis Jsou již započítané v měsíční splátce. Žádné vstupní investice Kromě pravidelné splátky a paliva nic dalšího neplatíte. Vyřízení pojistné události V případě nehody se postaráme o vše potřebné od komunikace s pojišťovnou až po vyřízení administrativy. Ano, a i havarijní pojištění je v ceně. Co vás nejvíce zajímá Co všechno je zahrnuto v leasingové splátce? Proná",
     "kcHtml": null,
     "html": "<a href=\"https://inlease.cz/nabidka-vozu/kia-k4-10-t-gdi-85kw-6mt-spin-vybava-22188/\"><span class=\"label car-condition operativni-leasing\" style=\"background:#005092\">Operativní leasing</span><img loading=\"lazy\" decoding=\"async\" class=\"img-responsive cardealer-lazy-load\" alt=\"\" width=\"1536\" height=\"1152\" src=\"https://inlease.cz/wp-content/plugins//cardealer-helper-library/images/loader.gif\" data-src=\"https://inlease.cz/wp-content/uploads/2026/09/bde833c3-1536x1152.avif\" /></a>\t\t\t</div>\n\t\t\t<div class=\"car-content\">\n\t\t\t\t<a href=\"https://inlease.cz/nabidka-vozu/kia-k4-10-t-gdi-85kw-6mt-spin-vybava"
    },
@@ -82,7 +82,7 @@
   "emptyPages": [
    {
     "page": 13,
-    "len": 285513,
+    "len": 285486,
     "text": "Operativní leasing - IN LEASE Operativní leasing Skladové vozy Roční vozy Půjčovna Služby Předváděcí vozy Fleetové centrum Financování Prodej na protiúčet Výkup auta Chytrá splátka Faq Kontakty 0 Ceny s DPH Proč zvolit operativní leasing od IN LEASE Bez počáteční investice Velký výběr vozů skladem Komplexní péče o váš vůz Výměna vozu za nový S operativním leasingem je to snadné – vy jezdíte, my se",
     "raw": "<!doctype html>\n<!--[if IE 7]>\n<html class=\"ie ie7\" lang=\"cs\">\n<![endif]-->\n<!--[if IE 8]>\n<html class=\"ie ie8\" lang=\"cs\">\n<![endif]-->\n<!--[if !(IE 7) & !(IE 8)]><!-->\n<html lang=\"cs\">\n<!--<![endif]-->\n<head>\n<meta charset=\"UTF-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1,"
    }
