@@ -5,26 +5,25 @@
       "ok": true,
       "items": 10,
       "attempts": [
-        "FlightTipsFeedReader: HTTP 200, 123379 B"
+        "FlightTipsFeedReader: HTTP 200, 125489 B"
       ],
       "error": ""
     },
     {
       "name": "Levné letenky z Prahy",
-      "ok": false,
-      "items": 0,
+      "ok": true,
+      "items": 20,
       "attempts": [
-        "FlightTipsFeedReader: URLError: <urlopen error timed out>",
-        "browser: URLError: <urlopen error timed out>"
+        "FlightTipsFeedReader: HTTP 200, 15762 B"
       ],
-      "error": "URLError: <urlopen error timed out>"
+      "error": ""
     },
     {
       "name": "AkčníLetenky.com",
       "ok": true,
       "items": 60,
       "attempts": [
-        "FlightTipsFeedReader: HTTP 200, 158936 B"
+        "FlightTipsFeedReader: HTTP 200, 159144 B"
       ],
       "error": ""
     },
@@ -33,7 +32,7 @@
       "ok": true,
       "items": 10,
       "attempts": [
-        "FlightTipsFeedReader: HTTP 200, 12915 B"
+        "FlightTipsFeedReader: HTTP 200, 12956 B"
       ],
       "error": ""
     },
@@ -51,7 +50,7 @@
       "ok": true,
       "items": 50,
       "attempts": [
-        "FlightTipsFeedReader: HTTP 200, 63779 B"
+        "FlightTipsFeedReader: HTTP 200, 63587 B"
       ],
       "error": ""
     },
@@ -69,7 +68,7 @@
       "ok": true,
       "items": 50,
       "attempts": [
-        "FlightTipsFeedReader: HTTP 200, 51319 B"
+        "FlightTipsFeedReader: HTTP 200, 51374 B"
       ],
       "error": ""
     }
