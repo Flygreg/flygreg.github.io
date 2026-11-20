@@ -1,6 +1,61 @@
 {
-  "updated": "2026-11-19T21:05:34.296659+00:00",
+  "updated": "2026-11-20T07:35:24.598988+00:00",
   "offers": [
+    {
+      "title": "Nejlevnější letenky do SEATTLU - 6 634 Kč",
+      "summary": "Akční letenky do Seattlu pořídíme u Condora. Levné letenky na severozápad USA pořídíme na last minute termín. Letenky z Prahy do Seattlu na příští prodloužený víkend pořídíme za 6 634 Kč, delší termíny pořídíme o něco dráž. Po cestě jednou",
+      "url": "https://honzovyletenky.cz/nejlevnejsi-letenky-do-seattlu/",
+      "source": "Honzovy letenky",
+      "date": "2026-11-20T08:15:09+00:00",
+      "dateLabel": "20. 11. 2026",
+      "price": 6634,
+      "image": "",
+      "id": "https://honzovyletenky.cz/nejlevnejsi-letenky-do-seattlu/",
+      "firstSeen": "2026-11-20T07:35:24.598988+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "MALLORCA na příští léto - 2 118 Kč",
+      "summary": "U Ryanair se začínají objevovat první levné letenky na letní Mallorcu. V rezervačním systému aerolinky Ryanair najdeme letenky z Pardubic na Mallorcu za fajn cenu. Za nejlevnější zpáteční letenky zaplatíme 2 118 Kč. Nejlevnější letenky poří",
+      "url": "https://honzovyletenky.cz/mallorca-na-pristi-leto-3/",
+      "source": "Honzovy letenky",
+      "date": "2026-11-20T07:56:23+00:00",
+      "dateLabel": "20. 11. 2026",
+      "price": 2118,
+      "image": "",
+      "id": "https://honzovyletenky.cz/mallorca-na-pristi-leto-3/",
+      "firstSeen": "2026-11-20T07:35:24.598988+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "PRICE DROP 💥 Cheap last-minute non-stop flights from Frankfurt to Seattle for €361",
+      "summary": "Explore the American West Coast with non-stop flights from Frankfurt starting from just €361 return. This exciting travel deal lets you fly directly to one of the most iconic cities in the United States: Seattle. Comfortable non-stop connec",
+      "url": "https://www.fly4free.com/flight-deals/europe/direct-flights-from-frankfurt-to-seattle-e361/",
+      "source": "Fly4free.com",
+      "date": "2026-11-20T07:00:34+00:00",
+      "dateLabel": "20. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/direct-flights-from-frankfurt-to-seattle-e361/",
+      "firstSeen": "2026-11-20T07:35:24.598988+00:00",
+      "priceOrig": {
+        "amount": 361,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "Lauda: Norimberk - Mallorca - 930 Kč",
+      "summary": "",
+      "url": "https://www.akcniletenky.com",
+      "source": "AkčníLetenky.com",
+      "date": "2026-11-20T07:00:00+00:00",
+      "dateLabel": "20. 11. 2026",
+      "price": 930,
+      "image": "",
+      "id": "748",
+      "firstSeen": "2026-11-20T07:35:24.598988+00:00",
+      "priceOrig": null
+    },
     {
       "title": "Pure heaven 🌴️️️️️️Top-rated 4* hotel on Koh Samui, Thailand for €75/double with breakfast in high season",
       "summary": "If you want Koh Samui without staying right in the middle of its busiest resort areas, this is a particularly beautiful option. Set on a lush coastal hillside between Chaweng and Lamai, the resort combines tropical gardens, sweeping Gulf of",
@@ -3790,48 +3845,6 @@
         "amount": 565,
         "cur": "EUR"
       }
-    },
-    {
-      "title": "Etihad Airways flights from many European cities to Chiang Mai, Thailand from €513",
-      "summary": "Dreaming of an unforgettable trip to Thailand? Fly Etihad Airways to Chiang Mai starting at only €513 round trip. Enjoy Etihad’s award-winning service, comfortable cabins, and smooth connections via Abu Dhabi.",
-      "url": "https://www.fly4free.com/flight-deals/europe/etihad-airways-flights-from-europe-to-chiang-mai-e513/",
-      "source": "Fly4free.com",
-      "date": "2026-11-13T07:00:30+00:00",
-      "dateLabel": "13. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/etihad-airways-flights-from-europe-to-chiang-mai-e513/",
-      "firstSeen": "2026-11-13T07:33:55.912909+00:00",
-      "priceOrig": {
-        "amount": 513,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Buzz: Praha - Řím - 900 Kč",
-      "summary": "",
-      "url": "https://www.akcniletenky.com",
-      "source": "AkčníLetenky.com",
-      "date": "2026-11-13T07:00:00+00:00",
-      "dateLabel": "13. 11. 2026",
-      "price": 900,
-      "image": "",
-      "id": "722",
-      "firstSeen": "2026-11-13T07:33:55.912909+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Zimní Gdaňsk od soboty do pondělí z Prahy. Letenky od 978 Kč",
-      "summary": "Na prodloužený víkend do polského Gdaňsku za necelou tisícovku. Ryanair teď nabízí zpáteční letenky z Prahy za 978 Kč, nejlevněji v termínu 23.–25.1. Časy letů jsou navíc super – v sobotu odlétáte brzy ráno a zpátky se vracíte až v pondělí",
-      "url": "https://www.cestujlevne.com/akcni-letenky/zimni-gdansk-od-soboty-do-pondeli-z-prahy",
-      "source": "CestujLevne.com",
-      "date": "2026-11-13T06:34:10+00:00",
-      "dateLabel": "13. 11. 2026",
-      "price": 978,
-      "image": "",
-      "id": "https://www.cestujlevne.com/akcni-letenky/zimni-gdansk-od-soboty-do-pondeli-z-prahy",
-      "firstSeen": "2026-11-13T07:33:55.912909+00:00",
-      "priceOrig": null
     }
   ]
 }
