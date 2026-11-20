@@ -1,6 +1,51 @@
 {
-  "updated": "2026-11-20T15:11:55.225685+00:00",
+  "updated": "2026-11-20T17:13:41.008460+00:00",
   "offers": [
+    {
+      "title": "Modern and stylish 4🌟 Hotel MOA Berlin for €52/double",
+      "summary": "Looking for an affordable city break in Berlin without compromising on comfort? The well-rated 4-star Hotel MOA Berlin is an excellent option, with this deal offering stays from just €52 per night for a double room.",
+      "url": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-berlin-e52/",
+      "source": "Fly4free.com",
+      "date": "2026-11-20T17:00:34+00:00",
+      "dateLabel": "20. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-berlin-e52/",
+      "firstSeen": "2026-11-20T17:13:41.008460+00:00",
+      "priceOrig": {
+        "amount": 52,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "Cheap full-service flights from Milan & Madrid to major Thailand’s cities from €422",
+      "summary": "Dreaming of an unforgettable trip to Thailand? Fly China Eastern Airlines to Chiang Mai, Phuket, and bangkok starting at only €422 round trip.",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-milan-madrid-to-thailand-e422/",
+      "source": "Fly4free.com",
+      "date": "2026-11-20T16:00:42+00:00",
+      "dateLabel": "20. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-milan-madrid-to-thailand-e422/",
+      "firstSeen": "2026-11-20T17:13:41.008460+00:00",
+      "priceOrig": {
+        "amount": 422,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "Na Kapverdy za 20 990 Kč: Týden s All Inclusive ve 4* hotelu kousek od pláže, odlet z Prahy",
+      "summary": "Dopřejte si týden na Kapverdách za 20 990 Kč na osobu. Z Prahy do 4* Halos Casa Resort na ostrově Sal s all inclusive a písečnou pláží kousek od hotelu.",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/na-kapverdy-za-20-990-kc-tyden-s-all-inclusive-ve-4-hotelu-kousek-od-plaze-odlet-z-prahy?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-11-20T15:22:58+00:00",
+      "dateLabel": "20. 11. 2026",
+      "price": 20990,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/na-kapverdy-za-20-990-kc-tyden-s-all-inclusive-ve-4-hotelu-kousek-od-plaze-odlet-z-prahy?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-11-20T17:13:41.008460+00:00",
+      "priceOrig": null
+    },
     {
       "title": "B&B stay at well-rated & beachfront 4* hotel in Zanzibar 🏝️ from €54/double",
       "summary": "Plan an exotic escape to Zanzibar booking a double room at the highly rated 4* hotel with a beachfront setting for only €54/night.",
@@ -16,6 +61,19 @@
         "amount": 54,
         "cur": "EUR"
       }
+    },
+    {
+      "title": "Madeira na konci listopadu s polopenzí. Od 8 740 Kč.",
+      "summary": "Madeira na konci listopadu s polopenzí za 8 740 Kč.",
+      "url": "https://www.obletsvet.cz/akcni-letenka/madeira-na-konci-listopadu-s-polopenzi",
+      "source": "Obletsvet.cz",
+      "date": "2026-11-20T14:49:37+00:00",
+      "dateLabel": "20. 11. 2026",
+      "price": 8740,
+      "image": "",
+      "id": "https://www.obletsvet.cz/akcni-letenka/madeira-na-konci-listopadu-s-polopenzi",
+      "firstSeen": "2026-11-20T17:13:41.008460+00:00",
+      "priceOrig": null
     },
     {
       "title": "Super levné letenky na severozápad USA z Prahy do Seattlu s Condorem. Letenky od 7 130 Kč",
@@ -3767,77 +3825,6 @@
       "id": "https://levnocestovani.cz/akcni-zajezdy/madeira-letecky-z-prahy-tyden-ve-4-hotelu-jardins-dajuda-se-snidani-za-9-490-kc?utm_source=rss&utm_medium=feed",
       "firstSeen": "2026-11-13T19:12:18.907909+00:00",
       "priceOrig": null
-    },
-    {
-      "title": "🔥 ASIA FOR LESS! Full-service flights from Athens to Japan & South Korea from just €391 return",
-      "summary": "This is a seriously good fare for a long-haul Asia trip. ✈️ Full-service return flights from Athens to Japan and South Korea start from only €391, making it a great excuse to finally plan that Asian adventure — or build a longer multi-city",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-athens-to-japan-south-korea-e391/",
-      "source": "Fly4free.com",
-      "date": "2026-11-13T17:00:16+00:00",
-      "dateLabel": "13. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-athens-to-japan-south-korea-e391/",
-      "firstSeen": "2026-11-13T17:10:14.408875+00:00",
-      "priceOrig": {
-        "amount": 391,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Pegasus Airlines: Praha - Karáčí - 4 990 Kč",
-      "summary": "",
-      "url": "https://www.akcniletenky.com",
-      "source": "AkčníLetenky.com",
-      "date": "2026-11-13T17:00:00+00:00",
-      "dateLabel": "13. 11. 2026",
-      "price": 4990,
-      "image": "",
-      "id": "725",
-      "firstSeen": "2026-11-13T19:12:18.907909+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Dovolená na tropickém ostrově v Thajsku: 7 nocí v 5* resortu za 25 990 Kč",
-      "summary": "Vlastní vířivka na terase, tropická zahrada a Phuket jen pár minut lodí! Užijte si týden v 5* resortu s polopenzí a přímým letem z Prahy za 25 990 Kč.",
-      "url": "https://levnocestovani.cz/akcni-zajezdy/dovolena-na-tropickem-ostrove-v-thajsku-7-noci-v-5-resortu-za-25-990-kc?utm_source=rss&utm_medium=feed",
-      "source": "Levnocestovani.cz",
-      "date": "2026-11-13T16:19:58+00:00",
-      "dateLabel": "13. 11. 2026",
-      "price": 25990,
-      "image": "",
-      "id": "https://levnocestovani.cz/akcni-zajezdy/dovolena-na-tropickem-ostrove-v-thajsku-7-noci-v-5-resortu-za-25-990-kc?utm_source=rss&utm_medium=feed",
-      "firstSeen": "2026-11-13T17:10:14.408875+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Barbados z Prahy vč. odbaveného zavazadla v listopadu i prosinci. Letenky od 13 328 Kč",
-      "summary": "Aerolinka Condor nabízí akční zpáteční letenky z Prahy na Barbados za 13 328 Kč, a to včetně odbaveného zavazadla do 20 kg.",
-      "url": "https://www.cestujlevne.com/akcni-letenky/barbados-z-prahy-vc-odbaveneho-zavazadla-v-listopadu-i-prosinci",
-      "source": "CestujLevne.com",
-      "date": "2026-11-13T16:01:59+00:00",
-      "dateLabel": "13. 11. 2026",
-      "price": 13328,
-      "image": "",
-      "id": "https://www.cestujlevne.com/akcni-letenky/barbados-z-prahy-vc-odbaveneho-zavazadla-v-listopadu-i-prosinci",
-      "firstSeen": "2026-11-13T17:10:14.408875+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "🎌 Tokyo from €523 return! SAS flights from Stockholm to Japan",
-      "summary": "With SAS flights from Stockholm to Tokyo from €523 return, you can build anything from a focused Tokyo city break to a much bigger Japan itinerary. And because the country is so easy to move around by train, one ticket can turn into a trip",
-      "url": "https://www.fly4free.com/flight-deals/europe/sas-flights-from-sweden-to-japan/",
-      "source": "Fly4free.com",
-      "date": "2026-11-13T15:30:57+00:00",
-      "dateLabel": "13. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/sas-flights-from-sweden-to-japan/",
-      "firstSeen": "2026-11-13T17:10:14.408875+00:00",
-      "priceOrig": {
-        "amount": 523,
-        "cur": "EUR"
-      }
     }
   ]
 }
