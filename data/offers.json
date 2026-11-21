@@ -1,6 +1,35 @@
 {
-  "updated": "2026-11-21T19:03:47.677742+00:00",
+  "updated": "2026-11-21T20:55:58.549046+00:00",
   "offers": [
+    {
+      "title": "7 nocí na Madeiře s All Inclusive a písečnou pláží hned u hotelu za 14 740 Kč",
+      "summary": "4* resort u písečné pláže, bazény s výhledem na Atlantik i nádherná příroda. Objevte Madeiru s Čedokem a ubytujte se v Savoy Calheta Beach. Mrkněte na zájezd.",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/7-noci-na-madeire-s-all-inclusive-a-pisecnou-plazi-hned-u-hotelu-za-14-740-kc?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-11-21T20:51:40+00:00",
+      "dateLabel": "21. 11. 2026",
+      "price": 14740,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/7-noci-na-madeire-s-all-inclusive-a-pisecnou-plazi-hned-u-hotelu-za-14-740-kc?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-11-21T20:55:58.549046+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "BEST SEASON 🌴 🥥 Cheap non-stop flights from Manchester & London to Bangkok, Thailand from £416",
+      "summary": "Explore the vibrant streets of Bangkok, indulge in delicious street food, and soak up the sun on Phuket’s stunning beaches — all without breaking the bank. Don’t miss out these discounted Norse flights — Thailand is calling!",
+      "url": "https://www.fly4free.com/flight-deals/europe/direct-flights-from-the-uk-to-bangkok-p416/",
+      "source": "Fly4free.com",
+      "date": "2026-11-21T20:00:49+00:00",
+      "dateLabel": "21. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/direct-flights-from-the-uk-to-bangkok-p416/",
+      "firstSeen": "2026-11-21T20:55:58.549046+00:00",
+      "priceOrig": {
+        "amount": 416,
+        "cur": "GBP"
+      }
+    },
     {
       "title": "Fantastic fares to Malaysia! 😎 🌴 Cheap last-minute full-service direct flights from Warsaw to Penang for €476",
       "summary": "Fancy swapping European autumn for street-food nights, tropical heat and one of Southeast Asia’s most atmospheric islands? LOT is offering direct return flights from Warsaw to Penang from just €476 — a rare chance to reach this Malaysian is",
@@ -3802,48 +3831,6 @@
         "amount": 468,
         "cur": "GBP"
       }
-    },
-    {
-      "title": "Keňa na týden za 22 490 Kč – 4* plážový resort, All Inclusive a možnost safari",
-      "summary": "Korálové útesy Watamu, bílé pláže a možnost safari v Tsavo: Čedok nabízí týden v Keni ve 4* resortu s All Inclusive za 22 490 Kč. Prohlédněte si zájezd.",
-      "url": "https://levnocestovani.cz/akcni-zajezdy/kena-na-tyden-za-22-490-kc-4-plazovy-resort-all-inclusive-a-moznost-safari?utm_source=rss&utm_medium=feed",
-      "source": "Levnocestovani.cz",
-      "date": "2026-11-14T20:16:04+00:00",
-      "dateLabel": "14. 11. 2026",
-      "price": 22490,
-      "image": "",
-      "id": "https://levnocestovani.cz/akcni-zajezdy/kena-na-tyden-za-22-490-kc-4-plazovy-resort-all-inclusive-a-moznost-safari?utm_source=rss&utm_medium=feed",
-      "firstSeen": "2026-11-14T20:53:36.380578+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Singapore Airlines direct flights from Frankfurt to New York 🗽 for €486",
-      "summary": "Looking for a great deal on flights to the Big Apple? Take advantage of this limited-time offer from Singapore Airlines, one of the world’s top-rated carriers. Fly non-stop to New York (JFK) for €486 round-trip! Comfort, convenience, and wo",
-      "url": "https://www.fly4free.com/flight-deals/europe/singapore-airlines-flights-from-frankfurt-to-new-york-e486/",
-      "source": "Fly4free.com",
-      "date": "2026-11-14T20:00:07+00:00",
-      "dateLabel": "14. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/singapore-airlines-flights-from-frankfurt-to-new-york-e486/",
-      "firstSeen": "2026-11-14T20:53:36.380578+00:00",
-      "priceOrig": {
-        "amount": 486,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Akční letenky do IRÁKU - 3 740 Kč",
-      "summary": "Levné letenky do netradiční destinace pořídíme u Pegasus. V nabídce aerolinky Pegasus najdeme levné letenky z Bratislavy do Iráku. Za letenky do Bagdádu a Erbílu zaplatíme 149 EUR, tedy asi 3 740 Kč, do Sulejmánie o 2 EUR dráž. Po cestě mám",
-      "url": "https://honzovyletenky.cz/akcni-letenky-do-iraku/",
-      "source": "Honzovy letenky",
-      "date": "2026-11-14T19:12:08+00:00",
-      "dateLabel": "14. 11. 2026",
-      "price": 3740,
-      "image": "",
-      "id": "https://honzovyletenky.cz/akcni-letenky-do-iraku/",
-      "firstSeen": "2026-11-14T18:59:48.020728+00:00",
-      "priceOrig": null
     }
   ]
 }
