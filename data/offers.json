@@ -1,6 +1,61 @@
 {
-  "updated": "2026-11-21T07:28:16.645524+00:00",
+  "updated": "2026-11-21T09:00:39.319551+00:00",
   "offers": [
+    {
+      "title": "KATÁNIE za tisícovku - 1 078 Kč",
+      "summary": "Levné letenky na Sicílii pořídíme u Ryanair. Zpáteční letenky z Prahy do Katánie pořídíme už za 1 078 Kč. Nejvýhodnější letenky jsou dostupné na termíny v lednu 2027 a to třeba jen na noc nebo týdenná pobyt. V ceně základního tarifu od aeor",
+      "url": "https://honzovyletenky.cz/katanie-za-tisicovku-4/",
+      "source": "Honzovy letenky",
+      "date": "2026-11-21T09:43:28+00:00",
+      "dateLabel": "21. 11. 2026",
+      "price": 1078,
+      "image": "",
+      "id": "https://honzovyletenky.cz/katanie-za-tisicovku-4/",
+      "firstSeen": "2026-11-21T09:00:39.319551+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Akční letenky: Turin, Itálie za 990 Kč",
+      "summary": "Turínská čokoláda – ta věc, o které turisté mluví, ale málokdo ji bere jako skutečný důvod cesty – je tu doslova všude. Turín je historicky jedno z největších center výroby čokolády v Evropě a místní specialita gianduiotto, malá pralinková",
+      "url": "https://www.levneletenkyzprahy.cz/2765_akcni-letenky:-turin,-italie-za-990-kc",
+      "source": "Levné letenky z Prahy",
+      "date": "2026-11-21T08:55:16+00:00",
+      "dateLabel": "21. 11. 2026",
+      "price": 990,
+      "image": "",
+      "id": "https://www.levneletenkyzprahy.cz/2765_akcni-letenky:-turin,-italie-za-990-kc",
+      "firstSeen": "2026-11-21T09:00:39.319551+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Z Prahy na ostrov věčného jara: Madeira na týden za 7 340 Kč",
+      "summary": "Objevte Madeiru z Prahy za 7 340 Kč na osobu se slevovým kódem. Užijte si týden ve 4* hotelu Jardins d’Ajuda ve Funchalu se snídaní a bazény.",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/z-prahy-na-ostrov-vecneho-jara-madeira-na-tyden-za-7-340-kc?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-11-21T08:11:08+00:00",
+      "dateLabel": "21. 11. 2026",
+      "price": 7340,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/z-prahy-na-ostrov-vecneho-jara-madeira-na-tyden-za-7-340-kc?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-11-21T09:00:39.319551+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Vietnam last minute 😎 ✌️ Cheap full-service flights from Amsterdam to Hanoi or Ho Chi Minh from €488",
+      "summary": "Ready for your Vietnam adventure? China Eastern Airlines are offering discounted full-service flights to Ho Chi Minh and Hanoi starting at just €488 for a round trip!",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-vietnam-e488/",
+      "source": "Fly4free.com",
+      "date": "2026-11-21T08:00:39+00:00",
+      "dateLabel": "21. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-vietnam-e488/",
+      "firstSeen": "2026-11-21T09:00:39.319551+00:00",
+      "priceOrig": {
+        "amount": 488,
+        "cur": "EUR"
+      }
+    },
     {
       "title": "Pegasus Airlines: Bratislava - Dauhá - 3 790 Kč",
       "summary": "",
@@ -3864,64 +3919,6 @@
       "id": "https://www.obletsvet.cz/akcni-letenka/gran-canaria-na-tyden-s-all-inclusive-prosinec",
       "firstSeen": "2026-11-14T10:56:19.472999+00:00",
       "priceOrig": null
-    },
-    {
-      "title": "🏝️ CARIBBEAN DEAL! Direct flights from Amsterdam to Bonaire for €380",
-      "summary": "Swap grey Dutch weather for turquoise water, coral reefs and slow Caribbean days! TUI and Corendon are offering direct flights from Amsterdam to Bonaire from just €380 return, making this one of the easiest ways to reach a quieter side of t",
-      "url": "https://www.fly4free.com/flight-deals/europe/direct-flights-from-amsterdam-to-bonaire-e380/",
-      "source": "Fly4free.com",
-      "date": "2026-11-14T09:00:08+00:00",
-      "dateLabel": "14. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/direct-flights-from-amsterdam-to-bonaire-e380/",
-      "firstSeen": "2026-11-14T09:01:41.579883+00:00",
-      "priceOrig": {
-        "amount": 380,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Ryanair: Praha - Budapešť - 876 Kč",
-      "summary": "",
-      "url": "https://www.akcniletenky.com",
-      "source": "AkčníLetenky.com",
-      "date": "2026-11-14T09:00:00+00:00",
-      "dateLabel": "14. 11. 2026",
-      "price": 876,
-      "image": "",
-      "id": "727",
-      "firstSeen": "2026-11-14T10:56:19.472999+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Egypt za 12 790 Kč – týden u Rudého moře s All Inclusive, odlet z Prahy",
-      "summary": "Odleťte z Prahy s Čedokem do dobře hodnoceného 4* resortu u Rudého moře. Čeká vás týden bezstarostného odpočinku s All Inclusive za 12 790 Kč. Rezervujte!",
-      "url": "https://levnocestovani.cz/akcni-zajezdy/egypt-za-12-790-kc-tyden-u-rudeho-more-s-all-inclusive-odlet-z-prahy?utm_source=rss&utm_medium=feed",
-      "source": "Levnocestovani.cz",
-      "date": "2026-11-14T08:40:15+00:00",
-      "dateLabel": "14. 11. 2026",
-      "price": 12790,
-      "image": "",
-      "id": "https://levnocestovani.cz/akcni-zajezdy/egypt-za-12-790-kc-tyden-u-rudeho-more-s-all-inclusive-odlet-z-prahy?utm_source=rss&utm_medium=feed",
-      "firstSeen": "2026-11-14T09:01:41.579883+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Last-minute full-service direct flights from Warsaw to the Dominican Republic 🏝️ for €593",
-      "summary": "Ready for sun-soaked beaches and Caribbean vibes? LOT is offering discounted flights to Puerto Plata from just €593 for a round trip.",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-warsaw-to-the-dominican-republic-e593/",
-      "source": "Fly4free.com",
-      "date": "2026-11-14T08:00:48+00:00",
-      "dateLabel": "14. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-warsaw-to-the-dominican-republic-e593/",
-      "firstSeen": "2026-11-14T09:01:41.579883+00:00",
-      "priceOrig": {
-        "amount": 593,
-        "cur": "EUR"
-      }
     }
   ]
 }
