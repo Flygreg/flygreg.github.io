@@ -1,6 +1,80 @@
 {
-  "updated": "2026-11-21T16:59:51.947469+00:00",
+  "updated": "2026-11-21T19:03:47.677742+00:00",
   "offers": [
+    {
+      "title": "Fantastic fares to Malaysia! 😎 🌴 Cheap last-minute full-service direct flights from Warsaw to Penang for €476",
+      "summary": "Fancy swapping European autumn for street-food nights, tropical heat and one of Southeast Asia’s most atmospheric islands? LOT is offering direct return flights from Warsaw to Penang from just €476 — a rare chance to reach this Malaysian is",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-warsaw-to-penang-e476/",
+      "source": "Fly4free.com",
+      "date": "2026-11-21T19:00:50+00:00",
+      "dateLabel": "21. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-warsaw-to-penang-e476/",
+      "firstSeen": "2026-11-21T19:03:47.677742+00:00",
+      "priceOrig": {
+        "amount": 476,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "Holiday in Baja California, Mexico from €770 p.p. ☀️ 🌊 Cheap flights from Prague & Vienna + 7-night B&B stay at well-rated hotel",
+      "summary": "Winter escape to Baja California! Book discounted Condor flights to San Jose del Cabo and stay 7 nights at the well-rated hotel starting at €770 per person (based on 2 people sharing).",
+      "url": "https://www.fly4free.com/flight-deals/europe/holiday-in-baja-california-from-prague-vienna-e770/",
+      "source": "Fly4free.com",
+      "date": "2026-11-21T18:00:49+00:00",
+      "dateLabel": "21. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/holiday-in-baja-california-from-prague-vienna-e770/",
+      "firstSeen": "2026-11-21T19:03:47.677742+00:00",
+      "priceOrig": {
+        "amount": 770,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "A Czech Ryanair? Smartwings plans more scheduled flights under Pegasus ownership",
+      "summary": "Czech airline Smartwings is preparing for changes following its acquisition by Turkish low-cost carrier Pegasus Airlines. The new owner plans to expand the airline's scheduled flight network, improve air connectivity with Prague and offer p",
+      "url": "https://www.fly4free.com/flight-deals/europe/a-czech-ryanair-smartwings-plans-more-scheduled-flights-under-pegasus-ownership/",
+      "source": "Fly4free.com",
+      "date": "2026-11-21T17:41:30+00:00",
+      "dateLabel": "21. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/a-czech-ryanair-smartwings-plans-more-scheduled-flights-under-pegasus-ownership/",
+      "firstSeen": "2026-11-21T19:03:47.677742+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Týden na Boa Vistě za 21 990 Kč: Kapverdy v 5* plážovém resortu s All Inclusive",
+      "summary": "Kilometry písečných pláží, nádherné duny a odpočinek u Atlantiku. Užijte si prosinec na Boa Vistě s EXIM tours či Fischerem. Odlet z Prahy – mrkněte na zájezd.",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/tyden-na-boa-viste-za-21-990-kc-kapverdy-v-5-plazovem-resortu-s-all-inclusive?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-11-21T17:09:37+00:00",
+      "dateLabel": "21. 11. 2026",
+      "price": 21990,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/tyden-na-boa-viste-za-21-990-kc-kapverdy-v-5-plazovem-resortu-s-all-inclusive?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-11-21T19:03:47.677742+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "B&B stay at highly rated 4* Park Hotel Chianti in Tuscany 🍷 ffrom €58/double",
+      "summary": "Are you planning to spend a few days in Tuscany? We've got the perfect deal for you! Book a double room at the 4* hotel for only €58 per night.",
+      "url": "https://www.fly4free.com/flight-deals/europe/4-star-resort-in-the-tuscany-e58-5/",
+      "source": "Fly4free.com",
+      "date": "2026-11-21T17:00:43+00:00",
+      "dateLabel": "21. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/4-star-resort-in-the-tuscany-e58-5/",
+      "firstSeen": "2026-11-21T19:03:47.677742+00:00",
+      "priceOrig": {
+        "amount": 58,
+        "cur": "EUR"
+      }
+    },
     {
       "title": "Adventure time in Africa 🦓 Full-service flights from Vienna to Kenya for €459",
       "summary": "Ready for your next great adventure? Fly to Nairobi with Saudia starting at just €459 return! Discover the heart of East Africa — from breathtaking safaris in the Maasai Mara to white-sand beaches along the Indian Ocean.",
@@ -3770,80 +3844,6 @@
       "id": "https://honzovyletenky.cz/akcni-letenky-do-iraku/",
       "firstSeen": "2026-11-14T18:59:48.020728+00:00",
       "priceOrig": null
-    },
-    {
-      "title": "Cheap full-service flights from Amsterdam to Bali, Indonesia 🌸 from €512",
-      "summary": "Dreaming of a tropical escape? This excellent deal with China Eastern Airlines ets you fly to Denpasar from €512 return — an unbeatable price for such a long-haul adventure!",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-bali-e512/",
-      "source": "Fly4free.com",
-      "date": "2026-11-14T19:00:04+00:00",
-      "dateLabel": "14. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-bali-e512/",
-      "firstSeen": "2026-11-14T20:53:36.380578+00:00",
-      "priceOrig": {
-        "amount": 512,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Záletník 242: Do Prahy míří Polaris Airlines, AnimaWings v insolvenci",
-      "summary": "Do světa vylétá další díl našeho magazínu Záletník – na křídlech nese pořadové číslo 242. A na jaká témata si dnes posvítíme? Rumunské AnimaWings jsou v insolvenci a zastavily mj. lety do České republiky. Na pražské letiště míří nová linka",
-      "url": "https://zaletsi.cz/magazin/zaletnik-242/",
-      "source": "Zaleťsi.cz",
-      "date": "2026-11-14T18:44:54+00:00",
-      "dateLabel": "14. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://zaletsi.cz/magazin/zaletnik-242/",
-      "firstSeen": "2026-11-16T15:23:22.679445+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "7 nocí na Madeiře ve 4* Savoy Calheta Beach s All Inclusive za 14 690 Kč",
-      "summary": "Písečná pláž, výhledy na Atlantik a výlety do zelených hor – Čedok nabízí 7 nocí na Madeiře s All Inclusive ve 4* resortu s vynikajícím hodnocením.",
-      "url": "https://levnocestovani.cz/akcni-zajezdy/7-noci-na-madeire-ve-4-savoy-calheta-beach-s-all-inclusive-za-14-690-kc?utm_source=rss&utm_medium=feed",
-      "source": "Levnocestovani.cz",
-      "date": "2026-11-14T18:34:09+00:00",
-      "dateLabel": "14. 11. 2026",
-      "price": 14690,
-      "image": "",
-      "id": "https://levnocestovani.cz/akcni-zajezdy/7-noci-na-madeire-ve-4-savoy-calheta-beach-s-all-inclusive-za-14-690-kc?utm_source=rss&utm_medium=feed",
-      "firstSeen": "2026-11-14T18:59:48.020728+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Full-service flights from London & Stockholm to New Zealand from €621",
-      "summary": "Looking for an unforgettable long-haul getaway? Take advantage of this amazing deal: fly to Auckland with China Eastern Airlines for just €621 roundtrip! Full-service means your fare includes meals, drinks, checked baggage, and in-flight en",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-london-stockholm-to-new-zealand-e621/",
-      "source": "Fly4free.com",
-      "date": "2026-11-14T18:00:07+00:00",
-      "dateLabel": "14. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-london-stockholm-to-new-zealand-e621/",
-      "firstSeen": "2026-11-14T18:59:48.020728+00:00",
-      "priceOrig": {
-        "amount": 621,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Beachfront 4* hotel & spa on the Portuguese island of Porto Santo (Madeira archipelago) 🌴 🌊 for €62/double",
-      "summary": "Hotel bargain in the Madeira archipelago! Book a double room at 4* aparthotel & spa with a beachfront setting and swimming pools for only €31/night per person.",
-      "url": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-porto-santo-e62/",
-      "source": "Fly4free.com",
-      "date": "2026-11-14T17:00:03+00:00",
-      "dateLabel": "14. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-porto-santo-e62/",
-      "firstSeen": "2026-11-14T18:59:48.020728+00:00",
-      "priceOrig": {
-        "amount": 62,
-        "cur": "EUR"
-      }
     }
   ]
 }
