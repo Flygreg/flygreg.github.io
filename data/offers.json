@@ -1,6 +1,35 @@
 {
-  "updated": "2026-11-21T09:00:39.319551+00:00",
+  "updated": "2026-11-21T11:00:27.585556+00:00",
   "offers": [
+    {
+      "title": "Týden na keňském pobřeží: Blue Bay Village s All Inclusive za 16 740 Kč",
+      "summary": "Vyrazte z Prahy do Keni za 16 740 Kč na osobu se slevovým kódem. Týden ve 4* Blue Bay Village ve Watamu přímo u pláže se stravováním all inclusive soft.",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/tyden-na-kenskem-pobrezi-blue-bay-village-s-all-inclusive-za-16-740-kc?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-11-21T10:23:58+00:00",
+      "dateLabel": "21. 11. 2026",
+      "price": 16740,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/tyden-na-kenskem-pobrezi-blue-bay-village-s-all-inclusive-za-16-740-kc?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-11-21T11:00:27.585556+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "PEAK SEASON 🌴 Cheap full-service flights from Brussels to Phuket & Bangkok, Thailand from €489",
+      "summary": "Escape to the tropical wonders of Thailand with these discounted Hainan Airlines flights from Belgium from €489 for a round trip!",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-brussels-to-thailand-e489/",
+      "source": "Fly4free.com",
+      "date": "2026-11-21T10:00:19+00:00",
+      "dateLabel": "21. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-brussels-to-thailand-e489/",
+      "firstSeen": "2026-11-21T11:00:27.585556+00:00",
+      "priceOrig": {
+        "amount": 489,
+        "cur": "EUR"
+      }
+    },
     {
       "title": "KATÁNIE za tisícovku - 1 078 Kč",
       "summary": "Levné letenky na Sicílii pořídíme u Ryanair. Zpáteční letenky z Prahy do Katánie pořídíme už za 1 078 Kč. Nejvýhodnější letenky jsou dostupné na termíny v lednu 2027 a to třeba jen na noc nebo týdenná pobyt. V ceně základního tarifu od aeor",
@@ -13,6 +42,22 @@
       "id": "https://honzovyletenky.cz/katanie-za-tisicovku-4/",
       "firstSeen": "2026-11-21T09:00:39.319551+00:00",
       "priceOrig": null
+    },
+    {
+      "title": "HIGH SEASON ☀️ Non-stop British Airways A380 flights from London to Singapore for £575",
+      "summary": "British Airways are offering discounted fares for non-stop flights from London, UK to Singapore! Tickets are available from for £575 for a round trip.",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-singapore-p575/",
+      "source": "Fly4free.com",
+      "date": "2026-11-21T09:00:55+00:00",
+      "dateLabel": "21. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-singapore-p575/",
+      "firstSeen": "2026-11-21T11:00:27.585556+00:00",
+      "priceOrig": {
+        "amount": 575,
+        "cur": "GBP"
+      }
     },
     {
       "title": "Akční letenky: Turin, Itálie za 990 Kč",
@@ -3846,77 +3891,6 @@
       "price": 1280,
       "image": "",
       "id": "https://honzovyletenky.cz/bari-za-super-cenu-2/",
-      "firstSeen": "2026-11-14T10:56:19.472999+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Cheap full-service flights from many European cities to the Philippines 🏝️ from €491",
-      "summary": "A tropical holiday in the Philippines doesn’t have to cost a fortune! Oman Air is offering discounted return flights to Manila starting at €491, offering an excellent opportunity to visit one of Asia’s most beautiful destinations for less.",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-the-philippines-e491/",
-      "source": "Fly4free.com",
-      "date": "2026-11-14T11:00:17+00:00",
-      "dateLabel": "14. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-the-philippines-e491/",
-      "firstSeen": "2026-11-14T13:09:33.214700+00:00",
-      "priceOrig": {
-        "amount": 491,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Levné letenky do Rigy, Lotyšsko – 1490 Kč z Prahy",
-      "summary": "Riga je jedno z těch měst, která si vás podmaní dřív, než si stihnete udělat plán. Lotyšské hlavní město je proslulé secesní architekturou – hustší koncentraci těchto fasád na jednom místě v Evropě hledáte marně – a historické centrum tu ne",
-      "url": "https://www.levneletenkyzprahy.cz/2758_levne-letenky-do-rigy,-lotyssko-–-1490-kc-z-prahy",
-      "source": "Levné letenky z Prahy",
-      "date": "2026-11-14T10:59:19+00:00",
-      "dateLabel": "14. 11. 2026",
-      "price": 1490,
-      "image": "",
-      "id": "https://www.levneletenkyzprahy.cz/2758_levne-letenky-do-rigy,-lotyssko-–-1490-kc-z-prahy",
-      "firstSeen": "2026-11-14T10:56:19.472999+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "8 dní na Maledivách v 5* resortu s All Inclusive a přímým letem z Prahy za 35 990 Kč",
-      "summary": "Dopřejte si 8 dní odpočinku na Maledivách v oblíbeném 5* resortu Makunudu Island. All inclusive, přímý let z Prahy a cena od 35 990 Kč. Rezervujte u Čedoku!",
-      "url": "https://levnocestovani.cz/akcni-zajezdy/8-dni-na-maledivach-v-5-resortu-s-all-inclusive-a-primym-letem-z-prahy-za-35-990-kc?utm_source=rss&utm_medium=feed",
-      "source": "Levnocestovani.cz",
-      "date": "2026-11-14T10:50:55+00:00",
-      "dateLabel": "14. 11. 2026",
-      "price": 35990,
-      "image": "",
-      "id": "https://levnocestovani.cz/akcni-zajezdy/8-dni-na-maledivach-v-5-resortu-s-all-inclusive-a-primym-letem-z-prahy-za-35-990-kc?utm_source=rss&utm_medium=feed",
-      "firstSeen": "2026-11-14T10:56:19.472999+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Cheap non-stop flights from many European cities to Madeira ☀️ 🌊 from €38",
-      "summary": "Your island getaway is just one flight away – no layovers, no hassle! Book now affordable Ryanair and Easyjet flights to Funchal starting at only €38 for a round trip.",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-madeira-e38/",
-      "source": "Fly4free.com",
-      "date": "2026-11-14T10:00:01+00:00",
-      "dateLabel": "14. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-madeira-e38/",
-      "firstSeen": "2026-11-14T10:56:19.472999+00:00",
-      "priceOrig": {
-        "amount": 38,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Gran Canaria na týden s all inclusive. Od 14 590 Kč.",
-      "summary": "Gran Canaria na týden s all inclusive za 14 590 Kč.",
-      "url": "https://www.obletsvet.cz/akcni-letenka/gran-canaria-na-tyden-s-all-inclusive-prosinec",
-      "source": "Obletsvet.cz",
-      "date": "2026-11-14T09:37:50+00:00",
-      "dateLabel": "14. 11. 2026",
-      "price": 14590,
-      "image": "",
-      "id": "https://www.obletsvet.cz/akcni-letenka/gran-canaria-na-tyden-s-all-inclusive-prosinec",
       "firstSeen": "2026-11-14T10:56:19.472999+00:00",
       "priceOrig": null
     }
