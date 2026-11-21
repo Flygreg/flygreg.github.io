@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-21T20:55:58.549046+00:00",
+  "updated": "2026-11-21T22:55:12.272150+00:00",
   "offers": [
+    {
+      "title": "Excellent deal! 😉 Cheap open-jaw full-service flights from Brussels to Hong Kong, returning from Vietnam or Thailand from €362",
+      "summary": "Explore two incredible Asian destinations with these cheap open-jaw Juneyao Airlines flights to Hong Kong, returning from Bangkok, Phuket, Hanoi, or Ho Chi Minh starting at only €362 return! Discover the vibrant streets of Hong Kong before",
+      "url": "https://www.fly4free.com/flight-deals/europe/open-jaw-flights-from-brussels-to-asia-e362/",
+      "source": "Fly4free.com",
+      "date": "2026-11-21T21:00:35+00:00",
+      "dateLabel": "21. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/open-jaw-flights-from-brussels-to-asia-e362/",
+      "firstSeen": "2026-11-21T22:55:12.272150+00:00",
+      "priceOrig": {
+        "amount": 362,
+        "cur": "EUR"
+      }
+    },
     {
       "title": "7 nocí na Madeiře s All Inclusive a písečnou pláží hned u hotelu za 14 740 Kč",
       "summary": "4* resort u písečné pláže, bazény s výhledem na Atlantik i nádherná příroda. Objevte Madeiru s Čedokem a ubytujte se v Savoy Calheta Beach. Mrkněte na zájezd.",
@@ -3802,35 +3818,6 @@
       "id": "729",
       "firstSeen": "2026-11-15T07:23:15.640599+00:00",
       "priceOrig": null
-    },
-    {
-      "title": "Wizz Air switches Brussels airports: reach the city centre in under 20 minutes",
-      "summary": "Travelling from Budapest to Brussels is about to become more convenient. Wizz Air is moving its flights from the more distant Charleroi Airport to Brussels Airport in Zaventem, the Belgian capital’s main airport. The change will allow passe",
-      "url": "https://www.fly4free.com/news/wizz-air-switches-brussels-airports-reach-the-city-centre-in-under-20-minutes/",
-      "source": "Fly4free.com",
-      "date": "2026-11-14T21:37:42+00:00",
-      "dateLabel": "14. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/news/wizz-air-switches-brussels-airports-reach-the-city-centre-in-under-20-minutes/",
-      "firstSeen": "2026-11-14T22:51:03.793883+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Full-service flights from London to the tropical island of Hainan, China 🏝️ for £468",
-      "summary": "Discover China like never before: fly Tianjin and Hainan Airlines to the tropical paradise of Hainan with full-service comfort — starting from just £468 return with checked bags included. Your next adventure awaits!",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-hainan-p468/",
-      "source": "Fly4free.com",
-      "date": "2026-11-14T21:00:56+00:00",
-      "dateLabel": "14. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-hainan-p468/",
-      "firstSeen": "2026-11-14T22:51:03.793883+00:00",
-      "priceOrig": {
-        "amount": 468,
-        "cur": "GBP"
-      }
     }
   ]
 }
