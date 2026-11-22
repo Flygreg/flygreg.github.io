@@ -1,6 +1,64 @@
 {
-  "updated": "2026-11-22T19:05:49.429924+00:00",
+  "updated": "2026-11-22T20:57:41.032843+00:00",
   "offers": [
+    {
+      "title": "Prosincová Fuerteventura za 13 240 Kč – All Inclusive ve 4* hotelu na 7 nocí",
+      "summary": "Dlouhé písečné pláže, výhledy z hotelové střešní terasy i výlety na Sotavento a Cofete. Objevte Kanárské ostrovy s Čedokem a využijte Black Friday slevu.",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/prosincova-fuerteventura-za-13-240-kc-all-inclusive-ve-4-hotelu-na-7-noci?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-11-22T20:21:21+00:00",
+      "dateLabel": "22. 11. 2026",
+      "price": 13240,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/prosincova-fuerteventura-za-13-240-kc-all-inclusive-ve-4-hotelu-na-7-noci?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-11-22T20:57:41.032843+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "High Season 3-in-1 trip across Thailand 🌴 🥥 Flights from Vienna, Budapest & Prague to Bangkok, Chiang Mai and Phuket from €627",
+      "summary": "Three destinations, one incredible Thailand adventure! Fly from Vienna, Budapest or Prague and discover Bangkok, Chiang Mai and Phuket with this fantastic multi-city deal from €627. Enjoy the capital’s lively atmosphere, explore the cultura",
+      "url": "https://www.fly4free.com/flight-deals/europe/trip-from-vienna-prague-to-thailand-e627/",
+      "source": "Fly4free.com",
+      "date": "2026-11-22T20:00:23+00:00",
+      "dateLabel": "22. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/trip-from-vienna-prague-to-thailand-e627/",
+      "firstSeen": "2026-11-22T20:57:41.032843+00:00",
+      "priceOrig": {
+        "amount": 627,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "LM Dominikána v 5-ti hvězdičkovém resortu s all inclusive. Od 28 990 Kč.",
+      "summary": "LM Dominikána v 5-ti hvězdičkovém resortu s all inclusive za 28 990 Kč.",
+      "url": "https://www.obletsvet.cz/akcni-letenka/lm-dominikana-v-5-ti-hvezde-s-all-inclusive",
+      "source": "Obletsvet.cz",
+      "date": "2026-11-22T19:57:52+00:00",
+      "dateLabel": "22. 11. 2026",
+      "price": 28990,
+      "image": "",
+      "id": "https://www.obletsvet.cz/akcni-letenka/lm-dominikana-v-5-ti-hvezde-s-all-inclusive",
+      "firstSeen": "2026-11-22T20:57:41.032843+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Cheap full-service flights from Amsterdam to Cambodia for €514",
+      "summary": "Take advantage of an exceptional long-haul deal and fly in comfort to the enchanting landscapes of Cambodia starting at only €514 return with Xiamen Air.",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-cambodia-e514/",
+      "source": "Fly4free.com",
+      "date": "2026-11-22T19:00:38+00:00",
+      "dateLabel": "22. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-cambodia-e514/",
+      "firstSeen": "2026-11-22T20:57:41.032843+00:00",
+      "priceOrig": {
+        "amount": 514,
+        "cur": "EUR"
+      }
+    },
     {
       "title": "Cheap full-service flights from Italy & Belgium to South Korea from €455",
       "summary": "South Korea is one of Asia’s most exciting destinations — combining modern energy, ancient history, incredible food, and some of the most beautiful landscapes. With this great Air China flight deal, it’s the perfect time to explore a countr",
@@ -3747,48 +3805,6 @@
         "amount": 477,
         "cur": "EUR"
       }
-    },
-    {
-      "title": "HIGH SEASON 🌊 🐠 Full-service flights from Amsterdam to the Philippines for €559",
-      "summary": "Dreaming of tropical beaches, island hopping, and unforgettable sunsets? This China Southern Airlines deal makes it possible with full-service flights to Manila starting from just €559 return. It’s an excellent opportunity for travelers loo",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-the-philippines-e559-2/",
-      "source": "Fly4free.com",
-      "date": "2026-11-15T20:00:29+00:00",
-      "dateLabel": "15. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-the-philippines-e559-2/",
-      "firstSeen": "2026-11-15T20:53:25.879528+00:00",
-      "priceOrig": {
-        "amount": 559,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Exotický ráj na Maledivách: Týdenní pobyt ve 4* ostrovním resortu s plnou penzí z Prahy za 34 990 Kč",
-      "summary": "Splňte si sen o tropickém ráji! Užijte si týden na Maledivách ve skvěle hodnoceném 4* resortu Fihalhohi s plnou penzí a přímým letem z Prahy za 34 990 Kč.",
-      "url": "https://levnocestovani.cz/akcni-zajezdy/exoticky-raj-na-maledivach-tydenni-pobyt-ve-4-ostrovnim-resortu-s-plnou-penzi-z-prahy-za-34-990-kc?utm_source=rss&utm_medium=feed",
-      "source": "Levnocestovani.cz",
-      "date": "2026-11-15T19:33:49+00:00",
-      "dateLabel": "15. 11. 2026",
-      "price": 34990,
-      "image": "",
-      "id": "https://levnocestovani.cz/akcni-zajezdy/exoticky-raj-na-maledivach-tydenni-pobyt-ve-4-ostrovnim-resortu-s-plnou-penzi-z-prahy-za-34-990-kc?utm_source=rss&utm_medium=feed",
-      "firstSeen": "2026-11-15T20:53:25.879528+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Egypt na týden v prosinci s all inclusive. Od 11 990 Kč.",
-      "summary": "Egypt na týden v prosinci s all inclusive za 11 990 Kč.",
-      "url": "https://www.obletsvet.cz/akcni-letenka/egypt-na-tyden-v-prosinci-s-all-inclusive",
-      "source": "Obletsvet.cz",
-      "date": "2026-11-15T19:13:51+00:00",
-      "dateLabel": "15. 11. 2026",
-      "price": 11990,
-      "image": "",
-      "id": "https://www.obletsvet.cz/akcni-letenka/egypt-na-tyden-v-prosinci-s-all-inclusive",
-      "firstSeen": "2026-11-15T20:53:25.879528+00:00",
-      "priceOrig": null
     }
   ]
 }

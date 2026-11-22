@@ -50,7 +50,7 @@
       "ok": true,
       "items": 50,
       "attempts": [
-        "FlightTipsFeedReader: HTTP 200, 63506 B"
+        "FlightTipsFeedReader: HTTP 200, 64063 B"
       ],
       "error": ""
     },
@@ -59,7 +59,7 @@
       "ok": true,
       "items": 10,
       "attempts": [
-        "FlightTipsFeedReader: HTTP 200, 8268 B"
+        "FlightTipsFeedReader: HTTP 200, 8627 B"
       ],
       "error": ""
     },
@@ -68,7 +68,7 @@
       "ok": true,
       "items": 50,
       "attempts": [
-        "FlightTipsFeedReader: HTTP 200, 51224 B"
+        "FlightTipsFeedReader: HTTP 200, 51237 B"
       ],
       "error": ""
     }
