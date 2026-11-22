@@ -1,9 +1,80 @@
 {
-  "updated": "2026-11-22T10:58:50.820019+00:00",
+  "updated": "2026-11-22T13:13:54.029910+00:00",
   "offers": [
     {
+      "title": "Týden na útesu nad oceánem na zelené Madeiře z Prahy s polopenzí za 8 740 Kč",
+      "summary": "Odleťte z Prahy na týdenní dovolenou na Madeiru do oblíbeného 4* hotelu Jardim do Atlântico s polopenzí za 8 740 Kč díky Black Friday slevě 2 500 Kč od Čedoku!",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/tyden-na-utesu-nad-oceanem-na-zelene-madeire-z-prahy-s-polopenzi-za-8-740-kc?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-11-22T13:13:37+00:00",
+      "dateLabel": "22. 11. 2026",
+      "price": 8740,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/tyden-na-utesu-nad-oceanem-na-zelene-madeire-z-prahy-s-polopenzi-za-8-740-kc?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-11-22T13:13:54.029910+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Holiday in Tenerife for €469 p.p. 😎 🏖️ Flights from Bucharest + 7-night stay at 4* hotel",
+      "summary": "Affordable price for a sunny escape to the Canary Islands! Book direct flights from Romania's capital and accommodation at the highly rated hotel with a swimming pool for only €469 per person (based on 2 people sharing).",
+      "url": "https://www.fly4free.com/flight-deals/europe/holiday-in-tenerife-from-bucharest-e469/",
+      "source": "Fly4free.com",
+      "date": "2026-11-22T13:00:22+00:00",
+      "dateLabel": "22. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/holiday-in-tenerife-from-bucharest-e469/",
+      "firstSeen": "2026-11-22T13:13:54.029910+00:00",
+      "priceOrig": {
+        "amount": 469,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "⚡ New entry rules for Kazakhstan: Visa-free travellers will need QazETA",
+      "summary": "From 1 July 2027, foreign nationals travelling to Kazakhstan without a visa will need to obtain electronic travel authorisation through QazETA before their trip. The new requirement will apply to citizens of 85 countries. Until 30 June 2027",
+      "url": "https://www.fly4free.com/flight-deals/europe/kazakhstan-to-introduce-new-entry-authorisation-for-visa-free-travellers/",
+      "source": "Fly4free.com",
+      "date": "2026-11-22T12:42:22+00:00",
+      "dateLabel": "22. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/kazakhstan-to-introduce-new-entry-authorisation-for-visa-free-travellers/",
+      "firstSeen": "2026-11-22T13:13:54.029910+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Romantic Venice escape! 💕 🥂 B&B stay at well-rated 4* palazzo hotel for €75/double",
+      "summary": "This 4* hotel is a beautiful choice for a romantic Venice trip: atmospheric enough to feel like part of the destination itself, exceptionally central, yet tucked away from the busiest pedestrian routes. If you want chandeliers, canals, hist",
+      "url": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-venice-e75/",
+      "source": "Fly4free.com",
+      "date": "2026-11-22T12:00:24+00:00",
+      "dateLabel": "22. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-venice-e75/",
+      "firstSeen": "2026-11-22T13:13:54.029910+00:00",
+      "priceOrig": {
+        "amount": 75,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "Na Lanzarote za 11 740 Kč: Týden v hotelu pro dospělé s polopenzí a odletem z Prahy",
+      "summary": "Vyrazte z Prahy na Lanzarote za 11 740 Kč na osobu se slevovým kódem. Týden v hotelu Pocillos Playa 16+ s polopenzí a písečnou pláží nedaleko.",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/na-lanzarote-za-11-740-kc-tyden-v-hotelu-pro-dospele-s-polopenzi-a-odletem-z-prahy?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-11-22T11:50:07+00:00",
+      "dateLabel": "22. 11. 2026",
+      "price": 11740,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/na-lanzarote-za-11-740-kc-tyden-v-hotelu-pro-dospele-s-polopenzi-a-odletem-z-prahy?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-11-22T13:13:54.029910+00:00",
+      "priceOrig": null
+    },
+    {
       "title": "Cheap full-service flights from Paris to Seoul, South Korea for €496",
-      "summary": "Air China is offering promotional fares from the capital of France to South Korea starting at only €496 for a round trip!",
+      "summary": "China Eastern Airilines are offering promotional fares from the capital of France to South Korea starting at only €496 for a round trip!",
       "url": "https://www.fly4free.com/flight-deals/europe/flights-from-paris-to-seoul-e496/",
       "source": "Fly4free.com",
       "date": "2026-11-22T10:55:39+00:00",
@@ -3760,80 +3831,6 @@
       "id": "https://levnocestovani.cz/akcni-zajezdy/bungalovy-mezi-palmami-a-bile-plaze-zanzibar-na-8-dni-za-25-990-kc?utm_source=rss&utm_medium=feed",
       "firstSeen": "2026-11-15T14:56:04.745117+00:00",
       "priceOrig": null
-    },
-    {
-      "title": "Well-rated and stylish 4* hotel in central Munich 🥨 🍻 from €65/double",
-      "summary": "Discover the Bavarian capital’s lively beer halls, traditional beer gardens, historic squares, and fascinating museums while keeping your accommodation costs low.",
-      "url": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-munich-e65-3/",
-      "source": "Fly4free.com",
-      "date": "2026-11-15T13:00:32+00:00",
-      "dateLabel": "15. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-munich-e65-3/",
-      "firstSeen": "2026-11-15T13:11:06.654500+00:00",
-      "priceOrig": {
-        "amount": 65,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Etihad Airways: Praha - Phuket - 12 990 Kč",
-      "summary": "",
-      "url": "https://www.akcniletenky.com",
-      "source": "AkčníLetenky.com",
-      "date": "2026-11-15T13:00:00+00:00",
-      "dateLabel": "15. 11. 2026",
-      "price": 12990,
-      "image": "",
-      "id": "731",
-      "firstSeen": "2026-11-15T14:56:04.745117+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Egypt, Hurghada: Týden u pláže ve 4* resortu s aquaparkem a All Inclusive za 14 690 Kč (odlet z Prahy)",
-      "summary": "Vyrazte za sluncem do egyptské Hurghady! Čeká vás dovolená přímo u pláže ve 4* resortu Sphinx Aqua Park s tobogány a All Inclusive z Prahy jen za 14 690 Kč.",
-      "url": "https://levnocestovani.cz/akcni-zajezdy/egypt-hurghada-tyden-u-plaze-ve-4-resortu-s-aquaparkem-a-all-inclusive-za-14-690-kc-odlet-z-prahy?utm_source=rss&utm_medium=feed",
-      "source": "Levnocestovani.cz",
-      "date": "2026-11-15T12:05:13+00:00",
-      "dateLabel": "15. 11. 2026",
-      "price": 14690,
-      "image": "",
-      "id": "https://levnocestovani.cz/akcni-zajezdy/egypt-hurghada-tyden-u-plaze-ve-4-resortu-s-aquaparkem-a-all-inclusive-za-14-690-kc-odlet-z-prahy?utm_source=rss&utm_medium=feed",
-      "firstSeen": "2026-11-15T13:11:06.654500+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Malaysia last minute 😎 🌴 Cheap full-service LOT direct flights from Warsaw to Penang for €483",
-      "summary": "Fancy swapping European autumn for street-food nights, tropical heat and one of Southeast Asia’s most atmospheric islands? LOT is offering direct return flights from Warsaw to Penang from just €483 — a rare chance to reach this Malaysian is",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-warsaw-to-penang-e483/",
-      "source": "Fly4free.com",
-      "date": "2026-11-15T12:00:44+00:00",
-      "dateLabel": "15. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-warsaw-to-penang-e483/",
-      "firstSeen": "2026-11-15T13:11:06.654500+00:00",
-      "priceOrig": {
-        "amount": 483,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Cheap non-stop flights from Manchester to Madeira 🌞 from £57",
-      "summary": "Looking for a sunny escape at an unbeatable price? This incredible Jet2 flight deal is your chance to visit the stunning island of Madeira from just £57 return! Departing from Manchester, it’s never been easier — or cheaper — to experience",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-manchester-to-madeira-p57/",
-      "source": "Fly4free.com",
-      "date": "2026-11-15T11:00:48+00:00",
-      "dateLabel": "15. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-manchester-to-madeira-p57/",
-      "firstSeen": "2026-11-15T13:11:06.654500+00:00",
-      "priceOrig": {
-        "amount": 57,
-        "cur": "GBP"
-      }
     }
   ]
 }
