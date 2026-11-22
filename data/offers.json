@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-22T20:57:41.032843+00:00",
+  "updated": "2026-11-22T22:57:26.665916+00:00",
   "offers": [
+    {
+      "title": "SUMMER ☀️ Non-stop flights from Berlin to New York 🗽 for €441",
+      "summary": "Skip the layovers and fly straight to the city that never sleeps with United — skyline views, Broadway nights, and Central Park strolls await. Book now these discounted United flights to Newark Airport (EWR) before this deal takes off!",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-berlin-to-new-york-e441/",
+      "source": "Fly4free.com",
+      "date": "2026-11-22T21:00:08+00:00",
+      "dateLabel": "22. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-berlin-to-new-york-e441/",
+      "firstSeen": "2026-11-22T22:57:26.665916+00:00",
+      "priceOrig": {
+        "amount": 441,
+        "cur": "EUR"
+      }
+    },
     {
       "title": "Prosincová Fuerteventura za 13 240 Kč – All Inclusive ve 4* hotelu na 7 nocí",
       "summary": "Dlouhé písečné pláže, výhledy z hotelové střešní terasy i výlety na Sotavento a Cofete. Objevte Kanárské ostrovy s Čedokem a využijte Black Friday slevu.",
@@ -3787,22 +3803,6 @@
       "firstSeen": "2026-11-16T09:00:35.304803+00:00",
       "priceOrig": {
         "amount": 673,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Cheap full-service flights from Budapest to Taiwan for €477",
-      "summary": "Now’s your chance to explore Taiwan with discounted Air China flights to Taipei starting at only €477 round-trip! Whether you're drawn by the vibrant streets of Taipei, the natural beauty of Taroko Gorge, or the rich heritage of Tainan, thi",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-budapest-to-taiwan-e477/",
-      "source": "Fly4free.com",
-      "date": "2026-11-15T21:00:00+00:00",
-      "dateLabel": "15. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-budapest-to-taiwan-e477/",
-      "firstSeen": "2026-11-15T22:52:25.738068+00:00",
-      "priceOrig": {
-        "amount": 477,
         "cur": "EUR"
       }
     }
