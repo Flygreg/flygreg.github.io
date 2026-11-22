@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T15:29:10Z",
+ "updated": "2026-11-22T17:28:18Z",
  "sources": [
   {
    "name": "Cartop",
@@ -231,7 +231,7 @@
    "ok": true,
    "complete": true,
    "pages": 6,
-   "cards": 239,
+   "cards": 240,
    "noPrice": 2,
    "requests": 7,
    "note": "",
@@ -254,7 +254,7 @@
     ],
     [
      5,
-     39
+     40
     ],
     [
      6,
@@ -263,7 +263,7 @@
    ],
    "robots": "robots.txt přečten",
    "types": {
-    "Operativní leasing": 239
+    "Operativní leasing": 240
    },
    "unavailable": 2
   },
