@@ -1,6 +1,96 @@
 {
-  "updated": "2026-11-22T15:00:24.891418+00:00",
+  "updated": "2026-11-22T16:59:36.022859+00:00",
   "offers": [
+    {
+      "title": "Cheap full-service flights from Italy & Belgium to South Korea from €455",
+      "summary": "South Korea is one of Asia’s most exciting destinations — combining modern energy, ancient history, incredible food, and some of the most beautiful landscapes. With this great Air China flight deal, it’s the perfect time to explore a countr",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-italy-belgium-to-south-korea-e455/",
+      "source": "Fly4free.com",
+      "date": "2026-11-22T16:55:19+00:00",
+      "dateLabel": "22. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-italy-belgium-to-south-korea-e455/",
+      "firstSeen": "2026-11-22T16:59:36.022859+00:00",
+      "priceOrig": {
+        "amount": 455,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "Off to Mexico’s Pacific Coast 🌊 🌵 Cheap flights from many European cities to Baja California from €451",
+      "summary": "If you want Mexico without the classic Caribbean-resort feel, Baja California is a very different kind of trip. Condor is offering return flights from several European cities to Baja California from just €451, opening the door to a road tri",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-baja-california-e451/",
+      "source": "Fly4free.com",
+      "date": "2026-11-22T16:55:11+00:00",
+      "dateLabel": "22. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-baja-california-e451/",
+      "firstSeen": "2026-11-22T16:59:36.022859+00:00",
+      "priceOrig": {
+        "amount": 451,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "Týden u Atlantiku v novém 5* resortu. Kapverdy s All Inclusive za 24 990 Kč",
+      "summary": "Prosinec u Atlantiku v moderním Royal Horizons Ponta Sino. Čeká vás písečná pláž, obří lagunový bazén a skvělé zázemí. Odlet z Prahy – podívejte se na zájezd.",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/tyden-u-atlantiku-v-novem-5-resortu-kapverdy-s-all-inclusive-za-24-990-kc?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-11-22T16:46:46+00:00",
+      "dateLabel": "22. 11. 2026",
+      "price": 24990,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/tyden-u-atlantiku-v-novem-5-resortu-kapverdy-s-all-inclusive-za-24-990-kc?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-11-22T16:59:36.022859+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Zimní letenky do ROVANIEMI - 3 843 Kč",
+      "summary": "Výhodné letenky do Finska koupíme u Austrian Airlines. U aerolinky Austrian Airlines najdeme levné letenky z Prahy do Rovaniemi. Za zpáteční letenky zaplatíme 3 843 Kč. Po cestě nás čeká jeden přestup ve Vídni. Pro tuto cenu se přestupu ve",
+      "url": "https://honzovyletenky.cz/zimni-letenky-do-rovaniemi/",
+      "source": "Honzovy letenky",
+      "date": "2026-11-22T16:21:15+00:00",
+      "dateLabel": "22. 11. 2026",
+      "price": 3843,
+      "image": "",
+      "id": "https://honzovyletenky.cz/zimni-letenky-do-rovaniemi/",
+      "firstSeen": "2026-11-22T16:59:36.022859+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Rock-bottom fares 💥 Cheap flights from many European cities to New York 🗽 from €290",
+      "summary": "The Big Apple awaits! Now you can book discounted Condor flights to New York (JFK) starting at only €290 for a round trip, making your dream American adventure more affordable than ever.",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-new-york-e290/",
+      "source": "Fly4free.com",
+      "date": "2026-11-22T15:50:12+00:00",
+      "dateLabel": "22. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-new-york-e290/",
+      "firstSeen": "2026-11-22T16:59:36.022859+00:00",
+      "priceOrig": {
+        "amount": 290,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "HIGH SEASON 🌴 🥥 B&B stay at beachfront 4* hotel in Sri Lanka from €26/double",
+      "summary": "Escape to the tropical paradise of Sri Lanka and stay at the highly rated 4-star for an incredible price from just €26 per double room!",
+      "url": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-sri-lanka-e26/",
+      "source": "Fly4free.com",
+      "date": "2026-11-22T15:00:29+00:00",
+      "dateLabel": "22. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-sri-lanka-e26/",
+      "firstSeen": "2026-11-22T16:59:36.022859+00:00",
+      "priceOrig": {
+        "amount": 26,
+        "cur": "EUR"
+      }
+    },
     {
       "title": "Týden plný karibského slunce v Dominikánské republice přímým letem z Prahy s All Inclusive za 27 740 Kč",
       "summary": "Exotická dovolená v Dominikánské republice bez přestupů! Zaleťte si z Prahy na týden do 5* resortu u tyrkysového Karibiku s All Inclusive za 27 740 Kč.",
@@ -15,7 +105,7 @@
       "priceOrig": null
     },
     {
-      "title": "HIGH SEASON 😎 ☀️ Full-service flights from European cities to Malaysia from €497",
+      "title": "HIGH SEASON 😎 ☀️ Full-service flights from many European cities to Malaysia from €497",
       "summary": "Whether you crave the bustling streets of Kuala Lumpur, the beaches of Langkawi, or the rainforests of Borneo – your Southeast Asian adventure begins now. Oman Air is offering discounted flights to Kuala Lumpur starting at €497 for a round",
       "url": "https://www.fly4free.com/flight-deals/europe/oman-air-flights-from-europe-to-malaysia-e497/",
       "source": "Fly4free.com",
@@ -3758,64 +3848,6 @@
       "firstSeen": "2026-11-15T19:00:27.424986+00:00",
       "priceOrig": {
         "amount": 61,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Levně z Pardubic do ALICANTE - 1 437 Kč",
-      "summary": "Za výhodnou cenu jsou dostupné letenky do španělského Alicante. Zpáteční letenky z Pardubic do Alicante pořídíme už za 1 437 Kč. Nejvýhodnější letenky jsou dostupé na zimní termíny, především leden 2027. V ceně každé letenky od Ryanair máme",
-      "url": "https://honzovyletenky.cz/levne-z-pardubic-do-alicante-3/",
-      "source": "Honzovy letenky",
-      "date": "2026-11-15T16:54:41+00:00",
-      "dateLabel": "15. 11. 2026",
-      "price": 1437,
-      "image": "",
-      "id": "https://honzovyletenky.cz/levne-z-pardubic-do-alicante-3/",
-      "firstSeen": "2026-11-15T16:55:13.763781+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Bookings up 225%: Travellers rush to see the Northern Lights before solar activity fades",
-      "summary": "Demand for trips to see the Northern Lights is surging. Bookings for aurora-viewing tours and travel packages have more than tripled compared with last year. Northern European countries are attracting the most interest, while the 2026–2027",
-      "url": "https://www.fly4free.com/news/bookings-up-225-travellers-rush-to-see-the-northern-lights-before-solar-activity-fades/",
-      "source": "Fly4free.com",
-      "date": "2026-11-15T16:45:10+00:00",
-      "dateLabel": "15. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/news/bookings-up-225-travellers-rush-to-see-the-northern-lights-before-solar-activity-fades/",
-      "firstSeen": "2026-11-15T16:55:13.763781+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Red Sea escape 🌊 🐠 All Inclusive holiday in Hurghada, Egypt for €375 p.p: Flights from Prague + 7-night stay at well-rated 4* resort",
-      "summary": "Plan a winter escape to sunny Red Sea coasts! Book Pegasus flights and a stay at the 4* resort with all meals and drinks included from only €375 per person (based on 2 people sharing).",
-      "url": "https://www.fly4free.com/flight-deals/europe/holiday-in-hurghada-from-prague-e375/",
-      "source": "Fly4free.com",
-      "date": "2026-11-15T16:00:59+00:00",
-      "dateLabel": "15. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/holiday-in-hurghada-from-prague-e375/",
-      "firstSeen": "2026-11-15T16:55:13.763781+00:00",
-      "priceOrig": {
-        "amount": 375,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Winter break in sunny Malta ☀️ Well-rated and sea view 4* Pergola Hotel & Spa ♨️ for €36/double",
-      "summary": "Fancy a winter escape to Malta? Book a double room at the highly rated 4* hotel & spa offering spectacular sea views for only €36/night.",
-      "url": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-malta-e36/",
-      "source": "Fly4free.com",
-      "date": "2026-11-15T15:00:56+00:00",
-      "dateLabel": "15. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-malta-e36/",
-      "firstSeen": "2026-11-15T16:55:13.763781+00:00",
-      "priceOrig": {
-        "amount": 36,
         "cur": "EUR"
       }
     }
