@@ -1,6 +1,19 @@
 {
-  "updated": "2026-11-21T22:55:12.272150+00:00",
+  "updated": "2026-11-22T07:28:27.097967+00:00",
   "offers": [
+    {
+      "title": "Ryanair: Norimberk - Porto - 980 Kč",
+      "summary": "",
+      "url": "https://www.akcniletenky.com",
+      "source": "AkčníLetenky.com",
+      "date": "2026-11-22T07:00:00+00:00",
+      "dateLabel": "22. 11. 2026",
+      "price": 980,
+      "image": "",
+      "id": "754",
+      "firstSeen": "2026-11-22T07:28:27.097967+00:00",
+      "priceOrig": null
+    },
     {
       "title": "Excellent deal! 😉 Cheap open-jaw full-service flights from Brussels to Hong Kong, returning from Vietnam or Thailand from €362",
       "summary": "Explore two incredible Asian destinations with these cheap open-jaw Juneyao Airlines flights to Hong Kong, returning from Bangkok, Phuket, Hanoi, or Ho Chi Minh starting at only €362 return! Discover the vibrant streets of Hong Kong before",
@@ -3803,19 +3816,6 @@
       "price": 1490,
       "image": "",
       "id": "https://www.levneletenkyzprahy.cz/2759_letenky-florencie,-italie-z-prahy-za-1490-kc",
-      "firstSeen": "2026-11-15T07:23:15.640599+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Ryanair: Brno - Malaga - 1 071 Kč",
-      "summary": "",
-      "url": "https://www.akcniletenky.com",
-      "source": "AkčníLetenky.com",
-      "date": "2026-11-15T07:00:00+00:00",
-      "dateLabel": "15. 11. 2026",
-      "price": 1071,
-      "image": "",
-      "id": "729",
       "firstSeen": "2026-11-15T07:23:15.640599+00:00",
       "priceOrig": null
     }
