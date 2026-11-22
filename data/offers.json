@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-22T07:28:27.097967+00:00",
+  "updated": "2026-11-22T09:00:40.203548+00:00",
   "offers": [
+    {
+      "title": "PRICE DROP 💥 Cheap flights from Prague to Toronto, Canada 🍁 for €357",
+      "summary": "Explore the charm of Canada’s coolest city — stroll through vibrant neighborhoods, marvel at Niagara Falls, and soak in the autumn vibes! Book discounted Condor flights from Czechia starting at only €357 for a round trip!",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-prague-to-toronto-e357/",
+      "source": "Fly4free.com",
+      "date": "2026-11-22T08:00:12+00:00",
+      "dateLabel": "22. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-prague-to-toronto-e357/",
+      "firstSeen": "2026-11-22T09:00:40.203548+00:00",
+      "priceOrig": {
+        "amount": 357,
+        "cur": "EUR"
+      }
+    },
     {
       "title": "Ryanair: Norimberk - Porto - 980 Kč",
       "summary": "",
@@ -3772,51 +3788,6 @@
       "image": "",
       "id": "730",
       "firstSeen": "2026-11-15T10:57:27.369626+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Cheap full-service flights from London to the island of Jeju, South Korea for £477",
-      "summary": "Looking for a unique, full-service getaway in Asia? Fly to Seoul starting at £477 round trip with Air China and Juneyao Airlines. This means checked luggage, meals, and comfortable seating are included - no hidden fees or budget-airline sur",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-jeju/",
-      "source": "Fly4free.com",
-      "date": "2026-11-15T08:59:33+00:00",
-      "dateLabel": "15. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-jeju/",
-      "firstSeen": "2026-11-15T09:01:44.391916+00:00",
-      "priceOrig": {
-        "amount": 477,
-        "cur": "GBP"
-      }
-    },
-    {
-      "title": "Cheap full-service flights from Vienna to Phuket & Bangkok, Thailand from €465",
-      "summary": "Fantastic chance to fly to Thailand on a budget! Saudia is offering discounted flights from Vienna to Bangkok starting at only €465 for a round trip.",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-vienna-to-bangkok-e465/",
-      "source": "Fly4free.com",
-      "date": "2026-11-15T08:00:38+00:00",
-      "dateLabel": "15. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-vienna-to-bangkok-e465/",
-      "firstSeen": "2026-11-15T09:01:44.391916+00:00",
-      "priceOrig": {
-        "amount": 465,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Letenky Florencie, Itálie z Prahy za 1490 Kč",
-      "summary": "Florencie je jedno z mála měst na světě, kde se pověst naprosto shoduje s realitou – Uffizi, Ponte Vecchio, Brunelleschiho kupole nad střechami, Michelangelův David. Tohle všechno tu skutečně je a působí přesně tak, jak si představujete. Zp",
-      "url": "https://www.levneletenkyzprahy.cz/2759_letenky-florencie,-italie-z-prahy-za-1490-kc",
-      "source": "Levné letenky z Prahy",
-      "date": "2026-11-15T07:54:14+00:00",
-      "dateLabel": "15. 11. 2026",
-      "price": 1490,
-      "image": "",
-      "id": "https://www.levneletenkyzprahy.cz/2759_letenky-florencie,-italie-z-prahy-za-1490-kc",
-      "firstSeen": "2026-11-15T07:23:15.640599+00:00",
       "priceOrig": null
     }
   ]
