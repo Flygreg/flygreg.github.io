@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T07:56:26Z",
+ "updated": "2026-11-22T09:33:18Z",
  "sources": [
   {
    "name": "Cartop",
@@ -272,7 +272,7 @@
    "ok": true,
    "complete": true,
    "pages": 3,
-   "cards": 65,
+   "cards": 64,
    "noPrice": 0,
    "requests": 4,
    "note": "",
@@ -283,7 +283,7 @@
     ],
     [
      2,
-     15
+     14
     ],
     [
      3,
@@ -292,7 +292,7 @@
    ],
    "robots": "robots.txt přečten",
    "types": {
-    "Car": 65
+    "Car": 64
    }
   },
   {
