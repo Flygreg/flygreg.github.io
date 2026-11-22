@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-22T16:59:36.022859+00:00",
+  "updated": "2026-11-22T19:05:49.429924+00:00",
   "offers": [
     {
       "title": "Cheap full-service flights from Italy & Belgium to South Korea from €455",
       "summary": "South Korea is one of Asia’s most exciting destinations — combining modern energy, ancient history, incredible food, and some of the most beautiful landscapes. With this great Air China flight deal, it’s the perfect time to explore a countr",
       "url": "https://www.fly4free.com/flight-deals/europe/flights-from-italy-belgium-to-south-korea-e455/",
       "source": "Fly4free.com",
-      "date": "2026-11-22T16:55:19+00:00",
+      "date": "2026-11-22T18:00:19+00:00",
       "dateLabel": "22. 11. 2026",
       "price": null,
       "image": "",
@@ -3789,67 +3789,6 @@
       "id": "https://www.obletsvet.cz/akcni-letenka/egypt-na-tyden-v-prosinci-s-all-inclusive",
       "firstSeen": "2026-11-15T20:53:25.879528+00:00",
       "priceOrig": null
-    },
-    {
-      "title": "Winter break in Mexico 😎 ☀️ Non-stop flights from Frankfurt to Cancun for €667",
-      "summary": "White sand beaches, turquoise waters, and endless sunshine are just one flight away. Don't miss this limited-time Discover Airlines deal to Cancun for €667 for a round trip!",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-frankfurt-to-cancun-e667/",
-      "source": "Fly4free.com",
-      "date": "2026-11-15T19:00:37+00:00",
-      "dateLabel": "15. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-frankfurt-to-cancun-e667/",
-      "firstSeen": "2026-11-15T20:53:25.879528+00:00",
-      "priceOrig": {
-        "amount": 667,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Good deal! 😎 ✌️ Cheap full-service flights from Brussels to Hong Kong for €390",
-      "summary": "Dreaming of an exciting escape to Asia? Juneyao Airlines offering discounted flights to Hong Kong currently available from just €390 return, making it a great opportunity to explore one of the world’s most fascinating cities without spendin",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-brussels-to-hong-kong-e390/",
-      "source": "Fly4free.com",
-      "date": "2026-11-15T18:00:43+00:00",
-      "dateLabel": "15. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-brussels-to-hong-kong-e390/",
-      "firstSeen": "2026-11-15T19:00:27.424986+00:00",
-      "priceOrig": {
-        "amount": 390,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "8 dní u Atlantiku na Tenerife ve 4* hotelu s All Inclusive z Prahy za 14 990 Kč",
-      "summary": "Zažijte bezstarostnou dovolenou na Kanárech! Týdenní pobyt ve 4* hotelu na Tenerife s All Inclusive a přímým letem z Prahy nyní pořídíte za 14 990 Kč.",
-      "url": "https://levnocestovani.cz/akcni-zajezdy/8-dni-u-atlantiku-na-tenerife-ve-4-hotelu-s-all-inclusive-z-prahy-za-14-990-kc?utm_source=rss&utm_medium=feed",
-      "source": "Levnocestovani.cz",
-      "date": "2026-11-15T17:41:36+00:00",
-      "dateLabel": "15. 11. 2026",
-      "price": 14990,
-      "image": "",
-      "id": "https://levnocestovani.cz/akcni-zajezdy/8-dni-u-atlantiku-na-tenerife-ve-4-hotelu-s-all-inclusive-z-prahy-za-14-990-kc?utm_source=rss&utm_medium=feed",
-      "firstSeen": "2026-11-15T19:00:27.424986+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Countryside break in Tuscany 🍷B&B stay at top-rated 4* Hotel Borgo di Cortefreda Relais for €61/double",
-      "summary": "Are you planning to spend a few days in Tuscany? We've got the perfect deal for you! Book a double room at the 4* hotel for only €61 per night with breakfast included.",
-      "url": "https://www.fly4free.com/flight-deals/europe/4-star-resort-in-the-tuscany-e61-2/",
-      "source": "Fly4free.com",
-      "date": "2026-11-15T17:00:04+00:00",
-      "dateLabel": "15. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/4-star-resort-in-the-tuscany-e61-2/",
-      "firstSeen": "2026-11-15T19:00:27.424986+00:00",
-      "priceOrig": {
-        "amount": 61,
-        "cur": "EUR"
-      }
     }
   ]
 }
