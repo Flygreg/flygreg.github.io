@@ -1,6 +1,93 @@
 {
-  "updated": "2026-11-22T09:00:40.203548+00:00",
+  "updated": "2026-11-22T10:58:50.820019+00:00",
   "offers": [
+    {
+      "title": "Cheap full-service flights from Paris to Seoul, South Korea for €496",
+      "summary": "Air China is offering promotional fares from the capital of France to South Korea starting at only €496 for a round trip!",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-paris-to-seoul-e496/",
+      "source": "Fly4free.com",
+      "date": "2026-11-22T10:55:39+00:00",
+      "dateLabel": "22. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-paris-to-seoul-e496/",
+      "firstSeen": "2026-11-22T10:58:50.820019+00:00",
+      "priceOrig": {
+        "amount": 496,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "Týdenní pobyt v Egyptě (Marsa Alam) z Ostravy za 11 840 Kč s All Inclusive a aquaparkem",
+      "summary": "Hledáte slunce a pohodu? Vyrazte do Marsa Alam z Ostravy za 11 840 Kč. Čeká vás 8 dní v 5* hotelu s All Inclusive, aquaparkem a krásnou písečnou lagunou.",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/tydenni-pobyt-v-egypte-marsa-alam-z-ostravy-za-11-840-kc-s-all-inclusive-a-aquaparkem?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-11-22T10:42:02+00:00",
+      "dateLabel": "22. 11. 2026",
+      "price": 11840,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/tydenni-pobyt-v-egypte-marsa-alam-z-ostravy-za-11-840-kc-s-all-inclusive-a-aquaparkem?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-11-22T10:58:50.820019+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Madrid, Španělsko – akční letenky z Prahy za 2121 Kč",
+      "summary": "Prado, Bernabéu, Gran Vía – to jsou jména, která člověk zná dřív, než tam poprvé přistane. Jenže španělské hlavní město funguje jinak než většina evropských metropolí: večeře v deset, tapas bary plné do jedné v noci, flamenco v malých klube",
+      "url": "https://www.levneletenkyzprahy.cz/2766_madrid,-spanelsko-–-akcni-letenky-z-prahy-za-2121-kc",
+      "source": "Levné letenky z Prahy",
+      "date": "2026-11-22T10:13:14+00:00",
+      "dateLabel": "22. 11. 2026",
+      "price": 2121,
+      "image": "",
+      "id": "https://www.levneletenkyzprahy.cz/2766_madrid,-spanelsko-–-akcni-letenky-z-prahy-za-2121-kc",
+      "firstSeen": "2026-11-22T10:58:50.820019+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Buzz: Bratislava - Soluň - 930 Kč",
+      "summary": "",
+      "url": "https://www.akcniletenky.com",
+      "source": "AkčníLetenky.com",
+      "date": "2026-11-22T10:00:00+00:00",
+      "dateLabel": "22. 11. 2026",
+      "price": 930,
+      "image": "",
+      "id": "755",
+      "firstSeen": "2026-11-22T10:58:50.820019+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "HIGH SEASON 😎 Cheap full-service flights from Budapest to Vietnam from €486",
+      "summary": "Whether you dream of exploring the bustling streets of Hanoi, drifting along Halong Bay’s limestone cliffs, or relaxing on the golden shores of Da Nang, now is the time to book these discounted Air China, China Southern and China Eastern Ai",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-budapest-to-vietnam-e486/",
+      "source": "Fly4free.com",
+      "date": "2026-11-22T09:50:09+00:00",
+      "dateLabel": "22. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-budapest-to-vietnam-e486/",
+      "firstSeen": "2026-11-22T10:58:50.820019+00:00",
+      "priceOrig": {
+        "amount": 486,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "Last-minute fares just got cheaper! 🤩 Cheap full-service direct flights from Poland to Sri Lanka 🌴 from €457",
+      "summary": "Enter Air is offering discounted flights to Colombo from just €457 return , making Sri Lanka an easy last-minute option for anyone craving beaches, jungle, tea country and a completely different climate.",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-poland-to-sri-lanka-e457/",
+      "source": "Fly4free.com",
+      "date": "2026-11-22T08:45:52+00:00",
+      "dateLabel": "22. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-poland-to-sri-lanka-e457/",
+      "firstSeen": "2026-11-22T10:58:50.820019+00:00",
+      "priceOrig": {
+        "amount": 457,
+        "cur": "EUR"
+      }
+    },
     {
       "title": "PRICE DROP 💥 Cheap flights from Prague to Toronto, Canada 🍁 for €357",
       "summary": "Explore the charm of Canada’s coolest city — stroll through vibrant neighborhoods, marvel at Niagara Falls, and soak in the autumn vibes! Book discounted Condor flights from Czechia starting at only €357 for a round trip!",
@@ -3747,48 +3834,6 @@
         "amount": 57,
         "cur": "GBP"
       }
-    },
-    {
-      "title": "Madeira, ostrov věčného jara, za 10 990 Kč – 4* hotel, polopenze a odlet z Prahy",
-      "summary": "Objevte ostrov věčného jara za 10 990 Kč! Týdenní dovolená na Madeiře s Čedokem z Prahy ve 4* hotelu Montemar Palace s polopenzí. Rezervujte si svůj termín!",
-      "url": "https://levnocestovani.cz/akcni-zajezdy/madeira-ostrov-vecneho-jara-za-10-990-kc-4-hotel-polopenze-a-odlet-z-prahy?utm_source=rss&utm_medium=feed",
-      "source": "Levnocestovani.cz",
-      "date": "2026-11-15T10:07:30+00:00",
-      "dateLabel": "15. 11. 2026",
-      "price": 10990,
-      "image": "",
-      "id": "https://levnocestovani.cz/akcni-zajezdy/madeira-ostrov-vecneho-jara-za-10-990-kc-4-hotel-polopenze-a-odlet-z-prahy?utm_source=rss&utm_medium=feed",
-      "firstSeen": "2026-11-15T10:57:27.369626+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Thailand last minute! 🌴 🥥 Full-service LOT direct flights from Warsaw to Phuket for €632",
-      "summary": "LOT is offering discounted flights to Thailand — making it a great moment to plan a tropical escape to Southeast Asia! Book return tickets starting at only €632.",
-      "url": "https://www.fly4free.com/flight-deals/europe/lot-direct-flights-from-warsaw-to-phuket-e632/",
-      "source": "Fly4free.com",
-      "date": "2026-11-15T10:00:54+00:00",
-      "dateLabel": "15. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/lot-direct-flights-from-warsaw-to-phuket-e632/",
-      "firstSeen": "2026-11-15T10:57:27.369626+00:00",
-      "priceOrig": {
-        "amount": 632,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Lauda: Vídeň - Kypr - 980 Kč",
-      "summary": "",
-      "url": "https://www.akcniletenky.com",
-      "source": "AkčníLetenky.com",
-      "date": "2026-11-15T10:00:00+00:00",
-      "dateLabel": "15. 11. 2026",
-      "price": 980,
-      "image": "",
-      "id": "730",
-      "firstSeen": "2026-11-15T10:57:27.369626+00:00",
-      "priceOrig": null
     }
   ]
 }
