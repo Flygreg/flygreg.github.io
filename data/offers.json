@@ -1,6 +1,35 @@
 {
-  "updated": "2026-11-23T13:38:39.438205+00:00",
+  "updated": "2026-11-23T15:23:30.003835+00:00",
   "offers": [
+    {
+      "title": "B&B stay at top-rated 4* hotel in picturesque Český Krumlov, Czechia 💕 for €65/double",
+      "summary": "Discover the fairytale charm of Český Krumlov, one of the Czech Republic’s most lovely destinations! Stay at the highly rated 4-star hotel with breakfast included from just €65 per double room. Wake up to a delicious breakfast before explor",
+      "url": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-cesky-krumlov-e65/",
+      "source": "Fly4free.com",
+      "date": "2026-11-23T15:00:47+00:00",
+      "dateLabel": "23. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-cesky-krumlov-e65/",
+      "firstSeen": "2026-11-23T15:23:30.003835+00:00",
+      "priceOrig": {
+        "amount": 65,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "Z Bratislavy do řecké Soluně na prodloužené víkendy s výletem ke klášterům Meteora. Letenky od 1 003 Kč",
+      "summary": "Řecká Soluň je fajn tip na zimní prodloužený víkend. Z Bratislavy sem teď můžete vyrazit s Ryanairem za akční ceny a kromě města samotného si udělat i výlet po okolí.",
+      "url": "https://www.cestujlevne.com/akcni-letenky/z-bratislavy-do-recke-solune-na-prodlouzeny-vikend-s-vyletem-ke-klasterum-meteora",
+      "source": "CestujLevne.com",
+      "date": "2026-11-23T14:08:02+00:00",
+      "dateLabel": "23. 11. 2026",
+      "price": 1003,
+      "image": "",
+      "id": "https://www.cestujlevne.com/akcni-letenky/z-bratislavy-do-recke-solune-na-prodlouzeny-vikend-s-vyletem-ke-klasterum-meteora",
+      "firstSeen": "2026-11-23T15:23:30.003835+00:00",
+      "priceOrig": null
+    },
     {
       "title": "BAHAMY v hlavní sezóně - 13 290 Kč",
       "summary": "Akční letenky z Prahy si připravila aerolinka United. V nabídce aerolinky United se objevila akce na open-jaw letenky z Prahy na Bahamy s návratem do Mnichova. Zpáteční letenky pořídíme za 13 290 Kč. Po cestě tam nás čekají 2 přestupy v Mni",
@@ -12,6 +41,35 @@
       "image": "",
       "id": "https://honzovyletenky.cz/bahamy-v-hlavni-sezone/",
       "firstSeen": "2026-11-23T13:38:39.438205+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "BRAZILIAN SUMMER 😎 🍹 Non-stop flights from Madrid to Sao Paulo for €587",
+      "summary": "Experience comfort, reliability, and direct service to one of Brazil’s most exciting destinations! LATAM is offering discounted flights to Sao Paulo starting at only €587 for a round trip.",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-madrid-to-sao-paulo-e587/",
+      "source": "Fly4free.com",
+      "date": "2026-11-23T13:55:02+00:00",
+      "dateLabel": "23. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-madrid-to-sao-paulo-e587/",
+      "firstSeen": "2026-11-23T15:23:30.003835+00:00",
+      "priceOrig": {
+        "amount": 587,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "Kanáry za příjemnou cenu: Týden na Lanzarote s polopenzí za 9 340 Kč",
+      "summary": "Zarezervujte si týden na Lanzarote za 9 340 Kč na osobu se slevovým kódem. Z Prahy do 4* THB Tropical Island s polopenzí, bazény a prostornými apartmány.",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/kanary-za-prijemnou-cenu-tyden-na-lanzarote-s-polopenzi-za-9-340-kc?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-11-23T13:54:03+00:00",
+      "dateLabel": "23. 11. 2026",
+      "price": 9340,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/kanary-za-prijemnou-cenu-tyden-na-lanzarote-s-polopenzi-za-9-340-kc?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-11-23T15:23:30.003835+00:00",
       "priceOrig": null
     },
     {
@@ -57,8 +115,8 @@
       "priceOrig": null
     },
     {
-      "title": "Fantastic Sale 😎 ✌️ Cheap flights from Italy & Spain to major US cities from €303",
-      "summary": "Aer Lingus is offering discounted airfares to Chicago, Los Angeles, Boston, Washington D.C. and New York starting at €303 for a round trip!",
+      "title": "Fantastic Sale 😎 ✌️ Cheap flights from Italy & Spain to major US cities from €293",
+      "summary": "Aer Lingus is offering discounted airfares to Chicago, Los Angeles, Boston, Washington D.C. and New York starting at €293 for a round trip!",
       "url": "https://www.fly4free.com/flight-deals/europe/flights-from-italy-spain-to-usa-e303/",
       "source": "Fly4free.com",
       "date": "2026-11-23T11:45:55+00:00",
@@ -68,7 +126,7 @@
       "id": "https://www.fly4free.com/flight-deals/europe/flights-from-italy-spain-to-usa-e303/",
       "firstSeen": "2026-11-23T13:38:39.438205+00:00",
       "priceOrig": {
-        "amount": 303,
+        "amount": 293,
         "cur": "EUR"
       }
     },
@@ -3691,100 +3749,6 @@
         "amount": 502,
         "cur": "EUR"
       }
-    },
-    {
-      "title": "Týden u Rudého moře s all-inclusive a sluníčkem i na konci listopadu. Zájezd od 11 990 Kč",
-      "summary": "Za teplem a sluníčkem nemusíte ani v listopadu cestovat daleko. Stačí něco málo přes čtyři hodiny letu z Prahy a můžete si užívat příjemné teploty kolem 25 °C, pláže i koupání v Rudém moři.",
-      "url": "https://www.cestujlevne.com/akcni-letenky/tyden-v-marsa-alam-s-all-inclusive-a-slunickem-i-na-konci-listopadu",
-      "source": "CestujLevne.com",
-      "date": "2026-11-16T15:19:01+00:00",
-      "dateLabel": "16. 11. 2026",
-      "price": 11990,
-      "image": "",
-      "id": "https://www.cestujlevne.com/akcni-letenky/tyden-v-marsa-alam-s-all-inclusive-a-slunickem-i-na-konci-listopadu",
-      "firstSeen": "2026-11-16T15:23:22.679445+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Za klidem na Zanzibar. 8 dní v útulném 4* resortu přímo u pláže za 24 990 Kč",
-      "summary": "Jen 37 pokojů, tropická zahrada a pláž s bílým pískem. Čedok nabízí Zanzibar ve 4* resortu s All Inclusive – mrkněte na zájezd a dopřejte si dovolenou v klidu.",
-      "url": "https://levnocestovani.cz/akcni-zajezdy/za-klidem-na-zanzibar-8-dni-v-utulnem-4-resortu-primo-u-plaze-za-24-990-kc?utm_source=rss&utm_medium=feed",
-      "source": "Levnocestovani.cz",
-      "date": "2026-11-16T15:18:11+00:00",
-      "dateLabel": "16. 11. 2026",
-      "price": 24990,
-      "image": "",
-      "id": "https://levnocestovani.cz/akcni-zajezdy/za-klidem-na-zanzibar-8-dni-v-utulnem-4-resortu-primo-u-plaze-za-24-990-kc?utm_source=rss&utm_medium=feed",
-      "firstSeen": "2026-11-16T15:23:22.679445+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Mexiko: předvánoční letenky z Prahy do San José del Cabo za 10 783 Kč",
-      "summary": "Rezervuj: přímo přes náš vyhledávač Zavazadla: příruční bágl o rozměrech do 40 × 30 × 10 cm Dostupnost: listopad a prosinec 2026 Příkladové termíny a ceny: 20. – 27. 11. za 11 027 Kč → Zobrazit let 20. – 30. 11. za 11 271 Kč → Zobrazit let",
-      "url": "https://zaletsi.cz/akce/mexiko-predvanocni-letenky-z-prahy-do-san-jose-del-cabo/",
-      "source": "Zaleťsi.cz",
-      "date": "2026-11-16T15:09:14+00:00",
-      "dateLabel": "16. 11. 2026",
-      "price": 10783,
-      "image": "",
-      "id": "https://zaletsi.cz/akce/mexiko-predvanocni-letenky-z-prahy-do-san-jose-del-cabo/",
-      "firstSeen": "2026-11-16T17:28:13.501140+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Nejlevnější letenky do MEXIKA - 10 701 Kč",
-      "summary": "Za super cenu jsou dostupné letenky na západní pobřeží Mexika. Zpáteční letenky z Prahy do San Jose del Cabo pořídíme už za 10 701 Kč. Nejvýhodnější letenky jsou dostupné na přelom listopadu a prosince 2026. V ceně nejlevnějšího tarifu máme",
-      "url": "https://honzovyletenky.cz/nejlevnejsi-letenky-do-mexika-2/",
-      "source": "Honzovy letenky",
-      "date": "2026-11-16T14:08:51+00:00",
-      "dateLabel": "16. 11. 2026",
-      "price": 10701,
-      "image": "",
-      "id": "https://honzovyletenky.cz/nejlevnejsi-letenky-do-mexika-2/",
-      "firstSeen": "2026-11-16T15:23:22.679445+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "🚢 Spring 2027 cruise deal: Portugal to Germany through 6 countries in 9 days from €399 p.p.",
-      "summary": "This is a really interesting 9-day / 8-night one-way cruise aboard Costa Diadema, starting on Portugal’s Atlantic coast and finishing in northern Germany. For €399 per person, you get a route through Portugal, Spain, France, England, Denmar",
-      "url": "https://www.fly4free.com/flight-deals/europe/9-day-cruise-from-portugal-to-germany-e399/",
-      "source": "Fly4free.com",
-      "date": "2026-11-16T14:00:07+00:00",
-      "dateLabel": "16. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/9-day-cruise-from-portugal-to-germany-e399/",
-      "firstSeen": "2026-11-16T15:23:22.679445+00:00",
-      "priceOrig": {
-        "amount": 399,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Buzz: Praha - Tirana - 853 Kč",
-      "summary": "",
-      "url": "https://www.akcniletenky.com",
-      "source": "AkčníLetenky.com",
-      "date": "2026-11-16T14:00:00+00:00",
-      "dateLabel": "16. 11. 2026",
-      "price": 853,
-      "image": "",
-      "id": "734",
-      "firstSeen": "2026-11-16T15:23:22.679445+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Dovolená na Tenerife v Puerto de la Cruz: 8 dní s All Inclusive s odletem z Prahy za 13 990 Kč",
-      "summary": "Zájezd na Tenerife ještě více zlevnil! Užijte si 8 dní s All Inclusive ve 4* hotelu Blue Sea Puerto Resort v Puerto de la Cruz s odletem z Prahy za 13 990 Kč.",
-      "url": "https://levnocestovani.cz/akcni-zajezdy/dovolena-na-tenerife-v-puerto-de-la-cruz-8-dni-s-all-inclusive-s-odletem-z-prahy-za-13-990-kc?utm_source=rss&utm_medium=feed",
-      "source": "Levnocestovani.cz",
-      "date": "2026-11-16T13:45:32+00:00",
-      "dateLabel": "16. 11. 2026",
-      "price": 13990,
-      "image": "",
-      "id": "https://levnocestovani.cz/akcni-zajezdy/dovolena-na-tenerife-v-puerto-de-la-cruz-8-dni-s-all-inclusive-s-odletem-z-prahy-za-13-990-kc?utm_source=rss&utm_medium=feed",
-      "firstSeen": "2026-11-16T15:23:22.679445+00:00",
-      "priceOrig": null
     }
   ]
 }
