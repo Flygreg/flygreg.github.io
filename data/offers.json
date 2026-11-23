@@ -1,6 +1,100 @@
 {
-  "updated": "2026-11-23T07:52:57.746811+00:00",
+  "updated": "2026-11-23T09:40:21.114677+00:00",
   "offers": [
+    {
+      "title": "Last minute zájezd na LANZAROTE - 9 740 Kč",
+      "summary": "Levné zájezdy na Kanáry pořídíme u Čedoku. CK Čedok nabízí levné last minute zájezdy z Prahy na Kanáry. Díky Black Friday slevě 2 500 Kč na zájezdy objednané od 20.11.2026 do 29.11.2026 po zadání kódu BLACKFRIDAY2026CZ při rezervaci, pořídí",
+      "url": "https://honzovyletenky.cz/last-minute-zajezd-na-lanzarote/",
+      "source": "Honzovy letenky",
+      "date": "2026-11-23T09:51:03+00:00",
+      "dateLabel": "23. 11. 2026",
+      "price": 9740,
+      "image": "",
+      "id": "https://honzovyletenky.cz/last-minute-zajezd-na-lanzarote/",
+      "firstSeen": "2026-11-23T09:40:21.114677+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Týden mezi sopečnou krajinou a oceánem na Lanzarote z Prahy s polopenzí za 10 340 Kč",
+      "summary": "Odleťte za jarními teplotami na ostrov Lanzarote! Týdenní zájezd z Prahy do 4* hotelu Pocillos Playa s polopenzí pořídíte díky slevě 2 500 Kč za 10 340 Kč.",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/tyden-mezi-sopecnou-krajinou-a-oceanem-na-lanzarote-z-prahy-s-polopenzi-za-10-340-kc?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-11-23T09:32:09+00:00",
+      "dateLabel": "23. 11. 2026",
+      "price": 10340,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/tyden-mezi-sopecnou-krajinou-a-oceanem-na-lanzarote-z-prahy-s-polopenzi-za-10-340-kc?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-11-23T09:40:21.114677+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Jarní výlet 2v1: Lanzarote + Barcelona. Od 2 893 Kč.",
+      "summary": "Jarní výlet 2v1: Lanzarote + Barcelona od 2 893 Kč.",
+      "url": "https://www.obletsvet.cz/akcni-letenka/jarni-vylet-2v1-lanzarote-barcelona",
+      "source": "Obletsvet.cz",
+      "date": "2026-11-23T09:14:42+00:00",
+      "dateLabel": "23. 11. 2026",
+      "price": 2893,
+      "image": "",
+      "id": "https://www.obletsvet.cz/akcni-letenka/jarni-vylet-2v1-lanzarote-barcelona",
+      "firstSeen": "2026-11-23T09:40:21.114677+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Letenky do Londýna z Prahy za 1531 Kč, z Brna za 1125 Kč",
+      "summary": "Z Prahy seženete letenku do Londýna s Ryanairem od 1 531 Kč, s Wizz Airem od 2 119 Kč nebo s easyJetem od 2 582 Kč. Z Brna vyjde let na pouhých 1 125 Kč, z Ostravy na 1 278 Kč – a za takové peníze se prostě letí. Londýn je město, které větš",
+      "url": "https://www.levneletenkyzprahy.cz/2767_letenky-do-londyna-z-prahy-za-1531-kc,-z-brna-za-1125-kc",
+      "source": "Levné letenky z Prahy",
+      "date": "2026-11-23T09:11:13+00:00",
+      "dateLabel": "23. 11. 2026",
+      "price": 1531,
+      "image": "",
+      "id": "https://www.levneletenkyzprahy.cz/2767_letenky-do-londyna-z-prahy-za-1531-kc,-z-brna-za-1125-kc",
+      "firstSeen": "2026-11-23T09:40:21.114677+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "PEAK SEASON 🌴 🥥 2-in-1 flights from Prague, Vienna or Berlin to Abu Dhabi & Sri Lanka from €463",
+      "summary": "This itinerary combines a warm Middle Eastern stopover with a tropical escape to Sri Lanka — and the best part is that all flights are direct, operated by Pegasus and Etihad Airways.",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-prague-or-berlin-to-abu-dhabi-and-sri-lanka-e463/",
+      "source": "Fly4free.com",
+      "date": "2026-11-23T09:00:18+00:00",
+      "dateLabel": "23. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-prague-or-berlin-to-abu-dhabi-and-sri-lanka-e463/",
+      "firstSeen": "2026-11-23T09:40:21.114677+00:00",
+      "priceOrig": {
+        "amount": 463,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "Buy & Fly: Už zítra za sluncem na Lanzarote na týden do 4* hotelů s polopenzí. Zájezd od 9 740 Kč",
+      "summary": "S Čedokem se můžete už zítra vydat na kanárský ostrov Lanzarote, a to za opravdu povedené last minute ceny. Díky aktuálnímu slevovému kódu BLACKFRIDAY2026CZ navíc pořídíte zájezd ještě levněji, s polopenzí už od 9 740 Kč na osobu.",
+      "url": "https://www.cestujlevne.com/akcni-letenky/buy-fly-uz-zitra-za-sluncem-na-lanzarote-na-tyden-do-4-hotelu-s-polopenzi",
+      "source": "CestujLevne.com",
+      "date": "2026-11-23T08:32:00+00:00",
+      "dateLabel": "23. 11. 2026",
+      "price": 9740,
+      "image": "",
+      "id": "https://www.cestujlevne.com/akcni-letenky/buy-fly-uz-zitra-za-sluncem-na-lanzarote-na-tyden-do-4-hotelu-s-polopenzi",
+      "firstSeen": "2026-11-23T09:40:21.114677+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Dovolená na Zanzibaru z Prahy nebo Bratislavy: 4* hotel s All Inclusive na týden za 26 240 Kč",
+      "summary": "pojte odpočinek u oceánu s poznáváním. Vydejte se na Zanzibar z Prahy či Bratislavy na týden s all inclusive do 4* resortu Dongwe Club Vacanze jen za 26 240 Kč.",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/dovolena-na-zanzibaru-z-prahy-nebo-bratislavy-4-hotel-s-all-inclusive-na-tyden-za-26-240-kc?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-11-23T08:16:34+00:00",
+      "dateLabel": "23. 11. 2026",
+      "price": 26240,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/dovolena-na-zanzibaru-z-prahy-nebo-bratislavy-4-hotel-s-all-inclusive-na-tyden-za-26-240-kc?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-11-23T09:40:21.114677+00:00",
+      "priceOrig": null
+    },
     {
       "title": "ŘÍM z Prahy za tisícovku - 978 Kč",
       "summary": "Levné letenky do italské metropole pořídíme u aerolinky Ryanair. Zpáteční letenky z Prahy do Říma pořídíme už za 978 Kč. Nejvýhodnější letenky jsou dostupné na lednové termíny a to třeba jen na jednu noc, týdenní pobyt nebo pár dní. V ceně",
@@ -13,6 +107,22 @@
       "id": "https://honzovyletenky.cz/rim-z-prahy-za-tisicovku/",
       "firstSeen": "2026-11-23T07:52:57.746811+00:00",
       "priceOrig": null
+    },
+    {
+      "title": "BEST SEASON ☀️ Cheap full-service flights from London to exotic Malaysian Borneo 🦧 for £486",
+      "summary": "Head off on a trip to exotic Borneo! China Southern Airlines are offering discounted flights to Kota Kinabalu, Malaysia starting at only £486 for a round trip.",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-malaysian-borneo-p486/",
+      "source": "Fly4free.com",
+      "date": "2026-11-23T08:00:44+00:00",
+      "dateLabel": "23. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-malaysian-borneo-p486/",
+      "firstSeen": "2026-11-23T09:40:21.114677+00:00",
+      "priceOrig": {
+        "amount": 486,
+        "cur": "GBP"
+      }
     },
     {
       "title": "FARE DROP 💥 Cheap non-stop flights from Stockholm to Bangkok, Thailand for €375",
@@ -3720,103 +3830,6 @@
       "image": "",
       "id": "https://www.fly4free.com/flight-deals/europe/%e2%9a%a1%e2%9a%a1-wizz-air-plans-loyalty-programme-with-points-and-miles/",
       "firstSeen": "2026-11-16T11:35:39.248351+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Cheap open-jaw flights from Prague to Vietnam, returning to London for €462",
-      "summary": "Discover the magic of Vietnam! Take advantage of this combination of discounted Vietjet Air and Hainan Airlines/Air China/Shenzhen Airlines flights starting at just €462 return! This deal is perfect for travellers looking for an affordable",
-      "url": "https://www.fly4free.com/flight-deals/europe/open-jaw-flights-from-prague-to-vietnam-462/",
-      "source": "Fly4free.com",
-      "date": "2026-11-16T09:00:42+00:00",
-      "dateLabel": "16. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/open-jaw-flights-from-prague-to-vietnam-462/",
-      "firstSeen": "2026-11-16T11:35:39.248351+00:00",
-      "priceOrig": {
-        "amount": 462,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Zimní letenky na nové lince z Prahy do Popradu od 1 314 Kč",
-      "summary": "Rezervuj: přes náš vyhledávač Zavazadla: příruční bágl o rozměrech do 40 × 30 × 20 cm Dostupnost: prosinec 2026 – březen 2027 Termíny od 1 314 Kč → Zobrazit kalendář Chceš letenky levněji? Použij kód „ZALETSI“ v posledním kroku rezervace. O",
-      "url": "https://zaletsi.cz/akce/zimni-letenky-na-nove-lince-z-prahy-do-popradu/",
-      "source": "Zaleťsi.cz",
-      "date": "2026-11-16T08:59:07+00:00",
-      "dateLabel": "16. 11. 2026",
-      "price": 1314,
-      "image": "",
-      "id": "https://zaletsi.cz/akce/zimni-letenky-na-nove-lince-z-prahy-do-popradu/",
-      "firstSeen": "2026-11-16T15:23:22.679445+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Týden v Keni s all-inclusive na krásném pobřeží Indického oceánu. Zájezd od 22 990 Kč",
-      "summary": "Za exotikou do Keni můžete vyrazit za super cenu, a navíc s odletem až za více než týden. Čedok nabízí týdenní dovolenou ve čtyřhvězdičkovém hotelu AHG Lion Beach Resort v letovisku Watamu za 22 990 Kč na osobu.",
-      "url": "https://www.cestujlevne.com/akcni-letenky/tyden-v-keni-s-all-inclusive-na-krasnem-pobrezi-indickeho-oceanu",
-      "source": "CestujLevne.com",
-      "date": "2026-11-16T08:51:53+00:00",
-      "dateLabel": "16. 11. 2026",
-      "price": 22990,
-      "image": "",
-      "id": "https://www.cestujlevne.com/akcni-letenky/tyden-v-keni-s-all-inclusive-na-krasnem-pobrezi-indickeho-oceanu",
-      "firstSeen": "2026-11-16T09:00:35.304803+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "5* hotel Pestana Royal, All Inclusive a odlet z Prahy – Madeira na týden za 16 990 Kč",
-      "summary": "Týden v 5* hotelu Pestana Royal na Madeiře s all inclusive a odletem z Prahy za 16 990 Kč. Objevujte uličky Funchalu i divoký Atlantik vlastním tempem.",
-      "url": "https://levnocestovani.cz/akcni-zajezdy/5-hotel-pestana-royal-all-inclusive-a-odlet-z-prahy-madeira-na-tyden-za-16-990-kc?utm_source=rss&utm_medium=feed",
-      "source": "Levnocestovani.cz",
-      "date": "2026-11-16T08:07:27+00:00",
-      "dateLabel": "16. 11. 2026",
-      "price": 16990,
-      "image": "",
-      "id": "https://levnocestovani.cz/akcni-zajezdy/5-hotel-pestana-royal-all-inclusive-a-odlet-z-prahy-madeira-na-tyden-za-16-990-kc?utm_source=rss&utm_medium=feed",
-      "firstSeen": "2026-11-16T09:00:35.304803+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Good deal 😎 ✌️ Cheap full-service flights from Budapest to Seoul, South Korea for €475",
-      "summary": "Ready for your next adventure? Discover the vibrant culture, delicious cuisine, and stunning landscapes of South Korea with this excellent China Eastern Airlines deal!",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-budapest-to-south-korea-e475/",
-      "source": "Fly4free.com",
-      "date": "2026-11-16T08:00:13+00:00",
-      "dateLabel": "16. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-budapest-to-south-korea-e475/",
-      "firstSeen": "2026-11-16T09:00:35.304803+00:00",
-      "priceOrig": {
-        "amount": 475,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Buzz: Praha - Benátky - 852 Kč",
-      "summary": "",
-      "url": "https://www.akcniletenky.com",
-      "source": "AkčníLetenky.com",
-      "date": "2026-11-16T08:00:00+00:00",
-      "dateLabel": "16. 11. 2026",
-      "price": 852,
-      "image": "",
-      "id": "732",
-      "firstSeen": "2026-11-16T09:00:35.304803+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Levně z Prahy do KATÁNIE - 1 145 Kč",
-      "summary": "V nabídce nízkonákladovky Ryanair pořídíme levné letenky na Sicílii. Zpáteční letenky z Prahy do Katánie jsou dostupné u aerolinky Ryanair už za 1 145 Kč. Za nejnižší cenu pořídíme spíše delší týdenní termíny ideální k procestování ostrova.",
-      "url": "https://honzovyletenky.cz/levne-z-prahy-do-katanie/",
-      "source": "Honzovy letenky",
-      "date": "2026-11-16T07:58:11+00:00",
-      "dateLabel": "16. 11. 2026",
-      "price": 1145,
-      "image": "",
-      "id": "https://honzovyletenky.cz/levne-z-prahy-do-katanie/",
-      "firstSeen": "2026-11-16T09:00:35.304803+00:00",
       "priceOrig": null
     }
   ]
