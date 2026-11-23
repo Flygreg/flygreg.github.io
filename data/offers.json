@@ -1,6 +1,51 @@
 {
-  "updated": "2026-11-23T19:17:13.044227+00:00",
+  "updated": "2026-11-23T21:05:07.541031+00:00",
   "offers": [
+    {
+      "title": "Exotic combination of flights 😎 🌴 Cape Verde + Recife, Brazil in one tropical trip from Amsterdam for €526",
+      "summary": "Why settle for one tropical destination when you can explore two? This exotic flight combination from Amsterdam lets you discover the beautiful beaches and volcanic landscapes of Cape Verde before heading to Recife, Brazil, for a taste of S",
+      "url": "https://www.fly4free.com/flight-deals/europe/trip-from-amsterdam-to-cape-verde-and-recife-e526/",
+      "source": "Fly4free.com",
+      "date": "2026-11-23T21:00:25+00:00",
+      "dateLabel": "23. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/trip-from-amsterdam-to-cape-verde-and-recife-e526/",
+      "firstSeen": "2026-11-23T21:05:07.541031+00:00",
+      "priceOrig": {
+        "amount": 526,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "HIGH SEASON ☀️ Full-service 2-in-1 flights from Frankfurt to Singapore & Oman for €577",
+      "summary": "Whether you're a foodie, nature lover, or city explorer, Singapore offers a dynamic mix of modern marvels and rich traditions! Book discounted Oman Air flights starting at €577 for a round trip.",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-frankfurt-to-singapore-oman-e577/",
+      "source": "Fly4free.com",
+      "date": "2026-11-23T20:00:51+00:00",
+      "dateLabel": "23. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-frankfurt-to-singapore-oman-e577/",
+      "firstSeen": "2026-11-23T21:05:07.541031+00:00",
+      "priceOrig": {
+        "amount": 577,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "Ještě před Vánocemi do Karibiku: Přímý let z Prahy a nový 5* resort za 29 840 Kč",
+      "summary": "Bílé písečné pláže, tyrkysové moře a nový 5* Serenade Caribe s bazény i línou řekou. Užijte si Dominikánu s Čedokem. Přímý let z Prahy – prohlédněte si zájezd.",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/jeste-pred-vanocemi-do-karibiku-primy-let-z-prahy-a-novy-5-resort-za-29-840-kc?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-11-23T19:43:13+00:00",
+      "dateLabel": "23. 11. 2026",
+      "price": 29840,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/jeste-pred-vanocemi-do-karibiku-primy-let-z-prahy-a-novy-5-resort-za-29-840-kc?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-11-23T21:05:07.541031+00:00",
+      "priceOrig": null
+    },
     {
       "title": "Nejlevnější THAJSKO z Prahy - 11 897 Kč",
       "summary": "Za nejnižší cenu pořídíme z Prahy do Thajska letenky u Air Arabia. Zpáteční letenky z Prahy do Phuketu pořídíme už za 11 897 Kč. Za tuto cenu pořídíme nejlevnější letenky s rychlým přestupem v Sharjah na přelomu listopadu a prosince 2026. S",
@@ -29,6 +74,19 @@
         "amount": 478,
         "cur": "EUR"
       }
+    },
+    {
+      "title": "Scandinavian: Praha - New York - 8 990 Kč",
+      "summary": "",
+      "url": "https://www.akcniletenky.com",
+      "source": "AkčníLetenky.com",
+      "date": "2026-11-23T19:00:00+00:00",
+      "dateLabel": "23. 11. 2026",
+      "price": 8990,
+      "image": "",
+      "id": "760",
+      "firstSeen": "2026-11-23T21:05:07.541031+00:00",
+      "priceOrig": null
     },
     {
       "title": "SUMMER ☀️ Austrian Airlines direct flights from Vienna to Los Angeles for €564",
@@ -3719,77 +3777,6 @@
       "image": "",
       "id": "736",
       "firstSeen": "2026-11-17T07:37:11.335872+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Stay at the tallest hotel in Thailand with insane views 🤩 4* iconic hotel in Bangkok from €59/double",
-      "summary": "Stay inside one of Bangkok’s most recognizable towers, with observation decks, panoramic restaurants and some of the city’s best views right above your room.",
-      "url": "https://www.fly4free.com/flight-deals/europe/iconic-hotel-bangkok-baiyoke/",
-      "source": "Fly4free.com",
-      "date": "2026-11-16T21:00:56+00:00",
-      "dateLabel": "16. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/iconic-hotel-bangkok-baiyoke/",
-      "firstSeen": "2026-11-16T22:59:40.879546+00:00",
-      "priceOrig": {
-        "amount": 59,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Jarní výlet 2v1 z Prahy: Turín + Barcelona. Od 2 097 Kč.",
-      "summary": "Jarní výlet 2v1 z Prahy: Turín + Barcelona od 2 097 Kč.",
-      "url": "https://www.obletsvet.cz/akcni-letenka/jarni-vylet-2v1-z-prahy-turin-barcelona",
-      "source": "Obletsvet.cz",
-      "date": "2026-11-16T20:12:42+00:00",
-      "dateLabel": "16. 11. 2026",
-      "price": 2097,
-      "image": "",
-      "id": "https://www.obletsvet.cz/akcni-letenka/jarni-vylet-2v1-z-prahy-turin-barcelona",
-      "firstSeen": "2026-11-16T21:02:11.613858+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Kanáry z Prahy: 7 nocí na Tenerife s polopenzí za 14 990 Kč",
-      "summary": "Zkraťte si podzim a vyměňte vrstvy oblečení za plavky. Týden na Tenerife s polopenzí i letenkou z Prahy teď pořídíte za skvělých 14 990 Kč.",
-      "url": "https://levnocestovani.cz/akcni-zajezdy/kanary-z-prahy-7-noci-na-tenerife-s-polopenzi-za-14-990-kc?utm_source=rss&utm_medium=feed",
-      "source": "Levnocestovani.cz",
-      "date": "2026-11-16T20:08:11+00:00",
-      "dateLabel": "16. 11. 2026",
-      "price": 14990,
-      "image": "",
-      "id": "https://levnocestovani.cz/akcni-zajezdy/kanary-z-prahy-7-noci-na-tenerife-s-polopenzi-za-14-990-kc?utm_source=rss&utm_medium=feed",
-      "firstSeen": "2026-11-16T21:02:11.613858+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "☀️ Caribbean winter escape! Full-service flights from Frankfurt to Puerto Rico from €570 return",
-      "summary": "Swap grey winter days for turquoise water, palm-lined beaches and warm Caribbean evenings. Condor and JetBlue are offering return flights from Frankfurt to San Juan from €571, including high-season dates.",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-frankfurt-to-puerto-rico-e570/",
-      "source": "Fly4free.com",
-      "date": "2026-11-16T20:00:27+00:00",
-      "dateLabel": "16. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-frankfurt-to-puerto-rico-e570/",
-      "firstSeen": "2026-11-16T21:02:11.613858+00:00",
-      "priceOrig": {
-        "amount": 570,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Varna z Bratislavy na prodloužené víkendy u Černého moře i v zimě. Letenky od 880 Kč",
-      "summary": "S Wizz Airem se můžete během zimy vydat z Bratislavy do bulharské Varny. Zpáteční letenky pořídíte za 36 EUR.",
-      "url": "https://www.cestujlevne.com/akcni-letenky/varna-z-bratislavy-na-prodlouzene-vikendy-u-cerneho-more-i-v-zime",
-      "source": "CestujLevne.com",
-      "date": "2026-11-16T19:30:24+00:00",
-      "dateLabel": "16. 11. 2026",
-      "price": 880,
-      "image": "",
-      "id": "https://www.cestujlevne.com/akcni-letenky/varna-z-bratislavy-na-prodlouzene-vikendy-u-cerneho-more-i-v-zime",
-      "firstSeen": "2026-11-16T21:02:11.613858+00:00",
       "priceOrig": null
     }
   ]
