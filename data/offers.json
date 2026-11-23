@@ -1,6 +1,48 @@
 {
-  "updated": "2026-11-23T11:17:36.892576+00:00",
+  "updated": "2026-11-23T13:38:39.438205+00:00",
   "offers": [
+    {
+      "title": "BAHAMY v hlavní sezóně - 13 290 Kč",
+      "summary": "Akční letenky z Prahy si připravila aerolinka United. V nabídce aerolinky United se objevila akce na open-jaw letenky z Prahy na Bahamy s návratem do Mnichova. Zpáteční letenky pořídíme za 13 290 Kč. Po cestě tam nás čekají 2 přestupy v Mni",
+      "url": "https://honzovyletenky.cz/bahamy-v-hlavni-sezone/",
+      "source": "Honzovy letenky",
+      "date": "2026-11-23T14:06:39+00:00",
+      "dateLabel": "23. 11. 2026",
+      "price": 13290,
+      "image": "",
+      "id": "https://honzovyletenky.cz/bahamy-v-hlavni-sezone/",
+      "firstSeen": "2026-11-23T13:38:39.438205+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Excellent hotel bargain 😉 B&B stay at well-rated 4✨ hotel on Lake Maggiore, Italy for €49/double",
+      "summary": "An amazing Lake Maggiore getaway for less! Enjoy a B&B stay at a well-rated 4-star hotel in one of Italy's most beautiful lake destinations for just €49 per night for two people. Wake up to the charm of northern Italy, explore picturesque l",
+      "url": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-lake-maggiore-e49/",
+      "source": "Fly4free.com",
+      "date": "2026-11-23T12:50:02+00:00",
+      "dateLabel": "23. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-lake-maggiore-e49/",
+      "firstSeen": "2026-11-23T13:38:39.438205+00:00",
+      "priceOrig": {
+        "amount": 49,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "Vietnam, Phu Quoc (5* Meliá Vinpearl): Přímý let z Prahy a All Inclusive za 29 890 Kč",
+      "summary": "Exotický Vietnam v hlavní sezóně! Užijte si týden na Phu Quoc v 5* resortu Meliá Vinpearl s All Inclusive a přímým letem z Prahy za parádních 29 890 Kč.",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/vietnam-phu-quoc-5-melia-vinpearl-primy-let-z-prahy-a-all-inclusive-za-29-890-kc?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-11-23T12:33:26+00:00",
+      "dateLabel": "23. 11. 2026",
+      "price": 29890,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/vietnam-phu-quoc-5-melia-vinpearl-primy-let-z-prahy-a-all-inclusive-za-29-890-kc?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-11-23T13:38:39.438205+00:00",
+      "priceOrig": null
+    },
     {
       "title": "Přímé letenky na MADEIRU z Prahy - 4 801 Kč",
       "summary": "Levné letenky na Madeiru nabízí Smartwings. V nabídce aerolinky Smartwings se objevily levné letenky z Prahy na Madeiru. Za zpáteční letenky zaplatíme 4 801 Kč. Za tuhle cenu pořídíte letenky po zadání kódu BLCK26, Black Friday sleva platí",
@@ -15,6 +57,22 @@
       "priceOrig": null
     },
     {
+      "title": "Fantastic Sale 😎 ✌️ Cheap flights from Italy & Spain to major US cities from €303",
+      "summary": "Aer Lingus is offering discounted airfares to Chicago, Los Angeles, Boston, Washington D.C. and New York starting at €303 for a round trip!",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-italy-spain-to-usa-e303/",
+      "source": "Fly4free.com",
+      "date": "2026-11-23T11:45:55+00:00",
+      "dateLabel": "23. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-italy-spain-to-usa-e303/",
+      "firstSeen": "2026-11-23T13:38:39.438205+00:00",
+      "priceOrig": {
+        "amount": 303,
+        "cur": "EUR"
+      }
+    },
+    {
       "title": "Egyptská Hurghada z Prahy za 8 740 Kč. Ubytování ve 4* resortu přímo u pláže s All Inclusive",
       "summary": "Egypt na 8 dní s All Inclusive za 8 740 Kč! Zaleťte si z Prahy do 4* resortu Sphinx Aqua Park Beach u písečné pláže díky Black Friday slevě od Čedoku.",
       "url": "https://levnocestovani.cz/akcni-zajezdy/egyptska-hurghada-z-prahy-za-8-740-kc-ubytovani-ve-4-resortu-primo-u-plaze-s-all-inclusive?utm_source=rss&utm_medium=feed",
@@ -26,6 +84,22 @@
       "id": "https://levnocestovani.cz/akcni-zajezdy/egyptska-hurghada-z-prahy-za-8-740-kc-ubytovani-ve-4-resortu-primo-u-plaze-s-all-inclusive?utm_source=rss&utm_medium=feed",
       "firstSeen": "2026-11-23T11:17:36.892576+00:00",
       "priceOrig": null
+    },
+    {
+      "title": "Winter in paradise 😎 🏝️ Full-service flights from several European cities to the Maldives from €562",
+      "summary": "Experience pure paradise with these full-service Gulf Air flights to Male starting at just €562 for a round trip! Switch city life for sugar-soft sands, crystal-clear seas, and tropical serenity-where you can unwind, adventure, and indulge",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-the-maldives-e562/",
+      "source": "Fly4free.com",
+      "date": "2026-11-23T11:00:13+00:00",
+      "dateLabel": "23. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-the-maldives-e562/",
+      "firstSeen": "2026-11-23T13:38:39.438205+00:00",
+      "priceOrig": {
+        "amount": 562,
+        "cur": "EUR"
+      }
     },
     {
       "title": "Last minute do Hurghady: Týden v hotelu přímo u pláže s all-inclusive za méně než 9 tisíc. Zájezd od 8 740 Kč",
@@ -3710,100 +3784,6 @@
       "image": "",
       "id": "https://levnocestovani.cz/akcni-zajezdy/dovolena-na-tenerife-v-puerto-de-la-cruz-8-dni-s-all-inclusive-s-odletem-z-prahy-za-13-990-kc?utm_source=rss&utm_medium=feed",
       "firstSeen": "2026-11-16T15:23:22.679445+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Týdenní zájezdy z Prahy na Tenerife: 4* hotely s all inclusive od 13 990 Kč",
-      "summary": "Zajisti si dovolenou: REZERVUJ ONLINE nebo telefonicky na čísle +420 770 104 598 Termín: 3. – 10. prosinec 2026 Hotely: 4* Hotel Blue Sea Puerto Resort – all inclusive | 13 990 Kč 4* Hotel Fergus Puerto de la Cruz – all inclusive | 14 990 K",
-      "url": "https://zaletsi.cz/zajezdy/tydenni-zajezdy-z-prahy-na-tenerife-4-hotely-s-all-inclusive/",
-      "source": "Zaleťsi.cz",
-      "date": "2026-11-16T13:31:34+00:00",
-      "dateLabel": "16. 11. 2026",
-      "price": 13990,
-      "image": "",
-      "id": "https://zaletsi.cz/zajezdy/tydenni-zajezdy-z-prahy-na-tenerife-4-hotely-s-all-inclusive/",
-      "firstSeen": "2026-11-16T15:23:22.679445+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Kapverdský Sal: dlouhé písečné pláže, oceán a all-inclusive přímo z Prahy. Zájezd od 20 990 Kč",
-      "summary": "Po delší době má zajímavou nabídku na Kapverdy i cestovní kancelář Blue Style. Týdenní dovolená na ostrově Sal vychází na 20 990 Kč na osobu, a to s all-inclusive.",
-      "url": "https://www.cestujlevne.com/akcni-letenky/za-sluncem-a-exotikou-na-kapverdy-s-all-inclusive-primo-z-prahy",
-      "source": "CestujLevne.com",
-      "date": "2026-11-16T13:28:32+00:00",
-      "dateLabel": "16. 11. 2026",
-      "price": 20990,
-      "image": "",
-      "id": "https://www.cestujlevne.com/akcni-letenky/za-sluncem-a-exotikou-na-kapverdy-s-all-inclusive-primo-z-prahy",
-      "firstSeen": "2026-11-16T15:23:22.679445+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Great deal! 🤩️️️️️️ Qatar Airways flights from Warsaw to Cebu, Philippines 🏝️ from €590",
-      "summary": "Looking for your next tropical getaway? Take advantage of this great Qatar Airways flight deal to Manila for just €590 round trip!",
-      "url": "https://www.fly4free.com/flight-deals/europe/qatar-airways-flights-from-warsaw-to-the-philippines-e590/",
-      "source": "Fly4free.com",
-      "date": "2026-11-16T12:30:20+00:00",
-      "dateLabel": "16. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/qatar-airways-flights-from-warsaw-to-the-philippines-e590/",
-      "firstSeen": "2026-11-16T15:23:22.679445+00:00",
-      "priceOrig": {
-        "amount": 590,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Bílý písek, tyrkysová laguna a 5* resort s All Inclusive: Maledivy z Prahy za 33 990 Kč",
-      "summary": "Bílý písek, tyrkysová laguna a šnorchlování u korálů. Týden v 5* plážovém resortu Villa Nautica na Maledivách s All Inclusive a odletem z Prahy za 33 990 Kč.",
-      "url": "https://levnocestovani.cz/akcni-zajezdy/bily-pisek-tyrkysova-laguna-a-5-resort-s-all-inclusive-maledivy-z-prahy-za-33-990-kc?utm_source=rss&utm_medium=feed",
-      "source": "Levnocestovani.cz",
-      "date": "2026-11-16T12:27:27+00:00",
-      "dateLabel": "16. 11. 2026",
-      "price": 33990,
-      "image": "",
-      "id": "https://levnocestovani.cz/akcni-zajezdy/bily-pisek-tyrkysova-laguna-a-5-resort-s-all-inclusive-maledivy-z-prahy-za-33-990-kc?utm_source=rss&utm_medium=feed",
-      "firstSeen": "2026-11-16T15:23:22.679445+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Jarní Alicante z Bratislavy na pobřeží Costa Blanca. Letenky od 880 Kč",
-      "summary": "Do španělského Alicante se můžete v březnu vydat díky levným letenkám od Wizz Airu z Bratislavy. Zpáteční letenky aktuálně pořídíte za 36 EUR.",
-      "url": "https://www.cestujlevne.com/akcni-letenky/jarni-alicante-z-bratislavy-na-pobrezi-costa-blanca",
-      "source": "CestujLevne.com",
-      "date": "2026-11-16T12:17:04+00:00",
-      "dateLabel": "16. 11. 2026",
-      "price": 880,
-      "image": "",
-      "id": "https://www.cestujlevne.com/akcni-letenky/jarni-alicante-z-bratislavy-na-pobrezi-costa-blanca",
-      "firstSeen": "2026-11-16T15:23:22.679445+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Vietnam bez přestupů: zájezd z Prahy do 5* rezortu na Phu Quoc od 27 690 Kč",
-      "summary": "Zajisti si dovolenou: REZERVUJ ONLINE nebo telefonicky na čísle +420 770 104 598 Termín: 22. – 30. listopad 2026 Hotely: 5* Melia Vinpearl Phu Quoc snídaně | 27 690 Kč polopenze | 29 440 Kč all inclusive | 31 490 Kč O akci Máš příští týden",
-      "url": "https://zaletsi.cz/zajezdy/vietnam-bez-prestupu-zajezd-z-prahy-do-5-rezortu-na-phu-quoc/",
-      "source": "Zaleťsi.cz",
-      "date": "2026-11-16T11:52:36+00:00",
-      "dateLabel": "16. 11. 2026",
-      "price": 27690,
-      "image": "",
-      "id": "https://zaletsi.cz/zajezdy/vietnam-bez-prestupu-zajezd-z-prahy-do-5-rezortu-na-phu-quoc/",
-      "firstSeen": "2026-11-16T15:23:22.679445+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Vietnam z Prahy přímým letem: 5* vily se soukromým bazénem a All Inclusive za 31 490 Kč",
-      "summary": "Vietnam z Prahy přímým letem za 31 490 Kč! Týden v 5* vile se soukromým bazénem a All Inclusive na ostrově Phu Quoc. Objevte tropický ráj bez starostí.",
-      "url": "https://levnocestovani.cz/akcni-zajezdy/vietnam-z-prahy-primym-letem-5-vily-se-soukromym-bazenem-a-all-inclusive-za-31-490-kc?utm_source=rss&utm_medium=feed",
-      "source": "Levnocestovani.cz",
-      "date": "2026-11-16T11:31:08+00:00",
-      "dateLabel": "16. 11. 2026",
-      "price": 31490,
-      "image": "",
-      "id": "https://levnocestovani.cz/akcni-zajezdy/vietnam-z-prahy-primym-letem-5-vily-se-soukromym-bazenem-a-all-inclusive-za-31-490-kc?utm_source=rss&utm_medium=feed",
-      "firstSeen": "2026-11-16T11:35:39.248351+00:00",
       "priceOrig": null
     }
   ]
