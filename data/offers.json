@@ -1,6 +1,48 @@
 {
-  "updated": "2026-11-22T22:57:26.665916+00:00",
+  "updated": "2026-11-23T07:52:57.746811+00:00",
   "offers": [
+    {
+      "title": "ŘÍM z Prahy za tisícovku - 978 Kč",
+      "summary": "Levné letenky do italské metropole pořídíme u aerolinky Ryanair. Zpáteční letenky z Prahy do Říma pořídíme už za 978 Kč. Nejvýhodnější letenky jsou dostupné na lednové termíny a to třeba jen na jednu noc, týdenní pobyt nebo pár dní. V ceně",
+      "url": "https://honzovyletenky.cz/rim-z-prahy-za-tisicovku/",
+      "source": "Honzovy letenky",
+      "date": "2026-11-23T08:01:18+00:00",
+      "dateLabel": "23. 11. 2026",
+      "price": 978,
+      "image": "",
+      "id": "https://honzovyletenky.cz/rim-z-prahy-za-tisicovku/",
+      "firstSeen": "2026-11-23T07:52:57.746811+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "FARE DROP 💥 Cheap non-stop flights from Stockholm to Bangkok, Thailand for €375",
+      "summary": "Dreaming of turquoise waters, white sand beaches, and tropical adventures? Now’s the perfect time to plan your escape! Discover the beauty of Thailand with discounted Norse flights starting at just €375 round-trip.",
+      "url": "https://www.fly4free.com/flight-deals/europe/direct-flights-from-stockholm-to-bangkok/",
+      "source": "Fly4free.com",
+      "date": "2026-11-23T07:00:48+00:00",
+      "dateLabel": "23. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/direct-flights-from-stockholm-to-bangkok/",
+      "firstSeen": "2026-11-23T07:52:57.746811+00:00",
+      "priceOrig": {
+        "amount": 375,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "Lauda: Vídeň - Malta - 950 Kč",
+      "summary": "",
+      "url": "https://www.akcniletenky.com",
+      "source": "AkčníLetenky.com",
+      "date": "2026-11-23T07:00:00+00:00",
+      "dateLabel": "23. 11. 2026",
+      "price": 950,
+      "image": "",
+      "id": "757",
+      "firstSeen": "2026-11-23T07:52:57.746811+00:00",
+      "priceOrig": null
+    },
     {
       "title": "SUMMER ☀️ Non-stop flights from Berlin to New York 🗽 for €441",
       "summary": "Skip the layovers and fly straight to the city that never sleeps with United — skyline views, Broadway nights, and Central Park strolls await. Book now these discounted United flights to Newark Airport (EWR) before this deal takes off!",
@@ -3776,35 +3818,6 @@
       "id": "https://honzovyletenky.cz/levne-z-prahy-do-katanie/",
       "firstSeen": "2026-11-16T09:00:35.304803+00:00",
       "priceOrig": null
-    },
-    {
-      "title": "Londýn, Anglie – akční letenky z Prahy za 1344 Kč, z Brna za 1230 Kč",
-      "summary": "Z Prahy se do Londýna dostanete s Ryanairem od 1 344 Kč – a za takovou cenu se prostě neváhá. Z Brna vyjde letenka ještě levněji, od 1 230 Kč. Londýn má pověst, která ho předchází: Big Ben, Temže, červené doubledeckery, ulice plné historie",
-      "url": "https://www.levneletenkyzprahy.cz/2760_londyn,-anglie-–-akcni-letenky-z-prahy-za-1344-kc,-z-brna-za-1230-kc",
-      "source": "Levné letenky z Prahy",
-      "date": "2026-11-16T07:15:17+00:00",
-      "dateLabel": "16. 11. 2026",
-      "price": 1344,
-      "image": "",
-      "id": "https://www.levneletenkyzprahy.cz/2760_londyn,-anglie-–-akcni-letenky-z-prahy-za-1344-kc,-z-brna-za-1230-kc",
-      "firstSeen": "2026-11-16T09:00:35.304803+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Thailand in High Season 😎 ☀️ Holiday in Phuket for €673 p.p: Full-service flights from Vienna + 10-night stay at top-rated 4* hotel",
-      "summary": "Looking for an easy winter escape to Thailand without paying peak-season package prices? This deal combines full-service Saudia flights to Phuket with a stay at the highly rated 4-star hotel for €673 per person, based on two people sharing.",
-      "url": "https://www.fly4free.com/flight-deals/europe/holiday-in-phuket-from-vienna-e673/",
-      "source": "Fly4free.com",
-      "date": "2026-11-16T07:00:08+00:00",
-      "dateLabel": "16. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/holiday-in-phuket-from-vienna-e673/",
-      "firstSeen": "2026-11-16T09:00:35.304803+00:00",
-      "priceOrig": {
-        "amount": 673,
-        "cur": "EUR"
-      }
     }
   ]
 }
