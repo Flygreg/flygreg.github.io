@@ -1,6 +1,48 @@
 {
-  "updated": "2026-11-23T21:05:07.541031+00:00",
+  "updated": "2026-11-24T07:39:10.838718+00:00",
   "offers": [
+    {
+      "title": "Nejlevnější NEW YORK - 8 990 Kč",
+      "summary": "Nášup levných termínů do New Yorku si připravila aerolinka SAS v nabídce z Prahy i okolních letišť. Nejlevnější letenky pořídíme s odletem z Prahy do New Yorku (Newark) s návratem do Beelína za 8 990 Kč. Letenky jsou dostupné s rychlými pře",
+      "url": "https://honzovyletenky.cz/nejlevnejsi-new-york-3/",
+      "source": "Honzovy letenky",
+      "date": "2026-11-24T07:57:41+00:00",
+      "dateLabel": "24. 11. 2026",
+      "price": 8990,
+      "image": "",
+      "id": "https://honzovyletenky.cz/nejlevnejsi-new-york-3/",
+      "firstSeen": "2026-11-24T07:39:10.838718+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "GREAT DEAL 🤩 Cheap flights from several German cities to New York & Los Angeles from €373",
+      "summary": "Whether you're craving the iconic skyline of NYC, the beaches of California or a classic American road trip, this is a fantastic opportunity to explore the United States without breaking the bank. Grab these bargain fares and start planning",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-germany-to-new-york-los-angeles-e373/",
+      "source": "Fly4free.com",
+      "date": "2026-11-24T07:00:26+00:00",
+      "dateLabel": "24. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-germany-to-new-york-los-angeles-e373/",
+      "firstSeen": "2026-11-24T07:39:10.838718+00:00",
+      "priceOrig": {
+        "amount": 373,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "Buzz: Bratislava - Agadir - 950 Kč",
+      "summary": "",
+      "url": "https://www.akcniletenky.com",
+      "source": "AkčníLetenky.com",
+      "date": "2026-11-24T07:00:00+00:00",
+      "dateLabel": "24. 11. 2026",
+      "price": 950,
+      "image": "",
+      "id": "761",
+      "firstSeen": "2026-11-24T07:39:10.838718+00:00",
+      "priceOrig": null
+    },
     {
       "title": "Exotic combination of flights 😎 🌴 Cape Verde + Recife, Brazil in one tropical trip from Amsterdam for €526",
       "summary": "Why settle for one tropical destination when you can explore two? This exotic flight combination from Amsterdam lets you discover the beautiful beaches and volcanic landscapes of Cape Verde before heading to Recife, Brazil, for a taste of S",
@@ -3749,35 +3791,6 @@
         "amount": 427,
         "cur": "EUR"
       }
-    },
-    {
-      "title": "It’s Mexico time! 😎 🍹 Flights from many European cities to Cancun from €569",
-      "summary": "Dreaming of turquoise water and white-sand beaches? This unbeatable Condor deal makes it real: fly from multiple European cities to Cancun from just €569 return and experience the magic of Mexico!",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-cancun-e569/",
-      "source": "Fly4free.com",
-      "date": "2026-11-17T07:00:57+00:00",
-      "dateLabel": "17. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-cancun-e569/",
-      "firstSeen": "2026-11-17T07:37:11.335872+00:00",
-      "priceOrig": {
-        "amount": 569,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Buzz: Bratislava - Malta - 980 Kč",
-      "summary": "",
-      "url": "https://www.akcniletenky.com",
-      "source": "AkčníLetenky.com",
-      "date": "2026-11-17T07:00:00+00:00",
-      "dateLabel": "17. 11. 2026",
-      "price": 980,
-      "image": "",
-      "id": "736",
-      "firstSeen": "2026-11-17T07:37:11.335872+00:00",
-      "priceOrig": null
     }
   ]
 }
