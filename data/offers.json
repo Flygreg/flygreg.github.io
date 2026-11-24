@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-24T21:08:57.282758+00:00",
+  "updated": "2026-11-24T23:10:33.291584+00:00",
   "offers": [
+    {
+      "title": "Great choice for your Philippines trip! 🇵🇭 Cheap 4* Ramada by Wyndham hotel in Manila for just €50/double",
+      "summary": "If you want to experience a more atmospheric side of Manila rather than staying in a modern business district, this is a particularly interesting base. You’ll be surrounded by Chinese-Filipino restaurants, markets, historic streets and temp",
+      "url": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-manila/",
+      "source": "Fly4free.com",
+      "date": "2026-11-24T21:17:41+00:00",
+      "dateLabel": "24. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-manila/",
+      "firstSeen": "2026-11-24T23:10:33.291584+00:00",
+      "priceOrig": {
+        "amount": 50,
+        "cur": "EUR"
+      }
+    },
     {
       "title": "🇹🇭 Thailand from €576 return! Turkish Airlines flights from Helsinki to Bangkok",
       "summary": "Thinking about a tropical escape or a longer trip through Southeast Asia? Turkish Airlines is offering return flights from Helsinki to Bangkok from €576, giving you a comfortable full-service option at a very attractive long-haul fare. Bang",
