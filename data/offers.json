@@ -1,6 +1,77 @@
 {
-  "updated": "2026-11-24T15:20:05.406883+00:00",
+  "updated": "2026-11-24T17:16:24.160159+00:00",
   "offers": [
+    {
+      "title": "Holiday in Bali, Indonesia for €730 p.p. 🌴 Full-service flights from Budapest + 10-night B&B stay at well-rated 4* resort",
+      "summary": "Discover the enchanting island of Bali! Book full-service flights from Budapest to Denpasar and accommodation at the well-rated resort in scenic Ubud for €730 per person (based on 2 people sharing).",
+      "url": "https://www.fly4free.com/flight-deals/europe/holiday-in-bali-from-budapest-2/",
+      "source": "Fly4free.com",
+      "date": "2026-11-24T17:00:54+00:00",
+      "dateLabel": "24. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/holiday-in-bali-from-budapest-2/",
+      "firstSeen": "2026-11-24T17:16:24.160159+00:00",
+      "priceOrig": {
+        "amount": 730,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "Exotika za skvělou cenu: Zanzibar s All Inclusive ve 4* resortu za 20 740 Kč",
+      "summary": "Vyrazte za exotikou na Zanzibar. Čeká vás menší 4* resort přímo u oceánu, tropická zahrada, dva bazény a All Inclusive. Odlet z Prahy či Bratislavy.",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/exotika-za-skvelou-cenu-zanzibar-s-all-inclusive-ve-4-resortu-za-20-740-kc?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-11-24T16:28:44+00:00",
+      "dateLabel": "24. 11. 2026",
+      "price": 20740,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/exotika-za-skvelou-cenu-zanzibar-s-all-inclusive-ve-4-resortu-za-20-740-kc?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-11-24T17:16:24.160159+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Z Prahy na Balkán: zimní prodloužené víkendy v albánské Tiraně. Letenky od 878 Kč",
+      "summary": "Zpestřete si zimu víkendovým výletem do albánské Tirany. U Ryanairu nyní pořídíte levné zpáteční letenky z Prahy na několik lednových i únorových víkendů, vždy od pátku do neděle.",
+      "url": "https://www.cestujlevne.com/akcni-letenky/lednove-a-unorove-prodlouzene-vikendy-v-albanske-tirane",
+      "source": "CestujLevne.com",
+      "date": "2026-11-24T16:08:57+00:00",
+      "dateLabel": "24. 11. 2026",
+      "price": 878,
+      "image": "",
+      "id": "https://www.cestujlevne.com/akcni-letenky/lednove-a-unorove-prodlouzene-vikendy-v-albanske-tirane",
+      "firstSeen": "2026-11-24T17:16:24.160159+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Kam na vánoční trhy za hranice Česka?",
+      "summary": "Chceš si letos užít vánoční atmosféru trochu jinak? Vyraz na vánoční trhy za hranice! Jen pár hodin od Česka na tebe čekají historická náměstí plná světýlek, vůně svařáku a vánoční trhy, které mají atmosféru jako z pohádky. Vybrali jsme pro",
+      "url": "https://zaletsi.cz/magazin/kam-na-vanocni-trhy-za-hranice-ceska/",
+      "source": "Zaleťsi.cz",
+      "date": "2026-11-24T15:48:17+00:00",
+      "dateLabel": "24. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://zaletsi.cz/magazin/kam-na-vanocni-trhy-za-hranice-ceska/",
+      "firstSeen": "2026-11-24T17:16:24.160159+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "🇰🇷 South Korea from €531 return! SAS flights from Vilnius, Riga & Tallinn",
+      "summary": "South Korea is one of those destinations where every day can feel completely different. One moment you’re walking through royal palaces and traditional hanok streets, the next you’re surrounded by neon signs, skincare shops, rooftop cafés a",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-baltics-to-seoul-e531/",
+      "source": "Fly4free.com",
+      "date": "2026-11-24T15:30:47+00:00",
+      "dateLabel": "24. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-baltics-to-seoul-e531/",
+      "firstSeen": "2026-11-24T17:16:24.160159+00:00",
+      "priceOrig": {
+        "amount": 531,
+        "cur": "EUR"
+      }
+    },
     {
       "title": "Týden v 5* resortu v Dominikáně za 25 740 Kč včetně All Inclusive a přímých letů",
       "summary": "Dovolená v Karibiku: pláž Cabeza de Toro, menší 5 *resort Bakour Punta Cana Suites a teploty kolem 30 °C. Přímý let z Prahy. Objevte last minute nabídku Čedoku.",
@@ -3947,64 +4018,6 @@
       "image": "",
       "id": "https://levnocestovani.cz/akcni-zajezdy/na-tenerife-za-12-490-kc-dovolena-ve-4-hotelu-fergus-puerto-de-la-cruz-s-odletem-z-prahy?utm_source=rss&utm_medium=feed",
       "firstSeen": "2026-11-17T19:18:57.617154+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Well-rated 4✨ Akeah Verdi Budapest for €45/double",
-      "summary": "Take advantage of this good deal and book a stay at the well-rated 4* hotel in Budapest for only €45 per night (based on 2 people sharing).",
-      "url": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-budapest-e45/",
-      "source": "Fly4free.com",
-      "date": "2026-11-17T17:00:10+00:00",
-      "dateLabel": "17. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-budapest-e45/",
-      "firstSeen": "2026-11-17T17:19:26.726994+00:00",
-      "priceOrig": {
-        "amount": 45,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "HIGH SEASON ☀️ Cheap full-service flights from Milan to Malaysia for €458",
-      "summary": "Pack your bags for an unforgettable adventure! Fly Air China to Kuala Lumpur starting at €458 roundtrip. Delicious cuisine, lush rainforests, tropical beaches, and vibrant culture are just a flight away.",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-milan-to-malaysia-e458/",
-      "source": "Fly4free.com",
-      "date": "2026-11-17T16:00:47+00:00",
-      "dateLabel": "17. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-milan-to-malaysia-e458/",
-      "firstSeen": "2026-11-17T17:19:26.726994+00:00",
-      "priceOrig": {
-        "amount": 458,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Ryanair: Memmingen - Gran Canaria - 1 220 Kč",
-      "summary": "",
-      "url": "https://www.akcniletenky.com",
-      "source": "AkčníLetenky.com",
-      "date": "2026-11-17T16:00:00+00:00",
-      "dateLabel": "17. 11. 2026",
-      "price": 1220,
-      "image": "",
-      "id": "739",
-      "firstSeen": "2026-11-17T17:19:26.726994+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "🏂 Ski and snowboard baggage fees: Here’s what Ryanair, Wizz Air, easyJet and others charge",
-      "summary": "Planning a winter holiday in the Alps, Scandinavia or other European ski resorts? Before booking your flights, it is worth checking not only the ticket prices but also the rules for carrying skis and snowboards. Some airlines allow passenge",
-      "url": "https://www.fly4free.com/flight-deals/europe/skis-and-snowboards-on-planes-how-much-does-it-cost/",
-      "source": "Fly4free.com",
-      "date": "2026-11-17T15:23:44+00:00",
-      "dateLabel": "17. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/skis-and-snowboards-on-planes-how-much-does-it-cost/",
-      "firstSeen": "2026-11-17T17:19:26.726994+00:00",
       "priceOrig": null
     }
   ]
