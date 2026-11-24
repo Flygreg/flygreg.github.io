@@ -1,6 +1,61 @@
 {
-  "updated": "2026-11-24T17:16:24.160159+00:00",
+  "updated": "2026-11-24T19:16:37.440900+00:00",
   "offers": [
+    {
+      "title": "INDIE za super cenu - 10 120 Kč",
+      "summary": "V nabídce skandinávské aerolinky SAS pořídíme levné letenky i do Indie. Zpáteční letenky z Prahy do Bombaje pořídíme už za 405 €, tedy asi 10 120 Kč. Nejvýhodnější letenky jsou dostupné na termíny v novém roce od ledna do března 2027. V cen",
+      "url": "https://honzovyletenky.cz/indie-za-super-cenu/",
+      "source": "Honzovy letenky",
+      "date": "2026-11-24T19:32:36+00:00",
+      "dateLabel": "24. 11. 2026",
+      "price": 10120,
+      "image": "",
+      "id": "https://honzovyletenky.cz/indie-za-super-cenu/",
+      "firstSeen": "2026-11-24T19:16:37.440900+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "15 dní v tropickém ráji za 54 740 Kč: Maledivy s plnou penzí a přímým letem",
+      "summary": "Bílé pláže, korálový útes, plážový bar i wellness centrum. Čedok nabízí 15 dní na Maledivách ve 4* resortu Fihalhohi – rezervujte si snovou dovolenou.",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/15-dni-v-tropickem-raji-za-54-740-kc-maledivy-s-plnou-penzi-a-primym-letem?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-11-24T19:15:40+00:00",
+      "dateLabel": "24. 11. 2026",
+      "price": 54740,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/15-dni-v-tropickem-raji-za-54-740-kc-maledivy-s-plnou-penzi-a-primym-letem?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-11-24T19:16:37.440900+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "🌴🤿 Two Caribbean islands in one last-minute trip! Bonaire + Curaçao from Amsterdam for €481",
+      "summary": "Why stay in grey December weather when you could spend it between turquoise bays, coral reefs, flamingos and colourful Caribbean towns? This itinerary combines Bonaire and Curaçao in one easy trip from Amsterdam for €481, giving you two isl",
+      "url": "https://www.fly4free.com/flight-deals/europe/amsterdam-curacao-bonaire-e481/",
+      "source": "Fly4free.com",
+      "date": "2026-11-24T18:30:07+00:00",
+      "dateLabel": "24. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/amsterdam-curacao-bonaire-e481/",
+      "firstSeen": "2026-11-24T19:16:37.440900+00:00",
+      "priceOrig": {
+        "amount": 481,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "“Stay seated, please”: Lufthansa launches a T-Shirt for the most impatient passengers",
+      "summary": "Lufthansa is launching a limited-edition collection of clothing and accessories featuring humorous reminders about onboard etiquette. Among them is a T-shirt urging passengers not to stand up immediately after landing. The collection will g",
+      "url": "https://www.fly4free.com/news/stay-seated-please-lufthansa-launches-a-t-shirt-for-the-most-impatient-passengers/",
+      "source": "Fly4free.com",
+      "date": "2026-11-24T17:42:13+00:00",
+      "dateLabel": "24. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/news/stay-seated-please-lufthansa-launches-a-t-shirt-for-the-most-impatient-passengers/",
+      "firstSeen": "2026-11-24T19:16:37.440900+00:00",
+      "priceOrig": null
+    },
     {
       "title": "Holiday in Bali, Indonesia for €730 p.p. 🌴 Full-service flights from Budapest + 10-night B&B stay at well-rated 4* resort",
       "summary": "Discover the enchanting island of Bali! Book full-service flights from Budapest to Denpasar and accommodation at the well-rated resort in scenic Ubud for €730 per person (based on 2 people sharing).",
@@ -16,6 +71,19 @@
         "amount": 730,
         "cur": "EUR"
       }
+    },
+    {
+      "title": "China Southern: Budapešť - Sydney - 17 990 Kč",
+      "summary": "",
+      "url": "https://www.akcniletenky.com",
+      "source": "AkčníLetenky.com",
+      "date": "2026-11-24T17:00:00+00:00",
+      "dateLabel": "24. 11. 2026",
+      "price": 17990,
+      "image": "",
+      "id": "764",
+      "firstSeen": "2026-11-24T19:16:37.440900+00:00",
+      "priceOrig": null
     },
     {
       "title": "Exotika za skvělou cenu: Zanzibar s All Inclusive ve 4* resortu za 20 740 Kč",
@@ -737,7 +805,7 @@
     },
     {
       "title": "Nové linky z Prahy od Smartwings – do Londýna a Amsterdamu",
-      "summary": "Tuzemská aerolinka Smartwings dnes oznámila rozšíření linek z Prahy – a rovnou dvě! Jedna zamíří do Londýna na letiště Gatwick a druhá do nizozemského Amsterdamu. Spuštění obou linek je v plánu ještě během letošního roku. Známe letový řád i",
+      "summary": "Tuzemská aerolinka Smartwings v prosinci spustí dvě nové linky z Prahy (PRG). V pátek 18. prosince zamíří na londýnské letiště Gatwick (LGW), v neděli 20. prosince pak do Amsterdamu (AMS). Do obou měst nabídne čtyři lety týdně, a do nizozem",
       "url": "https://zaletsi.cz/magazin/nove-linky-z-prahy-od-smartwings-do-londyna-a-amsterdamu/",
       "source": "Zaleťsi.cz",
       "date": "2026-11-23T15:17:00+00:00",
@@ -3973,51 +4041,6 @@
       "image": "",
       "id": "https://www.obletsvet.cz/akcni-letenka/rim-behem-zimy-z-prahy",
       "firstSeen": "2026-11-17T21:06:19.303241+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Cheap full-service flights from Amsterdam to Melbourne & Sydney, Australia 🐨 from €652. Open-jaw for €670",
-      "summary": "This amazing deal makes it more affordable than ever to explore the land Down Under! Xiamen Airlines are offering discounted flights starting at €652 for a round trip.",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-australia-e652/",
-      "source": "Fly4free.com",
-      "date": "2026-11-17T19:00:16+00:00",
-      "dateLabel": "17. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-australia-e652/",
-      "firstSeen": "2026-11-17T19:18:57.617154+00:00",
-      "priceOrig": {
-        "amount": 652,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Full-service flights from Frankfurt to Hawaii 🏝️ from €586",
-      "summary": "Hawaii is the ultimate island escape, where picture-perfect beaches meet lush jungles and turquoise bays. Walk in the shadow of legendary volcanoes, catch epic sunsets over Waikiki, and snorkel in crystal-clear waters filled with vibrant ma",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-frankfurt-to-the-hawaii-e606/",
-      "source": "Fly4free.com",
-      "date": "2026-11-17T18:02:18+00:00",
-      "dateLabel": "17. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-frankfurt-to-the-hawaii-e606/",
-      "firstSeen": "2026-11-17T19:18:57.617154+00:00",
-      "priceOrig": {
-        "amount": 586,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Na Tenerife za 12 490 Kč: Dovolená ve 4* hotelu Fergus Puerto de la Cruz s odletem z Prahy",
-      "summary": "Kanáry za 12 490 Kč na osobu? Objevte Tenerife s Čedokem a odletem z Prahy. Čeká vás 4* hotel Fergus Puerto de la Cruz i procházky u Atlantiku.",
-      "url": "https://levnocestovani.cz/akcni-zajezdy/na-tenerife-za-12-490-kc-dovolena-ve-4-hotelu-fergus-puerto-de-la-cruz-s-odletem-z-prahy?utm_source=rss&utm_medium=feed",
-      "source": "Levnocestovani.cz",
-      "date": "2026-11-17T17:40:35+00:00",
-      "dateLabel": "17. 11. 2026",
-      "price": 12490,
-      "image": "",
-      "id": "https://levnocestovani.cz/akcni-zajezdy/na-tenerife-za-12-490-kc-dovolena-ve-4-hotelu-fergus-puerto-de-la-cruz-s-odletem-z-prahy?utm_source=rss&utm_medium=feed",
-      "firstSeen": "2026-11-17T19:18:57.617154+00:00",
       "priceOrig": null
     }
   ]
