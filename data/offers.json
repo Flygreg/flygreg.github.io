@@ -1,6 +1,74 @@
 {
-  "updated": "2026-11-25T11:13:50.677479+00:00",
+  "updated": "2026-11-25T13:39:46.917520+00:00",
   "offers": [
+    {
+      "title": "Celé POBALTÍ z Ostravy - od 2 900 Kč",
+      "summary": "Za fajn cenu se z Ostravy dostaneme do všech pobaltských republik. V akci aerolinky LOT koupíme levné letenky z Ostravy do Rigy, Tallinnu i Vilniusu. Nejlevnější letenky koupíme do Rigy za 2 900 Kč, do Tallinnu pak za 3 000 Kč a do Vilniusu",
+      "url": "https://honzovyletenky.cz/cele-pobalti-z-ostravy/",
+      "source": "Honzovy letenky",
+      "date": "2026-11-25T13:49:04+00:00",
+      "dateLabel": "25. 11. 2026",
+      "price": 2900,
+      "image": "",
+      "id": "https://honzovyletenky.cz/cele-pobalti-z-ostravy/",
+      "firstSeen": "2026-11-25T13:39:46.917520+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "⚡⚡Booked with Norse Atlantic? The airline says its financial situation is critical",
+      "summary": "Norwegian airline Norse Atlantic Airways, known for its affordable long-haul fares, has reported a critical financial situation. The carrier urgently needs funding to continue operating and is in talks over a possible takeover.",
+      "url": "https://www.fly4free.com/flight-deals/europe/%e2%9a%a1%e2%9a%a1booked-with-norse-atlantic-the-airline-says-its-financial-situation-is-critical/",
+      "source": "Fly4free.com",
+      "date": "2026-11-25T13:14:08+00:00",
+      "dateLabel": "25. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/%e2%9a%a1%e2%9a%a1booked-with-norse-atlantic-the-airline-says-its-financial-situation-is-critical/",
+      "firstSeen": "2026-11-25T13:39:46.917520+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Last minute deal to Thailand 😉 Cheap full-service flights from Poland to Bangkok for €495",
+      "summary": "Planning a winter escape to Southeast Asia? World2Fly is offering attractive return fares from Poznan to Bangkok from just €495, making this a great chance to combine Thailand’s temples, food, city energy and tropical beaches in one trip.",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-poznan-to-bangkok-e495/",
+      "source": "Fly4free.com",
+      "date": "2026-11-25T12:57:20+00:00",
+      "dateLabel": "25. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-poznan-to-bangkok-e495/",
+      "firstSeen": "2026-11-25T13:39:46.917520+00:00",
+      "priceOrig": {
+        "amount": 495,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "Týden v Asii na poslední chvíli: Přímý let z Prahy na vietnamský Phu Quoc a 5* resort s All Inclusive za 28 390 Kč",
+      "summary": "Odleťte na poslední chvíli přímým letem z Prahy na vietnamský ostrov Phu Quoc! Týden v luxusním 5* vilovém resortu s All Inclusive vás vyjde na 28 390 Kč.",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/tyden-v-asii-na-posledni-chvili-primy-let-z-prahy-na-vietnamsky-phu-quoc-a-5-resort-s-all-inclusive-za-28-390-kc?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-11-25T12:43:22+00:00",
+      "dateLabel": "25. 11. 2026",
+      "price": 28390,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/tyden-v-asii-na-posledni-chvili-primy-let-z-prahy-na-vietnamsky-phu-quoc-a-5-resort-s-all-inclusive-za-28-390-kc?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-11-25T13:39:46.917520+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Týden na klidnějším kapverdském ostrově Boa Vista s all-inclusive. Zájezd od 21 990 Kč",
+      "summary": "Začátek prosince můžete strávit na kapverdském ostrově Boa Vista, kam nyní cestovní kanceláře Exim Tours a Fischer nabízejí povedený týdenní zájezd za 21 990 Kč na osobu.",
+      "url": "https://www.cestujlevne.com/akcni-letenky/tyden-na-klidnejsim-kapverdskem-ostrove-boa-vista-v-5-resortu-voi-praia-de-chaves-s-all-inclusive",
+      "source": "CestujLevne.com",
+      "date": "2026-11-25T12:36:08+00:00",
+      "dateLabel": "25. 11. 2026",
+      "price": 21990,
+      "image": "",
+      "id": "https://www.cestujlevne.com/akcni-letenky/tyden-na-klidnejsim-kapverdskem-ostrove-boa-vista-v-5-resortu-voi-praia-de-chaves-s-all-inclusive",
+      "firstSeen": "2026-11-25T13:39:46.917520+00:00",
+      "priceOrig": null
+    },
     {
       "title": "Akční letenky do HANOJE - 12 995 Kč",
       "summary": "V aktuální akci LOT najdeme levné letenky do Vietnamu. Aerolinka LOT ve své aktuální akci nabízí levné letenky z Prahy do Hanoje. Za zpáteční letenky zaplatíme 12 995 Kč. Po cestě máme jeden přestup ve Varšavě. Za tuto cenu najdeme letenky",
@@ -15,6 +83,35 @@
       "priceOrig": null
     },
     {
+      "title": "BEST SEASON 😎 🏝️ B&B stay at beachfront 4* hotel on the Indonesian island of Lombok for €37/double",
+      "summary": "Tropical escape! Head to Lombok, one of Indonesia's most beautiful islands, and enjoy a B&B stay at the 4-star Jayakarta Hotel Lombok. Prices start at just €37 per night for a double room, including breakfast. With its inviting tropical atm",
+      "url": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-lombok-indonesia-e37-2/",
+      "source": "Fly4free.com",
+      "date": "2026-11-25T12:00:36+00:00",
+      "dateLabel": "25. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-lombok-indonesia-e37-2/",
+      "firstSeen": "2026-11-25T13:39:46.917520+00:00",
+      "priceOrig": {
+        "amount": 37,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "Last Minute Kapverdy z Prahy: 4* resort Sol Dunas s All Inclusive za 21 990 Kč",
+      "summary": "Last Minute zájezd na Kapverdy z Prahy za skvělých 21 990 Kč! Čeká vás týden na ostrově Sal ve 4* resortu Sol Dunas s All Inclusive. Rezervujte včas!",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/last-minute-kapverdy-z-prahy-4-resort-sol-dunas-s-all-inclusive-za-21-990-kc?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-11-25T11:28:35+00:00",
+      "dateLabel": "25. 11. 2026",
+      "price": 21990,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/last-minute-kapverdy-z-prahy-4-resort-sol-dunas-s-all-inclusive-za-21-990-kc?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-11-25T13:39:46.917520+00:00",
+      "priceOrig": null
+    },
+    {
       "title": "Za výborným jídlem a úchvatnou krajinou Vietnamu: z Prahy do Hanoje s LOTem. Letenky od 12 995 Kč",
       "summary": "Polská aerolinka LOT nabízí akční zpáteční letenky z Prahy do Hanoje. Za super ceny se do Vietnamu můžete vydat v květnu i červnu.",
       "url": "https://www.cestujlevne.com/akcni-letenky/za-vybornym-jidlem-a-uchvatnou-krajinou-vietnamu-z-prahy-do-hanoje-s-lotem",
@@ -26,6 +123,22 @@
       "id": "https://www.cestujlevne.com/akcni-letenky/za-vybornym-jidlem-a-uchvatnou-krajinou-vietnamu-z-prahy-do-hanoje-s-lotem",
       "firstSeen": "2026-11-25T11:13:50.677479+00:00",
       "priceOrig": null
+    },
+    {
+      "title": "TAP Sale 😎 ✌️ Cheap flights from many European cities to major US cities from €355",
+      "summary": "Whether you're planning a city break, a longer American adventure or a visit across the pond, now is a great time to grab a bargain! Don't miss this limited-time TAP flight deal with prices starting at just €355 round trip.",
+      "url": "https://www.fly4free.com/flight-deals/europe/tap-flights-from-europe-to-usa-e355/",
+      "source": "Fly4free.com",
+      "date": "2026-11-25T11:00:25+00:00",
+      "dateLabel": "25. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/tap-flights-from-europe-to-usa-e355/",
+      "firstSeen": "2026-11-25T13:39:46.917520+00:00",
+      "priceOrig": {
+        "amount": 355,
+        "cur": "EUR"
+      }
     },
     {
       "title": "Wizz Air: Bratislava - Alicante - 980 Kč",
@@ -3879,126 +3992,6 @@
       "image": "",
       "id": "https://levnocestovani.cz/akcni-zajezdy/tyden-na-madeire-ve-4-hotelu-s-nadhernymi-vyhledy-za-10-590-kc?utm_source=rss&utm_medium=feed",
       "firstSeen": "2026-11-18T15:12:19.271272+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Na Srí Lanku přímým letem z polských Katovic na 10 dní vč. odbaveného zavazadla. Letenky od 11 330 Kč",
-      "summary": "Na Srí Lanku se objevily levné charterové letenky s přímým letem z polských Katovic. Zakoupíte je u CK Rainbow za 2 049 PLN v termínu 26.11.–7.12., takže si na ostrově užijete 10 nocí.",
-      "url": "https://www.cestujlevne.com/akcni-letenky/na-sri-lanku-primym-letem-z-polskych-katovic-na-10-dni-vc-odbaveneho-zavazadla",
-      "source": "CestujLevne.com",
-      "date": "2026-11-18T13:34:21+00:00",
-      "dateLabel": "18. 11. 2026",
-      "price": 11330,
-      "image": "",
-      "id": "https://www.cestujlevne.com/akcni-letenky/na-sri-lanku-primym-letem-z-polskych-katovic-na-10-dni-vc-odbaveneho-zavazadla",
-      "firstSeen": "2026-11-18T15:12:19.271272+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "TAP Portugal: Praha - Miami - 12 690 Kč",
-      "summary": "",
-      "url": "https://www.akcniletenky.com",
-      "source": "AkčníLetenky.com",
-      "date": "2026-11-18T13:00:00+00:00",
-      "dateLabel": "18. 11. 2026",
-      "price": 12690,
-      "image": "",
-      "id": "742",
-      "firstSeen": "2026-11-18T13:30:08.758078+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Na prodloužené víkendy z Prahy do italského Bergama od 1 287 Kč",
-      "summary": "Rezervuj: přes náš vyhledávač Zavazadla: příruční bágl o rozměrech do 40 × 30 × 20 cm Dostupnost: leden – duben 2027 Termíny od 1 287 Kč: 14. 1. – 17. 1. → Zobrazit let 22. 1. – 24. 1. → Zobrazit let 6. 2. – 9. 2. → Zobrazit let 11. 2. – 13",
-      "url": "https://zaletsi.cz/akce/na-prodlouzene-vikendy-z-prahy-do-italskeho-bergama/",
-      "source": "Zaleťsi.cz",
-      "date": "2026-11-18T12:41:55+00:00",
-      "dateLabel": "18. 11. 2026",
-      "price": 1287,
-      "image": "",
-      "id": "https://zaletsi.cz/akce/na-prodlouzene-vikendy-z-prahy-do-italskeho-bergama/",
-      "firstSeen": "2026-11-18T15:12:19.271272+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Exotická dovolená na Zanzibaru v 5* resortu s All Inclusive přímo u oceánu za 24 990 Kč",
-      "summary": "Vyměňte zimu za Indický oceán. Čeká vás 5* hotel přímo na zanzibarské pláži, All Inclusive, tyrkysové moře i odlet z Prahy za skvělých 24 990 Kč na osobu.",
-      "url": "https://levnocestovani.cz/akcni-zajezdy/exoticka-dovolena-na-zanzibaru-v-5-resortu-s-all-inclusive-primo-u-oceanu-za-24-990-kc?utm_source=rss&utm_medium=feed",
-      "source": "Levnocestovani.cz",
-      "date": "2026-11-18T12:33:19+00:00",
-      "dateLabel": "18. 11. 2026",
-      "price": 24990,
-      "image": "",
-      "id": "https://levnocestovani.cz/akcni-zajezdy/exoticka-dovolena-na-zanzibaru-v-5-resortu-s-all-inclusive-primo-u-oceanu-za-24-990-kc?utm_source=rss&utm_medium=feed",
-      "firstSeen": "2026-11-18T13:30:08.758078+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "✨Aurora hunting and skiing in Finland: a week in Kuuasamo with direct flights from Berlin from €522 p.p.",
-      "summary": "Want to experience proper Finnish winter and see the stunning Aurora? This deal combines direct Eurowings flights from Berlin to Kuusamo with 7 nights at a proper 4-star with breakfast for just €522 per person.",
-      "url": "https://www.fly4free.com/flight-deals/europe/winter-deal-in-kuusamo-hotel-direct-flights-from-berlin/",
-      "source": "Fly4free.com",
-      "date": "2026-11-18T12:30:06+00:00",
-      "dateLabel": "18. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/winter-deal-in-kuusamo-hotel-direct-flights-from-berlin/",
-      "firstSeen": "2026-11-18T13:30:08.758078+00:00",
-      "priceOrig": {
-        "amount": 522,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Applying for an Indian visa is about to get much easier",
-      "summary": "Getting a visa to visit India could soon become much easier. The country is reducing the number of visa categories, revising the rules for tourists and removing up to 70% of the fields from application forms. The existing Tourist Visa will",
-      "url": "https://www.fly4free.com/news/india-simplifies-visa-rules-for-tourists/",
-      "source": "Fly4free.com",
-      "date": "2026-11-18T12:23:21+00:00",
-      "dateLabel": "18. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/news/india-simplifies-visa-rules-for-tourists/",
-      "firstSeen": "2026-11-18T13:30:08.758078+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Za sluncem na Maltu s last minute letenkami z Prahy. Letenky od 3 424 Kč",
-      "summary": "Na Maltu se objevil jeden pěkný last minute termín. S aerolinkou KM Malta Airlines můžete vyrazit přímo z Prahy 21.–24.11., tedy od soboty do úterý. I koncem listopadu si tu navíc můžete užít spoustu sluníčka a příjemné teploty kolem 22 °C.",
-      "url": "https://www.cestujlevne.com/akcni-letenky/za-sluncem-na-maltu-s-last-minute-letenkami-z-prahy",
-      "source": "CestujLevne.com",
-      "date": "2026-11-18T12:16:13+00:00",
-      "dateLabel": "18. 11. 2026",
-      "price": 3424,
-      "image": "",
-      "id": "https://www.cestujlevne.com/akcni-letenky/za-sluncem-na-maltu-s-last-minute-letenkami-z-prahy",
-      "firstSeen": "2026-11-18T13:30:08.758078+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Levné MIAMI z Prahy - 12 304 Kč",
-      "summary": "Letenky do Miami za fajn cenu pořídíme u TAP. Aerolinka TAP Portugal v aktuální akci prodává levné letenky z Prahy do Miami. Za nejlevnější letenky s jedním rychlým přestupem v Lisabonu zaplatíme 12 304 Kč. Tuto cenu najdeme různě dlouhé te",
-      "url": "https://honzovyletenky.cz/levne-miami-z-prahy-2/",
-      "source": "Honzovy letenky",
-      "date": "2026-11-18T11:58:20+00:00",
-      "dateLabel": "18. 11. 2026",
-      "price": 12304,
-      "image": "",
-      "id": "https://honzovyletenky.cz/levne-miami-z-prahy-2/",
-      "firstSeen": "2026-11-18T11:15:30.192180+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Předvánoční pohoda v exotice: Kapverdy z Prahy s All Inclusive v 5* resortu za 23 990 Kč",
-      "summary": "Exotické Kapverdy z Prahy na týden za 23 990 Kč! Ubytování v 5* resortu s All Inclusive přímo u písečné pláže. Zjistěte více a unikněte za sluncem.",
-      "url": "https://levnocestovani.cz/akcni-zajezdy/predvanocni-pohoda-v-exotice-kapverdy-z-prahy-s-all-inclusive-v-5-resortu-za-23-990-kc?utm_source=rss&utm_medium=feed",
-      "source": "Levnocestovani.cz",
-      "date": "2026-11-18T11:39:47+00:00",
-      "dateLabel": "18. 11. 2026",
-      "price": 23990,
-      "image": "",
-      "id": "https://levnocestovani.cz/akcni-zajezdy/predvanocni-pohoda-v-exotice-kapverdy-z-prahy-s-all-inclusive-v-5-resortu-za-23-990-kc?utm_source=rss&utm_medium=feed",
-      "firstSeen": "2026-11-18T13:30:08.758078+00:00",
       "priceOrig": null
     }
   ]
