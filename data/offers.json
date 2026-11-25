@@ -1,6 +1,74 @@
 {
-  "updated": "2026-11-25T13:39:46.917520+00:00",
+  "updated": "2026-11-25T15:23:05.627207+00:00",
   "offers": [
+    {
+      "title": "Zimní AZORY na spoustu termínů - 5 853 Kč",
+      "summary": "Levné letenky na Azory najdeme přes zimu z Vídně. V rezervačním systému aerolinky TAP Portugal najdeme levné letenky z Vídně na Azory. Za zpáteční letenky do Ponta Delgada zaplatíme 5 853 Kč. Po cestě nás čeká jeden přestup v Lisabonu, kde",
+      "url": "https://honzovyletenky.cz/zimni-azory-na-spoustu-terminu/",
+      "source": "Honzovy letenky",
+      "date": "2026-11-25T15:55:47+00:00",
+      "dateLabel": "25. 11. 2026",
+      "price": 5853,
+      "image": "",
+      "id": "https://honzovyletenky.cz/zimni-azory-na-spoustu-terminu/",
+      "firstSeen": "2026-11-25T15:23:05.627207+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Scandinavian: Praha - Toronto - 10 490 Kč",
+      "summary": "",
+      "url": "https://www.akcniletenky.com",
+      "source": "AkčníLetenky.com",
+      "date": "2026-11-25T15:00:00+00:00",
+      "dateLabel": "25. 11. 2026",
+      "price": 10490,
+      "image": "",
+      "id": "767",
+      "firstSeen": "2026-11-25T15:23:05.627207+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Top-rated resort housed in 18th-century farmhouse in the Tuscany countryside 🍷 for €61/double",
+      "summary": "Enjoy the charm of traditional Tuscan architecture, peaceful surroundings and a relaxing atmosphere, all while being within easy reach of Siena's historic centre. A lovely countryside getaway for just €61 per night for two people!",
+      "url": "https://www.fly4free.com/flight-deals/europe/4-star-resort-in-the-tuscany-e61-3/",
+      "source": "Fly4free.com",
+      "date": "2026-11-25T14:50:59+00:00",
+      "dateLabel": "25. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/4-star-resort-in-the-tuscany-e61-3/",
+      "firstSeen": "2026-11-25T15:23:05.627207+00:00",
+      "priceOrig": {
+        "amount": 61,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "Za korálovými útesy Rudého moře: Last Minute Egypt z Prahy s All Inclusive za 12 190 Kč",
+      "summary": "Užijte si klidnou dovolenou v Egyptě bez dětí! Týden u Rudého moře v 4* resortu Viva Blue s All Inclusive a přímým letem z Prahy teď pořídíte za 12 190 Kč.",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/za-koralovymi-utesy-rudeho-more-last-minute-egypt-z-prahy-s-all-inclusive-za-12-190-kc?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-11-25T14:21:47+00:00",
+      "dateLabel": "25. 11. 2026",
+      "price": 12190,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/za-koralovymi-utesy-rudeho-more-last-minute-egypt-z-prahy-s-all-inclusive-za-12-190-kc?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-11-25T15:23:05.627207+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Z Prahy do Bangkoku a dál za krásami thajských ostrovů s LOTem. Letenky od 12 496 Kč",
+      "summary": "Kromě akčních letenek do vietnamské Hanoje nabízí polská aerolinka LOT skvělé ceny i do Thajska. Zpáteční letenky z Prahy do Bangkoku seženete na květen a červen za:",
+      "url": "https://www.cestujlevne.com/akcni-letenky/z-prahy-do-bangkoku-a-dal-za-krasami-thajskych-ostrovu-s-lotem",
+      "source": "CestujLevne.com",
+      "date": "2026-11-25T14:04:49+00:00",
+      "dateLabel": "25. 11. 2026",
+      "price": 12496,
+      "image": "",
+      "id": "https://www.cestujlevne.com/akcni-letenky/z-prahy-do-bangkoku-a-dal-za-krasami-thajskych-ostrovu-s-lotem",
+      "firstSeen": "2026-11-25T15:23:05.627207+00:00",
+      "priceOrig": null
+    },
     {
       "title": "Celé POBALTÍ z Ostravy - od 2 900 Kč",
       "summary": "Za fajn cenu se z Ostravy dostaneme do všech pobaltských republik. V akci aerolinky LOT koupíme levné letenky z Ostravy do Rigy, Tallinnu i Vilniusu. Nejlevnější letenky koupíme do Rigy za 2 900 Kč, do Tallinnu pak za 3 000 Kč a do Vilniusu",
@@ -13,6 +81,22 @@
       "id": "https://honzovyletenky.cz/cele-pobalti-z-ostravy/",
       "firstSeen": "2026-11-25T13:39:46.917520+00:00",
       "priceOrig": null
+    },
+    {
+      "title": "CHEAP 💥 Last minute flights from many European cities to exotic Trinidad and Tobago 🏝️ from €376",
+      "summary": "Ready to trade the European winter chill for Caribbean sunshine? Now you can fly to the island of Tobago from just €376 return with Condor! These round-trip deals from European cities bring you closer to a tropical paradise filled with palm",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-trinidad-and-tobago-e376/",
+      "source": "Fly4free.com",
+      "date": "2026-11-25T13:45:13+00:00",
+      "dateLabel": "25. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-trinidad-and-tobago-e376/",
+      "firstSeen": "2026-11-25T15:23:05.627207+00:00",
+      "priceOrig": {
+        "amount": 376,
+        "cur": "EUR"
+      }
     },
     {
       "title": "⚡⚡Booked with Norse Atlantic? The airline says its financial situation is critical",
@@ -3925,74 +4009,6 @@
         "amount": 855,
         "cur": "EUR"
       }
-    },
-    {
-      "title": "Přímé lety na jih Španělska: Sevilla z Norimberku od 1 815 Kč",
-      "summary": "Rezervuj: přes náš vyhledávač Zavazadla: příruční bágl o rozměrech do 40 × 30 × 20 cm Dostupnost: leden – březen 2027 Termíny od 1 815 Kč: 13. 1. – 20. 1. → Zobrazit let 17. 1. – 20. 1. → Zobrazit let 20. 1. – 27. 1. → Zobrazit let 24. 1. –",
-      "url": "https://zaletsi.cz/akce/prime-lety-na-jih-spanelska-sevilla-z-norimberku/",
-      "source": "Zaleťsi.cz",
-      "date": "2026-11-18T15:22:56+00:00",
-      "dateLabel": "18. 11. 2026",
-      "price": 1815,
-      "image": "",
-      "id": "https://zaletsi.cz/akce/prime-lety-na-jih-spanelska-sevilla-z-norimberku/",
-      "firstSeen": "2026-11-19T13:33:59.864482+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Týden u Rudého moře za 9 990 Kč: 4* resort v Egyptě s odletem z Prahy a All Inclusive v ceně",
-      "summary": "Vyhřáté Rudé moře, aquapark i neomezené drinky. Vyrazte na týden do egyptské Hurghady do 4* resortu s All Inclusive a letenkou z Prahy jen za 9 990 Kč.",
-      "url": "https://levnocestovani.cz/akcni-zajezdy/tyden-u-rudeho-more-za-9-990-kc-4-resort-v-egypte-s-odletem-z-prahy-a-all-inclusive-v-cene?utm_source=rss&utm_medium=feed",
-      "source": "Levnocestovani.cz",
-      "date": "2026-11-18T14:56:51+00:00",
-      "dateLabel": "18. 11. 2026",
-      "price": 9990,
-      "image": "",
-      "id": "https://levnocestovani.cz/akcni-zajezdy/tyden-u-rudeho-more-za-9-990-kc-4-resort-v-egypte-s-odletem-z-prahy-a-all-inclusive-v-cene?utm_source=rss&utm_medium=feed",
-      "firstSeen": "2026-11-18T15:12:19.271272+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "🚢 Mediterranean 8-day cruise across France, Italy, Tunisia & Spain aboard MSC Euribia from just €389 p.p.",
-      "summary": "This is a very well-balanced 8-day / 7-night Mediterranean cruise aboard MSC Euribia from Marseille. The cheapest departures are in January, allowing you to escape winter routine and have a week of endless fun aboard one of the newest MSC s",
-      "url": "https://www.fly4free.com/flight-deals/europe/7-day-cruise-msc-euribia-e499-2/",
-      "source": "Fly4free.com",
-      "date": "2026-11-18T14:00:27+00:00",
-      "dateLabel": "18. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/7-day-cruise-msc-euribia-e499-2/",
-      "firstSeen": "2026-11-18T15:12:19.271272+00:00",
-      "priceOrig": {
-        "amount": 389,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Předvánoční SICÍLIE - 805 Kč",
-      "summary": "Ještě před Vánocemi se můžeme zaletět ohřát na Sicílii. Zpáteční letenky z Bratislavy do Trapani pořídíme už za 32 €, tedy asi 805 Kč. Nejvýhodnější letenky jsou v nabídce na předvánoční týden. V ceně nejlevnějšího tarifu od aerolinky Ryana",
-      "url": "https://honzovyletenky.cz/predvanocni-sicilie/",
-      "source": "Honzovy letenky",
-      "date": "2026-11-18T13:54:32+00:00",
-      "dateLabel": "18. 11. 2026",
-      "price": 805,
-      "image": "",
-      "id": "https://honzovyletenky.cz/predvanocni-sicilie/",
-      "firstSeen": "2026-11-18T13:30:08.758078+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Týden na Madeiře ve 4* hotelu s nádhernými výhledy za 10 590 Kč",
-      "summary": "Madeira plná zelených hor, levád a nádherných vyhlídek. Čedok nabízí týden ve 4* hotelu s polopenzí za 10 590 Kč – rezervujte si dovolenou s odletem z Prahy.",
-      "url": "https://levnocestovani.cz/akcni-zajezdy/tyden-na-madeire-ve-4-hotelu-s-nadhernymi-vyhledy-za-10-590-kc?utm_source=rss&utm_medium=feed",
-      "source": "Levnocestovani.cz",
-      "date": "2026-11-18T13:45:25+00:00",
-      "dateLabel": "18. 11. 2026",
-      "price": 10590,
-      "image": "",
-      "id": "https://levnocestovani.cz/akcni-zajezdy/tyden-na-madeire-ve-4-hotelu-s-nadhernymi-vyhledy-za-10-590-kc?utm_source=rss&utm_medium=feed",
-      "firstSeen": "2026-11-18T15:12:19.271272+00:00",
-      "priceOrig": null
     }
   ]
 }
