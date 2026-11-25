@@ -1,6 +1,64 @@
 {
-  "updated": "2026-11-25T19:12:00.108983+00:00",
+  "updated": "2026-11-25T21:12:51.172220+00:00",
   "offers": [
+    {
+      "title": "TORONTO z Prahy za fajn cenu - 10 050 Kč",
+      "summary": "Levné letenky do Kanady pořídíme s SAS. Zpáteční letenky z Prahy do Toronta pořídíme už za 402 EUR co je asi za 10 050 Kč. Po cestě nás čeká jeden rychlý přestup v Kodani. Nejvýhodnější letenky jsou dostupné od února do května. V ceně každé",
+      "url": "https://honzovyletenky.cz/toronto-z-prahy-za-fajn-cenu/",
+      "source": "Honzovy letenky",
+      "date": "2026-11-25T21:02:38+00:00",
+      "dateLabel": "25. 11. 2026",
+      "price": 10050,
+      "image": "",
+      "id": "https://honzovyletenky.cz/toronto-z-prahy-za-fajn-cenu/",
+      "firstSeen": "2026-11-25T21:12:51.172220+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "HIGH SEASON ☀️ Cheap full-service flights from London to Kuala Lumpur, Malaysia for £383",
+      "summary": "Looking to explore Malaysia? Enjoy full-service Air China flights from London starting at just £383 for a round trip.",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-malaysia-p385/",
+      "source": "Fly4free.com",
+      "date": "2026-11-25T21:00:27+00:00",
+      "dateLabel": "25. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-malaysia-p385/",
+      "firstSeen": "2026-11-25T21:12:51.172220+00:00",
+      "priceOrig": {
+        "amount": 383,
+        "cur": "GBP"
+      }
+    },
+    {
+      "title": "SUMMER ☀️ Non-stop flights from Amsterdam to Nova Scotia, Canada for €423",
+      "summary": "Experience one of Canada’s most breathtaking provinces with discounted Westjet flights to Halifax starting at just €423 for a round trip! Nova Scotia is a wonderland for nature lovers, adventurers, and foodies.",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-madrid-amsterdam-to-nova-scotia-e423/",
+      "source": "Fly4free.com",
+      "date": "2026-11-25T20:00:12+00:00",
+      "dateLabel": "25. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-madrid-amsterdam-to-nova-scotia-e423/",
+      "firstSeen": "2026-11-25T21:12:51.172220+00:00",
+      "priceOrig": {
+        "amount": 423,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "Dominikána na týden s odletem zítra. Od 21 990 Kč.",
+      "summary": "Dominikána s odletem zítra z Prahy za 21 990 Kč.",
+      "url": "https://www.obletsvet.cz/akcni-letenka/dominikana-s-odletem-zitra",
+      "source": "Obletsvet.cz",
+      "date": "2026-11-25T19:20:55+00:00",
+      "dateLabel": "25. 11. 2026",
+      "price": 21990,
+      "image": "",
+      "id": "https://www.obletsvet.cz/akcni-letenka/dominikana-s-odletem-zitra",
+      "firstSeen": "2026-11-25T21:12:51.172220+00:00",
+      "priceOrig": null
+    },
     {
       "title": "PEAK SEASON 🌴 🥥 Non-stop flights from Frankfurt to exotic Maldives for €658",
       "summary": "Take advantage of this Discover Airlines flight deal with non-stop connections from Frankfurt to one of the world's most sought-after tropical destinations. The Maldives are at their best during this time of year, making this direct-flight",
@@ -16,6 +74,19 @@
         "amount": 658,
         "cur": "EUR"
       }
+    },
+    {
+      "title": "TAP Portugal: Mnichov - Sal - 8 590 Kč",
+      "summary": "",
+      "url": "https://www.akcniletenky.com",
+      "source": "AkčníLetenky.com",
+      "date": "2026-11-25T19:00:00+00:00",
+      "dateLabel": "25. 11. 2026",
+      "price": 8590,
+      "image": "",
+      "id": "768",
+      "firstSeen": "2026-11-25T21:12:51.172220+00:00",
+      "priceOrig": null
     },
     {
       "title": "Madeira na týden za 7 740 Kč: skvěle hodnocený 4* hotel se snídaní",
@@ -3766,7 +3837,7 @@
     },
     {
       "title": "Malaga, Španělsko – letenky za 2541 Kč, z Ostravy za 1396 Kč",
-      "summary": "Z Prahy se do Malagy dostanete Ryanairem od 2 541 Kč, z Ostravy pak dokonce od 1 396 Kč. Malaga má pověst města, které se do škatulky „přímořské letovisko\\\" prostě nevejde – patří k ní maurská pevnost Alcazaba tyčící se nad střechami staréh",
+      "summary": "Z Prahy se do Malagy dostanete Ryanairem od 2 541 Kč, z Ostravy pak dokonce od 1 396 Kč. Malaga má pověst města, které se do škatulky „přímořské letovisko\" prostě nevejde – patří k ní maurská pevnost Alcazaba tyčící se nad střechami starého",
       "url": "https://www.levneletenkyzprahy.cz/2763_malaga,-spanelsko-–-letenky-za-2541-kc,-z-ostravy-za-1396-kc",
       "source": "Levné letenky z Prahy",
       "date": "2026-11-19T09:28:16+00:00",
@@ -3940,64 +4011,6 @@
       "image": "",
       "id": "https://www.fly4free.com/flight-deals/europe/travel-insurance-sale-black-friday-3/",
       "firstSeen": "2026-11-19T07:37:39.532067+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Full-service flights from Lisbon to mega exotic Sao Tome and Principe 🌴 from €469",
-      "summary": "Visit one of the most unique destinations in Africa - all with comfort included. Jet off to Sao Tome and Principe with TAAG Angola Airlines flights starting at just €469! Adventure’s calling. Will you answer?",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-lisbon-to-sao-tome/",
-      "source": "Fly4free.com",
-      "date": "2026-11-18T21:00:26+00:00",
-      "dateLabel": "18. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-lisbon-to-sao-tome/",
-      "firstSeen": "2026-11-18T21:07:48.754918+00:00",
-      "priceOrig": {
-        "amount": 469,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "HIGH SEASON ☀️ ITA Airways non-stop flights from Rome to Bangkok, Thailand from €666",
-      "summary": "Dreaming of Thailand during the best travel season? This incredible flight deal makes it possible. ITA Airways are offering affordable non-stop flights to Bangkok starting at €666 round-trip - a rare opportunity to visit one of Asia’s most",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-rome-to-thailand-3-2/",
-      "source": "Fly4free.com",
-      "date": "2026-11-18T20:00:26+00:00",
-      "dateLabel": "18. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-rome-to-thailand-3-2/",
-      "firstSeen": "2026-11-18T21:07:48.754918+00:00",
-      "priceOrig": {
-        "amount": 666,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Madeira za 9 990 Kč. 7 nocí na evropské Havaji ve 4* hotelu se snídaní",
-      "summary": "Zelené hory, vodopády a nádherné vyhlídky. Objevte Madeiru s Čedokem za 9 990 Kč. Týden ve 4* hotelu Jardins d'Ajuda se snídaní – Rezervujte si zájezd.",
-      "url": "https://levnocestovani.cz/akcni-zajezdy/madeira-za-9-990-kc-7-noci-na-evropske-havaji-ve-4-hotelu-se-snidani?utm_source=rss&utm_medium=feed",
-      "source": "Levnocestovani.cz",
-      "date": "2026-11-18T19:43:42+00:00",
-      "dateLabel": "18. 11. 2026",
-      "price": 9990,
-      "image": "",
-      "id": "https://levnocestovani.cz/akcni-zajezdy/madeira-za-9-990-kc-7-noci-na-evropske-havaji-ve-4-hotelu-se-snidani?utm_source=rss&utm_medium=feed",
-      "firstSeen": "2026-11-18T21:07:48.754918+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "VIETNAM za super cenu - 12 990 Kč",
-      "summary": "V nabídce čínských aerolinek pořídíme levné letenky do Vietnamu. Zpáteční letenky z Mnichova do Hanoje pořídíme už za 12 990 Kč. Nejlevnější letenky jsou dostupné na prosincové termíny 2026 a to na kratší i delší termíny. V ceně máme klasic",
-      "url": "https://honzovyletenky.cz/vietnam-za-super-cenu-2/",
-      "source": "Honzovy letenky",
-      "date": "2026-11-18T19:12:08+00:00",
-      "dateLabel": "18. 11. 2026",
-      "price": 12990,
-      "image": "",
-      "id": "https://honzovyletenky.cz/vietnam-za-super-cenu-2/",
-      "firstSeen": "2026-11-18T19:13:37.257787+00:00",
       "priceOrig": null
     }
   ]
