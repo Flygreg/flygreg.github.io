@@ -1,6 +1,61 @@
 {
-  "updated": "2026-11-25T07:42:29.288388+00:00",
+  "updated": "2026-11-25T09:30:03.876544+00:00",
   "offers": [
+    {
+      "title": "5* DOMINIKÁNA s all inclusive - 25 340 Kč",
+      "summary": "Last minute zájezd do Dominikánské republiky nabízí CK Čedok. U cestovní kanceláře Čedok najdeme zájezd do Dominikánské republiky za super cenu. Díky Black Friday slevě 2 500 Kč na zájezdy objednané od 20.11.2026 do 29.11.2026 po zadání kód",
+      "url": "https://honzovyletenky.cz/5-dominikana-s-all-inclusive/",
+      "source": "Honzovy letenky",
+      "date": "2026-11-25T10:04:57+00:00",
+      "dateLabel": "25. 11. 2026",
+      "price": 25340,
+      "image": "",
+      "id": "https://honzovyletenky.cz/5-dominikana-s-all-inclusive/",
+      "firstSeen": "2026-11-25T09:30:03.876544+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Do Dominikány bez přestupu: 5* resort s All Inclusive za 23 740 Kč",
+      "summary": "Dominikána přímým letem z Prahy za 23 740 Kč na osobu se slevovým kódem. Týden v 5* Serenade Caribe Club s all inclusive, bazény a pláží přímo u resortu.",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/do-dominikany-bez-prestupu-5-resort-s-all-inclusive-za-23-740-kc?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-11-25T09:26:06+00:00",
+      "dateLabel": "25. 11. 2026",
+      "price": 23740,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/do-dominikany-bez-prestupu-5-resort-s-all-inclusive-za-23-740-kc?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-11-25T09:30:03.876544+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Full-service SWISS flights from Manchester to Bali, Indonesia 🌸 for £583",
+      "summary": "Escape to paradise without breaking the bank — discover stunning Bali with discounted Swiss & Singapore Airlines flights to Denpasar starting at £583 return. Your tropical adventure awaits!",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-manchester-to-bali-p583/",
+      "source": "Fly4free.com",
+      "date": "2026-11-25T09:00:55+00:00",
+      "dateLabel": "25. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-manchester-to-bali-p583/",
+      "firstSeen": "2026-11-25T09:30:03.876544+00:00",
+      "priceOrig": {
+        "amount": 583,
+        "cur": "GBP"
+      }
+    },
+    {
+      "title": "Za dobrodružstvím do Brazílie: odlet z Prahy, návrat do Mnichova nebo Berlína (bez nocování na letišti). Letenky od 11 462 Kč",
+      "summary": "Do brazilského Sao Paula se stále můžete vydat za akční ceny. Letenky z Prahy jsou dostupné na spoustu termínů od února až do května 2027. Jen zpátky poletíte trochu jinak – místo Prahy přistanete v Mnichově nebo Berlíně.",
+      "url": "https://www.cestujlevne.com/akcni-letenky/za-dobrodruzstvim-do-brazilie-z-prahy-bez-nocovani-na-letisti-s-navratem-do-mnichova-nebo-berlina",
+      "source": "CestujLevne.com",
+      "date": "2026-11-25T08:04:44+00:00",
+      "dateLabel": "25. 11. 2026",
+      "price": 11462,
+      "image": "",
+      "id": "https://www.cestujlevne.com/akcni-letenky/za-dobrodruzstvim-do-brazilie-z-prahy-bez-nocovani-na-letisti-s-navratem-do-mnichova-nebo-berlina",
+      "firstSeen": "2026-11-25T09:30:03.876544+00:00",
+      "priceOrig": null
+    },
     {
       "title": "Levné letenky do ANDALUSIE - 1 195 Kč",
       "summary": "Za výhodnou cenu pořídíme letenky na jih Španělska s Ryanair. Zpáteční leenky z Ostravy do Malagy jsou dostupné už za 1 195 Kč. Za nejnižší cenu pořídíme delší termíny v průběhu ledna 2027. V ceně nejlenvějšího tarifu od Ryanairu máme malé",
@@ -13,6 +68,22 @@
       "id": "https://honzovyletenky.cz/levne-letenky-do-andalusie-2/",
       "firstSeen": "2026-11-25T07:42:29.288388+00:00",
       "priceOrig": null
+    },
+    {
+      "title": "HIGH SEASON 🌴 🥥 3-in-1 trip from Prague to Istanbul, Kuala Lumpur, and a Malaysian laid-back island for €493",
+      "summary": "This itinerary has a really nice rhythm: first Istanbul, where Europe and Asia meet; then Kuala Lumpur, one of Southeast Asia’s easiest and most exciting capitals; and finally Pangkor Island, a quiet tropical escape where everything slows d",
+      "url": "https://www.fly4free.com/flight-deals/europe/3-in-1-trip-from-prague-to-istanbul-and-malaysia-e493/",
+      "source": "Fly4free.com",
+      "date": "2026-11-25T08:00:20+00:00",
+      "dateLabel": "25. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/3-in-1-trip-from-prague-to-istanbul-and-malaysia-e493/",
+      "firstSeen": "2026-11-25T09:30:03.876544+00:00",
+      "priceOrig": {
+        "amount": 493,
+        "cur": "EUR"
+      }
     },
     {
       "title": "Akční letenky: Bordeaux / Merignac, Francie za 1827 Kč",
@@ -29,7 +100,7 @@
     },
     {
       "title": "Etihad Airways flights from Bucharest to Bali, Indonesia 🌸 for €585",
-      "summary": "Discover one of the most famous islands worldwide! Book discounted Etihad Airways to Denpasar starting at only €585 for a round trip, an excellent fare from Romania.",
+      "summary": "Discover one of the world's most famous islands! Book discounted Etihad Airways to Denpasar starting at only €585 for a round trip, an excellent fare from Romania.",
       "url": "https://www.fly4free.com/flight-deals/europe/etihad-airways-flights-from-bucharest-to-bali-indonesia-e585/",
       "source": "Fly4free.com",
       "date": "2026-11-25T07:00:05+00:00",
@@ -3932,77 +4003,6 @@
       "id": "https://www.obletsvet.cz/akcni-letenka/vikend-v-lyonu-behem-cervna",
       "firstSeen": "2026-11-18T11:15:30.192180+00:00",
       "priceOrig": null
-    },
-    {
-      "title": "Zájezdy na ostrov věčného jara z Prahy: 4* hotely na Madeiře se snídaní od 9 590 Kč",
-      "summary": "Zajisti si dovolenou: REZERVUJ ONLINE nebo telefonicky na čísle +420 770 104 598 Termín: 27. listopad – 4. prosinec 2026 Hotely: 4* Hotel Vila Gale Santa Cruz – snídaně | 9 590 Kč 4* Hotel Jardins D’Ajuda – snídaně | 9 990 Kč 4* Hotel Jardi",
-      "url": "https://zaletsi.cz/zajezdy/zajezdy-na-ostrov-vecneho-jara-z-prahy-4-hotely-na-madeire-se-snidani/",
-      "source": "Zaleťsi.cz",
-      "date": "2026-11-18T09:28:29+00:00",
-      "dateLabel": "18. 11. 2026",
-      "price": 9590,
-      "image": "",
-      "id": "https://zaletsi.cz/zajezdy/zajezdy-na-ostrov-vecneho-jara-z-prahy-4-hotely-na-madeire-se-snidani/",
-      "firstSeen": "2026-11-18T15:12:19.271272+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Full-service flights from Bucharest to Taiwan for €544",
-      "summary": "Explore the wonders of Taiwan with full-service Air China flights to Taipei for just €544 return! Discover the vibrant streets of Taipei, admire the island's spectacular mountain scenery, sample delicious Taiwanese street food and experienc",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-bucharest-to-taiwan-e550/",
-      "source": "Fly4free.com",
-      "date": "2026-11-18T09:00:16+00:00",
-      "dateLabel": "18. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-bucharest-to-taiwan-e550/",
-      "firstSeen": "2026-11-18T09:19:16.174978+00:00",
-      "priceOrig": {
-        "amount": 544,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Předvánoční Kapverdy s all-inclusive a ubytováním v bungalovech. Zájezd od 23 070 Kč",
-      "summary": "Ještě před Vánoci můžete vyrazit za sluncem na Kapverdy. Místo zimy a předvánočního shonu vás čekají dlouhé písečné pláže, oceán a pořádná dávka odpočinku. Cestovky EXIM tours a Fischer teď nabízejí týdenní dovolenou na ostrově Sal za 23 07",
-      "url": "https://www.cestujlevne.com/akcni-letenky/predvanocni-kapverdy-s-all-inclusive-a-ubytovanim-v-bungalovech",
-      "source": "CestujLevne.com",
-      "date": "2026-11-18T08:28:28+00:00",
-      "dateLabel": "18. 11. 2026",
-      "price": 23070,
-      "image": "",
-      "id": "https://www.cestujlevne.com/akcni-letenky/predvanocni-kapverdy-s-all-inclusive-a-ubytovanim-v-bungalovech",
-      "firstSeen": "2026-11-18T09:19:16.174978+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "MAURICIUS pod 10k z Prahy - 9 940 Kč",
-      "summary": "Ultra levnou letenku na Mauricius nabízí Condor z Prahy. Zpáteční letenky z Prahy na Mauricius pořídíme v průběhu prosince už za 9 940 Kč. Nejvýhodnější letenka je dostupná s návratem na Štedrý den, i ostatní termíny jsou ale dostupné za vý",
-      "url": "https://honzovyletenky.cz/mauricius-pod-10k-z-prahy/",
-      "source": "Honzovy letenky",
-      "date": "2026-11-18T08:02:41+00:00",
-      "dateLabel": "18. 11. 2026",
-      "price": 9940,
-      "image": "",
-      "id": "https://honzovyletenky.cz/mauricius-pod-10k-z-prahy/",
-      "firstSeen": "2026-11-18T07:34:53.242228+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Prices down! 💥 Non-stop flights from several UK cities to exotic Barbados 🏝️ from £401",
-      "summary": "This excellent TUI deal makes Caribbean sunshine more affordable than ever. You can now book direct flights to Bridgetown for just £401 return, even during peak travel months when prices are usually much higher.",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-the-uk-to-barbados-p401/",
-      "source": "Fly4free.com",
-      "date": "2026-11-18T08:00:52+00:00",
-      "dateLabel": "18. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-the-uk-to-barbados-p401/",
-      "firstSeen": "2026-11-18T09:19:16.174978+00:00",
-      "priceOrig": {
-        "amount": 401,
-        "cur": "GBP"
-      }
     }
   ]
 }
