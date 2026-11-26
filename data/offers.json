@@ -1,6 +1,61 @@
 {
-  "updated": "2026-11-25T21:12:51.172220+00:00",
+  "updated": "2026-11-26T07:40:49.518221+00:00",
   "offers": [
+    {
+      "title": "Levně do PALERMA z Prahy - 1 078 Kč",
+      "summary": "Za výhodnou cenu jsou dostupné letenky z Prahy na Sicílii. Zpáteční letenky z Prahy do Palerma pořídíme už za 1 078 Kč. Nejvýhodnější letenky jsou dostupné na lednové termíny 2027 a to na týdenní pobyt. V ceně základního tarifu od aerolinky",
+      "url": "https://honzovyletenky.cz/levne-do-palerma-z-prahy/",
+      "source": "Honzovy letenky",
+      "date": "2026-11-26T08:02:17+00:00",
+      "dateLabel": "26. 11. 2026",
+      "price": 1078,
+      "image": "",
+      "id": "https://honzovyletenky.cz/levne-do-palerma-z-prahy/",
+      "firstSeen": "2026-11-26T07:40:49.518221+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Polsko: Gdaňsk – letenky z Prahy za 1190 Kč",
+      "summary": "Gdaňsk má pověst města, kde se vaří pivo, kupuje jantar a kde se – doslova – psaly dějiny. Loděnice, ve které v osmdesátých letech vzniklo hnutí Solidarność, stojí dodnes a je to jedno z těch míst, kde člověk opravdu pocítí, jak blízko máme",
+      "url": "https://www.levneletenkyzprahy.cz/2770_polsko:-gdansk-–-letenky-z-prahy-za-1190-kc",
+      "source": "Levné letenky z Prahy",
+      "date": "2026-11-26T08:01:14+00:00",
+      "dateLabel": "26. 11. 2026",
+      "price": 1190,
+      "image": "",
+      "id": "https://www.levneletenkyzprahy.cz/2770_polsko:-gdansk-–-letenky-z-prahy-za-1190-kc",
+      "firstSeen": "2026-11-26T07:40:49.518221+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "XMAS & NYE 🎆 🍾 Cheap non-stop flights from Paris to Calgary – gateway to amazing Banff National Park in Canada for €342",
+      "summary": "Swap the usual NYE celebrations for an unforgettable Canadian adventure and kick off the new year surrounded by nature! Westjet is offering discounted direct flights to Calgary for just €342 return. Calgary is the perfect gateway to the spe",
+      "url": "https://www.fly4free.com/flight-deals/europe/direct-flights-from-paris-to-calgary-e342-2/",
+      "source": "Fly4free.com",
+      "date": "2026-11-26T07:00:10+00:00",
+      "dateLabel": "26. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/direct-flights-from-paris-to-calgary-e342-2/",
+      "firstSeen": "2026-11-26T07:40:49.518221+00:00",
+      "priceOrig": {
+        "amount": 342,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "Wizz Air: Praha - Sicílie - 884 Kč",
+      "summary": "",
+      "url": "https://www.akcniletenky.com",
+      "source": "AkčníLetenky.com",
+      "date": "2026-11-26T06:00:00+00:00",
+      "dateLabel": "26. 11. 2026",
+      "price": 884,
+      "image": "",
+      "id": "769",
+      "firstSeen": "2026-11-26T07:40:49.518221+00:00",
+      "priceOrig": null
+    },
     {
       "title": "TORONTO z Prahy za fajn cenu - 10 050 Kč",
       "summary": "Levné letenky do Kanady pořídíme s SAS. Zpáteční letenky z Prahy do Toronta pořídíme už za 402 EUR co je asi za 10 050 Kč. Po cestě nás čeká jeden rychlý přestup v Kodani. Nejvýhodnější letenky jsou dostupné od února do května. V ceně každé",
@@ -3956,61 +4011,6 @@
       "image": "",
       "id": "https://www.cestujlevne.com/akcni-letenky/primym-letem-za-exotikou-na-vietnamsky-phu-quoc-luxusni-petihvezdickovy-resort-s-all-inclusive",
       "firstSeen": "2026-11-19T09:23:05.307741+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "CHEAP 💥 Last minute flights from many European cities to exotic Trinidad and Tobago 🏝️ from €386",
-      "summary": "Ready to trade the European winter chill for Caribbean sunshine? Now you can fly to the island of Trinidad from just €386 return with Condor! These round-trip deals from European cities bring you closer to a tropical paradise filled with pa",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-trinidad-and-tobago-e386/",
-      "source": "Fly4free.com",
-      "date": "2026-11-19T07:00:46+00:00",
-      "dateLabel": "19. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-trinidad-and-tobago-e386/",
-      "firstSeen": "2026-11-19T07:37:39.532067+00:00",
-      "priceOrig": {
-        "amount": 386,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Lauda: Vídeň - Neapol - 980 Kč",
-      "summary": "",
-      "url": "https://www.akcniletenky.com",
-      "source": "AkčníLetenky.com",
-      "date": "2026-11-19T07:00:00+00:00",
-      "dateLabel": "19. 11. 2026",
-      "price": 980,
-      "image": "",
-      "id": "744",
-      "firstSeen": "2026-11-19T07:37:39.532067+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Last minute zájezdy z Prahy na Zanzibar s all inclusive od 23 490 Kč",
-      "summary": "Zajisti si dovolenou: REZERVUJ ONLINE nebo telefonicky na čísle +420 770 104 598 Termín: 22. – 30. listopad 2026 Hotely: 4* Hotel Sea View Lodge – polopenze | 23 490 Kč 4* Hotel Waridi Beach Resort and SPA – all inclusive | 25 990 Kč 4* Hot",
-      "url": "https://zaletsi.cz/zajezdy/last-minute-zajezdy-z-prahy-na-zanzibar-s-all-inclusive/",
-      "source": "Zaleťsi.cz",
-      "date": "2026-11-19T06:57:24+00:00",
-      "dateLabel": "19. 11. 2026",
-      "price": 23490,
-      "image": "",
-      "id": "https://zaletsi.cz/zajezdy/last-minute-zajezdy-z-prahy-na-zanzibar-s-all-inclusive/",
-      "firstSeen": "2026-11-19T13:33:59.864482+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Heymondo Black Friday Sale! 15% off your travel insurance ✈️🏥",
-      "summary": "Grab a 15% discount on Heymondo travel insurance by using the link provided in this article during this Black Friday sale!",
-      "url": "https://www.fly4free.com/flight-deals/europe/travel-insurance-sale-black-friday-3/",
-      "source": "Fly4free.com",
-      "date": "2026-11-19T06:15:25+00:00",
-      "dateLabel": "19. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/travel-insurance-sale-black-friday-3/",
-      "firstSeen": "2026-11-19T07:37:39.532067+00:00",
       "priceOrig": null
     }
   ]
