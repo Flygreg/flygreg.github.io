@@ -1,6 +1,93 @@
 {
-  "updated": "2026-11-28T01:28:28.102114+00:00",
+  "updated": "2026-11-28T10:31:45.286745+00:00",
   "offers": [
+    {
+      "title": "Budapešť, Maďarsko – akční letenky z Prahy za 1323 Kč",
+      "summary": "Budapešť je město, které vás dostane jinak než většina evropských metropolí – a maďarská kuchyně je sama o sobě dobrý důvod, proč tam vyrazit i bez dalšího programu. Gulyáš, lángos, tokajské víno a trhy, kde se to celé prolíná s každodenním",
+      "url": "https://www.levneletenkyzprahy.cz/2772_budapest,-madarsko-–-akcni-letenky-z-prahy-za-1323-kc",
+      "source": "Levné letenky z Prahy",
+      "date": "2026-11-28T10:35:14+00:00",
+      "dateLabel": "28. 11. 2026",
+      "price": 1323,
+      "image": "",
+      "id": "https://www.levneletenkyzprahy.cz/2772_budapest,-madarsko-–-akcni-letenky-z-prahy-za-1323-kc",
+      "firstSeen": "2026-11-28T10:31:45.286745+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Fantastic deal! 😍🚢 8-night cruise from Rome to four Canary Islands & Madeira aboard MSC Fantasia for just €270 p.p.",
+      "summary": "Price alert: An 8-night cruise for only €270 per person! Board MSC Fantasia in Rome and embark on an exciting island-hopping adventure through the Atlantic. This fantastic itinerary includes visits to four Gran Canaria, La Palma, Tenerife,",
+      "url": "https://www.fly4free.com/flight-deals/europe/cheap-msc-cruise-e270/",
+      "source": "Fly4free.com",
+      "date": "2026-11-28T09:51:05+00:00",
+      "dateLabel": "28. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/cheap-msc-cruise-e270/",
+      "firstSeen": "2026-11-28T10:31:45.286745+00:00",
+      "priceOrig": {
+        "amount": 270,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "Skvěle hodnocený 5* resort přímo u pláže na Zanzibaru – týden s All Inclusive z Bratislavy za 24 540 Kč",
+      "summary": "Bílý písek, tyrkysový oceán a naprostý klid. Užijte si 8 dní na Zanzibaru ve skvěle hodnoceném 5* resortu s All Inclusive z Bratislavy za 24 540 Kč.",
+      "url": "https://levnocestovani.cz/akcni-zajezdy/skvele-hodnoceny-5-resort-primo-u-plaze-na-zanzibaru-tyden-s-all-inclusive-z-bratislavy-za-24-540-kc?utm_source=rss&utm_medium=feed",
+      "source": "Levnocestovani.cz",
+      "date": "2026-11-28T09:39:40+00:00",
+      "dateLabel": "28. 11. 2026",
+      "price": 24540,
+      "image": "",
+      "id": "https://levnocestovani.cz/akcni-zajezdy/skvele-hodnoceny-5-resort-primo-u-plaze-na-zanzibaru-tyden-s-all-inclusive-z-bratislavy-za-24-540-kc?utm_source=rss&utm_medium=feed",
+      "firstSeen": "2026-11-28T10:31:45.286745+00:00",
+      "priceOrig": null
+    },
+    {
+      "title": "Cheap full-service flights from many European cities to Los Angeles 🏄 from €393",
+      "summary": "Soak up the sun, stroll Hollywood Boulevard, or explore Yosemite — your West Coast adventure awaits! Royal Air Maroc is offering discounted airfares to Los Angeles starting at €393 for a round trip.",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-los-angeles-e393/",
+      "source": "Fly4free.com",
+      "date": "2026-11-28T09:00:31+00:00",
+      "dateLabel": "28. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-los-angeles-e393/",
+      "firstSeen": "2026-11-28T10:31:45.286745+00:00",
+      "priceOrig": {
+        "amount": 393,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "Last minute Etihad Airways flights from several European cities to Hanoi, Vietnam 🍜 from €487",
+      "summary": "Ready for your Vietnam adventure? Etihad Airways are offering discounted flights to Hanoi starting at just €487 roundtrip!",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-hanoi-e487/",
+      "source": "Fly4free.com",
+      "date": "2026-11-28T08:00:41+00:00",
+      "dateLabel": "28. 11. 2026",
+      "price": null,
+      "image": "",
+      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-hanoi-e487/",
+      "firstSeen": "2026-11-28T10:31:45.286745+00:00",
+      "priceOrig": {
+        "amount": 487,
+        "cur": "EUR"
+      }
+    },
+    {
+      "title": "Buzz: Bratislava - Palermo - 830 Kč",
+      "summary": "",
+      "url": "https://www.akcniletenky.com",
+      "source": "AkčníLetenky.com",
+      "date": "2026-11-28T07:00:00+00:00",
+      "dateLabel": "28. 11. 2026",
+      "price": 830,
+      "image": "",
+      "id": "777",
+      "firstSeen": "2026-11-28T10:31:45.286745+00:00",
+      "priceOrig": null
+    },
     {
       "title": "Non-stop flights from Athens to Cairo or Luxor, Egypt 🏺📜 from €112",
       "summary": "Escape to the land of pharaohs and pyramids with these non-stop flights from Greece to Cairo or Luxor, starting at just €112 for a round trip!",
@@ -3883,132 +3970,6 @@
         "amount": 543,
         "cur": "EUR"
       }
-    },
-    {
-      "title": "Týden na keňském pobřeží: Blue Bay Village s All Inclusive za 16 740 Kč",
-      "summary": "Vyrazte z Prahy do Keni za 16 740 Kč na osobu se slevovým kódem. Týden ve 4* Blue Bay Village ve Watamu přímo u pláže se stravováním all inclusive soft.",
-      "url": "https://levnocestovani.cz/akcni-zajezdy/tyden-na-kenskem-pobrezi-blue-bay-village-s-all-inclusive-za-16-740-kc?utm_source=rss&utm_medium=feed",
-      "source": "Levnocestovani.cz",
-      "date": "2026-11-21T10:23:58+00:00",
-      "dateLabel": "21. 11. 2026",
-      "price": 16740,
-      "image": "",
-      "id": "https://levnocestovani.cz/akcni-zajezdy/tyden-na-kenskem-pobrezi-blue-bay-village-s-all-inclusive-za-16-740-kc?utm_source=rss&utm_medium=feed",
-      "firstSeen": "2026-11-21T11:00:27.585556+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "PEAK SEASON 🌴 Cheap full-service flights from Brussels to Phuket & Bangkok, Thailand from €489",
-      "summary": "Escape to the tropical wonders of Thailand with these discounted Hainan Airlines flights from Belgium from €489 for a round trip!",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-brussels-to-thailand-e489/",
-      "source": "Fly4free.com",
-      "date": "2026-11-21T10:00:19+00:00",
-      "dateLabel": "21. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-brussels-to-thailand-e489/",
-      "firstSeen": "2026-11-21T11:00:27.585556+00:00",
-      "priceOrig": {
-        "amount": 489,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "KATÁNIE za tisícovku - 1 078 Kč",
-      "summary": "Levné letenky na Sicílii pořídíme u Ryanair. Zpáteční letenky z Prahy do Katánie pořídíme už za 1 078 Kč. Nejvýhodnější letenky jsou dostupné na termíny v lednu 2027 a to třeba jen na noc nebo týdenná pobyt. V ceně základního tarifu od aeor",
-      "url": "https://honzovyletenky.cz/katanie-za-tisicovku-4/",
-      "source": "Honzovy letenky",
-      "date": "2026-11-21T09:43:28+00:00",
-      "dateLabel": "21. 11. 2026",
-      "price": 1078,
-      "image": "",
-      "id": "https://honzovyletenky.cz/katanie-za-tisicovku-4/",
-      "firstSeen": "2026-11-21T09:00:39.319551+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "HIGH SEASON ☀️ Non-stop British Airways A380 flights from London to Singapore for £575",
-      "summary": "British Airways are offering discounted fares for non-stop flights from London, UK to Singapore! Tickets are available from for £575 for a round trip.",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-singapore-p575/",
-      "source": "Fly4free.com",
-      "date": "2026-11-21T09:00:55+00:00",
-      "dateLabel": "21. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-singapore-p575/",
-      "firstSeen": "2026-11-21T11:00:27.585556+00:00",
-      "priceOrig": {
-        "amount": 575,
-        "cur": "GBP"
-      }
-    },
-    {
-      "title": "Akční letenky: Turin, Itálie za 990 Kč",
-      "summary": "Turínská čokoláda – ta věc, o které turisté mluví, ale málokdo ji bere jako skutečný důvod cesty – je tu doslova všude. Turín je historicky jedno z největších center výroby čokolády v Evropě a místní specialita gianduiotto, malá pralinková",
-      "url": "https://www.levneletenkyzprahy.cz/2765_akcni-letenky:-turin,-italie-za-990-kc",
-      "source": "Levné letenky z Prahy",
-      "date": "2026-11-21T08:55:16+00:00",
-      "dateLabel": "21. 11. 2026",
-      "price": 990,
-      "image": "",
-      "id": "https://www.levneletenkyzprahy.cz/2765_akcni-letenky:-turin,-italie-za-990-kc",
-      "firstSeen": "2026-11-21T09:00:39.319551+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Z Prahy na ostrov věčného jara: Madeira na týden za 7 340 Kč",
-      "summary": "Objevte Madeiru z Prahy za 7 340 Kč na osobu se slevovým kódem. Užijte si týden ve 4* hotelu Jardins d’Ajuda ve Funchalu se snídaní a bazény.",
-      "url": "https://levnocestovani.cz/akcni-zajezdy/z-prahy-na-ostrov-vecneho-jara-madeira-na-tyden-za-7-340-kc?utm_source=rss&utm_medium=feed",
-      "source": "Levnocestovani.cz",
-      "date": "2026-11-21T08:11:08+00:00",
-      "dateLabel": "21. 11. 2026",
-      "price": 7340,
-      "image": "",
-      "id": "https://levnocestovani.cz/akcni-zajezdy/z-prahy-na-ostrov-vecneho-jara-madeira-na-tyden-za-7-340-kc?utm_source=rss&utm_medium=feed",
-      "firstSeen": "2026-11-21T09:00:39.319551+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Vietnam last minute 😎 ✌️ Cheap full-service flights from Amsterdam to Hanoi or Ho Chi Minh from €488",
-      "summary": "Ready for your Vietnam adventure? China Eastern Airlines are offering discounted full-service flights to Ho Chi Minh and Hanoi starting at just €488 for a round trip!",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-vietnam-e488/",
-      "source": "Fly4free.com",
-      "date": "2026-11-21T08:00:39+00:00",
-      "dateLabel": "21. 11. 2026",
-      "price": null,
-      "image": "",
-      "id": "https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-vietnam-e488/",
-      "firstSeen": "2026-11-21T09:00:39.319551+00:00",
-      "priceOrig": {
-        "amount": 488,
-        "cur": "EUR"
-      }
-    },
-    {
-      "title": "Z Prahy do Chile v super termínech (návrat do Mnichova) za 12 814 Kč",
-      "summary": "Rezervuj: přes náš vyhledávač Zavazadla: odbavený bágl do 23 kg + příručák Dostupnost: leden – březen 2027 Termíny za 12 814 Kč → Zobrazit kalendář Uvedená cena platí při použití kódu „ZALETSI“ v posledním kroku rezervace. O akci Ještě nemá",
-      "url": "https://zaletsi.cz/akce/z-prahy-do-chile-v-super-terminech-navrat-do-mnichova/",
-      "source": "Zaleťsi.cz",
-      "date": "2026-11-21T07:59:41+00:00",
-      "dateLabel": "21. 11. 2026",
-      "price": 12814,
-      "image": "",
-      "id": "https://zaletsi.cz/akce/z-prahy-do-chile-v-super-terminech-navrat-do-mnichova/",
-      "firstSeen": "2026-11-24T11:08:09.011610+00:00",
-      "priceOrig": null
-    },
-    {
-      "title": "Pegasus Airlines: Bratislava - Dauhá - 3 790 Kč",
-      "summary": "",
-      "url": "https://www.akcniletenky.com",
-      "source": "AkčníLetenky.com",
-      "date": "2026-11-21T06:00:00+00:00",
-      "dateLabel": "21. 11. 2026",
-      "price": 3790,
-      "image": "",
-      "id": "752",
-      "firstSeen": "2026-11-21T07:28:16.645524+00:00",
-      "priceOrig": null
     }
   ]
 }
