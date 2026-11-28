@@ -20,13 +20,12 @@
     },
     {
       "name": "AkčníLetenky.com",
-      "ok": false,
-      "items": 0,
+      "ok": true,
+      "items": 60,
       "attempts": [
-        "FlightTipsFeedReader: HTTPError: HTTP Error 400: Bad Request",
-        "browser: HTTPError: HTTP Error 400: Bad Request"
+        "FlightTipsFeedReader: HTTP 200, 164440 B"
       ],
-      "error": "HTTPError: HTTP Error 400: Bad Request"
+      "error": ""
     },
     {
       "name": "Honzovy letenky",
@@ -43,7 +42,7 @@
       "ok": true,
       "items": 20,
       "attempts": [
-        "FlightTipsFeedReader: HTTP 200, 44020 B"
+        "FlightTipsFeedReader: HTTP 200, 43190 B"
       ],
       "error": ""
     },
@@ -52,7 +51,7 @@
       "ok": true,
       "items": 50,
       "attempts": [
-        "FlightTipsFeedReader: HTTP 200, 66110 B"
+        "FlightTipsFeedReader: HTTP 200, 66014 B"
       ],
       "error": ""
     },
@@ -70,7 +69,7 @@
       "ok": true,
       "items": 50,
       "attempts": [
-        "FlightTipsFeedReader: HTTP 200, 51864 B"
+        "FlightTipsFeedReader: HTTP 200, 51845 B"
       ],
       "error": ""
     }
